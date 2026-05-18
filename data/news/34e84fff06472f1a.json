@@ -1,0 +1,29 @@
+{
+  "uid": "34e84fff06472f1a",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "model",
+  "title": "Xiaomi releases MiMo v2.5 base native-omni model",
+  "summary": "Alongside MiMo v2.5 Pro, Xiaomi has released MiMo v2.5, the base model in the family, as a native omni model with multimodal understanding and integrated agent capabilities. Both models ship under the MIT license.",
+  "source_video_uid": "73930f3886708e27",
+  "source_video_id": "popj1l3LA-I",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:22",
+  "links": [
+    "https://mimo.xiaomi.com/"
+  ],
+  "tags": [
+    "xiaomi",
+    "mimo",
+    "mimo-v2.5",
+    "open-source",
+    "multimodal",
+    "model"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://mimo.xiaomi.com/",
+    "notes": "Native omni model; multimodal understanding plus agent capabilities. MIT license."
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

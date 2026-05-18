@@ -1,0 +1,235 @@
+[00:00] Remember when cloud code became fully
+[00:02] accessible with open models through
+[00:04] Olama? Well, now that exact same thing
+[00:06] is possible with Open AI's Codeex. As of
+[00:10] today, Olama is officially supported
+[00:12] inside Codex's app, meaning that you can
+[00:15] now run open-source models locally
+[00:17] inside Codex and use its AI coding agent
+[00:20] capabilities completely for free. This
+[00:23] is a huge moment for local AI workflows.
+[00:26] For those who do not know, Codeex is
+[00:28] Open AI's AI coding agent that helps you
+[00:32] build, edit, review, and ship software
+[00:35] with AI. Personally, I think it's
+[00:37] currently the best AI coding agent that
+[00:40] is available in the market. Now, for
+[00:42] those who do not know what Olama is, it
+[00:45] is something that lets you run
+[00:46] open-source models locally on your own
+[00:49] machine. Now, by combining the two, you
+[00:51] can now run open- source models like
+[00:53] Deepseek version 4, Gemma 4, or Quen 3.6
+[00:57] directly inside Codeex without paying a
+[01:00] dime. If you want the best AI tools,
+[01:02] workflows, and drops before everyone
+[01:05] else, join my free newsletter with the
+[01:07] link in the description below, which is
+[01:08] completely free. With this integration,
+[01:11] you can visually edit almost any canvas
+[01:14] cuz can now load local servers and sites
+[01:17] using its built-in browser. And this
+[01:19] will allow you to annotate directly on
+[01:22] the page and make those changes through
+[01:23] the chat using these open source models.
+[01:26] You can do things like review code
+[01:28] inside codeex, leave comments and
+[01:31] iterate without leaving the workspace
+[01:33] using these open source models that are
+[01:35] locally hosted. Now some of the models
+[01:37] that they have recommended to use inside
+[01:39] codeex is the Kim K 2.6 with vision
+[01:41] supported JLM 5.1 and Neotron 3 Super.
+[01:46] But those are going to be paid and
+[01:48] you're going to have to actually have an
+[01:50] Olama cloud subscription. That is
+[01:53] something that if you want to use other
+[01:55] open- source models through an API
+[01:58] directly within Codeex, those are going
+[02:00] to get you some good results. But if you
+[02:02] want to have a locally hosted model
+[02:04] using Olama like Gemma 4 or Quinn 3.6,
+[02:08] you can easily do so by hosting the
+[02:10] model with your own compute and then
+[02:12] connecting it to codeex. Now to get
+[02:14] started, it is super simple. Just make
+[02:17] sure you have the prerequisites
+[02:18] installed. Obviously, make sure you have
+[02:19] Codex installed, but it's actually only
+[02:22] available for Mac OS and Windows users.
+[02:24] It soon will be available for Linux
+[02:26] users in the near future. And this is an
+[02:29] app that you can install completely for
+[02:30] free. Then you want to make sure you
+[02:32] install Olama. It is super easy to
+[02:34] install. You can run the command
+[02:36] directly within your terminal or you can
+[02:39] install the installer to install Olama.
+[02:42] Now, once you have Olama installed, you
+[02:44] want to know what model will work
+[02:46] locally with your own compute. This is
+[02:48] only if you're going to be installing a
+[02:50] model locally. Obviously, you have the
+[02:52] ability to use their API so that you can
+[02:54] use their cloud service, which is going
+[02:56] to be paid. But if you want to locally
+[02:58] host the model, one that I would
+[03:00] recommend is either Quen 3.6 or Gemma 4.
+[03:04] These are two separate models that
+[03:07] provide different variants, different
+[03:09] model sizes that you can locally host.
+[03:11] And to see if you can run those models,
+[03:13] I will leave this website in the
+[03:14] description below. It is the website
+[03:16] that is called can I run AI locally. And
+[03:19] essentially you can provide whatever
+[03:21] compute you have your GPU. You can
+[03:23] specify what GPU you have. Then once you
+[03:26] have specified it, specify your VRAM as
+[03:28] well as a lot of these other components
+[03:31] like your RAM as well as how many cores
+[03:33] you have. And once you have specified
+[03:34] it, it will tell you which model you can
+[03:36] run locally with ease. like it is going
+[03:40] to run the 3.1 8 billion parameter
+[03:43] model, the llama model quite easily, but
+[03:46] you can search up whatever model you
+[03:48] want to install. So in this case, I want
+[03:49] to install the Gemma 4. And you can see
+[03:52] that it runs quite well on my computer
+[03:54] after providing the specifications. So I
+[03:56] can install any of these versions if I
+[03:58] want. And what you can do is it's super
+[04:01] simple to install any of these models.
+[04:03] All you got to do is open up Olama
+[04:06] first. Make sure Olama is running in the
+[04:08] background. Then what you want to do is
+[04:10] open up your command prompt. And once
+[04:12] you have this opened up, you want to
+[04:14] head over to the model card of whatever
+[04:16] model that you're trying to install. In
+[04:17] this case, I want to install Gemma 4. So
+[04:20] what I can do is copy this CLI command,
+[04:23] but make sure you do not run it yet.
+[04:25] Now, what we got to do is just simply
+[04:27] paste this in. Now for the model that we
+[04:29] want to install, we got to basically
+[04:31] write in which version or variant that
+[04:34] we want to install after the Gemma 4
+[04:36] model slug. So we can state with a colon
+[04:40] and then specify the variant. So if I
+[04:42] want to install the E2B model, which is
+[04:44] probably the most lightweight model that
+[04:46] you can install, you can just simply
+[04:48] type in E2B and then you can click enter
+[04:51] and then this will install this model
+[04:53] directly onto your computer. I am
+[04:55] personally going to be going forward
+[04:57] with the E4B. And then we can click
+[04:59] enter. And this will start downloading
+[05:01] this model locally onto our computer. It
+[05:04] is approximately 9.6 GB. And once it
+[05:07] finishes installing, we can then
+[05:08] directly use it with codecs. Also, just
+[05:11] make sure you have the latest update of
+[05:14] Olama that is 0.24 and above. Otherwise,
+[05:17] this won't work. So, it looks like it
+[05:19] has finished installing the Gemma 4 E4B
+[05:22] model. And I got that error cuz I
+[05:24] updated Olama cuz I just realized I
+[05:27] didn't have the latest update. But I
+[05:29] open up the chatbot and you can see that
+[05:31] the E4 B model has been installed for
+[05:34] Gemma 4 and I can actually interact with
+[05:36] it directly on my computer and you will
+[05:39] be able to see that it actually works.
+[05:41] So we now have this running locally and
+[05:43] we can now connect it to Codeex. This is
+[05:46] where you're going to need to copy this
+[05:48] Olama launch codeex app command. Now
+[05:51] what you got to do is copy that then
+[05:53] open up your command prompt. You got to
+[05:55] open up a new one. And what you got to
+[05:57] do is just simply paste in this command
+[05:59] and click enter. This will now have it
+[06:01] so that Olama will launch with any of
+[06:04] these models that you have. It will
+[06:06] state all the recommended ones. These
+[06:08] are the ones that are going to require
+[06:11] you to use their cloud subscription. But
+[06:13] you can see that it was able to notice
+[06:15] the one that we had installed which is
+[06:17] the Gemma 4 E4B. So we can click and
+[06:20] select on this one and click enter. And
+[06:23] this will now open up codec with our old
+[06:27] llama model. So if we are to actually
+[06:29] drag over this codeex app, just give me
+[06:32] a couple seconds. Right there, we now
+[06:35] have our codeex app loaded in with the
+[06:38] Gemma 4 model. I'm sorry about this.
+[06:40] It's a little not sized properly, but
+[06:43] you will see that it is now powered by
+[06:45] Olama. And Olama now powers this codeex
+[06:48] app completely for free and locally. Now
+[06:52] you can essentially use all the
+[06:53] capabilities of codeex locally with this
+[06:56] with your open-source model that you
+[06:59] have locally installed and enabled
+[07:00] through Olama. This is where I'm giving
+[07:03] it a front-end task to help me create a
+[07:06] beautiful landing page. So let's see
+[07:07] what it is actually capable of doing.
+[07:11] So it looks like it has finished
+[07:12] generating the landing page. So what we
+[07:15] can do is copy the code for this and
+[07:17] then I'll show you what it actually
+[07:18] generated. So I've actually copied the
+[07:20] code and now what I can do is head over
+[07:22] to this online SVG or sorry HTML viewer.
+[07:25] I can paste in the code and there we go.
+[07:27] This is our SAS landing page that we had
+[07:30] developed with the JAMA 4 model. This is
+[07:33] a 4 billion parameter model locally
+[07:35] outputting code like this. This is where
+[07:38] you can basically leverage this
+[07:40] beautiful harness to accomplish any
+[07:42] task. You can use scales. You can use
+[07:45] all of the capabilities of codeex now
+[07:47] with Olama with locally hosted models as
+[07:50] well as their API models to do almost
+[07:53] anything. Now, say if you want to
+[07:55] restore to the existing Codeex
+[07:56] experience, go back to your previous
+[07:59] Codeex plan. You can open up your
+[08:01] command prompt and paste in the O Lama
+[08:03] launch codeex app-tore
+[08:05] command. This will restore everything
+[08:07] back to what it was previously. So, you
+[08:09] can restart everything back to your
+[08:11] codeex plan. If you like this video and
+[08:14] would love to support the channel, you
+[08:16] can consider donating to my channel
+[08:18] through the super thanks option below.
+[08:20] Or you can consider joining our private
+[08:22] Discord where you can access multiple
+[08:24] subscriptions to different AI tools for
+[08:26] free on a monthly basis, plus daily AI
+[08:29] news and exclusive content, plus a lot
+[08:32] more. But that's exactly how you can use
+[08:34] Olama directly inside Codeex with this
+[08:37] new integration. And I definitely
+[08:39] believe this is a great step forward for
+[08:41] free and local open-source development.
+[08:44] Now, I'll leave all these links that I
+[08:45] use in today's video in the description
+[08:47] below. Make sure you go ahead and take a
+[08:49] look at our second channel. Join the
+[08:50] newsletter, join the Discord, follow me
+[08:52] on Twitter, and lastly, make sure you
+[08:54] guys subscribe, turn on notification
+[08:56] bell, like this video, and please take a
+[08:57] look at our previous videos so that you
+[08:59] can stay upto date with the latest AI
+[09:01] news. But with that thought, guys, have
+[09:02] an amazing day. Spread positivity and
+[09:04] I'll see you guys fairly shortly.

@@ -1,0 +1,283 @@
+[00:00] I've showcased Hermes agent multiple
+[00:02] times on this channel. One of the most
+[00:04] interesting open-source AI projects
+[00:07] right now. Now, it's designed as a
+[00:09] persistent autonomous system that
+[00:11] continuously evolves over time, which is
+[00:13] why many people are going crazy over it.
+[00:16] It's built by News Research under the
+[00:18] MIT license. And it's an agent that can
+[00:21] run 24/7 on your own infrastructure
+[00:23] while building long-term memory,
+[00:25] reusable skills, and even a deeper
+[00:28] understanding of its user itself.
+[00:30] Yesterday, I showcased a way for you to
+[00:33] easily use Hermes Agent inside a desktop
+[00:35] app with a preconfigured app development
+[00:38] environment, making the entire setup
+[00:40] process dramatically easier. But did you
+[00:42] know that you can take it even further?
+[00:45] You can essentially turn Hermes agent
+[00:47] into an agentic OS, an infrastructure
+[00:50] layer that manages multiple autonomous
+[00:52] AI agents capable of handling complex
+[00:55] multi-step tasks without constant human
+[00:58] oversight. And honestly, it's pretty
+[01:00] insane what you can do with it. From
+[01:02] Excel data processing and AI powered
+[01:05] analysis where you can deeply analyze
+[01:07] spreadsheets, automatically generate
+[01:10] beautiful reports, generate summaries,
+[01:12] and even extract insights. All powered
+[01:15] by autonomous AI agents to smart file
+[01:18] management and automated file operations
+[01:20] with batch renaming, automatic
+[01:22] organization, intelligent
+[01:24] classification, file merging, and
+[01:26] workflow automation, all handled
+[01:29] autonomously by a co-work agent. You
+[01:32] even have browser use, application
+[01:34] creation, coding workflows, automation
+[01:36] pipelines, and much more. All powered by
+[01:39] Hermes, self-improving systems that
+[01:42] continuously evolve your agentic OS the
+[01:45] more you use it. This is all possible by
+[01:48] combining Hermes with ION UI. For those
+[01:51] who do not know what ION is, it is a
+[01:54] free open-source co-work platform that
+[01:56] allows AI agents like Hermes to work
+[01:59] alongside you directly on your computer.
+[02:02] Essentially creating a fully autonomous
+[02:04] agentic AI operating system. ION is much
+[02:08] more than a normal AI chat client
+[02:10] because it allows you to essentially
+[02:13] have your AI agent read and manage
+[02:15] files, write and execute code, browse
+[02:18] the web, automate workflows, and operate
+[02:20] directly alongside you as a user. And
+[02:23] the best part is is that you can
+[02:24] visually see everything the AI agent is
+[02:27] doing in real time while still remaining
+[02:30] fully in control by deploying all of
+[02:32] these multiple AI agents within your OS.
+[02:35] If you want the best AI tools,
+[02:37] workflows, and drops before everyone
+[02:39] else, join my free newsletter with the
+[02:41] link in the description below, which is
+[02:43] completely free. Before we get started,
+[02:45] what you'll need to do is make sure you
+[02:47] obviously have Hermes agent installed.
+[02:49] And if you do not have it installed, you
+[02:51] can easily go through their GitHub repo,
+[02:53] which showcases how you can set this up.
+[02:55] Once you have fulfilled this, you have
+[02:57] to also fulfill a couple of the system
+[02:58] requirements for Ion UI. If you're on
+[03:01] Mac OS, you want to make sure you're on
+[03:03] 10.15 or above. For Linux, you have
+[03:06] these requirements. For memory, just
+[03:08] make sure you have 4 GB and above, as
+[03:10] well as having 500 megabytes of
+[03:13] available storage. Now, once you have
+[03:15] fulfilled all of these requirements,
+[03:17] click on this install button, which will
+[03:19] take you to the latest release page. And
+[03:22] what you can do is you can scroll down
+[03:24] to the assets tab. And from here, you
+[03:27] can install it for whatever operating
+[03:28] system you have. Just make sure you read
+[03:30] through properly before installing it
+[03:33] because you don't want to install the
+[03:34] DMG file for a Windows operating system.
+[03:36] So just simply install it based off your
+[03:39] system requirements. So I've installed
+[03:41] the installer. I can double click it and
+[03:43] you can proceed forward at your own
+[03:45] discretion. I personally use this before
+[03:47] so I'm going to be going forward with
+[03:48] it.
+[03:52] And there you go. Just like that, we
+[03:54] have ION UI installed on our computer.
+[03:57] Now what you want to do is you will see
+[03:59] all of these different AI agents because
+[04:02] ion is going to be able to detect all of
+[04:04] them locally. Now this is why I had
+[04:06] mentioned make sure you have Hermes
+[04:08] agent installed cuz when you select it
+[04:10] this is going to be the primary agent
+[04:12] that will be powering this AIOS. You can
+[04:15] also discover more agents that you may
+[04:17] have locally. Now, if you want to
+[04:19] connect a server that is hosted on
+[04:21] another platform or server, you can add
+[04:24] in and connect your first agent through
+[04:26] a URL. As well as adding in the
+[04:28] authentication, you have the ability to
+[04:30] add in different models as well with
+[04:32] different providers. And you can set
+[04:34] this directly within the model page. You
+[04:36] can also tweak and add in different
+[04:39] assistants. This is where you can build
+[04:41] task specific assistants by combining AI
+[04:43] agents with custom rules and skills. You
+[04:46] can have the ones that are already on
+[04:48] your system enabled to work with ion
+[04:51] itself. You can implement custom agents
+[04:53] or assistants, sorry. And then in this
+[04:55] case, there's already a couple of
+[04:57] different assistants that have been
+[04:58] enabled. They have already specialized
+[05:01] many other assistants like a 3D morph
+[05:03] ppt to turn GB 3D models into cinematic
+[05:07] morph presentations. These are different
+[05:09] specialized skills that would assist you
+[05:12] with generations. you have capabilities
+[05:14] where you have the ability to implement
+[05:16] skills and MCPS as well. So this is
+[05:20] another functionality to add in to ion
+[05:22] UI your UI to inject these different
+[05:26] additional benefits to make your overall
+[05:29] operating system for Hermes to work with
+[05:31] to generate and do anything. Now the
+[05:33] application is where you have the
+[05:35] ability to use different presets like
+[05:37] the theme, the scale as well as the CSS
+[05:40] settings to select the preset or custom
+[05:43] theme. You can change it to whatever you
+[05:44] would like. I personally prefer the
+[05:46] default one. Now remote is where you can
+[05:49] connect it to web UI and different
+[05:51] channels as well. So in this case, if
+[05:53] you want to have ion operated from your
+[05:55] phone, you can essentially use WhatsApp
+[05:58] on your phone or Telegram and then
+[05:59] interact with it directly from your
+[06:01] phone and have it control ion UI, your
+[06:04] Gentic OS. You even have a desktop pet
+[06:07] like the one that we previously saw with
+[06:09] Codeex. And then system is basically
+[06:11] where you can configure certain things
+[06:13] like your cache, your work directory,
+[06:15] your logs, and a couple of other things.
+[06:17] So let's just test it out. This is where
+[06:19] we can tell it to do almost anything
+[06:21] powered by the Hermes agent. So in this
+[06:23] case, we can create an Excel file. So we
+[06:26] can say, can you build out something
+[06:28] like a three sheet financial dashboard
+[06:30] with income statements, revenue
+[06:32] breakdown with charts as well as
+[06:34] conditional formatting and different
+[06:36] variances. Now you can send in this
+[06:38] request, but I would recommend you chat
+[06:40] in a folder in a specified directory.
+[06:42] You can select your default model, but
+[06:44] in this case, we are having it powered
+[06:46] by Hermes. So, it should be functioning
+[06:48] through Hermes. And then you can set the
+[06:50] permissions to whatever you would like.
+[06:52] YOLO is where it's going to do
+[06:53] autonomously or autoedit where you
+[06:55] reviewed through every additional
+[06:57] change. And on the top right, just make
+[06:59] sure you select Hermes agent cuz I
+[07:01] almost went ahead and used Gemini for
+[07:04] this task. So, let's now go ahead and
+[07:06] send in this request and have it execute
+[07:07] upon it. And the main functionality of
+[07:10] an AIOS is so that you can deploy
+[07:13] multiple autonomous agents to do
+[07:15] anything. So right now we have one agent
+[07:17] working on the spreadsheet task making
+[07:20] it work upon doing financial analysis
+[07:22] where we can have another agent that we
+[07:25] can create that is powered by Hermes to
+[07:27] execute something else where it can work
+[07:29] upon I don't know maybe doing analysis
+[07:32] on a report like creating a white paper
+[07:34] for a rural rural EV charging
+[07:37] infrastructure. This is like some simple
+[07:40] task that you can have powered by the
+[07:41] Hermes agent and you can have multiple
+[07:44] agents being deployed simultaneously to
+[07:47] do different things off of your
+[07:48] computer. So looks like it has built out
+[07:51] our financial dashboard where it has
+[07:54] provided us data on the specific
+[07:56] requirements that we had asked for
+[07:58] income statement and a revenue breakdown
+[08:00] which has bar charts, pie charts,
+[08:02] whatever you name it. And it even
+[08:04] created a dashboard as well that we can
+[08:07] visualize. And that is the capability of
+[08:09] what you can do with ion. This is the
+[08:12] beauty of this cuz it's an AI OS powered
+[08:15] by Hermes that can execute any task
+[08:18] whether that is content creation, AI
+[08:20] research. It can even be a smart desktop
+[08:23] automation tool where it can even run
+[08:25] schedule tasks for you. Another task
+[08:28] that it could do is have it operate your
+[08:30] desktop, your home environment. And this
+[08:32] is where on my desktop I currently have
+[08:35] many different files. It is a bit too
+[08:38] much and it could be more organized by
+[08:40] having it placed into a new folder. And
+[08:42] this is why I said to the Hermes agent
+[08:45] that on my desktop I have a bunch of
+[08:47] thumbnails of my YouTube channel and I
+[08:49] want you to organize them all in a
+[08:51] numerical format and have it create a
+[08:54] new folder to have it organized into. So
+[08:57] let's see what it actually executes. You
+[08:59] can see right now that it is able to use
+[09:01] its browser use feature where it's able
+[09:03] to actually view our desktop.
+[09:07] And just like that, you can see that it
+[09:09] was able to organize my desktop and add
+[09:12] in all these thumbnails and format it
+[09:14] numerically. Remember that task I gave
+[09:17] it on rural EV charging infrastructure
+[09:19] and creating a full-on report? Well, it
+[09:22] actually did that in a couple of minutes
+[09:23] and you can see how well structured and
+[09:25] how detailed it is.
+[09:28] Next up, I had requested it to work on a
+[09:30] game and this is where it used one of
+[09:32] its skills that I had preconfigured with
+[09:35] an ION and it was able to execute this
+[09:37] task by writing the code for it. And you
+[09:39] can see that it is a fun little game
+[09:41] where I have the ability to collect all
+[09:43] of these different coins. It is pretty
+[09:46] cool and it's uh pretty basic, but it's
+[09:49] still it's nice that a model is able to
+[09:52] create this, which is kind of insane.
+[09:54] But if you think about it, we now have
+[09:55] an Aentic OS that is running
+[09:58] autonomously powered by Hermes agent
+[10:00] that is able to work with us to do
+[10:03] anything like managing apps, creating
+[10:05] automation pipelines. We have it working
+[10:08] on coding, browser tasks, research, and
+[10:11] any workflow that is operational on our
+[10:13] computer with minimal human input. And
+[10:16] that is all possible by combining these
+[10:18] two different outlets. This is why I
+[10:20] highly recommend it. And I'll leave all
+[10:22] the links that I use in today's video in
+[10:24] the description below. But with that
+[10:26] thought, guys, thank you guys so much
+[10:27] for watching. I hope you enjoyed today's
+[10:28] video. Please make sure you take a look
+[10:30] at our second channel, join the
+[10:31] newsletter, join the Discord, follow me
+[10:33] on Twitter, and lastly, make sure you
+[10:34] guys subscribe, turn on notification
+[10:36] bell, like this video, and please take a
+[10:38] look at our previous videos so that you
+[10:39] can stay upto date with the latest AI
+[10:41] news. But with that thought, guys, have
+[10:43] an amazing day, spread positivity, and
+[10:45] I'll see you guys fairly shortly. He
+[10:46] suffers.

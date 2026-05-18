@@ -1,0 +1,27 @@
+{
+  "uid": "6799923d96009148",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "release",
+  "title": "Google AI Studio integrates Nano Banana for in-app image asset generation",
+  "summary": "Google AI Studio integrates the Nano Banana image model so that custom assets can be generated and inserted into apps as they are built. A redesigned edit tool provides component-level visual control, annotation and asset swapping.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "10:04",
+  "links": [
+    "https://aistudio.google.com/"
+  ],
+  "tags": [
+    "google-ai-studio",
+    "nano-banana",
+    "image-generation",
+    "google"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "homepage": "https://aistudio.google.com/",
+    "notes": "Described only briefly in the video; no dedicated launch page found in the consulted sources."
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

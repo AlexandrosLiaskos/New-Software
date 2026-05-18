@@ -1,0 +1,26 @@
+{
+  "uid": "6e98d2c9851bd770",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "OpenAI Codex 'pets' overlay and migration importer",
+  "summary": "OpenAI added a /pet and /hatch command set to Codex that spawns an animated desktop companion showing live agent status (active thread, running, waiting, ready for review). A separate migration system imports settings, plugins, agents and project configurations from other tools into Codex.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:35",
+  "links": [
+    "https://openai.com/codex"
+  ],
+  "tags": [
+    "openai",
+    "codex",
+    "cli",
+    "ide-tooling"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Feature described in transcript; verify in official OpenAI Codex changelog."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

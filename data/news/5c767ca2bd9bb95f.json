@@ -1,0 +1,26 @@
+{
+  "uid": "5c767ca2bd9bb95f",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Claude Jupiter codename surfaces ahead of Anthropic dev event",
+  "summary": "Strings referencing an internal Anthropic model codenamed 'Claude Jupiter version 1' were discovered, reportedly undergoing red-teaming, jailbreak testing and constitutional-classifier evaluation under Anthropic's responsible scaling policy. Speculation links it to a Sonnet 4.8 or Haiku 4.7 release at the Code with Claude conference on May 6.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:05",
+  "links": [
+    "https://www.anthropic.com/"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "leak",
+    "model"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Codename leak reported by testing-catalog; not officially confirmed by Anthropic."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

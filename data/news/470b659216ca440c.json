@@ -1,0 +1,41 @@
+{
+  "uid": "470b659216ca440c",
+  "created_at": "2026-05-18T10:21:01+00:00",
+  "category": "release",
+  "title": "Hermes Agent desktop app released by Nous Research",
+  "summary": "Nous Research released an open-source native desktop app for Hermes Agent, providing a GUI to manage profiles, skills, memory, providers, cron jobs and gateways for the persistent self-evolving agent. Cross-platform installers are available for Windows, macOS and Linux.",
+  "source_video_uid": "80714007531e29ce",
+  "source_video_id": "YBp_PXBbe80",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "02:23",
+  "links": [
+    "https://github.com/NousResearch/hermes-agent",
+    "https://hermes-agent.nousresearch.com"
+  ],
+  "tags": [
+    "hermes-agent",
+    "nous-research",
+    "autonomous-agent",
+    "desktop-app",
+    "open-source"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://hermes-agent.nousresearch.com",
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "stars": 155627,
+    "forks": 24984,
+    "language": "Python",
+    "license": "MIT",
+    "description": "The agent that grows with you - a persistent autonomous system with long-term memory, reusable skills and a closed self-improvement loop.",
+    "web_findings": [
+      {
+        "title": "NousResearch/hermes-agent on GitHub",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "snippet": "MIT-licensed Python project; desktop app installer distributed via release page."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:01+00:00",
+  "__class__": "SoftwareNews"
+}

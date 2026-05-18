@@ -1,0 +1,40 @@
+{
+  "uid": "2b615a71bd830e00",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "model",
+  "title": "SubQ: first sub-quadratic frontier LLM with 12M-token context",
+  "summary": "Subquadratic, a Miami-based startup, launches SubQ, a frontier model built on a fully sub-quadratic sparse attention architecture supporting a 12 million-token context window. The company claims up to 52x speedup over FlashAttention at 1M tokens and roughly a fifth of the cost of Claude Opus or GPT-5.5 for comparable workloads.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:32",
+  "links": [
+    "https://subquadratic.ai/"
+  ],
+  "tags": [
+    "subq",
+    "subquadratic",
+    "long-context",
+    "sparse-attention",
+    "model-release"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://subquadratic.ai/",
+    "notes": "Launched 5 May 2026 with a $29M seed round. Claims benchmark scores of 95.0 on RULER-128K, 65.9 on MRCR v2 at 1M tokens, 81.8 on SWE-Bench Verified. Independent verification has been requested by researchers.",
+    "web_findings": [
+      {
+        "title": "The context window has been shattered: Subquadratic debuts a 12-million-token window",
+        "url": "https://thenewstack.io/subquadratic-12-million-context-window/",
+        "snippet": "SubQ ships with a 12 million token context window, runs roughly 52x faster than FlashAttention at 1M tokens."
+      },
+      {
+        "title": "Subquadratic launches with $29M to bring 12M-token context windows to AI",
+        "url": "https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/",
+        "snippet": "Founded by Justin Dangel and Alex Whedon (former Head of Generative AI at Meta)."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

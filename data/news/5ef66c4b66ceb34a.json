@@ -1,0 +1,37 @@
+{
+  "uid": "5ef66c4b66ceb34a",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "release",
+  "title": "TinyFish makes Web Search and Fetch APIs free for all developers",
+  "summary": "TinyFish has made its Web Search and Web Fetch APIs free for every developer and agent, with no credit card required. Search returns structured data with sub-500 ms latency; the Browser API spins up stealth Chrome sessions in under 250 ms; an Agent API handles multi-step tasks. Free-tier limits are 5 search queries per minute and 25 fetch URLs per minute.",
+  "source_video_uid": "0ee06f9eb5ba9b81",
+  "source_video_id": "Gx2joHxUhgg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:49",
+  "links": [
+    "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+    "https://docs.tinyfish.ai/",
+    "https://agent.tinyfish.ai/sign-up"
+  ],
+  "tags": [
+    "tinyfish",
+    "web-search-api",
+    "fetch-api",
+    "browser-api",
+    "agent-infrastructure"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.tinyfish.ai",
+    "notes": "REST API, MCP server, Python/TypeScript SDKs, CLI; integrations with OpenClaw, Hermes Agent, n8n, LangChain, CrewAI.",
+    "web_findings": [
+      {
+        "title": "Search and Fetch are now FREE for every agent",
+        "url": "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+        "snippet": "TinyFish Web Search and Fetch are now free for every developer and agent."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

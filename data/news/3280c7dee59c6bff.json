@@ -1,0 +1,45 @@
+{
+  "uid": "3280c7dee59c6bff",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Nvidia Nemotron 3 Nano Omni multimodal open model",
+  "summary": "Nvidia released Nemotron 3 Nano Omni, a 30-billion-parameter hybrid Mamba-Transformer multimodal model with mixture-of-experts that handles text, images, video, audio, documents and charts. Nvidia claims up to 9.2x higher efficiency on video workloads versus comparable open models and ships open weights, datasets and training recipes.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "13:00",
+  "links": [
+    "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+  ],
+  "tags": [
+    "nvidia",
+    "nemotron",
+    "multimodal",
+    "open-source",
+    "mamba"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+    "web_findings": [
+      {
+        "title": "NVIDIA Launches Nemotron 3 Nano Omni Model",
+        "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+        "snippet": "Unified vision, audio and language model for up to 9x more efficient AI agents."
+      },
+      {
+        "title": "Nemotron 3 Nano Omni technical details",
+        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
+        "snippet": "30B params, ~3B active, 23 Mamba layers, 23 MoE layers (128 experts), 6 GQA attention layers."
+      },
+      {
+        "title": "Available on SageMaker JumpStart and partner platforms",
+        "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/",
+        "snippet": "Distributed across Hugging Face, OpenRouter, SageMaker JumpStart, Vultr and 25+ partners."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

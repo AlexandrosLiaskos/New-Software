@@ -1,0 +1,34 @@
+{
+  "uid": "efabdfc46ab84e6c",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "model",
+  "title": "GPT-5.5 ('Spud') leak: Crest Pro Alpha checkpoint surfaces in ChatGPT",
+  "summary": "OpenAI A/B-tests a GPT-5.5 candidate (internal code name 'Spud') inside ChatGPT, with one checkpoint labelled 'Crest Pro Alpha' surfacing for some users. The host reports stronger reasoning, faster token output, improved SVG and three.js scene generation, and a Minecraft-clone with textures, inventory and animation in one shot.",
+  "source_video_uid": "5c12e84400a6ee3d",
+  "source_video_id": "UfUBW9QcTjU",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:01",
+  "links": [
+    "https://openai.com/index/introducing-gpt-5-5/"
+  ],
+  "tags": [
+    "openai",
+    "gpt-5.5",
+    "model-release",
+    "leak"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://openai.com/index/introducing-gpt-5-5/",
+    "notes": "GPT-5.5 was subsequently launched officially by OpenAI and surfaced in the Codex app as the recommended model. The 'Spud' / 'Crest Pro Alpha' codename is documented only via community reporting around the leak window.",
+    "web_findings": [
+      {
+        "title": "Introducing GPT-5.5 | OpenAI",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "snippet": "GPT-5.5 is OpenAI's newest frontier model for coding, computer use, knowledge work and research."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

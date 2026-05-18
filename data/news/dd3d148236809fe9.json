@@ -1,0 +1,43 @@
+{
+  "uid": "dd3d148236809fe9",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Baidu releases ERNIE 5.1 mixture-of-experts model",
+  "summary": "Baidu released ERNIE 5.1, a mixture-of-experts model trained at approximately 6 percent of the pre-training cost of comparable frontier models. It surpasses DeepSeek V4 Pro on benchmarks including τ³-bench and SpreadsheetBench-Verified and approaches Gemini 3.1 Pro on reasoning.",
+  "source_video_uid": "292f305a188c741a",
+  "source_video_id": "t5UtgnjQST8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:42",
+  "links": [
+    "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/"
+  ],
+  "tags": [
+    "baidu",
+    "ernie",
+    "model",
+    "moe"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+    "web_findings": [
+      {
+        "title": "ERNIE 5.1 Officially Released",
+        "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+        "snippet": "Released 9 May 2026; ranks 4th on Arena Search globally, 1st among Chinese models with score 1,223."
+      },
+      {
+        "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs",
+        "url": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+        "snippet": "Text-only MoE with roughly half the active parameters per forward pass of ERNIE 5.0."
+      },
+      {
+        "title": "Baidu Unveils ERNIE 5.0, New AI Chips",
+        "url": "https://www.eweek.com/news/baidu-ernie-5-0-release/",
+        "snippet": "Baidu chip and model expansion."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

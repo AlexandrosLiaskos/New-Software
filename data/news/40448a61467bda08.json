@@ -1,0 +1,36 @@
+{
+  "uid": "40448a61467bda08",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "release",
+  "title": "Hermes Agent adds background computer use on macOS",
+  "summary": "NousResearch's Hermes Agent has shipped an early-preview background computer-use feature powered by KUA, allowing the agent to operate apps via mouse, keyboard and screen on macOS without taking over the user's active session. The integration works with any vision-capable model (Claude, GPT, Gemini, local VLMs); Windows and Linux support is planned.",
+  "source_video_uid": "0ee06f9eb5ba9b81",
+  "source_video_id": "Gx2joHxUhgg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:04",
+  "links": [
+    "https://github.com/NousResearch/hermes-agent",
+    "https://hermes-agent.nousresearch.com"
+  ],
+  "tags": [
+    "hermes-agent",
+    "nous-research",
+    "computer-use",
+    "agent",
+    "macos",
+    "open-source"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "homepage": "https://hermes-agent.nousresearch.com",
+    "stars": 155627,
+    "forks": 24984,
+    "language": "Python",
+    "license": "MIT",
+    "description": "The agent that grows with you",
+    "notes": "Background computer-use is an early preview feature, macOS-only at launch, powered by KUA. Works with any vision-capable LLM."
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

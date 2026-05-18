@@ -1,0 +1,223 @@
+[00:00] Today was Enthropic's code with claude
+[00:02] developer conference that's focused
+[00:04] entirely on AI coding agents, agent
+[00:08] workflows, and the future of software
+[00:10] engineering with claude. The event was
+[00:12] featuring live demos, new cloud
+[00:14] capabilities, and a preview of many
+[00:17] major advancements coming soon. One of
+[00:19] the biggest themes throughout the
+[00:20] conference was long-term agent
+[00:22] intelligence. Enthropic showcased a new
+[00:25] dreaming feature where agents can review
+[00:27] past sessions and experiences to improve
+[00:30] future outcomes and decision making over
+[00:33] time. They also introduce multi- aent
+[00:36] orchestration, allowing a lead AI agent
+[00:39] to delegate tasks to specialized agents
+[00:42] that work in parallel on complex tasks.
+[00:44] Another major highlight from this
+[00:46] conference was that Enthropic is finally
+[00:49] responding to community feedback by
+[00:51] massively increasing Cloud Codes rate
+[00:53] limits across all of their paid plans.
+[00:57] Finally, we can start using Cloud Code
+[00:59] again. This was all made possible
+[01:01] through a new compute partnership with
+[01:03] Space X, and this could significantly
+[01:06] improve scalability for developers using
+[01:08] Claude for heavy coding workflow usage.
+[01:12] Lastly, Enthropic hinted at three
+[01:14] massive focus areas for its next
+[01:16] generation of models. An infinite
+[01:18] context window, advanced multi- aent
+[01:21] coordination, and more persistent long
+[01:23] horizon reasoning systems. The direction
+[01:25] they're heading makes it clear that they
+[01:28] are pushing Claude beyond simple chat
+[01:30] bots and towards a fully autonomous
+[01:33] software engineering system. Now,
+[01:35] there's a lot more to this, so let's
+[01:36] just simply dive into it all. If you
+[01:38] want the best AI tools, workflows, and
+[01:41] drops before everyone else, join my free
+[01:43] newsletter with the link in the
+[01:45] description below, which is completely
+[01:46] free. To start off, let's talk about one
+[01:48] of the most interesting parts of the
+[01:50] conference, which is where they were
+[01:52] talking about their next generation
+[01:54] models, whether that ends up being the
+[01:56] Cloud 5 lineup or potentially the
+[01:58] rumored Mythos system. Now, Enthropic
+[02:01] highlighted three major focuses, and
+[02:03] these three areas are the future of
+[02:05] their new AI model. Firstly, we have it
+[02:08] so that they are focusing on higher
+[02:11] judgment and code tastes for one of
+[02:13] their models. They are also focusing on
+[02:15] a model that has infinite context
+[02:17] windows, a multi- aent coordination and
+[02:20] a overall refined system. Now, the first
+[02:23] is improving Claude's overall
+[02:25] engineering judgment that is by not just
+[02:28] specifying through benchmark
+[02:29] performances. Enthropic wants future
+[02:32] models to actually better understand
+[02:34] architectures as well as
+[02:35] maintainability. The second is an
+[02:38] infinite context window. This allows
+[02:40] agents to retain and reason over massive
+[02:43] amounts of long-term memory across
+[02:45] repositories, projects, sessions, and
+[02:48] tools without constantly losing context.
+[02:51] And lastly, the focus is where Enthropic
+[02:53] is heavily pushing multi- aent
+[02:55] coordination where a lead agent can
+[02:57] delegate work to specialized agents
+[02:59] running in parallel across different
+[03:02] sorts of tasks whether that is front
+[03:04] end, backend debugging as well as
+[03:07] research. At this point, Enthropic's
+[03:09] vision is starting to look less like a
+[03:11] chatbot obviously and more like a fully
+[03:13] autonomous software engineering system.
+[03:15] And we could see this potentially
+[03:17] released with the Cloud 5 lineup. Now,
+[03:20] personally, the higher judgment and code
+[03:22] taste thing is something that feels like
+[03:23] a real leap, obviously, for whatever
+[03:25] future model that they drop. They're
+[03:27] finally chasing actual senior
+[03:29] engineering vibes instead of just
+[03:31] benchmark flexing. And plus, if you add
+[03:33] on the infinite context plus the agent
+[03:35] swarm that could turn Claude into a
+[03:38] legit one-person dev team that doesn't
+[03:40] forget anything. If they pull this off,
+[03:43] it is definitely going to be one of the
+[03:45] most revolutionary AI models yet. Now,
+[03:48] interestingly on Poly Market, people are
+[03:50] speculating that Claude 5 won't be
+[03:53] released anytime soon. We could see it
+[03:56] near September, but nothing points to a
+[03:58] release date in early May or June, which
+[04:02] is kind of unfortunate, but kind of
+[04:03] expected. Their Sonnet and Haiku models
+[04:06] still haven't gotten an upgrade in quite
+[04:08] some time, so it potentially could lead
+[04:11] to a new model upgrade for both Haiku
+[04:14] and Sonnet. Next is a really exciting
+[04:16] new update from Claude and I am really
+[04:19] happy about this because Enthropic
+[04:21] dramatically increased Claude's usage
+[04:23] limits thanks to the huge new compute
+[04:26] partnership with Space X. Starting
+[04:28] immediately, Enthropic is going to be
+[04:30] doubling Claude Codes 5hour rate limits
+[04:33] across all of their paid plans, Pro,
+[04:35] Max, Teams, and Enterprise plans while
+[04:38] also removing the peak hour limit
+[04:40] reduction for Pro and Max users. They
+[04:43] also significantly increased API limits
+[04:45] for cloud opus models which is huge for
+[04:48] developers building large-scale agent
+[04:50] workflows as well as coding systems.
+[04:53] Now, the reason why this is possible is
+[04:55] because Enthropic signed a deal
+[04:57] recently, and this is to use the full
+[04:59] compute capacity of SpaceX's Colossus 1
+[05:02] data center, giving them the access to
+[05:05] over 300 megawatts of compute power and
+[05:08] more than 220K Nvidia GPUs within the
+[05:12] next month alone. Enthropic says that
+[05:14] this new capacity will directly improve
+[05:16] availability and performance for cloud
+[05:18] users. But this goes even further cuz
+[05:21] Enthropic also revealed several enormous
+[05:24] infrastructure partnerships already in
+[05:26] progress. This is where they have
+[05:28] included a multi- gigawatt compute
+[05:31] agreement with different companies like
+[05:33] Google. You have Amazon, Broadcom,
+[05:36] Microsoft, Nvidia as well as Fluid
+[05:38] Stack. And honestly, one of the craziest
+[05:40] part was that Enthropic mentioned
+[05:43] interest in eventually developing an
+[05:45] orbitable AI compute infrastructure with
+[05:48] Space X which sounds absolutely insane
+[05:51] and futuristic. Another major update was
+[05:54] around cloud manage agents where
+[05:56] Enthropic introduced several new agent
+[05:58] capabilities which is focused on making
+[06:00] AI systems more autonomous over
+[06:02] longunning tasks. Now one of the biggest
+[06:05] additions was multi- aent orchestration.
+[06:08] This overall allows lead agents to
+[06:10] coordinate multiple specialized agents
+[06:12] working in parallel on complex jobs.
+[06:15] Enthropic also introduced an outcome
+[06:17] loop system where agents evaluate their
+[06:20] own output and this is against
+[06:22] predefined rubrics and continuously
+[06:24] improves results through an iterative
+[06:26] selfcorrection system. That is just
+[06:29] insane. This truly makes long horizon
+[06:31] tasks much more capable with the new
+[06:34] cloud models. Now they additionally
+[06:36] showcased the new dreaming capability as
+[06:38] well where agents can can review past
+[06:41] sessions and experience to learn from
+[06:43] previous mistakes and improve future
+[06:45] performance over time. Now finally cla
+[06:49] also introduced web hook support. This
+[06:51] makes it much easier for developers to
+[06:53] integrate cloud agents into external
+[06:55] tools, apps and automated workflows. And
+[06:59] to be honest, cloud manage agents is
+[07:01] something that I truly forgot about. but
+[07:03] it is starting to feel far more capable,
+[07:05] like a persistent autonomous workforce
+[07:07] system rather than just a simple AI
+[07:10] chatbot. If you like this video and
+[07:12] would love to support the channel, you
+[07:14] can consider donating to my channel
+[07:16] through the super thanks option below.
+[07:18] Or you can consider joining our private
+[07:21] Discord where you can access multiple
+[07:23] subscriptions to different AI tools for
+[07:25] free on a monthly basis, plus daily AI
+[07:28] news and exclusive content, plus a lot
+[07:30] more. But that's about it guys for
+[07:32] today's video. I wasn't too found on
+[07:34] what Enthropic was doing recently,
+[07:36] obviously due to their degraation of
+[07:39] their model quality output as well as
+[07:41] the rate limits that they previously had
+[07:43] enabled for all of their paid plans. But
+[07:47] now that they are making changes and
+[07:49] listening to the community, I am
+[07:51] starting to change my opinion on what
+[07:53] they're doing. Hopefully, their newer
+[07:55] models are able to make more of an
+[07:58] impact and that their new higher usage
+[08:00] limits for claw plans is going to be
+[08:02] able to solve many of the issues we
+[08:04] previously had. But with that thought,
+[08:06] guys, I hope you enjoyed today's video
+[08:07] and got some sort of value. I'll leave
+[08:09] all these links that I use in today's
+[08:10] video in the description below. But with
+[08:12] that thought, guys, thank you guys so
+[08:13] much for watching. Make sure you go
+[08:14] ahead and take a look at the second
+[08:15] channel. Join the newsletter, join the
+[08:17] Discord, follow me on Twitter, and
+[08:19] lastly, make sure you guys subscribe,
+[08:20] turn on notification bell, like this
+[08:22] video, and please take a look at our
+[08:23] previous videos so that you can stay up
+[08:25] to date with the latest AI news. But
+[08:26] with that thought, guys, have an amazing
+[08:28] day, spread positivity, and I'll see you
+[08:30] guys fairly shortly. Peace out, fellas.

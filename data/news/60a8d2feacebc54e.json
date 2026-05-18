@@ -1,0 +1,26 @@
+{
+  "uid": "60a8d2feacebc54e",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "OpenAI Codex super app teaser and slash goal feature",
+  "summary": "OpenAI posted a teaser hinting at a Codex super app that merges ChatGPT, Codex, browsing, voice agents, remote control and computer use into a unified desktop experience. A new slash goal feature was also surfaced, giving Codex an end-state target it iterates toward, with users reporting multi-day autonomous runs on arc-AGI-style tasks.",
+  "source_video_uid": "292f305a188c741a",
+  "source_video_id": "t5UtgnjQST8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:55",
+  "links": [
+    "https://openai.com/codex"
+  ],
+  "tags": [
+    "openai",
+    "codex",
+    "agent",
+    "ide"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Teaser plus internal-feature reporting; slash goal hidden under /experiment."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

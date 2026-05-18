@@ -1,0 +1,303 @@
+[00:00] We've got some massive AI headlines
+[00:02] today where Google is rapidly testing
+[00:05] new Gemini 3.2 Pro and Flash variants,
+[00:08] but honestly, the results so far look
+[00:10] pretty underwhelming. Their leaked omni
+[00:13] multimodal model, which is their video
+[00:15] model, also surfaced online recently,
+[00:17] and some early generations do look good,
+[00:20] but expectations were much higher after
+[00:23] such a long break from Gemini.
+[00:25] Meanwhile, Open AI is now fully
+[00:27] revamping up development for the GBT 5.6
+[00:31] with multiple new checkpoints reportedly
+[00:33] being tested right now. Anthropic also
+[00:36] sparked major backlash today after
+[00:38] announcing increased cloud limits only
+[00:40] for developers to realize that
+[00:42] third-party agents are now being pushed
+[00:44] into separate paid API credits, which is
+[00:47] massively increasing cost for so many
+[00:50] different workflows. This is likely
+[00:52] tying into Enthropic's ongoing compute
+[00:54] shortage and the recent reduction in
+[00:56] reasoning effort levels which we have
+[00:59] seen with all of their models due to a
+[01:01] recent quality drop. On top of that,
+[01:04] Cloud Opus 4.7 now has a fast mode that
+[01:07] is in research preview. Fine. 3.6 Plus
+[01:10] is now completely free through the news
+[01:13] portal for a limited time and Hermes
+[01:15] agent just keeps on getting many new
+[01:17] upgrades. There's a lot more happening,
+[01:19] so let's dive into it all. If you want
+[01:21] the best AI tools, workflows, and drops
+[01:24] before everyone else, join my free
+[01:26] newsletter with the link in the
+[01:27] description below, which is completely
+[01:29] free. Starting off with Google, as
+[01:31] Google IO is now about 6 days away,
+[01:34] things are seriously heating up cuz
+[01:36] Google seems to be rapidly testing
+[01:38] multiple new Gemini checkpoints behind
+[01:40] the scenes through all of their
+[01:42] different platforms. Initially, we had
+[01:44] actually tested out the Gemini 3.2 2
+[01:47] flash variant. And honestly, that model
+[01:49] that we had tested out was pretty
+[01:51] impressive. In one example, I was able
+[01:53] to generate a full Mac OS style clone
+[01:56] complete with functional apps, features,
+[01:59] and surprisingly solid front-end code.
+[02:01] It generally felt like something you'd
+[02:04] expect from a Protier model, not a flash
+[02:06] model designed primarily for cost
+[02:09] efficiency. But now, it looks like we
+[02:11] have a new Gemini 3.2 flashing variant
+[02:14] that surfaced recently. According to
+[02:16] early testing by various sorts of users,
+[02:18] we are starting to see some pretty
+[02:20] impressive generations. You can see that
+[02:23] in SVG, it's able to do exceptionally
+[02:25] well where it's able to actually depict
+[02:27] a PS5 controller pretty well in my
+[02:30] opinion. Now, when it comes to the Xbox
+[02:32] test, you can see that the controller
+[02:34] has been generated accurately in the SVG
+[02:36] code. And there are a couple of
+[02:39] different variants. What you're seeing
+[02:40] right now is the sprite variant. This is
+[02:43] a part of one of the code names under
+[02:45] the Gemini 3.2. There is also a cola
+[02:48] variant which is the one that you're
+[02:50] seeing right now over here. And this is
+[02:53] where it is showing higher reasoning
+[02:56] efforts and much better output overall
+[02:58] compared to the other variants that we
+[03:00] were tested initially. But when it comes
+[03:02] to the Gemini 3.2 variant, things
+[03:04] honestly don't look nearly as
+[03:06] impressive. I'm not saying this looks
+[03:08] bad, but it's not as impressive as you
+[03:11] would expect from a new Gemini model,
+[03:13] which has been on pause since probably
+[03:16] January. The outputs are decent, but it
+[03:19] really doesn't feel like a major leap
+[03:21] forward. One thing a lot of people are
+[03:22] noticing is that Google seems to have
+[03:24] changed something with their front-end
+[03:26] generation quality. You can see that
+[03:29] with all of the generations, there seems
+[03:32] to be some sort of UI style that
+[03:34] constantly keeps showing up across all
+[03:36] of their generated front-end code,
+[03:38] similar to the older GBT models that
+[03:40] used to always generate those generic
+[03:42] panel heavy layouts. Now, the same
+[03:45] pattern is now appearing across all of
+[03:47] these newer Gemini 3.2 outputs, which
+[03:50] honestly looks pretty bad. I'm not
+[03:52] saying it's horrible, but the output
+[03:54] quality drastically is lowered compared
+[03:57] to what we previously saw with the
+[03:59] Gemini 3. Now, from previous generations
+[04:02] that we have seen with the other
+[04:04] Checkpoints, it's about what I have come
+[04:06] to expect from Deep Mind lately. They
+[04:09] are solid enough, but not
+[04:10] groundbreaking. And at this point, the
+[04:13] only real hope is that Google has a much
+[04:15] stronger variant that is saved for the
+[04:17] launch at their developer conference.
+[04:20] But right now, that honestly seems to be
+[04:22] a bit doubtful across the board. It
+[04:24] genuinely feels that most major labs
+[04:27] have somehow nerfed their models lately,
+[04:29] especially when it comes to front-end
+[04:31] creativity and the overall output
+[04:33] quality. Regardless, on poly market, it
+[04:37] looks like majority of the people are
+[04:38] expecting it to drop by May 22nd,
+[04:41] whatever Gemini 3.2 Pro or flash variant
+[04:44] that ends up releasing. On top of that,
+[04:46] leaks are now surfacing around Google's
+[04:48] unreleased Gemini Omni video generation
+[04:50] model, which many people believe could
+[04:53] be potentially V4. Early generations and
+[04:56] edits are being shared online, and they
+[04:58] look pretty decent, especially when it
+[05:00] comes to video editing consistency. In
+[05:03] some examples, the model is able to
+[05:04] heavily modify scenes while still
+[05:06] preserving motion and structure pretty
+[05:09] well overall throughout the generation.
+[05:11] People are pointing out how aggressive
+[05:13] the model seems to be with cleanup and
+[05:15] object removal during edits, although a
+[05:18] lot of the leaked tests right now are
+[05:20] still extremely early and unofficial.
+[05:22] Meanwhile, at Open AI, development for
+[05:25] the GPT 5.6 is now reportedly in full
+[05:28] swing. According to a couple of reports
+[05:30] from some credible developers on X, the
+[05:33] first internal checkpoints of the model
+[05:35] began testing over the past few days
+[05:37] with potential releases now looking
+[05:39] increasingly likely around the midJune
+[05:42] time mark. Now, two new variants have
+[05:44] been surfacing online internally and the
+[05:47] names are Ember Alpha and Beacon Alpha.
+[05:50] Now, from what people have been hinting
+[05:52] at, Open AI's red teaming and safety
+[05:54] evaluation process now appears to be far
+[05:56] more dialed in compared to what 2025 was
+[05:59] like, which could explain the longer
+[06:01] testing cycle before public roll out.
+[06:04] Now, something interesting is that today
+[06:06] is Thursday and usually Open AI has an
+[06:08] act at releasing something on Thursdays.
+[06:10] And just an hour ago, they had released
+[06:12] this picture, a teaser of codeex. Now,
+[06:15] I'm not too sure what this could mean,
+[06:17] but is this the super app that they're
+[06:20] potentially dropping today? Not too
+[06:21] sure, but they were quoting one of these
+[06:23] tweets from OpenAI's developer account.
+[06:25] So, let's see what ends up dropping
+[06:27] today. Going onwards to Cloud Code.
+[06:29] Enthropic officially announced that
+[06:31] Cloud Code's weekly limits are also
+[06:33] increasing by 50% through July 13th. And
+[06:36] this is for all pro, max, team, and
+[06:39] seatbased enterprise users. And
+[06:42] according to Enthropic, this applies
+[06:44] across the CLI, their IDE application
+[06:47] tool, their desktop app, and web with no
+[06:50] opt-in required. They also confirmed
+[06:52] that this stacks on top of their recent
+[06:55] 2x increase through the 5h hour usage
+[06:57] limits that were announced last week.
+[06:59] Now, from the surface, this all sounds
+[07:02] great, but here's where the controversy
+[07:04] really starts. A lot of developers are
+[07:07] calling this an entire announcement,
+[07:08] pure damage control spin rather than the
+[07:11] actual solution because we all heard
+[07:13] last week about the weekly rate limit
+[07:17] increase for all of the users, but that
+[07:19] was kind of like a gas lit announcement.
+[07:22] This comes after months of so many quiet
+[07:24] limit reductions, faster token burns
+[07:27] during peak hours, and noticeably
+[07:29] performance drops from lowered reasoning
+[07:31] effort levels from all of their models.
+[07:33] all likely is tied to Enthropic's
+[07:36] ongoing compute shortage issue which is
+[07:38] why they had developed this partnership
+[07:40] with SpaceX who borrowed some of their
+[07:43] compute and all this looks quite great
+[07:46] and Enthropic publicly framed this as a
+[07:48] major increase for cloud code users.
+[07:50] They simultaneously also moved SDKs,
+[07:53] GitHub actions and third party
+[07:55] autonomous agents into a separate paid
+[07:57] API credit system. So for many
+[08:00] developers that are running large agent
+[08:01] workflows, this effectively acts as a
+[08:04] massive 10 to 40x usage cut unless they
+[08:07] start paying significantly more out of
+[08:09] pocket. That's why the backlash has been
+[08:12] pretty intense recently. A lot of people
+[08:14] feel like Enthropic is essentially
+[08:16] punishing their most loyal users because
+[08:19] they can't properly scale infrastructure
+[08:21] right now. Existing workflows are
+[08:23] breaking, developers are cancelling
+[08:25] automations, and overall transparency
+[08:27] across the entire solution has been
+[08:30] heavily criticized by the community. And
+[08:32] I personally think I would recommend all
+[08:35] of you guys to switch over to Codex
+[08:37] right now cuz they have been providing
+[08:39] one of the best limits out that is out
+[08:41] there. I'm not sponsored by them. It's
+[08:43] just some practical advice.
+[08:46] On the topic of Enthropic, they also
+[08:48] released a new fast mode for cloud code,
+[08:50] which is in research preview. This
+[08:52] allows Opus 4.6 and 4.7 to respond up to
+[08:56] 2.5 times faster using a higher speed
+[09:00] API configuration. Same model quality,
+[09:03] just significantly lower latency at a
+[09:05] higher token cost.
+[09:07] Google's Jewels is also getting a major
+[09:10] update in the next few months, and
+[09:11] Google has now opened up a wait list for
+[09:14] early access. And one of their standout
+[09:16] features of Jules that is going to be
+[09:18] released is that you have the ability to
+[09:20] have Jules continuously work even if you
+[09:23] close your laptop or computer instance.
+[09:26] Recently I've been making a lot of
+[09:28] videos on Hermes agent, the
+[09:30] self-improving open-source AI agent that
+[09:32] has taken the spot of OpenClaw. And what
+[09:35] I really like about Hermes is that it
+[09:38] has been continuously been getting a lot
+[09:40] of new updates and a lot of new provider
+[09:43] integrations like where coin 3.6 plus is
+[09:46] now available completely for free inside
+[09:48] Hermes agent for a limited time through
+[09:51] their news portal. And finally, Figure
+[09:54] AI just showcased one of the most insane
+[09:56] robotics demos that we have seen so far.
+[10:00] Brett, which is one of the developer
+[10:02] founders of Figure AI, has revealed a
+[10:05] fleet of humanoid robots autonomously
+[10:07] running a full 8 hour warehouse shift
+[10:11] using their Helix O2 neural network. And
+[10:14] the robots are now reportedly operating
+[10:17] at near human level speeds for packaging
+[10:20] as well as sorting through different
+[10:21] sorts of deliveries. Now, it also has
+[10:25] reasoning entirely from camera inputs
+[10:27] with all AI inferences running directly
+[10:30] on board the robots themselves. What's
+[10:33] even crazier is the coordinating system.
+[10:36] Multiple humanoids are communicating
+[10:38] with each other to maintain conveyor
+[10:40] uptime. He is also something that has
+[10:43] the ability for autonomous swap out when
+[10:46] batteries run low and even a
+[10:47] self-dagnosed hardware issue before
+[10:50] walking themselves to maintenance and
+[10:52] requesting replacement units all without
+[10:54] humans in the loop. Now, this is a live
+[10:56] stream that is running right now that is
+[10:58] showcasing all the different robots
+[11:01] working right now and packing and
+[11:03] delivering all of these different
+[11:04] deliveries. If you like this video and
+[11:06] would love to support the channel, you
+[11:08] can consider donating to my channel
+[11:10] through the super thanks option below.
+[11:12] Or you can consider joining our private
+[11:15] Discord where you can access multiple
+[11:17] subscriptions to different AI tools for
+[11:19] free on a monthly basis, plus daily AI
+[11:22] news and exclusive content, plus a lot
+[11:24] more. But with that thought, guys, I
+[11:26] hope you enjoyed today's video and got
+[11:27] some sort of value. I'll leave all the
+[11:29] links that I use in today's video in the
+[11:30] description below. Make sure you take a
+[11:32] look at as a second channel. Join the
+[11:33] newsletter, join the Discord, follow me
+[11:35] on Twitter. Lastly, make sure you guys
+[11:37] subscribe, turn on notification bell,
+[11:38] like this video, and please take a look
+[11:40] at our previous videos so that you can
+[11:41] stay upto date with the latest AI news.
+[11:43] But with that thought, guys, have an
+[11:45] amazing day, spread positivity, and I'll
+[11:47] see you guys fairly shortly. He suffers.

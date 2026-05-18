@@ -1,0 +1,302 @@
+[00:00] Yesterday in my AI news segment, I
+[00:03] highlighted something pretty massive
+[00:05] happening with Google and Gemini. With
+[00:07] Google IO now less than 3 weeks away,
+[00:10] Google appears to be rapidly testing new
+[00:12] Gemini models behind the scenes because
+[00:14] the Gemini 3 flash model inside LM Arena
+[00:18] was quietly updated. Interestingly, it
+[00:21] still keeps the exact same Gemini 3
+[00:23] flash model slug, but the output quality
+[00:26] reportedly feels dramatically better.
+[00:28] People testing it say the jump in
+[00:30] reasoning and overall response quality
+[00:32] feels almost two tiers above current
+[00:35] version. With performance much closer to
+[00:37] the Gemini 3.1 Pro rather than the
+[00:39] standard Gemini 3 flash. Right now, it's
+[00:42] unclear whether this is an early Gemini
+[00:44] 3.1 flash, 3.2 flash, or even a 3.5
+[00:49] flash build. But regardless, this looks
+[00:52] like a huge upgrade ahead of the Google
+[00:54] IO conference. On top of that, Google
+[00:57] has emailed Vertex AI customers still
+[01:00] using the Gemini flash 2, revealing that
+[01:02] Gemini 3.1 flashlight will soon become
+[01:05] generally available as well. So, not
+[01:08] only is Google seemingly testing
+[01:10] upgraded Gemini flash models publicly
+[01:13] inside the arena, but they're also
+[01:15] preparing broader enterprise rollouts
+[01:17] through Vertex AI at the same time.
+[01:20] AI battle did a comparison test of the
+[01:23] new Gemini 3 flash in the arena versus
+[01:26] the previous Gemini 3 flash, and you can
+[01:28] clearly see on the Voxel test, it did a
+[01:30] great job in creating the scene, and it
+[01:32] was able to depict it with the flash
+[01:34] model, which is definitely remarkable to
+[01:36] see cuz a flash model shouldn't be able
+[01:38] to output this sort of quality. And he
+[01:41] also said that if you were to go over to
+[01:42] the battle, out of the last seven
+[01:45] battles he had, or the last seven tests
+[01:48] within the arena, he got the Gemini 3
+[01:50] flash, new one, six times out of seven.
+[01:54] Now, to access this new flash variant,
+[01:56] what you got to do is head over to the
+[01:57] arena. You can simply click on battle
+[01:59] mode, and then whenever you send in a
+[02:01] prompt, you have a slight chance to get
+[02:03] the Gemini 3 flash after you have sent
+[02:06] in a prompt and have voted. But, after
+[02:08] voting, you will be able to see if you
+[02:11] have gotten the flash variant. If you
+[02:12] want the best AI tools, workflows, and
+[02:15] drops before everyone else, join my free
+[02:18] newsletter with the link in the
+[02:19] description below, which is completely
+[02:20] free.
+[02:21] Now, before I get into showcasing my own
+[02:23] model test of this new upgraded Gemini
+[02:26] flash model. This is actually a really
+[02:28] interesting take regarding the Google
+[02:30] Gemini rollout strategy. The theory is
+[02:32] that Google will likely release the
+[02:34] Gemini 3.1 flash before the Google I/O
+[02:37] dev conference, following it up with a
+[02:40] Gemini 3.5 Pro release at the main event
+[02:43] on May 19th and 20th, and then later
+[02:46] launch Gemini 3.5 flash sometime around
+[02:49] mid-June or early July. And honestly,
+[02:52] this logic makes a lot of sense. Google
+[02:55] probably doesn't want an enormous
+[02:57] performance gap between the current
+[02:58] Gemini 3.0 flash and a much stronger
+[03:01] Gemini 3.5 Pro model. Releasing an
+[03:05] upgraded 3.1 flash would drastically
+[03:08] help bridge the gap and create a
+[03:10] smoother transition across the lineup.
+[03:12] It also lines up with what people have
+[03:14] been noticing within the arena, where
+[03:16] the updated Gemini 3 flash is reportedly
+[03:19] showing dramatically improved output
+[03:21] quality through generations. And if the
+[03:23] testing is already happening publicly,
+[03:26] then a release is probably very close.
+[03:28] And historically, Google's 0.5 Gemini
+[03:31] releases have usually represented much
+[03:33] bigger jumps overall. So, announcing
+[03:35] Gemini 3.5 Pro directly at the Google
+[03:37] I/O event with stronger benchmarks and
+[03:40] demos would honestly be a perfect stage
+[03:42] for it.
+[03:43] Now, in regards to front-end quality and
+[03:46] web development, I got to say the Gemini
+[03:48] 3 flash, the new upgraded one,
+[03:50] definitely feels like it is outputting
+[03:52] the same type of quality as the Gemini
+[03:54] 3.1 Pro. This is where I had requested
+[03:57] it to create a browser-based Mac OS OS,
+[04:00] and it did an exceptional job. This is
+[04:02] where it created a pretty good-looking
+[04:04] front end for the OS. You have a lot of
+[04:07] different features. You have the
+[04:08] spotlight feature which was generated,
+[04:11] which has all the different
+[04:12] applications. You have individual
+[04:15] uh apps as well as files that have been
+[04:17] displayed on the main page. Now, not
+[04:20] everything is perfect, so don't get me
+[04:22] wrong on that, but the fact that it's
+[04:24] able to output an icon for the Mac OS,
+[04:27] you have different components like the
+[04:29] ability to change the wallpaper, which
+[04:32] is really nice to see. You can change
+[04:34] the brightness, the sound, and these are
+[04:37] small components that you wouldn't
+[04:38] typically see with majority of the
+[04:41] models that are out there. Like, for
+[04:42] example, the Deep Seek version 4 can't
+[04:44] even complete this build, whereas the
+[04:45] Gemini 3 Flash is capable of outputting
+[04:48] a successful OS build of Mac OS. You
+[04:51] have a Finder's app, you have a Safari
+[04:54] that has been generated that depicts
+[04:56] different real-world websites. You also
+[04:59] have a terminal, you have a Minecraft
+[05:02] clone that I requested it to create.
+[05:04] Now, this is something that isn't
+[05:06] something that represents Minecraft
+[05:07] legitimately, but still it is a decent
+[05:11] generation, you can say. And the
+[05:12] creativity of adding that is nice to
+[05:15] see. You have a Notes app, a calculator,
+[05:17] and then lastly a Settings. So, you can
+[05:20] truly see that the quality output from
+[05:22] the Gemini 3 Flash upgraded model is
+[05:25] definitely nice to see. So, this does
+[05:27] look like it is on par with the Gemini
+[05:29] 3.1 Pro.
+[05:31] What I have also noticed is that this
+[05:33] new model is exceptional with front end
+[05:36] generation. It kind of replicates the
+[05:38] same sort of quality as 3.1, and if that
+[05:41] is true, that is going to be a
+[05:43] significant boost for a lot of us users.
+[05:46] Cuz if you're getting this sort of
+[05:48] performance with a cheaper price point,
+[05:50] it is going to be the go-to driver for
+[05:53] many of us due to its cost-efficiency as
+[05:56] well as obviously its overall efficiency
+[05:58] in generations. Now, this is where I had
+[06:01] requested it to create a 360 product
+[06:03] viewer, and I got to say the quality is
+[06:06] great with this generation.
+[06:08] Now, when it comes to my detailed
+[06:10] front-end development task, this is
+[06:12] where it did a great job engineering
+[06:14] this development, where it did quite
+[06:17] well with almost all of the different
+[06:19] components I had requested, like the
+[06:21] dynamic movement, implementing different
+[06:23] typographies, as well as implementing a
+[06:26] design taste I had requested, especially
+[06:28] around React, the GSAP animations,
+[06:31] scroll interactions. Everything is
+[06:33] precisely generated, and it looks pretty
+[06:35] good. This is the only section that I
+[06:37] think needs a little bit more work, but
+[06:39] regardless, everything else looks
+[06:42] probably on par with what the Gemini 3.1
+[06:45] Pro is capable of generating.
+[06:47] Now, in 3JS, I got to say this is one of
+[06:50] the best generations of a PS5 controller
+[06:53] in 3D. Now, I'm not saying it's perfect,
+[06:56] cuz it definitely doesn't look exactly
+[06:58] like a PS5 controller, but the base
+[07:00] structure is there, and most models
+[07:03] actually fail at this test. 90% of
+[07:05] models actually fail at this specific
+[07:07] test. But, overall, when you compare it
+[07:10] to what other models are generating with
+[07:12] this specific prompt, you would
+[07:14] definitely give this a 9 out of 10
+[07:15] compared to what other models are
+[07:17] generating. Now, you also have a couple
+[07:19] of other themes that have been added to
+[07:22] this controller, like a cosmic red or a
+[07:25] galactic purple theme color. This is
+[07:28] where they have added in a lot of
+[07:30] different accents that make this
+[07:31] generation a lot better, but overall in
+[07:34] 3JS, the generations are looking pretty
+[07:37] decent. When I had requested it to
+[07:39] create a 1970s TV simulator in 3JS, This
+[07:43] is where it did quite well and I got to
+[07:46] say this is one of the better end
+[07:48] generations that I have particularly
+[07:50] seen. It created a 3D scene and you can
+[07:53] see that there's nine different channels
+[07:55] that have been thoroughly generated in
+[07:57] 3js. You have the ability to change the
+[08:00] sound, you have the ability to change
+[08:02] obviously all the different channels,
+[08:04] but you can even turn off, I think, the
+[08:06] overall TV, which is pretty cool and
+[08:08] there's a animation for that as well.
+[08:11] Now, not all the channels have been
+[08:13] properly generated. You have the first
+[08:15] channel that hasn't generated, second
+[08:17] one just shows a black screen, the third
+[08:19] one looks pretty impressive where it
+[08:21] showcases the city life. You have the
+[08:23] fourth one which showcases a boat in the
+[08:25] ocean, the fifth one is a music channel,
+[08:29] which sounds pretty bad, but
+[08:31] that's pretty okay, I guess.
+[08:33] Then you have a solar system that has
+[08:35] been generated. Uh
+[08:37] depicts what our solar system looks
+[08:39] like. You have a sports channel which
+[08:42] showcases ping pong. You have a
+[08:44] factorial tree generation. And lastly,
+[08:47] you have a flock of birds. Overall, this
+[08:49] is a prompt that tests the model's
+[08:51] ability to build complex interactive
+[08:54] graphic systems with 3js and I got to
+[08:55] say it did quite well with this
+[08:57] generation including the real-time
+[08:59] rendering, the different shaders, the
+[09:01] procedural animations, physics,
+[09:03] simulations, everything has been
+[09:05] thoroughly generated quite well. Now,
+[09:07] the mountain terrain prompt in 3js is
+[09:09] where I believe the model did probably
+[09:12] the worst. It's not a bad generation cuz
+[09:15] the terrain definitely looks pretty
+[09:16] impressive in 3js, but the terrain
+[09:19] navigation, the physics, none of it
+[09:21] really matches what I had requested it
+[09:23] to depict in the generation itself. So,
+[09:26] that is the only downside with this
+[09:28] particular generation. Now, we all know
+[09:30] that the Gemini models usually are able
+[09:32] to output pretty well SVG generations
+[09:35] and this is where I had requested it to
+[09:37] create an SVG of a butterfly. And you
+[09:40] can see that it did quite well with the
+[09:42] generation of coding out a butterfly in
+[09:44] SVG code. And it had even animated it
+[09:48] with a particular flying path, which is
+[09:50] nice. Now, I will say the butterfly is
+[09:54] definitely generated quite well, but you
+[09:56] can see one thing, the body doesn't
+[09:58] accurately represent a butterfly
+[10:00] exactly, which is where I would minus a
+[10:02] couple of points. But regardless, this
+[10:04] is a pretty good generation for a flash
+[10:07] model. Then I had requested it to create
+[10:10] a pelican riding a bike. And this is one
+[10:12] of the best generations I have seen cuz
+[10:14] you can see that the pelican legs are
+[10:16] actually moving with the bike. Now, it's
+[10:19] not accurately moving with the pedal,
+[10:21] but still, it's decent. If you like this
+[10:24] video and would love to support the
+[10:25] channel, you can consider donating to my
+[10:28] channel through the Super Thanks option
+[10:30] below. Or you can consider joining our
+[10:32] private Discord where you can access
+[10:34] multiple subscriptions to different AI
+[10:36] tools for free on a monthly basis, plus
+[10:39] daily AI news and exclusive content,
+[10:42] plus a lot more.
+[10:43] But regardless, I am super excited to
+[10:46] what Google is actually doing with these
+[10:47] new Gemini models, and they could be
+[10:49] making a pretty big comeback at the
+[10:51] developer conference, maybe even next
+[10:54] week. We might see the flash variant
+[10:56] release that we're seeing within the
+[10:58] arena. Now, if you're looking to get
+[11:00] started or try out this model, I'd
+[11:02] recommend trying it out within arena cuz
+[11:04] it is still up, and you can still access
+[11:06] it within the battle mode like I
+[11:08] mentioned before. But with that thought,
+[11:09] guys, I hope you enjoyed today's video
+[11:10] and got some sort of value. I'll leave
+[11:12] all these links in the description
+[11:13] below, but make sure you go ahead, take
+[11:15] a look at the second channel, join the
+[11:17] newsletter, join the Discord, follow me
+[11:18] on Twitter. And lastly, make sure you
+[11:20] guys subscribe, turn on notification
+[11:21] bell, like this video, and please take a
+[11:23] look at our previous videos so that you
+[11:24] can stay up-to-date with the latest AI
+[11:26] news. But with that thought, guys, have
+[11:27] an amazing day, spread positivity, and
+[11:29] I'll see you guys really shortly. Peace
+[11:31] out, fuzz.

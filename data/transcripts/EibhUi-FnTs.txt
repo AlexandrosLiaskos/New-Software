@@ -1,0 +1,293 @@
+[00:00] Today, I'm going to be showcasing how
+[00:02] you can combine the DeepSeek version 4
+[00:04] with Claude code to create one of the
+[00:06] cheapest AI coding workflows that is
+[00:09] honestly pretty underrated. The reason
+[00:11] why this works is because DeepSeek
+[00:13] version 4 is a frontier-level
+[00:15] open-source model that is much more
+[00:18] token efficient and optimized for long
+[00:20] context agent workflows. It is not
+[00:23] better than models like GPT 5.5, Gemini
+[00:26] 3.1 Pro, or Opus 4.7. Heck, not even
+[00:29] better than Opus 4.5 in many cases. But,
+[00:33] it can handle certain tasks surprisingly
+[00:35] well while being significantly cheaper.
+[00:37] Since Claude models are heavily rate
+[00:39] limited and expensive, you can use
+[00:42] DeepSeek version 4 as a backup driver
+[00:44] inside Claude code to get more work done
+[00:47] without burning through your premium
+[00:49] model usage. DeepSeek version 4 also
+[00:52] supports a 1 million token context
+[00:53] window, which reduces compute and memory
+[00:56] overhead, and it's released under the
+[00:58] MIT license, which opens up a lot of use
+[01:00] cases for local and custom deployments
+[01:03] if you obviously have the hardware,
+[01:05] which most probably don't. Cuz if you
+[01:07] were to run this model locally, you
+[01:08] would probably need a data center rig.
+[01:10] On Agentic and coding-related
+[01:12] benchmarks, DeepSeek looks pretty solid
+[01:14] for an open-source model cuz it performs
+[01:17] decently across software engineering
+[01:18] tasks, browser comp, terminal bench,
+[01:21] tool calling, and long horizon coding
+[01:23] workflows. This is where the model
+[01:25] becomes useful cuz it's not about being
+[01:28] the best model in the world. It's about
+[01:30] being cheap, efficient, and good enough
+[01:32] to get the right task done. DeepSeek is
+[01:35] a very useful token efficient model that
+[01:37] can reduce the load on stronger models
+[01:39] like GPT 5.5 or Opus 4.7. For basic
+[01:43] tasks, it can often get the job done
+[01:46] cheaper and with similar practical
+[01:48] results. This includes things like quick
+[01:50] setups, automations, one-off tools,
+[01:53] basic glue code, throwaway utilities,
+[01:56] algorithmic problem solving, logic
+[01:59] puzzles, leak code, code force, unit
+[02:01] tests, and tool calling. But, I would
+[02:03] not recommend using DeepSeek version 4
+[02:05] for serious web development,
+[02:07] documentation, code reviews, or security
+[02:10] audits because this is where it still
+[02:12] struggles. Also, keep in mind that if
+[02:14] you are using DeepSeek through the cloud
+[02:17] API, you should be careful with
+[02:19] sensitive data. If you're running the
+[02:20] open-source model locally or on your own
+[02:22] environment, this concern is much less
+[02:25] relevant. Now, what's insane is that
+[02:26] DeepSeek version 4 is around 76% cheaper
+[02:29] on average input and output tokens
+[02:32] compared to the GPT 5.5 and Opus 4.7
+[02:36] without promotional pricing, which is
+[02:38] honestly super insane. So, instead of
+[02:40] just wasting premium tokens on basic
+[02:43] tasks, you can let DeepSeek version 4
+[02:45] handle the simple work and save Opus or
+[02:48] GPT for the moments that it actually
+[02:51] requires it to be used. This creates a
+[02:53] hybrid coding workflow cuz you can use
+[02:55] DeepSeek version 4 for the cheaper,
+[02:57] low-risk tasks like tool calling,
+[02:59] browser tasks, unit tests, quick
+[03:01] scripts, and basic coding work. Then,
+[03:04] you can shift it over to the GPT 5.5 or
+[03:07] Opus 4.7 when the task becomes more
+[03:10] complex, creative, or high stakes are
+[03:12] involved. And you can essentially use
+[03:15] this inside a harness like Claude Code
+[03:17] cuz you're basically going to get one of
+[03:19] the most token-efficient AI coding
+[03:21] workflows by combining DeepSeek version
+[03:23] 4 inside of Claude Code with the Opus
+[03:26] 4.7 or other models. If you want the
+[03:29] best AI tools, workflows, and drops
+[03:32] before everyone else, join my free
+[03:34] newsletter with the link in the
+[03:35] description below, which is completely
+[03:37] free. So, as I mentioned, this is going
+[03:39] to be a hybrid coding setup, not just
+[03:41] using DeepSeek alone within Claude Code.
+[03:44] This is a repo that I'll leave in the
+[03:45] description below, which works as a
+[03:47] local Anthropic-compatible proxy that is
+[03:50] going to route Claude code traffic to
+[03:52] providers like Deep Seek, Open Router,
+[03:55] Nvidia NIM, LM Studio, and Ollama. And
+[03:58] essentially, this will let you run your
+[04:00] Claude code instance with Deep Seek
+[04:02] directly within Claude code's harness.
+[04:05] Now, to get started, you're going to
+[04:06] need to have Claude code installed. So,
+[04:09] make sure you have that fully installed
+[04:10] onto your computer. We're also going to
+[04:12] be using Anti-Gravity cuz I found that
+[04:15] Anti-Gravity can easily set up projects
+[04:17] faster than I can explain. So, this is
+[04:20] where I would recommend you install
+[04:21] Anti-Gravity, and you can create an
+[04:23] account with your Google account
+[04:24] completely for free. Then, you want to
+[04:26] top up a couple of dollars. Don't spend
+[04:29] more than $2 for now onto Deep Seek's
+[04:32] platform cuz we're going to be using the
+[04:34] API to actually power up our Claude code
+[04:37] instance. Then, what you want to do is
+[04:39] just simply open up Anti-Gravity, and I
+[04:42] want you to copy and paste in this
+[04:44] prompt that I have left in the
+[04:45] description below. And this is
+[04:47] essentially going to set up the whole
+[04:50] proxy and script that we see within this
+[04:52] GitHub repo. So, we don't even need to
+[04:54] even do anything. We just got to provide
+[04:56] our API key from the platform, and then
+[04:58] we can easily use this coding workflow
+[05:01] cuz rather than us doing all this,
+[05:03] Anti-Gravity is going to fully set it up
+[05:05] onto our computer autonomously. So, we
+[05:07] don't even need to do the hard work.
+[05:09] And just like that, it has been fully
+[05:11] configured and installed based off the
+[05:14] description I've gave it where I told it
+[05:16] that I want Deep Seek to actually run
+[05:19] one instance where it routes through the
+[05:21] actual Deep Seek platform. And this is
+[05:23] going to be used for scripts, unit
+[05:25] tests, basic tasks essentially. And
+[05:27] then, the native Claude instance, which
+[05:29] is going to use my Claude code plan or
+[05:31] my Claude API. But, you can also set
+[05:34] this so that it uses like another router
+[05:37] like Open Router, and that way you can
+[05:38] use other models other than Anthropic
+[05:41] models. And what I really like about
+[05:42] Anti-Gravity is that it is going to make
+[05:44] it super easy for you to set up and
+[05:47] start up all of these different
+[05:49] instances. Whereas created a bat file,
+[05:51] but before you start any of the
+[05:53] instances, you got to make sure you
+[05:54] start the proxy bat before you run any
+[05:57] of the other two, otherwise this setup
+[05:59] won't work. And if you reveal in the
+[06:02] file explorer, you can see the deep seek
+[06:04] cloud instance. If you were to double
+[06:06] click, it'll launch up our cloud code
+[06:09] instance, our harness that is using the
+[06:12] deep seek model to power it. And then
+[06:14] the other one is going to be using the
+[06:15] native cloud code instance that has my
+[06:18] particular model choice, which is to use
+[06:21] the Opus 4.7 with the cloud plan that I
+[06:24] am subscribed to.
+[06:26] So, I've actually launched both of the
+[06:27] bat files. You can obviously just use a
+[06:30] command directly within your terminal to
+[06:32] set up and launch both of them, but this
+[06:34] is much easier. And you can see one is
+[06:37] running the deep seek instance, even
+[06:39] though it doesn't state that, it is
+[06:41] running the deep seek instance on the
+[06:42] left-hand side. And the right-hand side
+[06:44] is actually running my cloud pro plan.
+[06:47] So, what I'm going to be using is this
+[06:48] hybrid approach, where like I'd
+[06:50] mentioned before, this is where I'm
+[06:52] going to be running the basic task with
+[06:54] the deep seek instance within cloud
+[06:56] code, and then the cloud code instance
+[06:58] for more complex prompts.
+[07:00] So, now for the actual demo, what I'm
+[07:02] going to be doing is building a modern
+[07:04] AI dashboard. And this is perfect for a
+[07:07] hybrid workflow because deep seek can
+[07:09] handle the basic structure, folder, mock
+[07:12] data, API routes, and usable components
+[07:15] for cheap compatibility. Then we're
+[07:18] going to send in this second request to
+[07:19] the Opus 4.7 within my cloud code plan.
+[07:23] And this is where it comes in for the
+[07:25] part that actually matters visually. The
+[07:27] UI polish, layout decisions,
+[07:29] interactions, the quality, better
+[07:32] component structure, and making this
+[07:34] feel like a real product. So, deep seek
+[07:36] is basically the cheap scaffolding
+[07:38] agent, and Opus is the senior product
+[07:41] engineer that cleans up everything. This
+[07:43] is a simple but not super crazy
+[07:46] workflow, but you can probably use the
+[07:48] deep seek and other methods, not just
+[07:50] for scaffolding. But right now we have
+[07:52] it working in the same project folder
+[07:55] and it is going to be able to execute
+[07:57] upon this thoroughly.
+[07:59] Currently, you can see with deep seek,
+[08:01] it has already created the TypeScript
+[08:03] project with React and read, but it is
+[08:06] going to now work on building the layout
+[08:08] component and pages while simultaneously
+[08:11] having Opus 4.7 work upon the other
+[08:14] components.
+[08:15] And just like that, we have our Agent
+[08:17] Studio. Now, I'm not saying this is
+[08:19] perfect, but it is something that nailed
+[08:22] down almost everything and you can see
+[08:24] the UI is perfect and the functionality
+[08:26] is also perfect as well due to it being
+[08:29] properly configured. Now, I have mock
+[08:31] data being added to this, so it's not
+[08:34] going to be working as perfectly cuz I
+[08:36] don't have any even any API, but the
+[08:38] fact is I used two different models to
+[08:41] get this job done and without me running
+[08:44] into any rate limits. And the fact that
+[08:46] I've only spent a couple of cents on
+[08:48] this build is insane. About 15 cents,
+[08:52] which is nothing. Whereas, if I was to
+[08:54] just use Cloud Code for this instance
+[08:56] using my pro plan, I'd probably hit many
+[08:59] rate limits before I even got to a point
+[09:01] of completing this project. In this
+[09:03] case, I was able to scaffold everything,
+[09:06] which saves me so much more time cuz the
+[09:08] deep seek model is able to do it faster
+[09:11] and it's also able to save my rate
+[09:12] limit, my token usage that I'd probably
+[09:15] use with the pro plan and then it would
+[09:17] probably exhaust my pro plan usage for
+[09:20] other components that I'm using it for.
+[09:22] So, you can clearly see that this is the
+[09:25] go-to method in terms of setting up and
+[09:28] using this AI coding workflow to do
+[09:30] almost anything. If you like this video
+[09:32] and would love to support the channel,
+[09:34] you can consider donating to my channel
+[09:37] through the Super Thanks option below.
+[09:39] Or you can consider joining our private
+[09:41] Discord where you can access multiple
+[09:43] subscriptions to different AI tools for
+[09:45] free on a monthly basis, plus daily AI
+[09:48] news and exclusive content, plus a lot
+[09:50] more.
+[09:51] But yeah, honestly, this is one of the
+[09:53] most practical AI coding workflows that
+[09:55] you can set up right now. I'm not saying
+[09:57] this is the best workflow, but it is
+[09:59] going to help you in so many ways due to
+[10:02] Deep Seek's token efficiency. You're not
+[10:04] going to replace models like Opus or GPT
+[10:06] with this, but it's going to make using
+[10:08] Claude code a lot easier cuz it is truly
+[10:11] an incredible harness. And obviously,
+[10:14] due to the rate limit restrictions right
+[10:16] now, it is kind of unusable, but when
+[10:18] you combine it with obviously something
+[10:20] like Deep Seek right now, it is going to
+[10:22] make it a huge shift towards using
+[10:24] Claude code again. But with that
+[10:26] thought, guys, I hope you enjoyed
+[10:27] today's video and got some sort of
+[10:28] value. I'll leave all these links that I
+[10:30] use in today's video in the description
+[10:31] below. But with that thought, guys,
+[10:33] thank you guys so much for watching.
+[10:34] Have an amazing day. Spread positivity.
+[10:36] Go ahead and take a look at the second
+[10:38] channel. Join the newsletter. Join the
+[10:40] Discord. Follow me on Twitter, as well
+[10:42] as subscribing to the YouTube channel.
+[10:43] Make sure you turn on the notification
+[10:44] bell. Like this video. And please take a
+[10:46] look at our previous videos so that you
+[10:47] can stay up-to-date with the latest AI
+[10:49] news. But with that thought, guys, have
+[10:50] an amazing day. Spread positivity. And
+[10:52] I'll see you guys really shortly. Peace
+[10:54] out, fellas.

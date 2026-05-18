@@ -1,0 +1,43 @@
+{
+  "uid": "f7de9abc86df0ae4",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "OpenAI GPT-Realtime-2 voice model and Realtime API expansion",
+  "summary": "OpenAI launched GPT-Realtime-2, a voice model built on GPT-5-class reasoning, alongside GPT-Realtime-Translate and GPT-Realtime-Whisper. The release expands real-time voice agents with continuous-stream audio handling and a 128K context window.",
+  "source_video_uid": "292f305a188c741a",
+  "source_video_id": "t5UtgnjQST8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:56",
+  "links": [
+    "https://developers.openai.com/api/docs/models/gpt-realtime-2"
+  ],
+  "tags": [
+    "openai",
+    "voice",
+    "realtime-api",
+    "model"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://developers.openai.com/api/docs/models/gpt-realtime-2",
+    "web_findings": [
+      {
+        "title": "OpenAI launches GPT-Realtime-2",
+        "url": "https://thenextweb.com/news/openai-gpt-realtime-2-voice-models",
+        "snippet": "Three new voice models announced 7 May 2026; Realtime API exits beta."
+      },
+      {
+        "title": "gpt-realtime-2 Model | OpenAI API",
+        "url": "https://developers.openai.com/api/docs/models/gpt-realtime-2",
+        "snippet": "128K context, $32/$64 per million audio input/output tokens."
+      },
+      {
+        "title": "OpenAI on X announcement",
+        "url": "https://x.com/OpenAI/status/2052438196454379986",
+        "snippet": "Production-ready voice agents that handle interruptions, parallel tool calls, preambles."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

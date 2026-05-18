@@ -1,0 +1,362 @@
+[00:00] We've just came off one of the most
+[00:01] intense stretches in AI news and
+[00:04] honestly this next week looks even
+[00:06] crazier cuz today alone brought some
+[00:09] massive new developments. Moonshot AI
+[00:11] dropped Kimi Chat 2.6, an advanced
+[00:14] open-source coding model that already is
+[00:16] being compared to Opus 4.5 and Opus 4.6,
+[00:20] which is kind of wild considering it's
+[00:22] open-source. At the same time, GPT 5.5,
+[00:25] aka Spud, is reportedly right around the
+[00:28] corner, possibly dropping today or even
+[00:30] Thursday. And the leak generations
+[00:32] people have been sharing look quite
+[00:34] impressive, outperforming models like
+[00:36] Opus 4.7 and Gemini 3.1 Pro in a lot of
+[00:40] cases. On the Google side, we are
+[00:43] starting to see new Gemini checkpoints
+[00:45] surface, clearly gearing up for
+[00:47] announcements at the Google IO
+[00:48] conference. Meanwhile, Code 3.6 Max has
+[00:52] officially been released. Codec is
+[00:54] evolving into more of a super app and
+[00:56] that's barely scratching the surface of
+[00:58] what's happening right now. So, let's
+[01:00] dive quickly into all these news topics.
+[01:02] There's a lot of stuff in the AI space
+[01:03] that I don't really put on to the
+[01:05] YouTube channel and you can actually
+[01:07] access it through my free newsletter
+[01:08] with the link in the description below,
+[01:10] where you can subscribe completely for
+[01:11] free. To start off, let's take a look at
+[01:14] Kimi Chat 2.6, a new open-source coding
+[01:17] model that is delivering
+[01:18] state-of-the-art results across
+[01:20] benchmarks like Sway Bench, Browser
+[01:22] Comp, and advanced math and vision
+[01:24] tasks. You can see that it is something
+[01:26] that is competing up against proprietary
+[01:28] models while still being an open-source
+[01:30] model. Some cases, it is comparing it to
+[01:33] the 4.6, which is nice to see. But
+[01:36] still, the fact that this model is
+[01:38] basically on par or a little behind,
+[01:41] just by a little bit, to these
+[01:42] proprietary models is insane. This model
+[01:45] introduces major upgrades like
+[01:47] long-running coding sessions with
+[01:49] 12-hour plus sessions, 4,000 plus tool
+[01:52] calls, plus massive agent swarms with
+[01:54] 300 parallel agents. It also has strong
+[01:58] multi-language, multi-file development
+[02:00] from a single prompt. And on top of
+[02:02] that, it is extremely efficient, about
+[02:05] 94% cheaper on input and 95% cheaper on
+[02:09] output compared to Opus 4.6 while still
+[02:12] outperforming it on the Sway Bench Pro.
+[02:14] For example, the Kimi Chat 2.6 can
+[02:16] design and execute complex multi-step
+[02:19] workflows end-to-end like building full
+[02:21] quantitative strategies across hundreds
+[02:23] of assets.
+[02:24] And when it comes to front end, this
+[02:26] model is exceptional cuz it's able to
+[02:28] use tools and you can see that it's able
+[02:30] to process and develop beautiful landing
+[02:33] pages with different attributes, dynamic
+[02:35] movements, various sorts of
+[02:36] typographies, and this isn't possible
+[02:39] with proprietary models. And this isn't
+[02:41] something that you would expect from an
+[02:42] open-source model. Now, I know the speed
+[02:44] may be atrocious, but you can
+[02:46] essentially run the Kimi Chat 2.6, a
+[02:49] full 1 trillion parameter VLM, locally
+[02:52] using MLX on dual M3 Ultras. And this is
+[02:55] something you can see that is able to
+[02:57] process any sort of generation on this
+[03:00] device. Next, just yesterday, I had made
+[03:03] a video on the GPT 5.5, aka Spud, which
+[03:06] is rumored to be OpenAI's next major
+[03:09] model upgrade. Currently, it is being AB
+[03:11] tested inside ChatGPT, but we had taken
+[03:15] a look at early demos and we tested it
+[03:17] out and we noticed that it is incredible
+[03:20] in terms of its speed, token efficiency,
+[03:22] and reasoning with faster outputs and
+[03:25] stronger performance on complex tasks.
+[03:27] It's especially impressive in areas like
+[03:29] coding, SVG generation, game creation,
+[03:32] and even 3D workflows using tools like
+[03:35] 3.js. The model is something that also
+[03:37] stands out in terms of its creativity,
+[03:40] goes beyond prompts to add structure,
+[03:42] detail, and better design direction on
+[03:45] its own. Overall, it feels like a big
+[03:47] step forward that is something that is
+[03:49] more complete, agent-like, you can say,
+[03:52] and not just generating code but
+[03:54] building full experiences. The best way
+[03:56] to think about it is that it's a halfway
+[03:58] point to GPT-6, combining better
+[04:00] reasoning, faster performance, and lower
+[04:03] cost into one model.
+[04:06] Today, I actually had created an Excel
+[04:08] clone using the GPT 5.5. It is something
+[04:11] that is not just something that was
+[04:12] cloned visually, but it actually feels
+[04:15] real cuz you have grid behaviors, you
+[04:17] have formatting, interactions, and it is
+[04:20] squarely close to the real thing. This
+[04:23] is something that I didn't really expect
+[04:24] from the GPT 5.5 and I got to say the
+[04:27] front-end development for this model is
+[04:29] definitely something that you would want
+[04:31] to look out for cuz if it is token
+[04:34] efficient, plus it is something that is
+[04:36] easily and readily accessible compared
+[04:39] to the Opus 4.7, then this may be the
+[04:42] option that you would want to use for
+[04:43] coding-related task over the Opus. And
+[04:46] not to get your hopes up, but this is
+[04:48] something that I had personally saw on
+[04:50] Polymarket right now and this is where
+[04:52] they are suspecting, a lot of people are
+[04:54] suspecting that the GPT 5.5 could be
+[04:57] released today or the latest, at the
+[04:59] very latest, Thursday. Cuz these are the
+[05:01] two days usually OpenAI tends to drop
+[05:04] their models and there are a lot of
+[05:06] different signs pointing at OpenAI
+[05:08] releasing a model this week. Take this
+[05:10] with a grain of salt, but next up is a
+[05:12] claim coming from Zang, a Princeton PhD
+[05:15] researcher and Princeton AI Lab Fellow
+[05:19] that is working on large language model
+[05:20] reasoning. According to these reports,
+[05:23] DeepSeek version 4 could be releasing
+[05:25] this week and it is something that
+[05:27] features a massive architecture design
+[05:30] that includes sparse MQA, fused MOE
+[05:33] kernels, and hyperconnections. It is
+[05:36] rumored to be a 1.6 trillion parameter
+[05:39] MOE model that is positioned to compete
+[05:41] directly with models like Opus 4.7 as
+[05:44] well as the new GPT 5.5. Early leaks are
+[05:47] suggesting extreme performance levels
+[05:50] including MMLU around 99.4%
+[05:53] and Sway Bench at 83.7%.
+[05:56] Though, these numbers still are
+[05:57] unverified, obviously. And because of
+[06:00] the model scale, only heavily quantized
+[06:02] versions would realistically run
+[06:03] locally, potentially requiring something
+[06:06] like a 512 GB class machine as well as
+[06:10] extensive hardware to actually run this
+[06:12] model. And while all of this is still in
+[06:14] the rumor stage, multiple leaks across
+[06:16] forums and research circles suggest that
+[06:18] we could be actually seeing the DeepSeek
+[06:20] version 4 this week. Next is related to
+[06:23] the Codec app, which is something that
+[06:25] OpenAI recently had just introduced.
+[06:28] It's no longer just a coding tool cuz it
+[06:30] can now interact with apps on your Mac,
+[06:33] connect to external tools, learn from
+[06:35] your previous actions, remember how you
+[06:37] like to actually work, and handle
+[06:39] ongoing repeatable tasks. One of the
+[06:41] biggest additions is computer use on Mac
+[06:43] OS, where Codec can actually see, click,
+[06:47] and type using its own cursor. It runs
+[06:49] in the background without taking over
+[06:51] your system, which means that it can
+[06:53] handle things like front-end iteration,
+[06:55] app testing, and workflows that don't
+[06:57] even have APIs. On top of that, it now
+[07:00] suggests image generations with GPT
+[07:02] Image 1.5. By the way, we might even see
+[07:05] GPT Image 2 soon, directly inside Codec.
+[07:08] But this is something that lets you
+[07:10] create front-end mockups, game assets,
+[07:12] and UI designs without leaving your
+[07:14] workflow. And automations have been also
+[07:17] upgraded, too. This task can now
+[07:19] continue across sessions in the same
+[07:21] thread. Codec can schedule work, pause,
+[07:24] and then wake back up later with full
+[07:26] context, whether it's finishing PRs or
+[07:29] tracking ongoing projects. At this
+[07:32] point, it is basically turning into a
+[07:34] full super app for development and
+[07:36] automation. And on top of that, they've
+[07:38] also just released a research preview of
+[07:41] something called Chronicle inside Codec.
+[07:43] This essentially allows Codec to build
+[07:46] memory from your day-to-day work on your
+[07:48] computer. And then it uses those
+[07:50] memories later to become completely and
+[07:53] significantly more helpful and
+[07:55] context-aware over time to help you and
+[07:57] further assist whenever it's needed.
+[08:00] It's currently available for pro users
+[08:02] on Mac only, and while it's still early
+[08:04] and fairly token-heavy, people inside
+[08:07] OpenAI are already saying that it has
+[08:10] noticeably changed how they use Codec in
+[08:12] daily workflows. Next is an XAI model
+[08:15] that I truly find underrated, the Grok
+[08:18] 4.3 beta, which is something that is
+[08:20] exceptional at front end as well as
+[08:23] coding-related task. This is where I had
+[08:25] requested it to create a beautiful CSS
+[08:28] code clone and you can see that it
+[08:30] actually created a full-on bazooka,
+[08:32] which is incredible. But essentially,
+[08:34] this is XAI's latest test model that is
+[08:38] approximately 3.5 trillion parameters.
+[08:40] It's a newer checkpoint, it has an
+[08:42] improved architecture, and in terms of
+[08:45] knowledge cutoff, it has been trained up
+[08:47] to December 2025. You can easily access
+[08:50] it if you are on Super Grok Heavy and it
+[08:54] should be available for most users soon.
+[08:56] The key upgrades are native multimodal
+[08:59] with better visual understanding,
+[09:01] agentic tool use, coding, it is
+[09:03] something that can even generate full
+[09:05] docs, slides, PDFs, spreadsheets, and it
+[09:08] also reasons better with fewer
+[09:10] hallucination.
+[09:12] Now, I know that model is great and all,
+[09:14] but what's even more wild is what Elon
+[09:16] had recently stated about the Grok
+[09:18] roadmap. According to his comments, Grok
+[09:20] 4.4 is expected to be a 1 trillion
+[09:23] parameter model that is releasing early
+[09:25] May, followed quickly by the Grok 4.5 at
+[09:29] around 1.5 trillion parameters in late
+[09:31] May. And then comes the biggest claim of
+[09:34] all, Grok 5, being positioned as AGI.
+[09:38] Now, if even partially accurate, that
+[09:40] would basically mean that we're looking
+[09:42] at two major model releases separating
+[09:45] us from what he's calling AGI based off
+[09:48] of his own timeline.
+[09:50] And something to note is that we don't
+[09:52] really know what Elon's definition of
+[09:54] AGI is, so just keep that in mind. Next
+[09:57] up, Alibaba has quietly dropped a
+[09:59] preview of its flagship model, the Qwen
+[10:01] 3.6 Max preview. It's an early look at
+[10:04] their next-generation system, and the
+[10:07] focus is clearly on stronger agentic
+[10:09] coding capabilities compared to Qwen 3.6
+[10:11] Plus. Along with better instruction
+[10:13] following and improved real-world
+[10:15] reasoning and knowledge reliability. In
+[10:18] simple terms, it's designed to be
+[10:20] smarter, more consistent in long horizon
+[10:22] tasks, and more capable as an autonomous
+[10:25] agent in practical workflows. Now,
+[10:27] unfortunately, this isn't open source,
+[10:30] but hopefully we can get an open source
+[10:32] preview of this in the future. With the
+[10:34] Google I/O conference roughly 28 days
+[10:37] away, the hype is definitely starting to
+[10:39] build up again, and Google has begun
+[10:41] testing newer Gemini checkpoints inside
+[10:44] the AI studio. Early signals suggest we
+[10:46] could be looking at something like the
+[10:48] Gemini 3.2 Pro, or even the Gemini 3.5
+[10:52] Pro, and it is something that is
+[10:54] significantly upgraded. There are also
+[10:56] hints that what's being tested might
+[10:58] actually be a lighter flash type variant
+[11:01] of the Gemini 3.1 series, rather than a
+[11:04] full flagship jump. But, this is all
+[11:06] speculation. From what we're seeing, the
+[11:09] quality doesn't look like a major leap
+[11:11] yet, but it's still very early in the AB
+[11:13] testing, so things could quickly change,
+[11:16] like we previously saw from the initial
+[11:18] Gemini 3 release. Speaking of this new
+[11:21] conference, the leaks are starting to
+[11:22] surface, and Google is reportedly
+[11:24] testing out a new Colab style competitor
+[11:26] inside Gemini and Gemini in surprise,
+[11:29] currently referred to as agent. This is
+[11:32] something that is going to function
+[11:34] exactly like Colab, and it is something
+[11:36] that will let you essentially automate
+[11:38] different sorts of agentic tasks, and it
+[11:41] is something that exactly functions like
+[11:43] Colab, where you can delegate different
+[11:45] goals, agent assignments, connect
+[11:48] different sorts of applications, and
+[11:50] what I really think this would be useful
+[11:52] for is having it work upon all the
+[11:55] Google Workspace connections, which is
+[11:57] going to be able to allow you to
+[11:58] automate Gmail, your spreadsheets,
+[12:01] anything that is cloud-based and
+[12:03] workspace-related. Also, Google has now
+[12:05] expanded access to your Google AI
+[12:08] subscription, where it is something that
+[12:10] works inside Google AI studio. This
+[12:12] means increased 5 coding limits and
+[12:14] direct access to pro models without
+[12:16] needing to link an API. So, in practice,
+[12:19] if you have the pro or ultra plan, you
+[12:21] can use extended usage within the Google
+[12:24] AI studio.
+[12:25] And to wrap it all up, we've even hit a
+[12:27] point where robotics is starting to feel
+[12:29] straight out of a sci-fi simulation
+[12:32] powered by AI. There's now a
+[12:34] full-fledged robot competing in a
+[12:36] marathon, even outperforming humans in
+[12:38] certain segments, which already feels a
+[12:41] bit dystopian on its own. What's even
+[12:43] more surreal is how it's engineered, the
+[12:46] whole system, the movements, everything
+[12:48] a part of it. It even functions like how
+[12:51] a full-on F1 pit stop is simulated, and
+[12:55] this is where humans step in quickly to
+[12:57] service the robot, cool down the robot
+[12:59] between runs, which is kind of funny,
+[13:01] and in some cases, they are even using
+[13:03] dry ice for cooling, which is
+[13:05] essentially turning it into the F1 of
+[13:07] robots. This is something that was fun,
+[13:09] and I wanted to include it in today's
+[13:10] video. If you like this video and would
+[13:13] love to support the channel, you can
+[13:14] consider donating to my channel through
+[13:17] the Super Thanks option below. Or, you
+[13:19] can consider joining our private
+[13:21] Discord, where you can access multiple
+[13:23] subscriptions to different AI tools for
+[13:25] free on a monthly basis, plus daily AI
+[13:28] news and exclusive content, plus a lot
+[13:30] more. But, that's about it, guys, for
+[13:32] today's video. I hope you found this
+[13:33] video to be informative, and that you
+[13:35] were able to get some sort of value out
+[13:37] of it. Make sure you go ahead and take a
+[13:39] look at the second channel. This is
+[13:40] where we're also constantly posting AI
+[13:43] on a daily basis, as well as our
+[13:44] newsletter, the Discord, as well as
+[13:46] following me on Twitter. And lastly,
+[13:48] make sure you guys subscribe, turn on
+[13:49] the notification bell, like this video,
+[13:51] and please take a look at our previous
+[13:52] videos so that you can stay up-to-date
+[13:54] with the latest AI news. But, with that
+[13:55] thought, guys, thank you guys so much
+[13:56] for watching. Have an amazing day.
+[13:58] Spread positivity, and I'll see you guys
+[14:00] really shortly. Peace out, fellas.

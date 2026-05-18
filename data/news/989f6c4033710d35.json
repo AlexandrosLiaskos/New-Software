@@ -1,0 +1,47 @@
+{
+  "uid": "989f6c4033710d35",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "model",
+  "title": "Anthropic releases Claude Opus 4.7",
+  "summary": "Anthropic has released Claude Opus 4.7, its most capable Opus model. SWE-bench Verified rises from 80.8% to 87.6% versus Opus 4.6 and SWE-bench Pro from 53.4% to 64.3%; MCP-Atlas reaches 77.3%, a leading score for multi-tool orchestration. Vision processes images at over three times higher resolution. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. Anthropic warns that prompts tuned for Opus 4.6 may need retuning because the new model interprets instructions more literally.",
+  "source_video_uid": "9a25b616ea2730d8",
+  "source_video_id": "lzdmb_Z-yZc",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:00",
+  "links": [
+    "https://www.anthropic.com/news/claude-opus-4-7",
+    "https://www.anthropic.com/claude/opus",
+    "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "claude-opus-4.7",
+    "model",
+    "agentic-coding"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.anthropic.com/claude/opus",
+    "notes": "Released 2026-04-16. Available on Claude Pro/Max/Team/Enterprise, the API, Amazon Bedrock, Vertex AI and Microsoft Foundry. First Claude model to pass Anthropic's 'implicit-need' tests. Reasoning tiers shifted up one notch (low ~ old medium, etc.). Token usage per task is higher than Opus 4.6.",
+    "web_findings": [
+      {
+        "title": "Introducing Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "snippet": "Most capable Opus model; major gains on SWE-bench and agentic reasoning."
+      },
+      {
+        "title": "Claude Opus 4.7 leads on SWE-bench and agentic reasoning",
+        "url": "https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release",
+        "snippet": "Beats GPT-5.4 and Gemini 3.1 Pro on agentic coding benchmarks."
+      },
+      {
+        "title": "Claude Opus 4.7 is generally available",
+        "url": "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/",
+        "snippet": "GA on GitHub Copilot 2026-04-16."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

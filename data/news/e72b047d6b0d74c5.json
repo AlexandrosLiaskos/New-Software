@@ -1,0 +1,25 @@
+{
+  "uid": "e72b047d6b0d74c5",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "tool",
+  "title": "Claude Code /radio: built-in lo-fi coding station",
+  "summary": "Claude Code added a /radio command that opens Claude FM, an in-CLI lo-fi music stream intended for coding sessions.",
+  "source_video_uid": "ddb71460f4d430fe",
+  "source_video_id": "-jINRoST0mk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:46",
+  "links": [
+    "https://docs.claude.com/en/docs/claude-code"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "cli"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Minor cosmetic feature mentioned in transcript; not independently verified."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

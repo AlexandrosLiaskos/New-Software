@@ -1,0 +1,45 @@
+{
+  "uid": "40c572f9620ce8ec",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Xiaomi MiMo V2.5 Pro open-source MoE model with 1T parameters",
+  "summary": "Xiaomi released MiMo V2.5 Pro, a one-trillion-parameter mixture-of-experts model with 42 billion active parameters, hybrid attention architecture and a one-million-token context window. The model is MIT-licensed and reportedly matches Claude Opus 4.6 and Gemini 3.1 Pro on certain coding and agentic benchmarks.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "07:20",
+  "links": [
+    "https://mimo.xiaomi.com/mimo-v2-5-pro/"
+  ],
+  "tags": [
+    "xiaomi",
+    "mimo",
+    "open-source",
+    "moe",
+    "model"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+    "license": "MIT",
+    "web_findings": [
+      {
+        "title": "Xiaomi Releases MiMo-V2.5-Pro",
+        "url": "https://rits.shanghai.nyu.edu/ai/xiaomi-releases-mimo-v2-5-pro-1t-parameter-open-moe-matches-frontier-coding-models/",
+        "snippet": "1.02T params, 42B active, hybrid-attention, 1M context."
+      },
+      {
+        "title": "MiMo V2.5 Pro coding benchmarks",
+        "url": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
+        "snippet": "Roughly 57.2 percent on SWE-bench Pro, neighbourhood of Claude Opus 4.6."
+      },
+      {
+        "title": "VentureBeat: open-source MiMo on agentic tasks",
+        "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+        "snippet": "Strong token efficiency on agentic coding benchmarks."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "52115a49dce1ba9e",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "OpenAI GPT-5.6 and GPT-5.5 Codex variant spotted in backend logs",
+  "summary": "Internal Codex routing logs reference a GPT-5.6 rollout entry, and a separate model slug for a GPT-5.5 Codex variant was discovered in OpenAI backend logs. Both suggest dedicated coding and successor models are being prepared within weeks.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:42",
+  "links": [],
+  "tags": [
+    "openai",
+    "gpt-5.5",
+    "gpt-5.6",
+    "codex",
+    "model"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Discovered via API logs reported by legit API on X; no OpenAI announcement."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

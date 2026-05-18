@@ -1,0 +1,27 @@
+{
+  "uid": "48e8cd010c6da9d8",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "model",
+  "title": "Gemini 3 Flash quietly upgraded in LM Arena",
+  "summary": "Google updated the Gemini 3 Flash slug in LM Arena (rebranded as Arena) with a checkpoint whose output quality is reported to approach Gemini 3.1 Pro. Google also notified Vertex AI customers that Gemini 3.1 Flash-Lite will become generally available.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:09",
+  "links": [
+    "https://lmarena.ai/",
+    "https://cloud.google.com/vertex-ai"
+  ],
+  "tags": [
+    "google",
+    "gemini",
+    "lm-arena",
+    "model"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Anonymous arena checkpoint; slug unchanged so version identification is unverified."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

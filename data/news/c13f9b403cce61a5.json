@@ -1,0 +1,26 @@
+{
+  "uid": "c13f9b403cce61a5",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Claude Cardinal: in-app memory and usage analytics dashboard",
+  "summary": "A Claude feature codenamed Cardinal is reported to surface a monthly visual breakdown of user activity, conversation clusters, working styles and focus areas, exposed in a redesigned settings layout across mobile, web and desktop.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "03:32",
+  "links": [
+    "https://claude.ai/"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "memory",
+    "leak"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Unreleased feature observed in app strings; not officially announced."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

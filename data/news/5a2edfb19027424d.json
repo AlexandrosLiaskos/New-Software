@@ -1,0 +1,32 @@
+{
+  "uid": "5a2edfb19027424d",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "DeepSeek V4 Pro extends discount and adds 1M context inside Claude Code",
+  "summary": "The DeepSeek team extended a 75 percent API discount for DeepSeek V4 Pro through 31 May and shipped a one-million-token context window directly inside Claude Code via the deepseek-v4-pro-1m model tag, along with compatibility updates for Open Code and OpenClaw.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "14:24",
+  "links": [
+    "https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code"
+  ],
+  "tags": [
+    "deepseek",
+    "claude-code",
+    "context-window",
+    "pricing"
+  ],
+  "research_status": "researched",
+  "research": {
+    "web_findings": [
+      {
+        "title": "Integrate with Claude Code | DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code",
+        "snippet": "Set ANTHROPIC_BASE_URL to https://api.deepseek.com/anthropic; DeepSeek as Anthropic-compatible backend."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

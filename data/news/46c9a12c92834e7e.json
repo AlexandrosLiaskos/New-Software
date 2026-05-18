@@ -1,0 +1,43 @@
+{
+  "uid": "46c9a12c92834e7e",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "model",
+  "title": "Xiaomi open-sources MiMo v2.5 Pro trillion-parameter MoE",
+  "summary": "Xiaomi has released MiMo v2.5 Pro, a roughly 1.02-trillion-parameter Mixture-of-Experts model with 42 billion active parameters, a 1 million token context window and hybrid attention. Released under the MIT license for commercial deployment, the model targets long-horizon agentic workflows and software engineering, reporting competitive scores on SWE-bench Pro, GDP-Eval and Claw-Eval versus Claude Opus 4.6, Gemini 3.1 Pro and GPT-5.4 while using 40-60% fewer tokens. API pricing is $1 per million input tokens and $3 per million output tokens.",
+  "source_video_uid": "73930f3886708e27",
+  "source_video_id": "popj1l3LA-I",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:00",
+  "links": [
+    "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+    "https://openrouter.ai/xiaomi/mimo-v2.5-pro"
+  ],
+  "tags": [
+    "xiaomi",
+    "mimo",
+    "mimo-v2.5-pro",
+    "moe",
+    "open-source",
+    "model",
+    "agentic"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+    "notes": "MIT license. ~1.02T parameters / 42B active; trained FP8 across ~27T tokens. Sustains 1000+ tool calls. Released alongside the MiMo v2.5 base model (native omni). Available via MiMo Studio, OpenRouter and Kilo Code (with $25 free credits).",
+    "web_findings": [
+      {
+        "title": "Xiaomi Releases MiMo-V2.5-Pro: 1T-Parameter Open MoE",
+        "url": "https://rits.shanghai.nyu.edu/ai/xiaomi-releases-mimo-v2-5-pro-1t-parameter-open-moe-matches-frontier-coding-models/",
+        "snippet": "1T-parameter open MoE matches frontier coding models."
+      },
+      {
+        "title": "Xiaomi open-sources MiMo-V2.5 Pro under MIT license",
+        "url": "https://www.thestandard.com.hk/china/article/330592/Xiaomi-open-sources-MiMo-V25-Pro-model-under-MIT-license-topping-benchmarks",
+        "snippet": "Open-sourced under MIT license, topping benchmarks."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

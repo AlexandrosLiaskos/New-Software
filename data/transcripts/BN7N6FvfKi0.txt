@@ -1,0 +1,286 @@
+[00:00] This week closes out with a bang because
+[00:02] we've got some massive AI developments
+[00:04] starting off with Anthropic where new
+[00:06] strings referencing a mysterious Claude
+[00:09] model code named Claude Jupiter has been
+[00:11] discovered. This could potentially be
+[00:13] the Sonnet 4.8 and although it's far
+[00:16] less likely some people are even
+[00:18] speculating about Claude 5. Either way
+[00:21] there is a strong chance we could see
+[00:23] this new model being revealed during
+[00:25] Anthropic's developer event on May 6th
+[00:28] next week. But that's not all. Over on
+[00:31] LM Arena or now rebranded to Arena,
+[00:34] there is a brand new Gemini model, a
+[00:36] flash variant that was spotted and the
+[00:39] quality of its output honestly looked
+[00:41] incredible. Meanwhile, OpenAI continues
+[00:44] pushing Codex forward with a really
+[00:46] interesting new feature called pets
+[00:48] which is pretty fun. And you also have
+[00:50] Arc AGI 3 benchmark scores
+[00:53] >> [music]
+[00:53] >> which have officially dropped. xAI
+[00:55] quietly releasing Grok 4.3 through the
+[00:58] API and there's a ton more happening
+[01:00] across the AI space right now. So let's
+[01:02] just simply dive into the news.
+[01:05] Starting things off with Anthropic which
+[01:07] may be preparing for another major model
+[01:09] release ahead of its upcoming Code with
+[01:11] Claude developer conference on May 6th.
+[01:14] Reports are surfacing that Anthropic has
+[01:16] begun internally red teaming a new model
+[01:19] code named Claude Jupiter version 1. Now
+[01:22] it's important to note that Jupiter is
+[01:24] most likely an internal code name and
+[01:26] obviously won't be a public facing name
+[01:28] for the model. But what makes this
+[01:30] really interesting is its timing. Last
+[01:33] year Anthropic reportedly used another
+[01:35] planetary code name Neptune shortly
+[01:38] before unveiling the Claude 4 family. So
+[01:41] seeing Jupiter appear right before this
+[01:43] year's developer event has many people
+[01:45] speculating that a new launch could be
+[01:47] imminent. Some believe that this could
+[01:50] simply be Sonnet 4.8 or Haiku 4.7
+[01:53] finally arriving while others are
+[01:55] wondering if it could potentially be
+[01:57] something bigger tied to the rumored
+[01:59] Mythos architecture or even early
+[02:02] foundation of Claude 5. Personally, I
+[02:05] think Claude 5 is still unlikely right
+[02:07] now but a meaningful Sonnet upgrade
+[02:09] feels very realistic. Now even on
+[02:11] Polymarket, you have a lot of people
+[02:14] voting against a release of Claude 5
+[02:17] before May 31st.
+[02:19] What's also notable is that Anthropic's
+[02:21] current lineup still only prominently
+[02:23] features Opus 4.7 while updated Sonnet
+[02:27] and Haiku variants remain missing. This
+[02:30] leaves a pretty obvious gap in their
+[02:31] ecosystem especially considering how
+[02:34] important Sonnet models have become for
+[02:36] coding workflows and AI agents inside
+[02:39] Claude Code. According to the report
+[02:41] that testing catalog has written up
+[02:43] which I'll leave in the description
+[02:44] below. The new Jupiter build is
+[02:47] currently undergoing safety evaluations,
+[02:49] jailbreak testing and constitutional
+[02:51] classifier stress tests as part of
+[02:54] Anthropic's responsible scaling policies
+[02:56] before deployment. If everything stays
+[02:59] on schedule whatever this model ends up
+[03:02] being would likely roll out across
+[03:04] Anthropic's platform, Claude Code and
+[03:06] all the other Claude consumer
+[03:08] applications shortly after announcement.
+[03:10] So overall, this definitely feels like
+[03:13] one of the biggest and strongest hints
+[03:14] yet that Anthropic is about to reveal
+[03:17] something important next week and I am
+[03:19] truly excited to see what ends up
+[03:21] releasing with this new drop. If you
+[03:24] want the best AI tools, workflows and
+[03:26] drops before everyone else, join my free
+[03:29] newsletter with the link in the
+[03:30] description below which is completely
+[03:32] free. On the topic of Anthropic, Claude
+[03:34] may soon get a new feature internally
+[03:36] code named Cardinal where users would
+[03:39] reportedly be able to select the month
+[03:41] and see a visual breakdown of their
+[03:43] activity including conversation
+[03:45] clusters, working styles and areas they
+[03:47] focus on the most. So instead of memory
+[03:49] just existing silently within the
+[03:51] background, you can see your memory in a
+[03:53] way where Anthropic seems to be turning
+[03:55] it into a specialized AI analytics
+[03:58] dashboard but for your memory. Now this
+[04:00] feature is expected to appear inside
+[04:02] settings alongside a redesigned settings
+[04:05] layout for both mobile and web as well
+[04:08] as desktop apps.
+[04:10] With the Google I/O now less than 3
+[04:12] weeks away, Google seems to be rapidly
+[04:14] testing new Gemini models behind the
+[04:16] scenes because today the Gemini 3 flash
+[04:19] model inside LM Arena has quietly
+[04:22] updated. Interestingly, it keeps the
+[04:24] exact same Gemini 3 flash slug but the
+[04:28] output quality reportedly feels
+[04:29] dramatically better and I have
+[04:31] personally tested out and it is pretty
+[04:33] great in my opinion. People testing it
+[04:36] right now like Ken are saying that the
+[04:38] performance jump feels about two tiers
+[04:40] above the current version with reasoning
+[04:43] and response quality appearing much
+[04:45] closer to the current Gemini 3.1 Pro
+[04:48] rather than the standard Gemini 3 flash.
+[04:50] Right now it's unclear whether this is
+[04:52] an early Gemini 3.1 flash, 3.2 flash or
+[04:56] even 3.5 flash build but regardless,
+[04:59] this looks like a massive upgrade ahead
+[05:02] for Google. Besides that, Google also
+[05:05] sent out emails to Vertex AI customers
+[05:07] still using the Gemini flash tool
+[05:09] revealing that Gemini 3.1 flashlight
+[05:11] will soon become generally available. So
+[05:14] not only does Google appear to be
+[05:16] testing upgraded Gemini flash models
+[05:18] inside the arena but they're also
+[05:20] preparing to a broader production
+[05:22] rollout across Vertex AI as well.
+[05:26] Now in my particular test, I had
+[05:27] requested it to create a Minecraft clone
+[05:29] and I'm not saying this is perfect but
+[05:31] the quality is definitely there. The
+[05:33] fact that I'm able to place down
+[05:34] different blocks, break it, also have
+[05:37] infinite terrain being generated is a
+[05:39] remarkable feature that was outputted
+[05:41] with this generation. AI battle did a
+[05:44] comparison test of the new Gemini 3
+[05:46] flash in the arena versus the previous
+[05:49] Gemini 3 flash and you can clearly see
+[05:51] on the voxel test it did a great job in
+[05:53] creating the scene and it was able to
+[05:55] depict it with the flash model which is
+[05:57] definitely remarkable to see cuz a flash
+[05:59] model shouldn't be able to output this
+[06:01] sort of quality and he also said that if
+[06:04] you were to go over to the battle out of
+[06:06] the last seven battles he had or the
+[06:09] last seven tests within the arena, he
+[06:11] got the Gemini 3 flash, the new one, six
+[06:14] times out of seven.
+[06:16] Now to access this new flash variant,
+[06:18] what you got to do is head over to
+[06:19] arena. You can simply click on battle
+[06:21] mode and then whenever you send in a
+[06:23] prompt, you have a slight chance to get
+[06:25] the Gemini 3 flash after you have sent
+[06:28] in a prompt and have voted. But after
+[06:30] voting, you will be able to see if you
+[06:33] have gotten the flash variant. Moving
+[06:35] forward, OpenAI just dropped a
+[06:37] surprisingly fun update for Codex called
+[06:40] pets. You can now use {slash}pet to wake
+[06:43] your companion and {slash}hatch to
+[06:45] customize your Codex pet with different
+[06:47] built-in and local designs. The pets act
+[06:50] as optional animated companions that
+[06:53] float on your screen while Codex works
+[06:55] in the background. But this isn't just
+[06:57] cosmetics. This is an overlay that
+[06:59] actually shows live Codex activity
+[07:02] including the active thread, whether the
+[07:04] agent is currently running, waiting for
+[07:06] input or ready for review alongside
+[07:08] quick progress updates so that you can
+[07:10] monitor tasks without reopening the app.
+[07:13] Honestly, it's such a smart way to make
+[07:15] long-running AI agent workflows feel
+[07:18] more alive and interactive. Next is a
+[07:21] really great practical feature that
+[07:23] OpenAI has introduced to Codex and I
+[07:26] truly believe that this is making Codex
+[07:28] into a super app cuz it makes it easier
+[07:31] to fully transition into Codex with new
+[07:33] migration system that lets users import
+[07:36] settings, plugins, agents, project
+[07:39] configurations and more in just a few
+[07:41] clicks. The goal here is pretty clear
+[07:43] for OpenAI. They're trying to reduce
+[07:45] friction and make switching workflows
+[07:47] into Codex feel seamless instead of
+[07:49] rebuilding everything from scratch.
+[07:52] Next up is the new Arc AGI 3 benchmark
+[07:55] which had just released new scores on
+[07:58] this new
+[08:11] in high mode while the GPT 5.5 slightly
+[08:15] improved to a 0.4 percentage. Now
+[08:18] Anthropic's Opus 4.6 max achieved a 0.5
+[08:22] percentage while the Opus 4.7 is at a
+[08:25] 0.2 percentage. Now even best performing
+[08:28] models are still barely solving these
+[08:30] tasks which is really showing how
+[08:33] difficult the Arc AGI 3 benchmark is.
+[08:36] Now despite all the massive improvements
+[08:38] we have seen in coding, reasoning and
+[08:40] agentic workflows, benchmarks like this
+[08:43] continue reminding everyone that true
+[08:44] generalized intelligence is still very
+[08:47] hard and it should take some more time
+[08:50] and it will probably take a couple more
+[08:51] years to fully solve this. GitHub had
+[08:54] also made a pretty big change with the
+[08:56] brand new Copilot max plan and this is a
+[08:59] subscription tier that is officially in
+[09:00] the works as part as a larger revamp of
+[09:04] GitHub's AI lineup. Right now it mostly
+[09:06] appears as a placeholder but it's pretty
+[09:09] clear that GitHub is preparing to be
+[09:11] launching a much higher end Copilot
+[09:14] experience targeted towards power users
+[09:16] and advanced AI workflows. This is where
+[09:18] it's currently priced at $99 per month.
+[09:21] So let's see if this is going to be
+[09:23] worthwhile or not. Lastly, xAI has
+[09:26] officially launched Grok 4.3 through the
+[09:28] API while also introducing a pretty wild
+[09:30] new creative workflow system called
+[09:32] Imagine Agent mode. And I got to say
+[09:34] it's pretty impressive cuz inside
+[09:36] Imagine, users can brainstorm ideas,
+[09:39] write content, generate and even edit
+[09:41] images and even turn those creations
+[09:44] directly into videos. And I got to say
+[09:46] Imagine is a pretty great model itself
+[09:49] in terms of how it's able to translate
+[09:51] different images to videos all from one
+[09:54] continuous workspace without switching
+[09:56] tools or tabs. It's basically becoming
+[09:58] an infinite AI creative canvas where
+[10:00] text, images, and video generation all
+[10:03] exist inside the same workflow. And I
+[10:06] truly believe that Grok will be making a
+[10:08] comeback in the near future. So, I'm
+[10:10] definitely excited to see what they end
+[10:12] up releasing later this year. If you
+[10:13] like this video and would love to
+[10:15] support the channel, you can consider
+[10:17] donating to my channel through the Super
+[10:19] Thanks option below. Or you can consider
+[10:22] joining our private Discord where you
+[10:24] can access multiple subscriptions to
+[10:26] different AI tools for free on a monthly
+[10:28] basis, plus daily AI news and exclusive
+[10:31] content, plus a lot more. But that's
+[10:33] about it, guys. I'm really excited for
+[10:35] this new Anthropic launch, which is why
+[10:36] I mostly created this video on it. But
+[10:39] with that thought, guys, I hope you
+[10:40] enjoyed today's video and got some sort
+[10:41] of value. If you like these AI news
+[10:43] videos, please comment down in the
+[10:44] description below. But with that
+[10:45] thought, guys, thank you guys so much
+[10:46] watching. Make sure you go ahead and
+[10:48] subscribe to the second channel, join
+[10:49] the newsletter, join the Discord, follow
+[10:51] me on Twitter. And lastly, make sure you
+[10:52] guys subscribe, turn on notification
+[10:53] bell, like this video, and please take a
+[10:55] look at our previous videos so that you
+[10:56] can stay up-to-date with the latest AI
+[10:58] news. But with that thought, guys, have
+[10:59] an amazing day. Spread positivity, and
+[11:01] I'll see you guys really shortly. Peace
+[11:03] out, fuzz.

@@ -1,0 +1,26 @@
+{
+  "uid": "4f5572a484e1e115",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "OpenAI Codex evolves into desktop super-app with computer use",
+  "summary": "OpenAI's Codex app now provides macOS computer use (visual UI control with its own cursor for front-end iteration and apps without APIs), in-app image generation via GPT Image 1.5, and cross-session task continuation. A research preview called Chronicle gives Codex persistent memory of day-to-day work. Currently Mac-only for Pro users.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:22",
+  "links": [
+    "https://openai.com/codex"
+  ],
+  "tags": [
+    "openai",
+    "codex",
+    "computer-use",
+    "agent"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Features described in transcript; cross-check official OpenAI Codex release notes."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

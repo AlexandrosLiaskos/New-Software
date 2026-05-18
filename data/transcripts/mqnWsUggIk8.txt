@@ -1,0 +1,369 @@
+[00:00] As wild as it sounds, today I'm going to
+[00:02] be showcasing how you can actually use a
+[00:04] tool that lets anyone automate basically
+[00:07] every part of a business, whether that's
+[00:10] operational, marketing, sales, or even
+[00:12] finance. It can genuinely handle all of
+[00:15] it. This is a tool that's called Twin,
+[00:18] the AI company builder, and it's also
+[00:21] today's video sponsor. Right now, most
+[00:23] people still think building AI agents
+[00:26] means writing complex workflows,
+[00:28] connecting APIs, or using tools like
+[00:30] Zapier or n8n that quickly get
+[00:33] overwhelming and technical. But what if
+[00:35] instead of all that, you could just
+[00:38] simply describe what you want in plain
+[00:40] English, and an AI agent actually
+[00:43] builds, runs, and manages the entire
+[00:45] system for you autonomously? That is
+[00:49] exactly what Twin does, and it's not
+[00:51] just another chatbot or automation tool.
+[00:54] Twin lets you create fully autonomous AI
+[00:57] agents that can handle real business
+[00:59] tasks end-to-end, like lead generation,
+[01:02] customer support, or even running entire
+[01:05] operations without you touching anything
+[01:07] technical. And just to show you how
+[01:10] crazy this gets, take a look at this.
+[01:12] For example, you can ask Twin to build a
+[01:15] full pool cleaning dispatch service for
+[01:18] hotels, and it doesn't just plan it, it
+[01:20] actually executes each step of how this
+[01:23] business actually functions, like
+[01:25] finding hotels, reaching out to them,
+[01:28] handles cold outreach, meaning it
+[01:30] actually calls each individual lead. It
+[01:33] tracks the lead as well, schedules jobs,
+[01:36] and even generates invoices
+[01:37] automatically. And that way you have a
+[01:40] full functional business that was
+[01:41] created in less than a day, completely
+[01:44] autonomous. So, this is what I'm going
+[01:46] to be showcasing how you can set up
+[01:48] throughout today's video, how you can
+[01:50] actually automate almost anything and
+[01:52] build an AI business. If you want the
+[01:55] best AI tools, workflows, and drops
+[01:58] before everyone else, join my free
+[02:00] newsletter with the link in the
+[02:01] description below, which is completely
+[02:03] free. So, to get started, use the link
+[02:05] in the description below to head over to
+[02:06] twin.so, and once you are here, you can
+[02:10] easily create an account completely for
+[02:12] free by clicking on try now. You can
+[02:14] create an account with either your
+[02:16] Google account or with your email
+[02:18] address, and this way you can easily get
+[02:20] started with Twin. After signing up or
+[02:22] creating account, you're going to be
+[02:23] then sent over to the main dashboard of
+[02:25] Twin. This is your mission control, and
+[02:28] this is where you can automate a
+[02:29] ready-made business that you have or
+[02:31] even just automate your day-to-day
+[02:33] tasks. You have two options. You can use
+[02:35] plain English to naturally tell the AI
+[02:37] agent to create a certain automation for
+[02:40] a specific function, or you can use
+[02:42] featured agents, and these are
+[02:44] ready-made agents that can automate a
+[02:46] specific function, like a CRM sync and
+[02:49] data bridge, or you can have a web
+[02:52] scraper agent being cloned from Twin to
+[02:55] automate a certain function of your
+[02:56] business, or sending out emails. You
+[02:58] have a lot of different possibilities as
+[03:00] to what you can do. So, for example, if
+[03:02] you're interested in any of these
+[03:04] agents, what you can do is click on the
+[03:06] agent, and then you can specify on which
+[03:08] template you want to use, and then you
+[03:10] can actually clone the agent. But what's
+[03:12] nice is that they actually provide you a
+[03:14] preview of how that agent functions, so
+[03:16] you get a better idea of what it's
+[03:18] actually doing and understand all of its
+[03:21] functionalities. Now, to get started,
+[03:23] you obviously want to work with the
+[03:25] orchestrator. This is something that is
+[03:28] the chat interface and the main control
+[03:30] hub where you can create and manage
+[03:32] multiple agents. It works like a chat
+[03:34] interface with full context of your
+[03:36] system, including the agent history and
+[03:38] the state. You can simply describe what
+[03:40] you want it to do, like pulling a lead
+[03:43] or sending a report. case, I'm going to
+[03:45] tell it to create an autonomous content
+[03:47] repurposing agent that takes a YouTube
+[03:49] video or podcast and turns it into
+[03:52] multiple pieces of content
+[03:54] automatically. Now, this is something
+[03:56] that is going to be functioning in a new
+[03:58] workspace, which is something that I am
+[04:01] going to talk about, cuz it is crucial
+[04:04] when you're working with Twin. This is
+[04:06] where a new workspace helps structure
+[04:08] everything inside Twin. It is used to
+[04:10] create separate different areas of your
+[04:12] work, whether that is for clients,
+[04:15] business departments, or personal
+[04:17] automations. In this case, we are
+[04:19] working on a personal automation of a
+[04:21] specific goal, and it is going to help
+[04:24] us categorize this within the workspace.
+[04:26] Think of workspaces as folders for
+[04:28] different AI business systems. But what
+[04:31] I really like about Twin is it's not
+[04:33] just a simple chatbot, it is an
+[04:35] interactive AI agent working with you to
+[04:38] help you build different components of
+[04:40] whatever you give it. In this case, it
+[04:42] will ask you follow-up questions and
+[04:44] work with you to get the best
+[04:46] configurations outputted. Currently, we
+[04:48] have it working on setting up the
+[04:50] back-end for this repurpose agent, where
+[04:53] it's going to store the contents on
+[04:55] Supabase, and you can see that it is
+[04:57] asking for my API. So, I'm going to go
+[04:59] ahead and provide it, and it is going to
+[05:01] authenticate it and set it up for me
+[05:03] autonomously, so that it is able to
+[05:05] create the YouTube transcripts, and this
+[05:08] extraction tool will then output the
+[05:10] contents to my Supabase database. And
+[05:13] you can see the orchestrator within this
+[05:15] new workspace, content and marketing,
+[05:17] was able to build out an automation
+[05:19] where I told it that I want to create a
+[05:21] repurposing agent that is going to take
+[05:24] podcast and turn them into multiple
+[05:26] pieces of content automatically. So,
+[05:28] thanks to Twin, it has created a system
+[05:31] that is able to essentially use the
+[05:34] orchestrator any single time
+[05:35] autonomously, so that it is able to turn
+[05:39] podcast clips or even YouTube videos
+[05:42] into transcripts that another agent can
+[05:44] create these TikTok and Instagram clips.
+[05:47] And you can see how organized everything
+[05:49] is within this preview, and once
+[05:51] approved, I can then send it back to
+[05:53] Twin to focus on the other components of
+[05:56] this automation. And what I like about
+[05:58] Twin is that you can work on multiple
+[06:00] workspaces simultaneously, meaning that
+[06:02] you can run multiple agents
+[06:04] asynchronously, and once any of the
+[06:07] agents finish a task, you can head over
+[06:09] to the feed to see what the particular
+[06:12] agent is focusing on, and you can see
+[06:14] that you can visualize the run as well.
+[06:17] You have the ability to see what it's
+[06:19] asking for in this current moment. So,
+[06:21] in this case, it's asking for a couple
+[06:23] things within the content and marketing
+[06:25] workspace, which is to actually create
+[06:28] either a UI interface for the agent, you
+[06:31] can set up a trigger to run
+[06:32] autonomously, or you can just simply run
+[06:34] it autonomously occasionally. So, what
+[06:38] I'm going to do is actually create a UI
+[06:40] interface for the agent, and Twin is
+[06:42] actually going to set this up for you,
+[06:43] so it's easier for you to interact with
+[06:45] this content and marketing workflow or
+[06:47] automation it had created thanks to the
+[06:50] orchestrator. This is a way for you to
+[06:52] get a responsive UI preview of whatever
+[06:55] it is generating. And there we go, we
+[06:57] have a preview of this agent dashboard,
+[07:00] which is going to showcase all of our
+[07:02] sources, key ideas, and quotes that the
+[07:05] AI automation script sets up for us.
+[07:07] This way, we can repurpose it in a way
+[07:10] for another AI agent to actually create
+[07:12] those videos based off the transcript or
+[07:15] YouTube link or podcast we provide to
+[07:17] our automation. So, let's actually test
+[07:19] this out. I'm going to go ahead and copy
+[07:22] a URL of my own video, and then I'm
+[07:24] going to head over to my Twin workspace,
+[07:26] and what I can do is paste in this URL,
+[07:29] submit it to the Twin agent, and it is
+[07:32] going to actually create that clip for
+[07:34] me. And obviously, you can set up a
+[07:36] full-on automation where it autonomously
+[07:39] scrapes new videos that are posted on my
+[07:41] channel, sends it to my Gmail, and then
+[07:44] once I approve it from my Gmail, I can
+[07:46] then have it posted autonomously.
+[07:48] There's a lot of different automation
+[07:49] techniques that you can set up with
+[07:51] Twin, but this is the current workflow I
+[07:53] have, where I paste in a URL, it then
+[07:56] creates the clip, and then it's sent to
+[07:58] my Gmail.
+[08:00] And just like that, Twin was able to
+[08:02] then email me all three viral clips, and
+[08:05] it is something that also provides me
+[08:07] the files for each of the clips that it
+[08:10] has snipped from that Notebook LM
+[08:12] videos. So, let's now take a look at
+[08:14] what it had generated. Google has
+[08:16] officially integrated Notebook LM
+[08:19] directly into the Gemini app ecosystem,
+[08:22] and this completely changes how you use
+[08:24] it. So, now instead of treating the
+[08:26] Gemini app as well as Notebook LM as
+[08:28] separate tools, Notebook LM's
+[08:31] capabilities are now directly built
+[08:32] within the Gemini app, meaning if you
+[08:35] are to expand the menu on the left-hand
+[08:37] panel, that right there was created with
+[08:39] Twin. So, essentially, I have created an
+[08:42] automation that I can run recursively
+[08:44] anytime with the schedule system built
+[08:47] within Twin, and that way I can have it
+[08:49] so that whenever I post a new video, it
+[08:51] is going to scrape the URL, it's going
+[08:54] to then create the videos using Twin,
+[08:56] and you saw how qualitative that video
+[08:58] was. Not just that, I built a new
+[09:00] redefined agent interface, so that
+[09:03] whenever I paste in a new video, it's
+[09:05] able to then provide me all of the clips
+[09:08] that I can view directly from the
+[09:10] interface.
+[09:11] Now, we have two different agents, the
+[09:13] Reels TikTok creator, and then the
+[09:15] content repurposer, which runs basically
+[09:18] new ways for you to extract YouTube
+[09:20] transcripts, and then that feeds it over
+[09:22] to the Reels and TikTok creator. That's
+[09:24] essentially going to use these different
+[09:26] tools to help you generate the videos.
+[09:29] All right, let's now build something
+[09:30] more practical, an entire AI agency
+[09:34] built by Twin. And this is where I'm
+[09:36] going to specify that I want to build an
+[09:38] autonomous B2B lead generation agency
+[09:41] within a new workspace, and I want it so
+[09:44] that it should find businesses that need
+[09:46] services like web design, marketing, and
+[09:48] automation, collect their contact
+[09:50] information, send a personalized cold
+[09:52] email, follow up automatically, have it
+[09:55] track the replies in a spreadsheet, and
+[09:57] book meetings into a calendar when
+[09:59] prospects show interest. Also, send me
+[10:01] daily reports with new leads, responses,
+[10:04] and book calls. This is essentially a
+[10:06] full-on agency that we're going to
+[10:08] create autonomously. And right away, it
+[10:11] is going to ask me a couple of follow-up
+[10:12] questions as to how I want to set this
+[10:14] up. What I really like about Twin is how
+[10:17] easy it is to work with it. For example,
+[10:19] asking it what sort of emails should be
+[10:22] sent, where it should be sent, who to
+[10:25] target. These are specific questions
+[10:27] that it will ask you. And once you
+[10:29] provide those specifications, it will
+[10:31] set up the full-on business for you. And
+[10:33] this is something that is super helpful
+[10:37] cuz you can essentially build out an
+[10:39] automation and agency like this without
+[10:41] hiring a sales team or doing cold
+[10:44] outreach yourself. This is an agent that
+[10:46] takes care of the whole pipeline. So,
+[10:49] before confirming to move on, this is
+[10:51] where it has already found 20 public
+[10:54] business leads discovered by Appify Lead
+[10:57] Finder. This is where it was able to
+[10:59] find actually the website as well as the
+[11:03] different contact names. Now, for the
+[11:05] best usage approach, the best results
+[11:07] come from giving clear, detailed
+[11:09] instructions along with relevant context
+[11:12] or data. You have the ability to even
+[11:14] upload your own items and files so that
+[11:17] you're able to provide more clarity,
+[11:19] more accurate, and powerful automations.
+[11:21] It's also requested that before you
+[11:23] deploy your 24/7 employee, your AI
+[11:26] employee that is running in the
+[11:27] background, make sure you check each and
+[11:29] every component, making sure that all
+[11:31] the functions of each individual agent
+[11:33] are working, making sure that the
+[11:35] triggers work, the schedules are testing
+[11:37] properly, and you can easily invoke it
+[11:40] within the orchestrator by telling it
+[11:42] that I want to test out the sales or
+[11:44] lead generation agent or this workspace
+[11:47] where I have the reels or the content
+[11:50] strategy agent. I want to test it out.
+[11:52] And this way you'll get a better
+[11:53] understanding of how the agent is
+[11:55] performing
+[11:56] or to just simply see if it is
+[11:58] functioning properly.
+[12:00] And just like that, we have automated a
+[12:03] full-on AI agency. That's something that
+[12:06] I had created with an AI. It has handled
+[12:09] the whole pipeline where it reaches out
+[12:11] to leads. It even contacts them. It even
+[12:14] sets up calls. And it is even able to
+[12:17] even focus on the post-processing, a
+[12:19] full end-to-end pipeline generated by
+[12:21] Twin. Let's take a look at all the leads
+[12:24] it has contacted. Every day, I have it
+[12:26] set so that it reaches out to 20 leads,
+[12:28] which is obviously nothing, but it is a
+[12:30] test right now. This is where it sends
+[12:33] me a daily report. It shows me all of
+[12:36] the different leads that it has
+[12:38] contacted. And lastly, it books a
+[12:41] meeting for me. So, this way I can go
+[12:43] into these different meetings to secure
+[12:45] the lead. And I have it set so that this
+[12:48] agent is going to do this every single
+[12:50] day at 9:00 a.m. You can set this
+[12:53] trigger by obviously speaking to the
+[12:54] orchestrator, but I have it set so that
+[12:57] it is running every single day at 9:00
+[12:59] a.m. I even created an interface, which
+[13:02] gives me a good understanding of the
+[13:03] total leads. I have two people who are
+[13:06] interested, 18 people who haven't
+[13:08] replied. So, this gives me a good
+[13:10] understanding if my current pitch is
+[13:12] working or not. This is the capability
+[13:15] of Twin. It isn't just another
+[13:16] automation tool, guys. 100% capable
+[13:19] running by AI agents. So, if you want to
+[13:23] describe the outcome, Twin is something
+[13:25] that lets you build and run the entire
+[13:26] operation for you. And it's something
+[13:28] that I highly recommend that you take a
+[13:30] look at. Both the links in the
+[13:31] description below as this is something
+[13:33] that you can get started for completely
+[13:35] for free. But with that thought, thanks
+[13:37] for watching. Make sure you go ahead and
+[13:38] subscribe to the second channel. Join
+[13:40] the newsletter. Join the Discord. Follow
+[13:41] me on Twitter. And lastly, make sure you
+[13:43] guys subscribe. Turn on the notification
+[13:44] bell. Like this video. And please take a
+[13:46] look at our previous videos so that you
+[13:48] can definitely stay up-to-date with
+[13:50] whatever is happening in the world of
+[13:51] AI. But with that thought, guys, have an
+[13:53] amazing day. Spread positivity. And I'll
+[13:55] see you guys really shortly. Peace out,
+[13:56] guys.

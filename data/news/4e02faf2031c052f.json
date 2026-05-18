@@ -1,0 +1,27 @@
+{
+  "uid": "4e02faf2031c052f",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Grok 4.3 beta and xAI roadmap to 'Grok 5 as AGI'",
+  "summary": "xAI's Grok 4.3 beta, reported at approximately 3.5T parameters with a December 2025 knowledge cutoff, is accessible to Super Grok Heavy users. Elon Musk's stated roadmap places Grok 4.4 at 1T parameters in early May, Grok 4.5 at 1.5T parameters in late May, and Grok 5 as positioned to be AGI.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:09",
+  "links": [
+    "https://x.ai/",
+    "https://grok.x.ai/"
+  ],
+  "tags": [
+    "xai",
+    "grok",
+    "roadmap",
+    "model"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Roadmap claims attributed to Musk; AGI characterisation is subjective and undefined."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

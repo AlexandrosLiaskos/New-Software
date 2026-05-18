@@ -1,0 +1,331 @@
+[00:00] If you follow me on X, you probably have
+[00:02] seen me talking about an insane wave of
+[00:04] new model releases within May.
+[00:06] Practically every lab has dropped
+[00:08] something big from GPT 5.5 to Opus 4.7
+[00:13] and a whole lineup of Qwen models. But
+[00:16] with so many model releases happening
+[00:18] back-to-back, one model ends up getting
+[00:20] completely overshadowed. And honestly, I
+[00:23] overlooked one of the best models that's
+[00:26] out there right now. And that is the
+[00:27] Qwen 3.6 Max Preview, which is Alibaba's
+[00:31] flagship preview model. This is a model
+[00:33] that built on the Qwen 3.6 Plus, which
+[00:36] is a model that I had showcased a couple
+[00:38] of weeks ago, and it was noticeably
+[00:40] stronger with a lot of different
+[00:42] capabilities in different domains. But
+[00:44] now with the Max Preview, it builds on
+[00:47] top of that model with stronger world
+[00:49] knowledge, better instruction following,
+[00:51] and some serious improvements in agentic
+[00:53] coding. On top of that, it's showing
+[00:56] much higher reliability in real-world
+[00:58] agent workflows and knowledge-heavy
+[01:00] tasks.
+[01:01] Now, what's funny is just a couple weeks
+[01:03] ago, we were taking a look at the Qwen
+[01:05] 3.6 Plus, and we all saw in that video
+[01:08] how impressive the model is with the
+[01:10] agentic as well as with reasoning and
+[01:12] multimodal tasks. Now, we have the Qwen
+[01:15] 3.6 Max Preview, which is a great leap
+[01:19] over that previous model where its
+[01:21] strongest capabilities is in agentic
+[01:23] coding where it shows clear gains in
+[01:25] real dev style workflows along with
+[01:28] reasoning and world knowledge. You also
+[01:30] have more reliable instruction
+[01:31] following, especially in tool-based
+[01:33] tasks. Overall, you can see that it is
+[01:36] outperforming the Claude 4.5 Opus, which
+[01:39] isn't super impressive, but the fact
+[01:41] that it's able to do that is great to
+[01:43] see at a cheaper price. Not just that,
+[01:45] it's able to outperform the GLM 5.1 in
+[01:49] almost every category, which is a great
+[01:51] benefit. I just made a full cinematic
+[01:54] basketball ad in under 1 minute using
+[01:57] Love Art. I start in Love Art and use
+[01:59] the Seed Dance 2.0 video model to
+[02:01] generate the base scene from a single
+[02:03] prompt. Then I use multi-angles to
+[02:06] instantly create different camera
+[02:08] perspectives of the same scene. Now we
+[02:10] have multiple angles of the basketball.
+[02:13] And with the move object feature, I can
+[02:15] actually adjust compositions instead of
+[02:18] regenerating everything, which is
+[02:20] insane. What you can also do is upscale
+[02:22] it using Seed Dance 2.0 for cinematic
+[02:25] motion shots, which is where you can
+[02:27] include dunk slow-mos, for example, or
+[02:30] arena wide shots.
+[02:31] And the real power is combining models.
+[02:34] Inside Love Art, you're not just using
+[02:37] one tool. You can stack different AI
+[02:39] models together to refine outputs and
+[02:42] optimize the final results. So, instead
+[02:45] of jumping between tools, everything
+[02:47] happens in one workflow. And you can go
+[02:50] from an idea to a storyboard and final
+[02:52] video. So, if you want to try out Seed
+[02:54] Dance 2.0, it is fully available on Love
+[02:57] Art right now. So, use the link in the
+[02:59] description below to get started. And
+[03:01] thanks to Love Art for sponsoring
+[03:02] today's video. The Qwen 3.6 Max Preview
+[03:05] really stands out in coding and agent
+[03:07] workflows, and you can see that with
+[03:09] these demos, it's able to easily work
+[03:11] with various sorts of environments, and
+[03:13] it actually performs quite well in
+[03:15] multi-step real-world development tasks,
+[03:18] making it a strong fit for modern coding
+[03:20] assistants like Claude Code or similar
+[03:23] tools. It means that you have end-to-end
+[03:25] workflows that are being completed
+[03:27] smoother. You have better task execution
+[03:30] as well as more reliable outputs when
+[03:32] building actual applications. And on the
+[03:35] web development side, it pushes things
+[03:37] even further with strong front-end
+[03:39] capabilities, handling complex builds
+[03:41] with interactive UIs, 3D scenes, working
+[03:44] with 3GS, and even browser-based games
+[03:47] while still maintaining clean designs
+[03:49] and structure overall. Like just take a
+[03:51] look at the front-end quality. This kind
+[03:53] of mimics what the Opus 4.7 does when it
+[03:56] ends up creating a SaaS landing page or
+[03:59] a landing page when you prompt it to
+[04:01] generate with different typographies.
+[04:03] Not just that, the Max Preview is
+[04:04] something that excels in visual
+[04:06] reasoning, going beyond just simple
+[04:08] recognition that deeply analyzes each
+[04:11] and every component of an image using
+[04:13] OCR, grounding, and contextual
+[04:16] understanding. And it can even interpret
+[04:19] documents, charts, UIs, while also
+[04:21] reasoning about relationships and
+[04:24] actions needed to complete the task. Not
+[04:26] just that, you're able to even create
+[04:28] various sorts of slide decks and do
+[04:30] financial analysis with this model cuz
+[04:32] it's agentic and it has ability to use
+[04:34] multiple tools to execute tasks like
+[04:37] creating a slide deck like I had for the
+[04:39] Lord of the Rings trilogy. Not just
+[04:41] that, the Qwen 3.6 Max Preview shines in
+[04:44] visual agent tasks where it can
+[04:46] understand screens and actions and
+[04:48] execute steps in real-time environments
+[04:51] where it can even outperform the Qwen
+[04:53] 3.6 easily in terms of speed and
+[04:56] efficiency on browser comp tasks. Now,
+[04:58] in regards to pricing, this is where the
+[05:00] model is priced at $1.30
+[05:03] per 1 million input tokens and $7.80
+[05:06] per 1 million output tokens. It's
+[05:08] definitely more expensive than the Qwen
+[05:10] 3.6 Plus, but it is a lot better, and it
+[05:14] is obviously cheaper than the
+[05:16] proprietary models that are out there
+[05:18] where if you are looking to get better
+[05:20] qualitative generations, I'd personally
+[05:22] use the Qwen 3.6 Max cuz it could be a
+[05:25] daily driver. And it also has a 1
+[05:27] million token context window.
+[05:29] Now, if you do plan on using the Qwen
+[05:31] 3.6 Max Preview, you can do so through
+[05:34] their API, or you can easily access it
+[05:37] completely for free through their
+[05:38] chatbot. And these are the only two
+[05:40] methods at the moment. You can't use it
+[05:42] through Kilo or Open Router app.
+[05:44] To start things off, let's take a look
+[05:46] at the macOS browser-based task. This is
+[05:48] where I'd requested it to clone a macOS
+[05:51] operating system, and you can clearly
+[05:52] see the quality of this model. You can
+[05:55] see that all of the applications have
+[05:58] been coded out with a beautiful SVG
+[06:00] icon, which is incredible. Not just
+[06:02] that, the top finder is perfectly
+[06:05] generated to mimic the macOS top finder.
+[06:08] You also have the battery, the Wi-Fi,
+[06:10] and a couple of other settings. But
+[06:12] let's actually take a look at all the
+[06:13] applications. Each of them have been
+[06:16] thoroughly generated with a lot of
+[06:18] different features, which I really like,
+[06:19] and I didn't really expect this from the
+[06:21] Max. I did expect it to generate
+[06:24] something of this quality cuz we saw the
+[06:26] Qwen 3.6 had done a great job, but this
+[06:28] is just remarkable. You have every
+[06:31] application that has been thoroughly
+[06:33] coded out that actually mimics a macOS
+[06:35] operating system. The text, calculator
+[06:38] app, notes app, reminder, which actually
+[06:41] looks really similar to Apple's. You
+[06:43] have the calendar, you have photos, and
+[06:45] this is just insane cuz we have so many
+[06:48] different capabilities have been coded
+[06:50] out. And with the 1 million context
+[06:51] window, it's able to thoroughly use its
+[06:54] long horizon execution capabilities to
+[06:57] work on generating lots of things. Like
+[06:59] on the Maps app, doesn't look as great,
+[07:01] but still regardless, we have two
+[07:04] different games that it generated, which
+[07:05] is insane. You have a snake game as well
+[07:08] as a neon game, neon runner game. And
+[07:11] both these games actually work, which is
+[07:13] nice to see. Let's actually take a look
+[07:15] at this game, and this one actually
+[07:17] looks pretty good in itself.
+[07:18] I am truly amazed to see the quality of
+[07:20] output. It's a bit expensive, but the
+[07:22] fact that I'm able to generate these
+[07:24] types of generations with web
+[07:25] development and front-end is really nice
+[07:28] to see.
+[07:29] If you want the best AI tools,
+[07:31] workflows, and drops before everyone
+[07:33] else, join my free newsletter with the
+[07:35] link in the description below, which is
+[07:36] completely free.
+[07:38] Next is where I'd requested the model to
+[07:39] create a Minecraft clone, and I got to
+[07:41] say this generation is pretty good, but
+[07:44] I found that the Qwen 3.6 Plus had done
+[07:46] a better job. Now, not saying this is
+[07:49] bad cuz you can see that I'm able to
+[07:51] break blocks, I'm able to build things
+[07:53] with different sorts of textures, which
+[07:55] is nice. So, you can see that it has a
+[07:56] lot of quality ingested into this clone
+[08:00] into the sandbox game, which has
+[08:02] infinite terrain. And what it also did
+[08:04] is it generated cave systems. Now, one
+[08:07] bug is that you can clearly see through
+[08:09] everything, which is probably one of the
+[08:12] biggest reasons why I put it below the
+[08:15] Qwen 3.6 in terms of the 3.6 Plus in
+[08:19] terms of its generation. But regardless,
+[08:21] in terms of its creativity, you can see
+[08:23] that it's able to thoroughly generate
+[08:24] all the components like the ores. You
+[08:27] have lava that has been generated as
+[08:28] well.
+[08:29] Oh, and you can actually go into the
+[08:31] caves, which is nice. So, this is a
+[08:32] pretty decent generation, but failed on
+[08:35] a certain component that made me see
+[08:38] everything underground.
+[08:40] Now, here is a 3GS prompt where I had
+[08:43] requested it to create an SUV durability
+[08:45] rig simulation where it's able to
+[08:47] traverse through a rough terrain, and I
+[08:50] like the quality in terms of generating
+[08:53] all the components of the terrain. You
+[08:55] can see all the pebbles or stones on the
+[08:57] hillside. Now, it didn't accurately
+[09:00] generate the hills properly cuz you can
+[09:02] see that it's concaved, and it doesn't
+[09:04] look like it represented the full-on
+[09:07] mountain range properly. But the fact
+[09:09] that you have a car going through the
+[09:11] terrain is nice enough. It's better than
+[09:13] obviously all the other previous Qwen
+[09:15] models in terms of sending in this
+[09:17] request to it. Now, I also thought that
+[09:20] it did better than the Kimi model with
+[09:22] this generation. The only problem is the
+[09:24] car goes into the hill. So, couple of
+[09:27] things need to be refined, but still the
+[09:30] quality is nice. Next is another 3GS
+[09:33] prompt, and this is where I'd requested
+[09:34] it to create a 3D simulation of a
+[09:36] Formula 1 car performing a continuous
+[09:39] drifting donut, and it did a remarkable
+[09:41] job with the background scene as well.
+[09:44] And you have the different camera
+[09:46] angles, you have the top view,
+[09:48] cinematic, you have the inside donut,
+[09:50] which is cool. And then you can even
+[09:52] pause it, and I personally believe this
+[09:54] is a really great generation. Obviously,
+[09:57] the physics of this doesn't work out as
+[09:59] it's supposed to. Like most models don't
+[10:02] actually generate that, but still this
+[10:04] is a really great qualitative
+[10:05] generation.
+[10:07] Now, I really am surprised by the
+[10:09] model's capability in generating SVG
+[10:11] code cuz you can see with these
+[10:13] different prompts like the pelican
+[10:14] prompt, you can see that how well it is
+[10:16] in terms of describing an image out in
+[10:19] SVG code. You can see that with the
+[10:21] butterfly as well. All of the elements
+[10:24] have been thoroughly generated to depict
+[10:26] whatever my prompt was stating. So, in
+[10:28] SVG it is definitely great to see that
+[10:30] it's capable of pulling off these
+[10:32] generations. Now, this model is truly
+[10:34] exceptional with front-end designing cuz
+[10:36] you can see that with this prompt over
+[10:38] here where I told it to generate a
+[10:40] beautiful front-end where it was given
+[10:43] multiple sub-tasks and it did
+[10:45] exceptionally well with this generation.
+[10:47] Gave it couple of different formats to
+[10:49] focus on as well as styling structures.
+[10:52] And you can see that the dynamic
+[10:53] movement is perfect with it. You can
+[10:56] also see that it added in different
+[10:58] sorts of typographies, different
+[11:00] styling, and elements that make this
+[11:02] perfect. So, this is really nice to see
+[11:04] and if this is the quality that you're
+[11:07] getting from the Qwen 3.6 Max, imagine
+[11:09] what you'll be getting with the Qwen 4.
+[11:11] If you like this video and would love to
+[11:13] support the channel, you can consider
+[11:15] donating to my channel through the Super
+[11:17] Thanks option below. Or you can consider
+[11:19] joining our private Discord where you
+[11:21] can access multiple subscriptions to
+[11:23] different AI tools for free on a monthly
+[11:26] basis plus daily AI news and exclusive
+[11:29] content plus a lot more. Overall, this
+[11:31] model is shaping up to be one of the
+[11:33] most well-rounded models in this wave,
+[11:35] selling and coding, agent workflows,
+[11:38] reasoning, and even multimodal tasks.
+[11:41] It's not perfect, don't get me wrong,
+[11:42] but it's still in preview means that
+[11:45] there is a lot of room to grow and
+[11:47] hopefully in the next test we can have
+[11:49] it comparable to maybe Claude Opus 4.7
+[11:52] as well as GPT 5.5. So, great job
+[11:56] Alibaba. Really love what you're doing
+[11:57] over here. I'll leave all these links in
+[11:59] the description below, but with that
+[12:00] thought guys, thank you guys so much for
+[12:02] watching. Make sure you go ahead and
+[12:03] take a look at the second channel, join
+[12:05] the newsletter, join the Discord, follow
+[12:06] me on Twitter, and lastly make sure you
+[12:08] guys subscribe, turn on notification
+[12:10] bell, like this video, and please take a
+[12:11] look at our previous video so that you
+[12:13] can stay up-to-date with the latest AI
+[12:15] news. But with that thought guys, have
+[12:16] an amazing day, spread positivity, and
+[12:18] I'll see you guys really shortly. Peace
+[12:20] out, fellas.

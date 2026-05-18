@@ -1,0 +1,25 @@
+{
+  "uid": "e20cc6621502736c",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Arc-AGI 3 benchmark scores released for frontier models",
+  "summary": "New Arc-AGI 3 benchmark scores were published. Reported figures include GPT 5.5 around 0.4%, Opus 4.6 max around 0.5%, and Opus 4.7 around 0.2%, underlining that frontier models still solve only a small fraction of the benchmark.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "07:52",
+  "links": [
+    "https://arcprize.org/"
+  ],
+  "tags": [
+    "arc-agi",
+    "benchmark",
+    "evaluation"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Specific score values from transcript; check arcprize.org leaderboard for canonical numbers."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

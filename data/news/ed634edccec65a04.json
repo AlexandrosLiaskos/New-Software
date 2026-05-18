@@ -1,0 +1,33 @@
+{
+  "uid": "ed634edccec65a04",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "release",
+  "title": "NotebookLM mind maps gain prompt-driven customisation",
+  "summary": "Google updates NotebookLM mind maps with prompt-based customisation, scoping to specific sources or topics, renaming and sharing, and smoother navigation between notes.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "10:32",
+  "links": [
+    "https://notebooklm.google.com/"
+  ],
+  "tags": [
+    "notebooklm",
+    "google",
+    "feature-update"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://notebooklm.google.com/",
+    "notes": "Documented in Google Workspace Updates and NotebookLM Help pages.",
+    "web_findings": [
+      {
+        "title": "Use Mind Maps in NotebookLM - NotebookLM Help",
+        "url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
+        "snippet": "Customise mind maps with prompts to focus on a specific source, concept, timeline or goal."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

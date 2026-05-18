@@ -1,0 +1,26 @@
+{
+  "uid": "866a7e3e54dc8ac5",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Google tests new Gemini checkpoints and Colab-style agent",
+  "summary": "Newer Gemini checkpoints, possibly labelled Gemini 3.2 Pro or 3.5 Pro, are being A/B tested inside Google AI Studio ahead of Google I/O. A separate Colab-style competitor inside Gemini, currently referred to as 'agent', is reported, expected to automate Google Workspace tasks. Google has also extended subscription access inside AI Studio, raising coding limits and exposing pro models without an API key.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:48",
+  "links": [
+    "https://aistudio.google.com/"
+  ],
+  "tags": [
+    "google",
+    "gemini",
+    "ai-studio",
+    "leak"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Pre-I/O speculation; version labels and product framing not officially confirmed."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

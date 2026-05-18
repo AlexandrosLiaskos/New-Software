@@ -1,0 +1,266 @@
+[00:00] Hermes Agent is one of the most
+[00:02] interesting open-source AI projects
+[00:04] right now. And honestly, it makes sense
+[00:06] why it's climbing above tools like
+[00:08] OpenClaw, Claude Code, and even Kilo for
+[00:11] many daily use case workflows. But what
+[00:13] makes Hermes different is not just that
+[00:16] it is another AI chatbot with tools.
+[00:19] It's designed to be a persistent
+[00:20] autonomous system that is continuously
+[00:23] evolving over time. It's built by Newest
+[00:26] Research under the MIT license. And
+[00:28] Hermes can run exactly like OpenCloud,
+[00:30] but better 24/7 on your computer and
+[00:33] your own infrastructure while building
+[00:35] long-term memory, reusable skills, and
+[00:38] even deeper understanding of the user
+[00:40] itself. It grows as you use it through a
+[00:43] built-in closed learning loop that lets
+[00:45] you automatically create and refine
+[00:47] reusable skills from successful tasks
+[00:50] that it completes. It can maintain
+[00:52] persistent cross- session memory. It
+[00:54] also has the ability to build a deeper
+[00:56] model of you over time through systems
+[00:59] like Honcho for user modeling and it
+[01:02] improves on its own capabilities the
+[01:04] longer it runs with periodic self-nudges
+[01:07] or persistent knowledge. Hermes is
+[01:09] frequently compared to OpenClaw, another
+[01:11] popular open-source agent. And the
+[01:14] reason why many are switching to Hermes
+[01:16] is because of its reliability, built-in
+[01:18] long-term memory, and a self-improving
+[01:21] loop that makes its agent smarter. as
+[01:24] you use it more. Hermes focuses more on
+[01:26] depth and learning from experiences
+[01:28] rather than sheer breadth. Just take a
+[01:31] look at what you can already do with it.
+[01:32] Your Hermes agent can now build
+[01:34] basically anything. Full videos using
+[01:37] official Hyperframe skills by Hen.
+[01:40] Hyperframe videos are HTML native,
+[01:43] meaning your AI agent can have full
+[01:45] control over your final output, scenes,
+[01:47] layouts, animations, and rendering
+[01:49] workflows. And you can see that this
+[01:52] entire video that I'm showcasing right
+[01:54] now was fully generated autonomously by
+[01:56] Hermes itself. The only issue with
+[01:59] Hermes agent is the setup experience.
+[02:01] For the longest time, Hermes was heavily
+[02:03] CLI focused. While the terminal UI was
+[02:06] decent, it still lacked many of the
+[02:08] features needed to properly manage
+[02:10] multiple agents, workflows, memory
+[02:12] systems, and orchestrations inside a
+[02:14] clean visual environment. You basically
+[02:16] had to live inside the command line. And
+[02:18] for many users, that became a barrier
+[02:21] for entry. Which is why today I wanted
+[02:23] to showcase the Hermes desktop app. This
+[02:26] is an open-source native desktop
+[02:28] application that lets you interact with
+[02:30] Hermes agent inside a fully contained
+[02:33] app environment, making the entire
+[02:35] experience dramatically easier to use.
+[02:37] Instead of manually managing everything
+[02:39] through the CLI, you get a full desktop
+[02:41] UI, easier multi- aent management,
+[02:44] better workflow orchestration, native
+[02:46] app performance, and cross-platform
+[02:49] support for many of the operating
+[02:51] systems I had mentioned like Windows,
+[02:52] Mac OS, and Linux. And honestly, this
+[02:55] feels like one of the first times an
+[02:57] open- source autonomous AI systems is
+[02:59] starting to bridge the gap between a
+[03:01] research project and something everyday
+[03:03] users can realistically operate with. If
+[03:06] you want the best AI tools, workflows,
+[03:09] and drops before everyone else, join my
+[03:11] free newsletter with the link in the
+[03:13] description below, which is completely
+[03:14] free. Now, to work with Hermes, it is
+[03:17] super simple with this desktop app. What
+[03:19] you got to do is head over to the GitHub
+[03:21] repo, which I'll leave a link to in the
+[03:22] description below. Head over to the
+[03:24] release page, and then you can install
+[03:26] the installer file based off your
+[03:28] operating system. So, if you have a Mac
+[03:29] OS, you want to get the DMG file that
+[03:32] you can easily access and download from
+[03:34] here. In this case, I am on Windows. So,
+[03:37] I would install the .exe file, the
+[03:39] installer, and then I can get started
+[03:41] from there. So, I have installed this
+[03:43] installer. I can double click it. You
+[03:45] can do this at your own discretion.
+[03:52] And after running the installer, you
+[03:54] will be greeted with this page. And this
+[03:56] is where you can click on get started or
+[03:58] to connect to remote Hermes. This
+[04:01] essentially means where you can connect
+[04:02] to your remote Hermes API server. And if
+[04:05] you have it running already, you can
+[04:07] simply add in the server URL and the API
+[04:09] key, which is optional. And then you can
+[04:11] click connect. But if you are getting
+[04:13] started from scratch, this will require
+[04:16] you to have 2 GB of space to install the
+[04:20] AI agent locally. So if you click on get
+[04:22] started, this will install Hermes agent
+[04:24] onto your computer into this app
+[04:27] development environment. Once installed,
+[04:29] you can continue to set up and this is
+[04:31] essentially where you can set up your
+[04:33] API provider for your AI model. So this
+[04:36] is where you can choose from any of
+[04:38] these providers, whether that's open
+[04:40] router, entropic, open AI, use whatever
+[04:42] you want. You can even connect it to a
+[04:44] local model and they even have a news
+[04:47] portal for free to your available
+[04:49] models. So if you select this, you can
+[04:51] use Hermes completely for free, but
+[04:53] you're not going to get the best
+[04:54] performance. I am personally going to be
+[04:56] using Open AI. So I'm going to be
+[04:58] pasting in my OpenAI API key. And then
+[05:00] I'm going to click on continue. And this
+[05:03] is our Hermes agent desktop app. This is
+[05:06] the user interface where we can work
+[05:08] with the agent. And this is where it's
+[05:10] going to be operating within this
+[05:12] contained environment and it will
+[05:14] improve as you use it over time. And now
+[05:17] that we have it powered by our chat GPT
+[05:20] model, this is where it has the ability
+[05:22] to now work with you to accomplish any
+[05:24] task using the Hermes loop. Now on the
+[05:27] left hand side is where you can manage
+[05:29] all of these different components. You
+[05:30] can manage your session logs. You can
+[05:33] create multiple profiles. So you can
+[05:35] create multiple agents for different use
+[05:37] cases and different purposes. You have
+[05:40] an office and this is actually pretty
+[05:42] cool. Let me showcase this. This
+[05:44] basically creates a 3D workspace for AI
+[05:46] agents. I don't personally use this, but
+[05:48] it is pretty interesting for you to
+[05:50] visualize what is happening. All the
+[05:52] different AI sub agents working within a
+[05:55] contained office you can say to get your
+[05:58] task done. The model section providers
+[06:00] is self-explanatory where you can manage
+[06:02] all the models. You can even add in your
+[06:04] local models as well. You can manage
+[06:06] your providers here as well and then
+[06:08] connect as many API providers as you
+[06:10] need. It also lets you implement
+[06:13] different APIs for tools that you want
+[06:15] to use. For example, like foul. So you
+[06:17] can use it for image generation or fire
+[06:19] crawl for web scraping or web search.
+[06:21] Exa AI. You have a lot of different tool
+[06:24] APIs to enhance your Hermes agents
+[06:26] capability. And I would recommend you
+[06:28] add in a couple of these. Skills is a
+[06:30] way for you to essentially expand your
+[06:33] agents reusable skills and workflows.
+[06:35] Personas is where you can define your
+[06:37] agents response persona or how they
+[06:40] essentially reply to you with the tone
+[06:43] or instructions that you give it. Memory
+[06:45] is where you will be able to manage your
+[06:46] agents knowledge base. Tools is pretty
+[06:49] important. This is where you can manage
+[06:51] all of these different individual tools
+[06:53] like web search, browser use, terminal,
+[06:56] file operations, and many others. You
+[06:58] have the ability to set up cron jobs
+[07:00] which is where you can set up multiple
+[07:02] scheduled tasks like you would with
+[07:04] cloud code or codeex gateway is for you
+[07:07] to connect the Hermes agent desktop app
+[07:09] with many of these other platforms like
+[07:11] telegram, discord, iMessage and many
+[07:14] others so that you can even control it
+[07:16] from your phone and then obviously the
+[07:18] settings is where you can easily have it
+[07:20] so that you can change the theme as well
+[07:22] as the network. Also something important
+[07:24] to note is that if you have a
+[07:26] preconfigured open claw session or an
+[07:29] instance that you have multiple tools
+[07:31] and skills and you want to migrate it to
+[07:33] Hermes, you can easily click on migrate
+[07:35] to Hermes with this desktop app so that
+[07:37] you can use all of your configurations,
+[07:39] API keys and sessions and skills
+[07:41] directly within Hermes. And with this
+[07:43] desktop app, you have so many different
+[07:45] use cases like using it as a
+[07:47] self-improving large language model wiki
+[07:50] where it is a second brain to assist you
+[07:52] on multiple workflows or different
+[07:56] described components that you can use
+[07:57] for further generations. You can have it
+[08:00] work on creating expose for example or
+[08:03] have it create blog post. Have it as a
+[08:05] 247 assistant with superbase CRM built
+[08:09] in as a demo. You can use it as a
+[08:12] financial analyst spot, something that
+[08:14] can help you create various sorts of
+[08:17] apps. So many different countless
+[08:19] opportunities as to what you can do with
+[08:20] it. What's cool is they even showcased
+[08:23] my demo, the Shaden Finance dashboard.
+[08:26] This is where I used Hermes to
+[08:28] essentially improve on using the latest
+[08:30] components to generate a fullon CRM
+[08:33] dashboard. And this is where it was able
+[08:35] to create this dashboard using newer
+[08:38] components and that it's able to
+[08:39] recursively use these components for
+[08:41] future generations. If you like this
+[08:43] video and would love to support the
+[08:45] channel, you can consider donating to my
+[08:48] channel through the super thanks option
+[08:50] below. Or you can consider joining our
+[08:52] private Discord where you can access
+[08:54] multiple subscriptions to different AI
+[08:56] tools for free on a monthly basis plus
+[08:59] daily AI news and exclusive content plus
+[09:01] a lot more. But I hope that this
+[09:03] solution helps you use Hermes a bit
+[09:06] easier with this application that you
+[09:08] can easily install and set up using
+[09:10] their installer. This is going to get
+[09:12] you a lot of flexibility in using Hermes
+[09:15] with this UI. And there's a lot more
+[09:18] that you can do with this that I didn't
+[09:20] really explain properly in this video.
+[09:21] So, I highly recommend that you take a
+[09:23] look at the GitHub repo to get you more
+[09:25] informed on what you can do with this.
+[09:27] But with that thought, guys, I hope you
+[09:28] enjoyed today's video and got some sort
+[09:29] of value. I'll leave all these links in
+[09:31] the description below so that you can
+[09:32] easily get started. But with that
+[09:33] thought guys, thank you guys so much for
+[09:34] watching. Make sure you join the second
+[09:36] channel by subscribing. Take a look at
+[09:38] our newsletter. Join the Discord. Follow
+[09:40] me on Twitter. And lastly, make sure you
+[09:41] guys subscribe, turn on notification
+[09:42] bell, like this video, and please take a
+[09:44] look at our previous videos that you can
+[09:46] stay up to date with the latest AI news.
+[09:48] But with that thought, guys, have an
+[09:49] amazing day. Spread positivity, and I'll
+[09:51] see you guys really shortly. He suffers.

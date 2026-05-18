@@ -1,0 +1,292 @@
+[00:00] Enthropic has truly been hurting its own
+[00:02] developer community lately with
+[00:04] increasingly aggressive rate limits and
+[00:06] reduced model performance. A lot of
+[00:08] users started noticing a quality drop
+[00:10] after Enthropic reportedly lowered the
+[00:12] reasoning effort on some models from
+[00:15] high to medium, which noticeably
+[00:17] impacted code quality, reliability, and
+[00:20] consistency. Combined with the newer
+[00:22] usage restrictions, it truly made Claude
+[00:25] Code feel far more frustrating lately.
+[00:27] even though it's still one of the best
+[00:29] AI coding products in the market. And
+[00:31] I'm not even choking. I'm on the
+[00:33] Enthropic Pro plan. And this is where I
+[00:36] sent in one request to create a
+[00:38] Minecraft clone. And you can clearly see
+[00:41] that I was able to burn through my whole
+[00:44] pro plan usage for the day just with
+[00:46] that one prompt. And I totally
+[00:48] understand. A Minecraft clone being
+[00:50] coded out uses a lot of tokens. And I
+[00:53] totally get that. Like the outputs are
+[00:56] definitely great, but it feels like the
+[00:58] entire usability of this pro plan where
+[01:01] I'm paying $20 a month isn't justifiable
+[01:04] long term because the usage limits start
+[01:06] feeling more restrictive than
+[01:08] empowering, especially when you're
+[01:09] trying to iterate quickly or run larger
+[01:12] autonomous coding sessions. And what
+[01:14] ends up happening is I have to actually
+[01:16] use extra usage, which is where I pay
+[01:19] more on top of my $20 plan, which is
+[01:22] exactly why there is a tool that caught
+[01:25] my attention because instead of locking
+[01:27] powerful AI coding workflows behind
+[01:29] brutal rate limits, as you saw, and
+[01:31] expensive subscriptions, there is a
+[01:34] coding agent that we've actually covered
+[01:36] before that is a complete opposite
+[01:38] approach to what Claude Code does, and
+[01:41] it's called Freebuff. A completely free
+[01:43] AI coding agent that's designed to feel
+[01:46] fast, autonomous, and actually usable
+[01:49] for real world deployment. No
+[01:51] subscriptions, no complicated setups, no
+[01:54] constantly worrying about whether your
+[01:55] next prompt is going to destroy your
+[01:57] quota for the day. It's powered by GLM
+[02:00] 5.1, runs with aggressive agentic
+[02:03] workflows and builtin sub agents, and
+[02:06] honestly feels like one of the fastest
+[02:07] AI coding experiences I have ever
+[02:10] tested. But the best part is it's a free
+[02:13] coding agent that works exactly like
+[02:15] cloud code. Now previously we had taken
+[02:18] a look at codebuff which is the
+[02:20] open-source AI coding assistant that
+[02:23] basically functions like claude code but
+[02:26] it has been engineered to specifically
+[02:28] work with different agents and with
+[02:30] different feature sets to perform better
+[02:32] than cloud code in many instances.
+[02:35] Amongst their own evil, it recorded a 61
+[02:38] percentage versus claude code which
+[02:40] scored a 53 percentage and this is on
+[02:43] 175 plus different coding tasks. But now
+[02:46] freebuff is another solution that is
+[02:49] built on top of codebuff but it is
+[02:51] completely free and requires no
+[02:53] subscription. And the way it actually
+[02:55] functions is pretty interesting because
+[02:57] if you see on their GitHub repo, they
+[02:59] stated that freebuff is free because it
+[03:01] is adup supported. Meaning it doesn't
+[03:04] require subscriptions, no credits, no
+[03:06] configuration. This is because there's
+[03:09] going to be ads displayed within your
+[03:10] terminal which pays for your usage.
+[03:13] James, who is the developer of Freebuff,
+[03:16] had stated that FreeBuff is a zero
+[03:18] config coding agent as well, and it
+[03:20] works instantly with no setup. It's
+[03:22] extremely fast, powered with a custom
+[03:24] GPU deployment, which reaches up to 300
+[03:27] tokens per second, which is insanely
+[03:29] fast. It also includes nine built-in sub
+[03:32] agents like code reviewer, browser, use,
+[03:34] file picker, and thinker for autonomous
+[03:37] workflows. It also suggests smart
+[03:39] follow-up prompts every turn, making it
+[03:42] super smooth as well as intuitive. And
+[03:45] what's also nice is that you can connect
+[03:46] chat GPT subscriptions to unlock the GPT
+[03:49] 5.5 for plan review and even interview
+[03:53] to generate full specs. Previously when
+[03:56] I covered codebuff it was using the
+[03:58] Miniax M2.5 but now they have switched
+[04:01] it to the GLM 5.1 which gives it a major
+[04:04] performance boost. Evolve scores that
+[04:06] they have reported jumped from 68 to 83
+[04:09] percentage on some of their coding
+[04:11] benchmarks, which shows a significant
+[04:13] improvement in coding quality as well as
+[04:16] reliability. Now, it's still completely
+[04:18] free to use, which is just incredible
+[04:20] cuz you can see that even with the GLM
+[04:22] 5.1 being enabled within code buff or
+[04:26] pre-buff, you're going to be able to get
+[04:27] the same performance as the Opus 4.6,
+[04:30] which is remarkable. And this is a
+[04:33] coding agent that is approximately 10
+[04:35] times faster than other agents, which is
+[04:38] incredible. And the results are hard to
+[04:40] ignore. And one real example, Odd Code
+[04:43] took nearly 20 minutes to build a single
+[04:46] feature. CodeBuff, on the other hand,
+[04:49] completed the exact same task in just 6
+[04:52] minutes and 45 seconds. That's three
+[04:54] times faster, and Cloud Code's version
+[04:57] still contained the bug. Codebuff
+[04:59] finished earlier and got it right. So
+[05:02] today I want to test this out whether
+[05:04] this really represents the next
+[05:05] evolution of AI coding agents or if this
+[05:09] is just hype. And this video is actually
+[05:11] sponsored by CodeBuff and I'm going to
+[05:13] be as honest as possible when I am
+[05:16] showcasing all these demos. If you want
+[05:18] the best AI tools, workflows, and drops
+[05:20] before everyone else, join my free
+[05:22] newsletter with the link in the
+[05:24] description below which is completely
+[05:25] free. Now, to get started with FreeBuff,
+[05:28] it is super simple. You just need to
+[05:30] make sure you have the prerequisites
+[05:31] installed where you just need to have
+[05:33] Node, the latest version installed. Once
+[05:35] that is fulfilled, you can then head
+[05:37] over to the Freebuff website, which I'll
+[05:39] leave a link to in the description
+[05:40] below. Copy the install command and then
+[05:43] open up your terminal. Once you have
+[05:45] opened it up, just simply go ahead and
+[05:47] paste in the install command within that
+[05:50] terminal. This will install all the
+[05:52] packages.
+[05:53] Now to start off freebuff all you got to
+[05:55] do is just simply type in freebuff
+[05:57] within your command prompt and this will
+[05:59] open up the CLI agent. What you got to
+[06:01] do first is select a project directory
+[06:04] and this is a toy that is going to be
+[06:06] able to let you interact with the
+[06:08] components with your mouse and that is a
+[06:11] game changer cuz this is going to be
+[06:13] super easy for you to interact with all
+[06:16] the components of freebuff. Now what you
+[06:18] will need to do is log in with your
+[06:20] freebuff account. If you do not have
+[06:22] one, you can create one off of their
+[06:24] website. After logging in, you're going
+[06:26] to be then sent over to this model
+[06:28] selector page. And one thing I want to
+[06:31] emphasize is that recently they
+[06:33] implemented a new update where you can
+[06:35] even use Kimik K 2.6, Miniax M2.7, as
+[06:39] well as Deepseek version 4 Pro
+[06:42] completely for free. Now, if you want a
+[06:44] fast option, you would want to go for
+[06:46] the M2.7. If you want a balanced option,
+[06:49] the Kim K 2.6. The smartest is the
+[06:52] Deepseek version 4 Pro, which is a great
+[06:55] option, but they collect the data for
+[06:57] training. And one thing you'll notice
+[06:59] are these two different ads, and that's
+[07:01] how they can essentially fund code buff
+[07:03] or free buff. Now, what we can do is
+[07:05] select whatever option we want to work
+[07:07] with. If it is Deepseek, we can click on
+[07:09] it. And if you want, you can actually go
+[07:12] back to another model by simply typing
+[07:14] in /model where you can end the session
+[07:17] and choose another model. So if you want
+[07:19] to go use the Kimkate 2.6, you can click
+[07:22] on it and it is going to start up the
+[07:24] free session where you can use it
+[07:25] directly within the freebuff terminal.
+[07:28] Now to get started with freebuff, you
+[07:30] have a lot of different commands. You
+[07:32] have all of these different commands
+[07:34] like connecting to your chatbt account
+[07:36] so that you can use the specific GBT
+[07:39] models for certain use cases like a
+[07:40] reviewer agent or auditing because that
+[07:43] is a domain that chat GBT does quite
+[07:45] well in. Now, if you are to use the app
+[07:47] function, you will be able to see all
+[07:49] the different agents that FreeBuff
+[07:51] enables users to use. Like, for example,
+[07:54] if I click the app function and select
+[07:56] the researcher web agent, and I can tell
+[07:59] it to go over to my YouTube channel,
+[08:01] World of AI, and complete a research on
+[08:03] my channel, and this is where it is
+[08:05] going to be able to use web searching
+[08:06] capabilities to execute this task.
+[08:10] What's cool is it'll give you a
+[08:12] condensed plan as to what it's going to
+[08:13] do. And now you can see that it's also
+[08:16] using browser use to execute this task
+[08:18] as well. What's also great with freebuff
+[08:21] is that it can deploy multiple sub
+[08:23] agents whenever it needs to accomplish a
+[08:25] task. So in this case you can see one
+[08:27] agent is focusing on using browser use
+[08:30] and the other agent is working on
+[08:32] researching and analyzing as well as
+[08:34] scraping data and at the end of the day
+[08:37] it was able to provide me a condensed
+[08:38] summary of what my channel is. Now, this
+[08:40] is just one simple example what you can
+[08:42] do through the CLI. There's also
+[08:44] suggested follow-ups as to what you can
+[08:46] do. Now, this is just incredible cuz I
+[08:49] am currently working on having it create
+[08:51] a landing page. The fact that it's able
+[08:53] to invoke any agent that it needs at
+[08:56] certain areas of the generation is
+[08:58] awesome cuz as you saw previously, it
+[09:01] invoked a a code reviewer agent to make
+[09:04] sure that the code that was generated is
+[09:06] thoroughly written and that it is
+[09:08] audited. Now I am able to open it up and
+[09:11] you can see this is what it had
+[09:13] generated and this is just incredible.
+[09:16] The fact that I am able to generate this
+[09:19] type of landing page completely for free
+[09:21] with code buff with dynamic movements
+[09:24] with different typographies is just
+[09:26] incredible. And this truly opens up so
+[09:29] many avenues because if I am able to do
+[09:32] this type of development with a free
+[09:34] coding agent that is even faster than
+[09:37] claude code, it is going to open up many
+[09:39] avenues. And what I really like about
+[09:42] freebuff is that it has the ability to
+[09:44] work with you to accomplish any task
+[09:47] where it will ask follow-up questions
+[09:48] like it does within cloud code. If you
+[09:50] like this video and would love to
+[09:52] support the channel, you can consider
+[09:54] donating to my channel through the super
+[09:56] thanks option below. Or you can consider
+[09:59] joining our private Discord where you
+[10:01] can access multiple subscriptions to
+[10:03] different AI tools for free on a monthly
+[10:05] basis, plus daily AI news and exclusive
+[10:08] content, plus a lot more. But that's
+[10:10] basically it guys for today's video on
+[10:12] FreeBuff. This is one of the most
+[10:13] interesting AI coding tools I've ever
+[10:16] used recently. And it truly flips the
+[10:18] entire model on its head by giving you a
+[10:21] fast autonomous coding agent that is
+[10:23] actually usable day-to-day without
+[10:25] worrying about subscriptions or hitting
+[10:27] limits every few prompts. This is
+[10:29] something that is completely free, guys.
+[10:31] All of what I generated today was
+[10:34] completely free and that was thanks to
+[10:36] Freebuff. This is something that is
+[10:38] pretty unique and I highly recommend
+[10:39] that you try it out because it's even
+[10:41] faster than cloud code and it gives you
+[10:43] a lot of usage. But with that thought
+[10:45] guys, I hope you enjoyed today's video
+[10:46] and got some sort of value. I'll leave
+[10:48] all these links in the description
+[10:49] below. Make sure you take a look at the
+[10:51] second channel, join the newsletter,
+[10:52] join the Discord, follow me on Twitter,
+[10:54] and lastly, make sure you guys
+[10:55] subscribe, turn on notification bell,
+[10:57] like this video, and please take a look
+[10:58] at our previous videos so that you can
+[11:00] stay uptoate with the latest AI news.
+[11:02] But with that thought, guys, have an
+[11:03] amazing day. Spread positivity and I'll
+[11:05] see you guys fairly shortly.

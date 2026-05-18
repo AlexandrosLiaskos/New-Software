@@ -1,0 +1,45 @@
+{
+  "uid": "634efab20fa35d8b",
+  "created_at": "2026-05-18T10:21:01+00:00",
+  "category": "release",
+  "title": "Ollama integration lands in OpenAI Codex app",
+  "summary": "OpenAI's Codex desktop app now officially supports Ollama, allowing locally-hosted open-source models (Gemma 4, Qwen 3.6, DeepSeek v4) to power Codex's AI coding agent capabilities for free. Requires Ollama 0.24+ and is available on macOS and Windows, with Linux pending.",
+  "source_video_uid": "330fc53e2169a33a",
+  "source_video_id": "qo40REk9wNU",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:04",
+  "links": [
+    "https://ollama.com/blog/codex",
+    "https://docs.ollama.com/integrations/codex"
+  ],
+  "tags": [
+    "ollama",
+    "openai-codex",
+    "local-llm",
+    "coding-agent"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://ollama.com/blog/codex",
+    "repo_url": "https://github.com/openai/codex",
+    "stars": 83469,
+    "forks": 12094,
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "description": "OpenAI Codex CLI / app; Ollama integration enables locally-hosted open-source models via a one-line launch command.",
+    "web_findings": [
+      {
+        "title": "OpenAI Codex with Ollama - Ollama Blog",
+        "url": "https://ollama.com/blog/codex",
+        "snippet": "Official blog announcing Codex + Ollama integration."
+      },
+      {
+        "title": "Codex CLI - Ollama docs",
+        "url": "https://docs.ollama.com/integrations/codex",
+        "snippet": "Documentation for connecting Codex CLI to a local Ollama endpoint."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:01+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "ad98c14cda141f7c",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "repo",
+  "title": "Hermes Agent: self-improving autonomous agent from Nous Research",
+  "summary": "Hermes Agent is an open-source persistent autonomous agent from Nous Research, designed to run continuously on the user's infrastructure while building long-term memory and reusable skills. Released under the MIT license.",
+  "source_video_uid": "459e150ef430cf52",
+  "source_video_id": "dLk2Imx-0uk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:08",
+  "links": [
+    "https://github.com/NousResearch/hermes-agent",
+    "https://hermes-agent.nousresearch.com"
+  ],
+  "tags": [
+    "hermes-agent",
+    "nous-research",
+    "agent",
+    "open-source"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "homepage": "https://hermes-agent.nousresearch.com",
+    "stars": 155627,
+    "forks": 24984,
+    "language": "Python",
+    "license": "MIT",
+    "description": "The agent that grows with you",
+    "notes": "Multi-platform (Telegram, Discord, Slack, WhatsApp, Email, CLI), with five execution backends (local, Docker, SSH, Singularity, Modal)."
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

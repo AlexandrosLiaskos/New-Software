@@ -1,0 +1,41 @@
+{
+  "uid": "0ec63369274d1a20",
+  "created_at": "2026-05-18T10:21:01+00:00",
+  "category": "tool",
+  "title": "OpenAI Codex app expands with plugins, automations and computer use",
+  "summary": "OpenAI's Codex desktop app gains a plugin store (browser use, Sentry, macOS app builder, etc.), scheduled automations, multi-project management, computer-use and browser-use plugins, and direct PR/commit pushing. Free tier available; installs on Windows and macOS.",
+  "source_video_uid": "b40363d197ddb979",
+  "source_video_id": "8rXugE921aY",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:23",
+  "links": [
+    "https://github.com/openai/codex",
+    "https://openai.com/codex"
+  ],
+  "tags": [
+    "openai-codex",
+    "coding-agent",
+    "plugins",
+    "browser-use",
+    "automation"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://openai.com/codex",
+    "repo_url": "https://github.com/openai/codex",
+    "stars": 83469,
+    "forks": 12094,
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "description": "Lightweight coding agent that runs in your terminal; the desktop app builds on this with a plugin store and scheduled automations.",
+    "web_findings": [
+      {
+        "title": "openai/codex repo",
+        "url": "https://github.com/openai/codex",
+        "snippet": "Apache-2.0; primary Codex source."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:01+00:00",
+  "__class__": "SoftwareNews"
+}

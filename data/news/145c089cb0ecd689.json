@@ -1,0 +1,26 @@
+{
+  "uid": "145c089cb0ecd689",
+  "created_at": "2026-05-18T10:21:01+00:00",
+  "category": "model",
+  "title": "GPT image 2 used inside Codex for in-workflow asset generation",
+  "summary": "The video notes that OpenAI's GPT image 2 model can be invoked directly inside Codex to generate game textures, UI elements and other visual assets during a coding session, then refined in the same workflow.",
+  "source_video_uid": "958d56f14a648cbb",
+  "source_video_id": "v4M9hy_JY5E",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "13:30",
+  "links": [
+    "https://openai.com/codex"
+  ],
+  "tags": [
+    "openai",
+    "gpt-image-2",
+    "image-generation",
+    "codex"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "GPT image 2 is referenced as an in-Codex tool but no dedicated public release page was retrieved during this pass."
+  },
+  "research_date": "2026-05-18T10:21:01+00:00",
+  "__class__": "SoftwareNews"
+}

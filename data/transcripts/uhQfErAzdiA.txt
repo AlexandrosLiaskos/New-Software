@@ -1,0 +1,285 @@
+[00:00] Anthropic has just released an
+[00:01] incredible new tool called Claude
+[00:03] design, a new AI part design tool from
+[00:06] Anthropic that lets you generate full
+[00:09] visual assets like slides, prototypes,
+[00:12] landing pages, and marketing graphics
+[00:14] just by describing what you want in
+[00:16] plain English. It's powered by their
+[00:18] latest Claude Opus 4.7 model, and it is
+[00:20] currently in research preview for all
+[00:22] Claude paid users. The core idea behind
+[00:25] this is that instead of doing everything
+[00:27] manually, you're basically describing
+[00:29] what Claude should be designing. You
+[00:31] describe what you want. So, instead of
+[00:33] generating random designs with Claude
+[00:36] code, this is where you're going to be
+[00:37] able to create a design system for
+[00:39] Claude to refine through the chat,
+[00:41] comments, direct edits, or even a slider
+[00:44] to build out a front end that is
+[00:46] applicable to you. And in my opinion,
+[00:48] this is definitely killing Figma, and it
+[00:51] is a great alternative to something like
+[00:53] Google Stitch, but I'd still pick Google
+[00:55] Stitch due to it being free. Just take a
+[00:57] look at the quality of output from
+[00:59] Claude design. This is where it was
+[01:01] given a blog post about Claude design
+[01:04] itself, and it was able to create a
+[01:05] slide deck showcasing everything about
+[01:08] what you can do with Claude design. In
+[01:11] another example, Claude was given a few
+[01:13] photos and asked to create a fake email
+[01:15] newsletter to sell Lightroom plugins. It
+[01:18] correctly identified where the photos
+[01:20] were taken and generated three different
+[01:23] design directions to explore. This is
+[01:25] where it was able to thoroughly create
+[01:27] beautiful designs for each depiction.
+[01:30] The bottom line is Claude design turns
+[01:32] designs into a conversational AI-driven
+[01:35] process, making high-quality visual
+[01:37] creation faster and accessible to
+[01:40] everyone, not just designers. If you
+[01:42] want the best AI tools, workflows, and
+[01:44] drops before everyone else, join my free
+[01:47] newsletter with the link in the
+[01:48] description below, which is completely
+[01:50] free. It's currently available for all
+[01:52] paid users, and it should be available
+[01:54] for free users within the next few
+[01:56] weeks. What you're going to do is just
+[01:57] head over to Claude AI design. Once
+[01:59] you're here, you're going to need to
+[02:01] make sure you sign in with your Claude
+[02:03] your paid account so that you can now
+[02:04] get started with Claude design. This is
+[02:07] your main dashboard. On the right-hand
+[02:08] panel, you have your main canvas where
+[02:11] you can manage your designs, and you can
+[02:13] also view through different examples of
+[02:15] what you can do with Claude design. What
+[02:16] people have been able to create is
+[02:18] incredible. This is a shader wallpaper
+[02:21] that was developed with Claude design.
+[02:23] You also have different app onboarding
+[02:26] workflows that have been created like a
+[02:28] pipeline. You also have different sorts
+[02:30] of UI components being generated. So,
+[02:32] you have a lot of flexibility as to what
+[02:34] you can develop, as well as view
+[02:36] examples to create different designs
+[02:38] with. Now, what I also want to showcase
+[02:41] is the design system. This is something
+[02:43] that is really important. Think of it as
+[02:46] the main structure of your design
+[02:49] components that AI will use to build out
+[02:52] any of your front ends, slide decks, or
+[02:54] templates. This is something that we'll
+[02:56] take a look at in a bit, but the
+[02:58] left-hand panel is the main component.
+[03:01] This is where you have prototypes, slide
+[03:03] decks, templates, as well as starting
+[03:05] projects from scratch. This prototype
+[03:08] feature is pretty important. You can
+[03:10] either get started with a wireframe
+[03:11] where you simply provide a rough sketch
+[03:14] or wireframe, a rough depiction of what
+[03:16] you want the front end to be, and then
+[03:18] it is going to work upon it to build out
+[03:20] your front end. Or you can provide
+[03:22] high-fidelity examples where you can
+[03:24] provide polished mockups with real brand
+[03:27] assets and components to have the Claude
+[03:29] design tool build out your front end.
+[03:32] What you can also work on doing is
+[03:34] creating slide decks, as well as working
+[03:36] from templates. But what we're going to
+[03:37] be doing is first starting off by
+[03:39] showcasing wireframes. What we'll need
+[03:41] to do first is give it a project name.
+[03:44] So, let's say we're creating a
+[03:45] newsletter, and then what we can do is
+[03:48] click on create.
+[03:51] Now, there's a lot of different ways to
+[03:52] get started. You can obviously start off
+[03:54] by providing context like a design
+[03:56] system, adding a screenshot of a
+[03:58] previous wireframe that you want to work
+[04:00] upon, attaching code base, or even
+[04:02] dropping in a Figma file. What you can
+[04:04] also do is just simply type in in
+[04:06] natural language where you want to work
+[04:09] on creating a simple sketch of your
+[04:12] wireframe. But within this wireframe
+[04:14] option, you have the ability to start a
+[04:16] sketch, which is incredible cuz you can
+[04:19] simply just use this tool to build out
+[04:21] different blocks or components that you
+[04:22] want the AI essentially create. So, in
+[04:26] this case, since I am creating or
+[04:28] looking to create a modern AI newsletter
+[04:30] blog post, we can simply add in
+[04:32] different elements and then provide the
+[04:34] sketch to the AI to essentially code
+[04:36] out.
+[04:37] Now, one really great thing about Claude
+[04:39] design is that it is going to work with
+[04:41] you in each step when it's trying to
+[04:43] develop any front end or sketch or
+[04:46] mockup for you cuz this is where you're
+[04:48] going to need to work with it to provide
+[04:50] answers to get the best generation like
+[04:53] editorial focus, what sort of things you
+[04:56] want within your news blog, or just
+[04:58] simply describing what sort of pages you
+[05:00] want. Once you provide these
+[05:02] specifications, Claude's able to design
+[05:04] it a much better. I personally believe
+[05:06] that the questioner is really important
+[05:08] cuz this way you're going to be able to
+[05:09] get the best generation once you provide
+[05:11] the most context that is available, and
+[05:14] once you provide these questionnaires,
+[05:16] you can then go ahead and click
+[05:18] continue. Now, what I really like about
+[05:20] this is it kind of functions like
+[05:22] different files or like an IDE where you
+[05:25] have the ability to manage all of these
+[05:27] different
+[05:33] of designs. Within the design files,
+[05:35] you're going to be able to manage
+[05:36] everything that the AI generates, and
+[05:39] you can see once we have provided our
+[05:40] questioner, it is going to work on
+[05:43] setting up the design of our newsletter.
+[05:45] Now, you also have comments, and this is
+[05:47] where you can add in additional notes
+[05:50] and feedback for the AI or from your
+[05:52] team cuz this is a collaborative
+[05:54] environment where you can have multiple
+[05:56] team members work upon your design
+[05:58] structure. And just like that, we have a
+[06:00] world of AI wireframe of our newsletter,
+[06:04] and this is a really cool wireframe that
+[06:06] I can then send over to Claude design to
+[06:09] essentially build out. And this is
+[06:10] perfect cuz it had essentially worked
+[06:13] upon everything that I had wanted, and
+[06:16] thanks to me telling it exactly what I
+[06:18] want through the homepage, article page,
+[06:21] and the subscribe page, it was able to
+[06:23] thoroughly add in all the elements that
+[06:25] I had requested. What you can do is you
+[06:27] can also export this where you can
+[06:28] download as a zip, export as a PDF. You
+[06:31] can even send it to Canva, as well as
+[06:33] export it as a standalone HTML file, or
+[06:36] what you can even do is hand off the
+[06:38] Claude code. And this is really
+[06:40] important cuz then you can essentially
+[06:41] build up the front end design with
+[06:43] Claude design and then have Claude code
+[06:45] work upon building everything else. What
+[06:47] I really like about Claude design is you
+[06:49] can even upload Figma files from here,
+[06:51] but you can even connect to GitHub, grab
+[06:53] web elements, you can even link code
+[06:55] folders, skills, and design systems, as
+[06:57] well as referencing another project. So,
+[06:59] you have a lot of different options to
+[07:01] make any design a lot better. By the
+[07:04] way, when you're working on generating
+[07:06] any design with Claude design, I would
+[07:08] highly recommend going down the route of
+[07:10] creating a wireframe first. Obviously,
+[07:13] it's going to take up more tokens, but
+[07:14] this way you can easily understand what
+[07:17] it's going to create, and you can
+[07:19] obviously edit all of the elements
+[07:21] beforehand cuz you can obviously
+[07:22] annotate certain elements, you can
+[07:24] delete it, you can even further refine
+[07:26] what it's going to work upon. Whereas,
+[07:28] when you just simply use your own
+[07:30] prompts to generate design structures,
+[07:32] it's not going to be able to fully
+[07:34] understand and develop based off your
+[07:36] own preference. In this case, a
+[07:38] wireframe is able to understand where
+[07:40] you want certain components, and once
+[07:42] you have essentially figured out all of
+[07:44] this, you can just tell it code it out,
+[07:46] and that is where it is now asking me
+[07:49] more follow-up questions as to how it's
+[07:51] going to code out the wireframe that we
+[07:53] had it generate for us. And obviously,
+[07:55] it takes up more uh tokens, but this way
+[07:58] you're going to be able to get a better
+[07:59] generation output it. So, now it's going
+[08:01] to code out this wireframe that I had
+[08:03] initially generated. And just like that,
+[08:06] we have a beautiful newsletter that was
+[08:08] generated, and I got to say this is
+[08:10] better than my current newsletter. This
+[08:12] looks a lot better in every way
+[08:14] possible. And this is where I simply
+[08:16] just provided a wireframe, a sketch.
+[08:19] From there, I had generated a wireframe,
+[08:22] and then it had generated a beautiful
+[08:24] responsive landing page of our
+[08:26] newsletter. This is what you can truly
+[08:28] do with Claude design, and you can see
+[08:30] that everything looks perfect based off
+[08:33] of how we had requested it to generate
+[08:35] all the different elements. In the same
+[08:37] manner, you can also create
+[08:39] high-fidelity prototypes where if you
+[08:40] are to create this, you do the exact
+[08:43] same thing, but you're just simply using
+[08:44] natural language, and you can work upon
+[08:46] creating anything. Now, same thing with
+[08:49] slide decks, you can just simply
+[08:51] describe in plain natural language, and
+[08:53] you can even do the same thing with
+[08:55] templates where you can work upon a
+[08:57] specified template or example that is
+[08:59] already created by community member or
+[09:01] from Anthropic. But something important
+[09:03] that I also want to mention is setting
+[09:05] up different design systems. This is
+[09:07] where you can essentially have a design
+[09:09] structure that you can reference every
+[09:11] single time when you're using Claude
+[09:12] design. This is something where you can
+[09:15] upload Figma files, GitHub, or linking
+[09:17] code from your computer, and this way
+[09:19] it's able to thoroughly reference this
+[09:21] design structure whenever it is working
+[09:24] upon generating anything. This was
+[09:26] definitely a really nice launch from
+[09:27] Anthropic. Claude design is definitely a
+[09:29] remarkable tool that I highly recommend
+[09:31] that you take a look at if you have a
+[09:33] paid plan with Anthropic cuz you can
+[09:35] turn designs into a conversational
+[09:37] AI-driven process to make high-quality
+[09:40] outputs, visual elements, different
+[09:42] front ends, slides, and a lot more. I'll
+[09:45] leave all the links that I use in
+[09:46] today's video in the description below,
+[09:47] but with that thought, guys, thank you
+[09:48] guys so much for watching. Make sure you
+[09:49] go ahead and subscribe to the second
+[09:50] channel, join the newsletter, join the
+[09:52] Discord, follow me on Twitter, and
+[09:54] lastly, make sure you guys subscribe,
+[09:55] turn on the bell, like this video, and
+[09:57] please take a look at our previous
+[09:58] videos so that you can stay up-to-date
+[09:59] with the latest AI news. But, with that
+[10:01] thought, guys, have an amazing day,
+[10:02] spread positivity, and I'll see you guys
+[10:04] fairly shortly. Peace out, fellas.

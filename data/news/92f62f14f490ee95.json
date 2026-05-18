@@ -1,0 +1,28 @@
+{
+  "uid": "92f62f14f490ee95",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "model",
+  "title": "Qwen 3.6 Max Preview: Alibaba's flagship agentic coding model",
+  "summary": "Alibaba released Qwen 3.6 Max Preview, a flagship preview model built on Qwen 3.6 Plus with stronger world knowledge, instruction following and agentic coding. It targets multi-step development workflows, front-end generation, visual reasoning, and browser-based visual agent tasks with a 1M token context window. Priced at $1.30 per 1M input tokens and $7.80 per 1M output tokens.",
+  "source_video_uid": "b6ee1fcbb7e4cbd2",
+  "source_video_id": "CEVSgJIYSqs",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:23",
+  "links": [
+    "https://chat.qwen.ai/",
+    "https://qwenlm.github.io/"
+  ],
+  "tags": [
+    "alibaba",
+    "qwen",
+    "model",
+    "agentic-coding"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://chat.qwen.ai/",
+    "notes": "Preview accessible via Alibaba's chatbot and API; not available through OpenRouter or Kilo at time of recording. Reported to outperform Claude 4.5 Opus and GLM 5.1 on selected benchmarks per the transcript."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

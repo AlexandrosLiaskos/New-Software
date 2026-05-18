@@ -1,0 +1,32 @@
+{
+  "uid": "30c7ea84a07d9d25",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "release",
+  "title": "Freebuff: free ad-supported AI coding agent built on Codebuff",
+  "summary": "Freebuff is a zero-config, fully free AI coding CLI built on top of the open-source Codebuff platform. It is monetised through in-terminal ads rather than subscriptions and ships with nine built-in sub-agents (file picker, code reviewer, browser use, thinker, etc.). Output runs on a custom GPU deployment that delivers up to 300 tokens per second.",
+  "source_video_uid": "2d0b571630cfaaba",
+  "source_video_id": "JZIf-HiutvY",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:36",
+  "links": [
+    "https://freebuff.com/",
+    "https://github.com/CodebuffAI/codebuff/tree/main/freebuff",
+    "https://www.npmjs.com/package/freebuff"
+  ],
+  "tags": [
+    "freebuff",
+    "codebuff",
+    "ai-coding-agent",
+    "cli",
+    "ad-supported",
+    "free"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://freebuff.com/",
+    "repo_url": "https://github.com/CodebuffAI/codebuff",
+    "notes": "Distributed via npm. Built on the Codebuff multi-agent architecture; free tier supported by ads displayed in the CLI."
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

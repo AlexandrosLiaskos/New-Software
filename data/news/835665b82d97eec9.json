@@ -1,0 +1,25 @@
+{
+  "uid": "835665b82d97eec9",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "GitHub Copilot Max tier appears at $99/month",
+  "summary": "A new GitHub Copilot Max subscription tier was spotted as a placeholder, priced at $99 per month, positioned as a higher-end plan aimed at power users and advanced AI workflows as part of a broader Copilot lineup revamp.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:50",
+  "links": [
+    "https://github.com/features/copilot"
+  ],
+  "tags": [
+    "github",
+    "copilot",
+    "pricing"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Pre-launch placeholder; pricing and feature set may change before GA."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

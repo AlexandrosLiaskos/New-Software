@@ -1,0 +1,26 @@
+{
+  "uid": "260378703ec04de5",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Google tests Gemini 3.2 Pro and Flash variants ahead of I/O",
+  "summary": "Multiple Gemini 3.2 checkpoints (variants code-named Sprite and Cola) are being rapidly tested by Google through internal platforms ahead of Google I/O. Early outputs show solid SVG generation but front-end quality is described as less impressive than the prior Gemini 3 line.",
+  "source_video_uid": "c409e51ed299fa7e",
+  "source_video_id": "xK8Xom50e1k",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:42",
+  "links": [
+    "https://blog.google/technology/google-deepmind/"
+  ],
+  "tags": [
+    "google",
+    "gemini",
+    "model",
+    "preview"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Pre-release internal testing leak. Public release expected around Google I/O (transcript suggests by May 22)."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

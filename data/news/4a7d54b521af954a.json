@@ -1,0 +1,25 @@
+{
+  "uid": "4a7d54b521af954a",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "Google Cloud CEO confirms a new Gemini version coming very soon",
+  "summary": "In a podcast interview, the Google Cloud CEO said a new version of Gemini is coming very soon and that internal benchmarks make Google confident in its performance. The transcript speculates Gemini 3.5 or an early Gemini 4 could be announced at Google I/O 21 days later.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:17",
+  "links": [
+    "https://blog.google/"
+  ],
+  "tags": [
+    "google",
+    "gemini",
+    "pre-release"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Source: Matthew Berman podcast interview cited in transcript."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,288 @@
+[00:00] Open AI's Codex app, powered by the GPT
+[00:02] 5.5, genuinely feels like a true AI
+[00:05] super app that can practically do
+[00:07] everything. Yesterday, I made a video
+[00:10] showcasing the full capabilities of
+[00:12] Codex, from data analysis to full
+[00:15] application development, as well as
+[00:17] building out full-on games, to web
+[00:19] development, browser use, and even
+[00:21] computer control workflows. And when it
+[00:24] comes to browser use and computer use,
+[00:26] GPT 5.5 is honestly incredible. Cuz on
+[00:30] the OS world verified, a benchmark that
+[00:33] measures whether a model can
+[00:34] autonomously operate real computer
+[00:36] environments, the GPT 5.5 reaches a
+[00:39] 78.7%
+[00:41] also being significantly more token
+[00:43] efficient. This is a massive step
+[00:45] forward for real-world autonomous AI
+[00:47] agents. And now, when you combine GPT
+[00:50] 5.5 with Codex, things get even crazier
+[00:53] cuz Open AI recently launched browser
+[00:56] use within Codex as a plugin. And this
+[00:59] is to help fully close the build and
+[01:01] verify loop for local deployment. You
+[01:03] can now ask Codex to build your front
+[01:05] end, for example, and then actually test
+[01:08] it out with the GPT 5.5 model like a
+[01:10] real user by clicking through the
+[01:12] application itself. And you can
+[01:14] essentially have Codex visually see
+[01:16] everything the user sees through vision
+[01:18] capabilities, while simultaneously
+[01:20] inspecting console and network logs to
+[01:23] debug and automatically fix issues that
+[01:26] it encounters. This is truly a major
+[01:28] step forward cuz it brings in fully
+[01:31] autonomous coding agents capable of
+[01:33] delivering high-quality, fully tested
+[01:36] software changes with minimal human
+[01:38] intervention. Not just that, this is
+[01:40] something that will help you set up
+[01:42] automations, help you control your
+[01:44] computer to automate basic
+[01:46] computer-based tasks, as well.
+[01:48] For example, with browser use enabled,
+[01:51] GPT 5.5 and Codex is able to handle far
+[01:54] more within a workflow across the
+[01:56] browser, files, documents that you have
+[01:59] within your computer. In this case, it's
+[02:01] able to open up a whole home setup that
+[02:04] is basically testing out all the visual
+[02:07] inputs, interacting with the web app,
+[02:09] testing out the user flow, clicking
+[02:11] through pages, capturing screenshots,
+[02:13] and continuously iterating on what it
+[02:15] sees until the task is successfully
+[02:18] completed. If you want the best AI
+[02:20] tools, workflows, and drops before
+[02:22] everyone else, join my free newsletter
+[02:25] with the link in the description below,
+[02:26] which is completely free. And what's
+[02:28] funny is that they know that a lot of
+[02:30] people are using this browser use and
+[02:32] computer use feature within Codex, which
+[02:34] is why they implemented a huge new
+[02:36] change, which makes it much faster.
+[02:39] In fact, computer use now runs this use
+[02:42] case 42% faster in today's Codex app
+[02:45] update, which is incredible.
+[02:48] And genuinely, this is the first time we
+[02:50] have seen large language models operate
+[02:52] a GUI as fast as an actual person. And
+[02:55] honestly, it feels surreal in these
+[02:57] different use cases with Codex enabling
+[03:00] computer and browser use. And the best
+[03:02] part about Codex is that it is something
+[03:04] that is completely free, and you can
+[03:06] install it for Windows and macOS
+[03:08] devices. Now, I've already made a
+[03:10] full-on video showcasing this, so I
+[03:12] highly recommend that you watch this cuz
+[03:15] I showcase almost all of the features of
+[03:17] Codex and what you can do with it. So,
+[03:19] this is something that will get you
+[03:21] easily started. But now, once you have
+[03:23] it installed, we can get started on what
+[03:25] you can actually do with Codex. After
+[03:27] installing and logging in with Codex,
+[03:29] what you will notice is on the main
+[03:31] dashboard, you have a couple of
+[03:32] different options. Now, I would
+[03:34] recommend that you keep this on the
+[03:36] default permissions, and what you want
+[03:38] to do first is start up a new project
+[03:40] from scratch. This is to help contain
+[03:42] everything. But when you are to use the
+[03:44] {slash} at command, or if you are to
+[03:46] press this plus sign, and then click on
+[03:48] plugins, you will see that browser use
+[03:51] has been already installed within your
+[03:53] Codex app. If it isn't, you can head
+[03:55] over to plugins, you can search up
+[03:56] browser use, and then you can install
+[03:58] this. But, what you can now do is use
+[04:01] this directly within the chat panel.
+[04:03] This is essentially your main dashboard,
+[04:05] and you can command browser use to be
+[04:07] enabled by simply using the app command,
+[04:09] and then you can select it, and then
+[04:11] request it to do almost anything.
+[04:13] Whether that is sending emails, testing
+[04:15] out a checkout flow on localhost, or
+[04:17] just simply opening up a page. This is
+[04:20] essentially browser use task, where you
+[04:22] can control your browser with Codex. And
+[04:26] in my opinion, you don't need much
+[04:27] intelligence with this, unless if it is
+[04:30] a meticulous task that you're giving it.
+[04:32] So, if you want, you can set the
+[04:34] intelligence to low, and this way you're
+[04:36] not able to run through your rate limit
+[04:38] as fast as it used to be if you set it
+[04:41] to a higher intelligence. But, you can
+[04:42] see over here, I simply enabled browser
+[04:44] use to open up World of AI on YouTube,
+[04:47] and it was able to open up this web
+[04:48] page. Now, what's nice is you can even
+[04:51] set up automations with browser use. So,
+[04:53] you can even have a setup directly
+[04:56] within Codex to essentially send out
+[04:58] emails, or simply scrape leads using
+[05:00] browser use, and then have that
+[05:02] automation set by creating that, and
+[05:04] then having it enabled to use that
+[05:06] plugin every single time at a certain
+[05:09] time, like at 9:00 a.m. Just as an
+[05:11] example, I can say use browser use every
+[05:14] single day to scrape new AI topics and
+[05:16] create a PDF of new AI news, and I can
+[05:19] simply go ahead and click on create. And
+[05:21] there we go. It's simple as that, our
+[05:23] automation is completed. And after
+[05:25] running that specific automation, this
+[05:27] is where it created a full-on PDF. It
+[05:30] scraped all the sources, and actually
+[05:32] listed out all of them at the bottom of
+[05:35] the page, which you can see over here.
+[05:37] But, the fact that it's able to do this
+[05:39] quite rapidly, and use the GPT 5.5
+[05:42] efficiently is the best part about this.
+[05:45] Cuz not only is it able to control your
+[05:47] browser, but it's able to do deep
+[05:49] analysis and help you execute tasks like
+[05:52] this on a regular basis. Here is a super
+[05:55] simple notes app that I had requested
+[05:57] the GPT-5.5 to actually generate. Now,
+[06:00] what I can showcase is I can have
+[06:03] browser use enabled and I can have it
+[06:05] test out this user flow of my
+[06:08] applications. I can say, "Test out
+[06:11] the notes app."
+[06:13] And essentially, this is going to have
+[06:15] it work upon testing out the exact user
+[06:17] flow, and this is where it can interact
+[06:20] with all the components of my notes app.
+[06:23] So, on the left-hand side, you can see
+[06:25] that it is executing upon all these
+[06:27] different tasks. It added a new task and
+[06:30] it's able to write up new notes and then
+[06:32] add it as well. And it's pretty
+[06:34] important when you use browser use with
+[06:36] these different user testing flows cuz
+[06:38] it can test out different sign-up, login
+[06:41] flows. You can click through entire
+[06:43] applications like a real user to make
+[06:45] sure everything is functioning properly,
+[06:47] as well as catching bugs, console and
+[06:49] network errors, and you can even
+[06:51] essentially have it automated. Next, I
+[06:54] had just wanted to create a chess game
+[06:56] to showcase that browser use is
+[06:58] something that can actually test out a
+[07:00] full-on development of your application.
+[07:03] >> [music]
+[07:03] >> In this case, I can have it actually
+[07:05] play chess. So, I can say, "Can you play
+[07:08] chess for me?" And this is a way for you
+[07:12] to test out if all the functions of your
+[07:14] application is perfect or not. And you
+[07:17] can intelligently prompt browser use to
+[07:19] be invoking certain functions. Like, if
+[07:22] it is catching a bug within the console,
+[07:25] or if it notices something with browser
+[07:27] use visually, it is able to execute upon
+[07:30] that task, and it's able to solve and
+[07:32] resolve that particular console log or
+[07:34] that issue that it visually saw to make
+[07:37] sure that it's able to catch and fix
+[07:40] issues on standby. But, just take a look
+[07:42] at this. This is where we have browser
+[07:44] use enabled, and it's able to automate
+[07:47] the ability to play chess, for example.
+[07:50] Not just that, guys. It's able to
+[07:51] execute task off of your computer, which
+[07:54] is why I had mentioned computer use.
+[07:56] This is where you can have it execute a
+[07:59] task like organizing a bunch of
+[08:01] different random files off of my
+[08:03] desktop. This is where I have a bunch of
+[08:05] different thumbnails that I have
+[08:07] previously used for my channel, and all
+[08:10] of them are
+[08:12] quite unorganized. The titles don't look
+[08:14] properly formatted. So, this is where
+[08:17] I'm going to tell browser use to
+[08:18] actually go onto my computer, computer
+[08:20] use technically, but have it go onto my
+[08:23] computer, go over to my desktop, and
+[08:26] organize all of them. And you can see
+[08:27] that it did it quite rapidly, and was
+[08:30] able to numerically format all of them
+[08:33] in a proper format, all the way from 1
+[08:36] to 15.
+[08:37] Now, another super use
+[08:39] Now, another super cool use case of
+[08:41] computer use is combining Codex with
+[08:44] Apple's iPhone mirroring app, which
+[08:46] basically lets GPT interact with apps on
+[08:49] your phone through Mac. Now, this is a
+[08:52] little less precise compared to native
+[08:54] desktop apps, since it's relying on
+[08:56] visual clicks and screen interpretation,
+[08:59] but it generally works surprisingly
+[09:00] well. Some insanely useful app workflows
+[09:04] that it could be used for is testing
+[09:05] mobile app UX flows, automating social
+[09:08] media posting workflows. You can manage,
+[09:10] message, as well as work on sending out
+[09:14] different emails, mobile game testing,
+[09:17] QA testing for iOS, and so much more.
+[09:20] We're honestly entering an era where AI
+[09:22] agents can operate across browsers,
+[09:25] desktops, and even phones like real
+[09:27] users.
+[09:28] If you like this video and would love to
+[09:30] support the channel, you can consider
+[09:32] donating to my channel through the Super
+[09:34] Thanks option below. Or, you can
+[09:36] consider joining our private Discord
+[09:38] where you can access multiple
+[09:40] subscriptions to different AI tools for
+[09:42] free on a monthly basis, plus daily AI
+[09:45] news and exclusive content, plus a lot
+[09:47] more.
+[09:49] Now, there's so much more to this and I
+[09:51] highly recommend that you test it out,
+[09:53] which is why I've really emphasized in
+[09:55] my video yesterday to switch to Codex
+[09:57] cuz honestly, with the usage limits that
+[09:59] OpenAI provides with their paid tiers,
+[10:02] it's a lot better than Claude Code at
+[10:04] the moment, which is why I had made this
+[10:06] video talking about Codex and this is an
+[10:09] app that will practically let you do
+[10:11] almost anything in one single area. So,
+[10:14] I highly recommend that you take a look
+[10:15] at Codex. I'm not promoted or sponsored
+[10:18] by them. I'm just recommending something
+[10:20] that might be useful for many of us
+[10:22] users. But with that thought, guys, I
+[10:24] hope you enjoyed today's video and got
+[10:25] some sort of value. I'll leave all these
+[10:27] links in the description below. But with
+[10:28] that thought, guys, thank you guys so
+[10:29] much for watching. Make sure you join
+[10:31] the second channel by subscribing. Take
+[10:33] a look at our newsletter. Join the
+[10:34] Discord. Follow me on Twitter. Lastly,
+[10:36] make sure you guys subscribe, turn on
+[10:37] the notification bell, like this video,
+[10:39] and please take a look at our previous
+[10:40] videos so that you can stay up-to-date
+[10:42] with the latest AI news. But with that
+[10:43] thought, guys, have an amazing day.
+[10:45] Spread positivity, and I'll see you guys
+[10:47] fairly shortly. Peace out, fellas.

@@ -1,0 +1,37 @@
+{
+  "uid": "ab47e8f0f6ee73de",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "release",
+  "title": "Traycer launches Bart Mode for autonomous epic execution",
+  "summary": "Traycer has launched Bart Mode, an outer-loop AI orchestrator that takes an epic, breaks it into tickets and runs them as parallel agent batches, reviewing each batch against the spec and updating the plan when new information emerges. The mode is agent-agnostic and orchestrates whichever coding agent is connected (Claude Code, Cursor, Windsurf, Gemini CLI, Kilo Code). A complementary team-collaboration feature has also been rolled out.",
+  "source_video_uid": "8c4754c7480ac9e0",
+  "source_video_id": "nD24henxjT8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:42",
+  "links": [
+    "https://traycer.ai/",
+    "https://traycer.ai/blog/ralph-loops-bart-orchestrates",
+    "https://docs.traycer.ai/tasks/epic"
+  ],
+  "tags": [
+    "traycer",
+    "bart-mode",
+    "spec-driven-development",
+    "orchestrator",
+    "ai-agents"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://traycer.ai/",
+    "notes": "Bart Mode (internally 'Smart YOLO') manages a feedback loop across specs, tickets, diffs and verification results. Distinct from Ralph-style retry loops. Available via the Traycer IDE extension for Cursor, VS Code and Windsurf.",
+    "web_findings": [
+      {
+        "title": "Ralph Loops. Bart Orchestrates.",
+        "url": "https://traycer.ai/blog/ralph-loops-bart-orchestrates",
+        "snippet": "Bart is an outer-loop orchestrator that adapts the plan as code evolves."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

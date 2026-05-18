@@ -1,0 +1,44 @@
+{
+  "uid": "eda052350b25ebb9",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "Anthropic Claude Design AI visual canvas in research preview",
+  "summary": "Anthropic released Claude Design, a research-preview design tool powered by Claude Opus 4.7 that generates slides, prototypes, landing pages and marketing graphics from natural-language descriptions. Outputs can be refined via chat, comments, direct edits or sliders, and exports include ZIP, PDF, standalone HTML, Canva and hand-off to Claude Code. Available to paid Claude users at launch.",
+  "source_video_uid": "abafe9ee7e5aa6b0",
+  "source_video_id": "uhQfErAzdiA",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:00",
+  "links": [
+    "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "https://support.claude.com/en/articles/14604416-get-started-with-claude-design"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-design",
+    "opus-4.7",
+    "design-tool"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "web_findings": [
+      {
+        "title": "Introducing Claude Design by Anthropic Labs",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "snippet": "Research-preview workspace powered by Opus 4.7 for visual prototyping; available to Pro, Max, Team and Enterprise subscribers."
+      },
+      {
+        "title": "Anthropic just launched Claude Design",
+        "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+        "snippet": "Released 17 April 2026; positioned as complement to Figma and Canva with handoff to both."
+      },
+      {
+        "title": "Get started with Claude Design",
+        "url": "https://support.claude.com/en/articles/14604416-get-started-with-claude-design",
+        "snippet": "Onboarding builds a design system from a codebase or design files."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

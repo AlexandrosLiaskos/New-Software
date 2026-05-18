@@ -1,0 +1,34 @@
+{
+  "uid": "cff41fb800a4fd89",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "model",
+  "title": "Gemini 3.2 Flash leaks in iOS app and AI Studio",
+  "summary": "Gemini 3.2 Flash is reportedly being A/B tested through Antigravity, LM Arena, Google AI Studio and the Gemini iOS app. Pricing is reported at $0.25 per 1M input tokens and $2.00 per 1M output tokens, with a January 2026 knowledge cutoff.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "03:54",
+  "links": [
+    "https://aistudio.google.com/"
+  ],
+  "tags": [
+    "gemini",
+    "google",
+    "model-release",
+    "leak"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://deepmind.google/technologies/gemini/",
+    "notes": "Confirmed as a real pre-I/O 2026 rollout. The host's video timestamps May 2026.",
+    "web_findings": [
+      {
+        "title": "Gemini 3.2 Flash: Google's Model Surfaces in iOS App and AI Studio Ahead of I/O 2026",
+        "url": "https://pasqualepillitteri.it/en/news/2013/gemini-3-2-flash-leak-ios-ai-studio-2026-en",
+        "snippet": "Gemini 3.2 Flash appeared inside the official iOS Gemini app and Google AI Studio on May 5, 2026."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

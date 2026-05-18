@@ -1,0 +1,351 @@
+[00:00] Past week in AI has been absolutely
+[00:03] insane and all of it is building up for
+[00:06] some massive new launches that are
+[00:07] coming up very soon. With Google IO
+[00:10] coming up right around the corner, we're
+[00:12] starting to see early signs of Gemini
+[00:15] 3.2 flash, which is reportedly being AB
+[00:17] tested right now. And it's very likely
+[00:20] that it is going to be dropping before
+[00:21] the conference, which is setting up a
+[00:23] stage for a much larger flagship reveal,
+[00:26] potentially being the Gemini 3.5 or even
+[00:29] the Gemini 4.0 series. But that's not
+[00:32] all. A major breakthrough just happened
+[00:34] in the large-scale AI space where a
+[00:37] company called Sub Q introduced the
+[00:39] first model built on a fully
+[00:41] sub-quadratic sparse attention
+[00:44] architecture, which basically means that
+[00:46] we're now looking at a frontier model
+[00:48] that is capable of handling a 12 million
+[00:51] token context window. That's completely
+[00:53] a different type of scale of reasoning
+[00:56] and memory. On the Open AI side, they've
+[00:59] dropped a GPT 5.5 instant, which is a
+[01:02] faster, more efficient version of their
+[01:04] flagship model that's optimized for
+[01:06] real-time use while still maintaining
+[01:09] strong intelligence. Meanwhile,
+[01:11] Anthropic is pushing hard into the
+[01:13] enterprise space rolling out with their
+[01:15] new financial focus capabilities that
+[01:17] could realistically replace a lot of
+[01:20] entry-level analyst workflows. And of
+[01:22] course, Google has been shipping
+[01:24] non-stop making Gemma 4 much faster
+[01:28] updating Google AI Studio expanding
+[01:30] Gemini Omni where they are also
+[01:33] improving notebook LM to have many more
+[01:36] new capabilities and much more. So
+[01:38] there's a lot to cover, so let's simply
+[01:40] just dive into it all.
+[01:42] Before we jump in, allow me to introduce
+[01:43] today's video sponsor, Zapier. Zapier
+[01:46] agents are like having AI-powered
+[01:49] teammates that just handle things across
+[01:51] 9,000 plus apps. All you focus on what
+[01:54] actually matters. One of my favorite
+[01:56] agents right now is the outreach agent.
+[01:58] It automatically finds qualified leads
+[02:00] from a Notion database enriches their
+[02:03] info with LinkedIn data and sends out
+[02:05] personalized emails all without me
+[02:07] lifting a single finger. No more copying
+[02:10] and pasting or juggling tabs. It handles
+[02:13] everything end-to-end. And the thing is,
+[02:15] I didn't code a single thing. I just
+[02:17] used a pre-built agent template and
+[02:19] Zapier's got a whole catalog of them.
+[02:21] Think of sales call analysis agents,
+[02:24] viral content agents, support ticket
+[02:26] handling, all plug-and-play and easily
+[02:29] accessible. For me, it's the peace of
+[02:31] mind knowing that my calendar is under
+[02:33] control, my prep is done, and I didn't
+[02:35] even lift a finger. That's what Zapier
+[02:37] does best. It disappears into your
+[02:40] workflow until you can't imagine working
+[02:42] without it. Want to try it? Head over to
+[02:44] the Zapier's website, link that I'll
+[02:46] leave in the description below, to build
+[02:48] your own AI-powered dream team totally
+[02:50] for free. To get things started, I
+[02:52] recently made a video on a new Gemini
+[02:54] flash variant being tested in Arena, and
+[02:57] it honestly was pretty impressive. But
+[03:00] since then, things have escalated pretty
+[03:02] fast cuz as we're getting closer to the
+[03:04] Google IO conference, Google isn't just
+[03:07] testing one model anymore. They're
+[03:08] testing multiple new variants and some
+[03:11] of them are reportedly even better than
+[03:12] the one that I had previously showcased.
+[03:15] We have four new checkpoints. We have
+[03:17] Ajax, we have Hercules, we have Hector,
+[03:20] and Orpheus. All are actively being AB
+[03:23] tested right now through antigravity,
+[03:25] Arena, as well as their Google AI Studio
+[03:27] and even the Gemini app. And what's
+[03:29] really interesting is that on my X, you
+[03:32] might have seen my tweet where I had
+[03:34] talked about a Gemini 3.1 or Gemini 3.2
+[03:38] update potentially dropping before the
+[03:39] Google IO conference. The idea actually
+[03:42] gained a lot more weight when a few
+[03:45] Google product leads went ahead and
+[03:47] liked my tweet, which is obviously a
+[03:49] pretty strong signal that something
+[03:51] along those lines is happening. Not just
+[03:54] that, the Gemini 3.2 flash was actually
+[03:57] spotted inside the iOS Gemini app for
+[03:59] some users, which further hints at an
+[04:02] early rollout already progressing. So
+[04:05] when you combine all of these leaks, the
+[04:07] AB testing, the internal signals, and
+[04:09] early app sightings, it really looks
+[04:12] like Google is preparing to ship
+[04:13] something before the main event, not
+[04:15] just at it.
+[04:17] Now this upcoming Gemini 3.2 flash looks
+[04:19] like it's a big step cuz it is something
+[04:22] that is positioned as an all-rounded
+[04:24] model combining the flash level speed
+[04:27] with the reasoning closer to the Gemini
+[04:29] 3.1 Pro, which is a major shift. It's
+[04:32] also reportedly has a January 2026
+[04:35] knowledge cut-off and there have been
+[04:37] many leaks around the pricing where it
+[04:39] is stated to be 25 cents per 1 million
+[04:41] input tokens and $2 per 1 million output
+[04:44] tokens with improved grounding and
+[04:47] search capabilities for more reliable
+[04:49] answers. And timing-wise, everything is
+[04:51] still pointing at a May rollout, whether
+[04:54] that is in the Google IO conference or a
+[04:57] couple weeks ahead like I talked about.
+[04:59] And I got to say, the intelligence is
+[05:01] truly incredible. We're getting pro
+[05:03] level intelligence at flash speeds.
+[05:06] Next, as we head into the Google IO
+[05:08] conference, there is another huge leak.
+[05:11] And this is a new Omni model that is
+[05:13] reportedly being tested inside Gemini
+[05:15] for video generation. A leaked line from
+[05:18] the UI says, "Start with an idea or try
+[05:21] a template powered by Omni." That is
+[05:24] interesting cuz Omni seems to be closely
+[05:26] tied to Toucan, an internal code name
+[05:29] linked to Google's current video system
+[05:31] powered by Veo. If this turns out to be
+[05:33] real, this could mean Google is
+[05:35] preparing to launch a fully multimodal
+[05:37] Omni model with native video output
+[05:40] potentially outperforming current
+[05:42] systems like Veo 3.1. But obviously this
+[05:44] is all speculation, but if it lands,
+[05:46] Gemini could be becoming the first
+[05:48] top-tier Omni model that can generate
+[05:51] videos natively. And yeah, that would be
+[05:53] a massive deal. If you want the best AI
+[05:56] tools, workflows, and drops before
+[05:58] everyone else, join my free newsletter
+[06:00] with the link in the description below,
+[06:02] which is completely free. On the topic
+[06:04] of Google, something more subtle but
+[06:06] important just happened and this is
+[06:08] where they quietly shut down project
+[06:10] Mariner, the web browsing AI agent they
+[06:13] showcased at Google IO last year. But
+[06:16] this isn't a step back cuz it looks like
+[06:18] Google is shifting focus towards to a
+[06:21] 24/7 AI personal agent inside the Gemini
+[06:25] app itself. Something far more powerful
+[06:28] and persistent. So they didn't just kill
+[06:30] it, they're actually re-evolving it.
+[06:32] Next up is a massive breakthrough for
+[06:34] large language model architectures with
+[06:36] Sub Q. They've introduced the first
+[06:39] model built on a fully sub-quadratic
+[06:42] sparse attention architecture along with
+[06:44] a 12 million token context window, which
+[06:47] is just insane. Yeah, you heard me
+[06:50] right. 12 million token context window.
+[06:53] Instead of processing every possible
+[06:55] word relationship with traditional
+[06:57] transformers, this is a new model that
+[07:00] focuses only on the ones that actually
+[07:02] matter, cutting out massive amounts of
+[07:04] wasted compute as well as taking out the
+[07:07] clutter. And the results are up to 52
+[07:10] times faster than the flash attention
+[07:13] architecture at 1 million tokens. It is
+[07:15] greater than 5% of the cost of models
+[07:18] like Claude Opus, nearly 1,000 times
+[07:20] less compute. This isn't just an
+[07:22] incremental upgrade, it is a completely
+[07:25] new way to scale large language models.
+[07:27] I'm not sponsored by them, but if you
+[07:29] are looking to get access, you can
+[07:30] request early access through their
+[07:32] website. Next, on the Open AI side, GPT
+[07:36] 5.5 instant is now starting to roll out
+[07:38] in ChatGPT and this is a pretty massive
+[07:42] new upgrade which delivers smarter,
+[07:44] clearer, and more personalized responses
+[07:46] with a much more natural tone. It is
+[07:49] more importantly accessible and
+[07:51] depictable with stronger improvements in
+[07:54] factual accuracy. It is especially high
+[07:57] in different stake areas like medicine,
+[08:00] law, and finance. And it can also be
+[08:02] better at everyday tasks from analyzing
+[08:05] images to answering STEM questions to
+[08:08] knowing web search whenever it's
+[08:10] actually needed. So overall, it's not
+[08:12] just faster, it's a much more reliable,
+[08:15] well-rounded model.
+[08:16] On the Anthropic side, things got very
+[08:18] real for finance and they essentially
+[08:20] just automated first-year analyst roles
+[08:23] at every bank cuz they released a full
+[08:25] suite of Claude agent templates covering
+[08:28] pitch builders, meeting preparers,
+[08:30] earning reviewers, model builders,
+[08:33] market research, valuation reviewers,
+[08:35] and much more. These are all installed
+[08:38] through Claude Code or deployed as
+[08:40] managed agents in production. So instead
+[08:43] of analysts grinding through
+[08:44] spreadsheets and decks, these workflows
+[08:47] can now be fully automated end-to-end.
+[08:50] But what's remarkable about this is that
+[08:52] it is an AI that is a full-on digital
+[08:55] workforce. With Anthropic's packaging
+[08:58] system with these templates, you can
+[09:00] essentially have it so that you're
+[09:02] replacing every entire layer of
+[09:03] repetitive structured work as a
+[09:05] financial analyst. These are the exact
+[09:08] same tasks that are traditionally
+[09:09] trained for junior talent on Wall Street
+[09:12] or many other banks and it could be now
+[09:15] executed instantly at scale and running
+[09:17] 24/7 through systems like Claude Code.
+[09:20] So the real impact isn't just
+[09:22] efficiency, it is a complete
+[09:24] restructuring of how financial teams
+[09:26] operate.
+[09:27] Remember Gemma 4? Well, it just got even
+[09:30] faster cuz Google came out with a new
+[09:32] upgrade for it. And this is where they
+[09:35] have introduced multi-token prediction
+[09:37] drafters. And this essentially makes the
+[09:39] model generate multiple tokens at once
+[09:42] during inference and this leads to up to
+[09:44] three times faster speeds. You have zero
+[09:46] quality loss in outputs. Now, what's
+[09:49] remarkable is that this model is still
+[09:51] under the Apache 2.0 license while still
+[09:54] being much faster and delivering crazy
+[09:56] results. And if you haven't seen my
+[09:58] video on Gemini 4, I highly recommend
+[10:00] that you do so cuz this model is truly
+[10:03] insane.
+[10:04] Google AI Studio now has integrated Nano
+[10:07] Banana to automatically generate custom
+[10:09] image assets, and this is something that
+[10:11] could be added into your app as it's
+[10:13] being built. On top of that, they
+[10:15] redesigned the edit tool, which gives
+[10:17] you a full visual control, letting you
+[10:19] update components, annotate your app,
+[10:22] and swap assets in real time. So, you're
+[10:24] not just coding first anymore cuz it is
+[10:27] now becoming a fully visual AI power dev
+[10:30] environment. Gosh, another Google
+[10:32] update. But, this is where Notebook LM
+[10:34] has mind maps that are getting a serious
+[10:37] glow up or an update, which is where it
+[10:39] includes customization where you can
+[10:41] guide your map with specific prompts.
+[10:43] You can have it organized easily by
+[10:45] renaming and sharing your maps.
+[10:48] You also have smoother navigation with
+[10:50] seamless transitions between notes. So,
+[10:52] this is turning it into a much more
+[10:54] interactive way to think, plan, and
+[10:57] explore ideas with their mind map
+[10:59] feature. Another interesting update is
+[11:01] from another Google tool called
+[11:03] Pumpelly, and this is where they have
+[11:05] introduced catalogs. It lets you upload
+[11:08] your product or services, and then you
+[11:10] can automatically generate personalized
+[11:12] marketing campaigns along with
+[11:13] high-quality AI photoshoots tailored to
+[11:16] your brand. And the craziest part is
+[11:18] this is a tool that is still completely
+[11:20] free and available globally. Lastly,
+[11:23] Perplexity was trying to steal the
+[11:24] thunder from Claude as they're making a
+[11:27] serious move into finance with the
+[11:29] launch of their Perplexity computer
+[11:31] finance agent. And this is where you can
+[11:33] essentially use this new computer agent
+[11:36] that is going to be plugged into
+[11:38] licensed data from providers like
+[11:40] Morningstar, PitchBook. You also have
+[11:42] Carbon Arc and many others. And overall,
+[11:45] this is going to bring real high-quality
+[11:47] financial data directly into your AI
+[11:49] workflow. On top of that, they have
+[11:52] added 35 dedicated finance workflows
+[11:54] covering the repetitive task analysts do
+[11:56] every week. So, this isn't just another
+[11:59] AI tool. They're trying to make this
+[12:01] into another function like a financial
+[12:04] operating system that is powered by
+[12:06] Perplexity computer. And obviously, this
+[12:08] sounds like they're just trying to
+[12:09] compete with Claude, but it looks like
+[12:11] Claude always is going to have the upper
+[12:13] hand on Perplexity.
+[12:15] And just for fun, here's a video of a
+[12:17] new Boston Dynamic robot dancing better
+[12:20] than most humans could, including
+[12:21] myself. And I can't even lie, this robot
+[12:24] definitely dances way better than me.
+[12:26] If you like this video and would love to
+[12:28] support the channel, you can consider
+[12:30] donating to my channel through the Super
+[12:32] Thanks option below. Or you can consider
+[12:35] joining our private Discord where you
+[12:37] can access multiple subscriptions to
+[12:39] different AI tools for free on a monthly
+[12:41] basis, plus daily AI news and exclusive
+[12:44] content, plus a lot more. But, that's
+[12:47] about it, guys, for today's video on
+[12:49] whatever is happening in the world of
+[12:50] AI. We should be seeing new model drops
+[12:53] probably later in May, obviously closer
+[12:56] to the Google I/O conference. Maybe we
+[12:58] see Gemini 3.2 flash earlier before the
+[13:01] conference, and I really, really hope
+[13:03] that we potentially see a new flagship
+[13:06] model from Gemini. But, with that
+[13:08] thought, guys, I hope you enjoyed
+[13:09] today's video and got some sort of
+[13:10] value. I'll leave all these links in the
+[13:12] description below. Make sure you go
+[13:13] ahead and take a look at our second
+[13:14] channel, join the newsletter, join the
+[13:16] Discord, follow me on Twitter, and
+[13:18] lastly, make sure you guys subscribe,
+[13:20] turn on notification bell, like this
+[13:21] video, and please take a look at our
+[13:22] previous videos so that you can stay
+[13:24] up-to-date with the latest AI news. But,
+[13:26] with that thought, guys, have an amazing
+[13:27] day, spread positivity, and I'll see you
+[13:29] guys really shortly. Peace out, folks.

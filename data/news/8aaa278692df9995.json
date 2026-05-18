@@ -1,0 +1,26 @@
+{
+  "uid": "8aaa278692df9995",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "Claude Code quality-of-life update: faster sessions, push notifications, MCP concurrency",
+  "summary": "Claude Code received a quality-of-life update including push notifications when long tasks finish or input is needed, a /res-style feature reportedly up to 67 percent faster on 40+ MB transcripts, a fix for the recurring re-login prompt, lower memory usage on Linux, concurrent MCP server connection on startup, and various paste, scroll and resize improvements.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "11:18",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "update",
+    "performance"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Compilation of changelog items as described in transcript."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

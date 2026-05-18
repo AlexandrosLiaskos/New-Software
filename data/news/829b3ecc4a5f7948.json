@@ -1,0 +1,25 @@
+{
+  "uid": "829b3ecc4a5f7948",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "Claude Code silent prompt compaction update",
+  "summary": "Claude Code revised its system-prompt compaction: trimming is now silent (no explicit alerts) and the compaction prompt is tuned to better preserve sensitive instructions and original user intent during long-running sessions.",
+  "source_video_uid": "ddb71460f4d430fe",
+  "source_video_id": "-jINRoST0mk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:12",
+  "links": [
+    "https://docs.claude.com/en/docs/claude-code"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "context-management"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Behaviour change described in transcript; specific release notes not located."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

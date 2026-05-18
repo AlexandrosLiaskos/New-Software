@@ -1,0 +1,34 @@
+{
+  "uid": "6a8a3b4b47d93b01",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "model",
+  "title": "Moonshot Kimi K2.6: open-source coding model with agent swarms",
+  "summary": "Moonshot AI released Kimi Chat 2.6 (Kimi K2.6), an open-source 1T-parameter coding model reporting state-of-the-art results on SWE-bench, BrowserComp and advanced math and vision tasks. Features include 12+ hour coding sessions, 4,000+ tool calls, 300 parallel agent swarms, multi-language multi-file generation, and pricing roughly 94% and 95% cheaper than Opus 4.6 on input and output respectively. Runs locally via MLX on dual M3 Ultra Macs.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:11",
+  "links": [
+    "https://github.com/MoonshotAI/Kimi-K2",
+    "https://www.kimi.com/blog/kimi-k2-6",
+    "https://huggingface.co/moonshotai"
+  ],
+  "tags": [
+    "moonshot",
+    "kimi",
+    "open-source",
+    "coding-model"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/MoonshotAI/Kimi-K2",
+    "stars": 10781,
+    "forks": 840,
+    "license": "NOASSERTION",
+    "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
+    "homepage": "https://moonshotai.github.io/Kimi-K2/",
+    "notes": "K2.6 builds on the Kimi K2 series; weights released under a Modified MIT license per Moonshot's repository."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

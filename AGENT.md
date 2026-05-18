@@ -46,17 +46,27 @@ For every uid in `data/pending_analysis.json`:
    - Set `research_status = "researched"`, `research_date = <iso8601>`.
    - On failure set `research_status = "failed"` with a `notes` reason.
 
-5. Append the record to `data/news.json` (use `JsonStore.upsert`). Also write
-   the per-uid pretty file `data/news/<uid>.json`.
+5. Save each record using the **parallel-safe writer** `AgentWriter` in
+   `pipeline/agent_writer.py`. It writes ONLY the per-uid file
+   `data/news/<uid>.json` — never the shared `data/news.json` index. Records
+   are reduced into the index later by `pipeline/merge_reports.py`.
 
-6. Update the source `Video`'s `extracted_news_uids` and set
-   `analysis_status = "analyzed"` (or `no_software_content` if nothing useful).
+   ```python
+   import sys; sys.path.insert(0, ".")
+   from pipeline.agent_writer import AgentWriter, now_iso
+   aw = AgentWriter("daily")          # the agent id
+   aw.save_news(item)
+   aw.record_video(video_uid, news_uids=[...], status="analyzed")
+   aw.finalise()                      # writes data/agent_reports/daily.json
+   ```
 
-7. When done with every pending video, **empty** `data/pending_analysis.json`
-   (`[]`).
-
-Helper: see `pipeline/curator_helpers.py` for `load_video()`, `save_news()`,
-`mark_video_analyzed()` — use them instead of hand-editing JSON.
+6. When done with every pending video, run the reducer + index rebuild:
+   ```
+   python pipeline/merge_reports.py
+   ```
+   That walks `data/agent_reports/*.json`, applies status updates to
+   `data/videos.json`, rebuilds `data/news.json` from `data/news/*.json`, and
+   empties `data/pending_analysis.json`.
 
 ### 3. Rebuild the site
 ```

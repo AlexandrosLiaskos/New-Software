@@ -1,0 +1,38 @@
+{
+  "uid": "a5d07af4df9a314e",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "Google Jules opens wait list for major update",
+  "summary": "Google Jules is preparing a major update and has opened a wait list for early access. A headline feature is continuous background execution so tasks keep running after a user closes their laptop. The wait list is widely linked to a successor project.",
+  "source_video_uid": "c409e51ed299fa7e",
+  "source_video_id": "xK8Xom50e1k",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:07",
+  "links": [
+    "https://jules.google/"
+  ],
+  "tags": [
+    "google",
+    "jules",
+    "coding-agent",
+    "waitlist"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://jules.google/",
+    "web_findings": [
+      {
+        "title": "Jules - An Autonomous Coding Agent",
+        "url": "https://jules.google/",
+        "snippet": "Public beta, async coding agent that runs tasks in remote VMs."
+      },
+      {
+        "title": "Project Jitro waitlist",
+        "url": "https://developers.googleblog.com/",
+        "snippet": "Successor product Project Jitro reportedly tied to the new wait list, with Google I/O 2026 cited as likely announcement window."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

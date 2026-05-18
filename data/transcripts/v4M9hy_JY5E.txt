@@ -1,0 +1,411 @@
+[00:00] As I told y'all, Open AI is finally back
+[00:03] with an incredible new revolutionary
+[00:05] model with the launch of GPT 5.5, and it
+[00:10] is truly remarkable. This new model is a
+[00:13] major upgrade focused on actually
+[00:15] getting work done, not just answering
+[00:17] questions. A model that can handle messy
+[00:20] multi-step tasks with end-to-end
+[00:22] planning, using tools, checking results,
+[00:25] and finishing the job. It has strong
+[00:27] improvements in coding, research, and
+[00:29] data analysis, as well as document
+[00:31] creation, and software use. And finally,
+[00:34] much better at agentic workflows,
+[00:36] meaning that it can act more
+[00:38] independently over time. But more
+[00:40] importantly, it's the best model while
+[00:43] using tokens efficiently, meaning that
+[00:45] it uses way less tokens, 1/4 the tokens
+[00:48] of GP 5.4 for high, which is
+[00:51] mind-blowing, and onethird of the tokens
+[00:54] of Opus 4.7. Now, benchmark-wise, this
+[00:57] is where things get interesting because
+[00:58] the GBTC 5.5 is now state-of-the-art
+[01:01] across multiple real world coding and
+[01:03] reasoning benchmarks. You'll see that
+[01:05] with terminal bench, where it is
+[01:07] something that tests complex command
+[01:09] line workflows, and it achieves an 82.7
+[01:12] percentage in terms of its accuracy,
+[01:14] which is already out competing all of
+[01:16] these other models by a substantial
+[01:18] gain. But when it comes to the sway
+[01:20] bench uh verify test, it is something
+[01:22] that achieves an a 58.6 percentage which
+[01:26] is a benchmark that solves real world
+[01:28] GitHub issues end to end. And that is
+[01:31] where you'll notice that the Opus 4.7
+[01:33] may have an higher edge in terms of that
+[01:36] benchmark. But that's only part of the
+[01:38] story because but what actually matters
+[01:40] is how efficiently and reliable the
+[01:42] model gets in terms of getting the job
+[01:44] done because the GPT 5.5 uses
+[01:46] significantly fewer tokens per task.
+[01:49] Meaning that it needs fewer steps, fewer
+[01:51] retries, less back and forth to reach a
+[01:54] correct solution. And you have to factor
+[01:56] in tokenizer difference because models
+[01:58] like the Opus 4.7 require more tokens
+[02:01] for same input and output. So raw scores
+[02:05] don't tell the full picture. So in real
+[02:07] world coding workflows, the GBT 5.5 ends
+[02:10] up being faster, more consistent, and
+[02:13] more costefficient at actually
+[02:15] completing tasks end to end. On top of
+[02:18] that, it is something that is at the top
+[02:20] of the artificial intelligence index,
+[02:22] delivering frontier intelligence at
+[02:24] nearly half of the cost of competing
+[02:27] models. It also is exceptional at
+[02:29] browser comp controlling your browser as
+[02:32] well as executing various sorts of tasks
+[02:34] on different gentic tasks. If you want
+[02:37] the best AI tools, workflows, and drops
+[02:39] before everyone else, join my free
+[02:42] newsletter with the link in the
+[02:43] description below, which is completely
+[02:44] free. This model is exceptional when you
+[02:46] combine it with a harness because it
+[02:48] really shines inside something like
+[02:50] codeex where it can take on a full
+[02:53] engineering task from implementation and
+[02:55] refactors to debugging and testing
+[02:58] validations. This is where it is
+[03:00] insanely capable at various sorts of
+[03:03] tasks and you can see that with game
+[03:04] development front end as well as with
+[03:07] different engineering tasks. We're
+[03:09] talking about holding context across
+[03:11] large code bases where it's able to
+[03:12] reason through ambiguous failures.
+[03:14] checking out its own assumptions as well
+[03:17] as using multiple tools and actually
+[03:19] carrying changes throughout the entire
+[03:21] system which is definitely remarkable to
+[03:23] see and I really love how OpenAI has
+[03:26] also solved a lot of its front-end
+[03:28] flaws. Something to also note is that
+[03:30] the GPT 5.5 excels at realworld
+[03:32] knowledge work handling a full workflow
+[03:34] from research to creating documents,
+[03:36] spreadsheets, and presentations with
+[03:38] strong context understanding. Pricing
+[03:40] wise, the model is kind of expensive.
+[03:43] I'm not going to lie. It is 20% more
+[03:45] expensive than the Opus 4.7, but then
+[03:48] again, it is more efficient and it works
+[03:51] smarter than the Opus 4.7. This is where
+[03:53] the GPT 5.5 is currently priced at $5
+[03:57] per 1 million input tokens and $30 per 1
+[04:00] million output tokens and 50ents per 1
+[04:02] million uh tokens cached. The model is
+[04:05] currently available for all paid users
+[04:07] of chat GBT. You just need to simply
+[04:09] enable it by configuring the model to
+[04:12] use the thinking 5.5 within their
+[04:14] chatbot and you can start using it
+[04:15] directly through chat GPT. Another
+[04:18] option is using their API or you can get
+[04:20] a free API from Kilo which is where they
+[04:23] provide $25 worth of free credits and
+[04:26] this is the open- source harness that I
+[04:28] am personally using with codeex. Another
+[04:30] option is using it with codeex itself
+[04:33] and this is a way for you to get
+[04:34] beautiful generations with the GPT 5.5.
+[04:38] Let's start things off with the bank.
+[04:40] And that is the Mac OS browser test that
+[04:42] I usually send into every single model.
+[04:44] And I've actually done this initially
+[04:46] within my initial test with the GPT 5.5.
+[04:50] And this is where I had generated
+[04:52] something pretty incredible. This is the
+[04:54] clone that I had gotten from the GPT
+[04:56] 5.5, but this was with a Windows
+[04:58] operating system. But now we have
+[05:00] replicated a Mac OS operating system
+[05:03] with the Codeex model. And this is
+[05:05] something that I truly didn't expect
+[05:07] from this model. The background is a
+[05:09] little blurry, so don't get me wrong on
+[05:11] that. But all the other components look
+[05:13] exceptional cuz you can see that I have
+[05:15] the ability to even change the
+[05:16] brightness. I can even change the
+[05:18] volume. And now what I want to showcase
+[05:20] is all the individual apps. This is
+[05:22] where I didn't even tell it to generate
+[05:24] all these things except the Minecraft
+[05:26] clone. But you can see that the SVG
+[05:28] icons have been thoroughly accurately
+[05:30] generated to replicate what a Mac OS
+[05:33] application list looks like. You can see
+[05:35] that it has generated a Safari. There's
+[05:37] an email app. There's also Google Maps
+[05:40] or sorry Mac or Apple Maps, sorry. And
+[05:42] you even have a notes app that is
+[05:45] generated. You have a photo app,
+[05:46] FaceTime, calendar, contacts, reminder,
+[05:49] and a lot of different other
+[05:51] applications. So, in terms of its
+[05:53] front-end capability, the model is
+[05:54] exceptional overall with all of its
+[05:57] generations. Now, if I have to take a
+[05:58] look at the Minecraft clone, this is
+[06:00] where it created a fullon clone inside
+[06:04] our Mac OS clone. And you can see that
+[06:06] it has added in water dynamics. You can
+[06:09] even place down different blocks. Now,
+[06:11] this is something that was built with
+[06:13] the highest reasoning level within GPT
+[06:16] 5.5. And you can see that I'm able to
+[06:18] break different blocks. There's even
+[06:20] cave systems that were added, I believe.
+[06:23] And you can see that over here. There's
+[06:24] even different ores that have been
+[06:26] generated. So, this is a super simple
+[06:28] clone of Minecraft that was added in
+[06:31] with this generation. Not just that, I
+[06:33] believe it added in another game as
+[06:35] well. And that is something that I
+[06:37] didn't really expect from this model.
+[06:39] This is super great to see cuz you have
+[06:42] a lot of creativity with this model.
+[06:44] It's able to work on long horizon tasks
+[06:46] as well and get everything done
+[06:48] efficiently. Now, using the Kilo CLI,
+[06:51] which is an open-source coding agent
+[06:53] that I personally find the best, I'm
+[06:56] going to be working on generating a
+[06:58] fullon CSGO clone. And this is where you
+[07:00] can easily prompt open Kilo CLI and use
+[07:03] its Jensen capabilities to autonomously
+[07:05] build out all the components that you're
+[07:07] looking to execute. So, what we can do
+[07:09] is go over to models and then search up
+[07:11] the GPT 5.5, which has been now added.
+[07:15] And what we're going to do is set it the
+[07:16] reasoning to X high. And now we're going
+[07:18] to generate a fullon CSGO clone. And I
+[07:22] kid you not, this is the generation I
+[07:24] have gotten. If I am to start the
+[07:26] mission, you can see that it has created
+[07:29] a fullon map. And this is where I can
+[07:32] run around and I have my own allies. And
+[07:34] what I can do is I have the ability to
+[07:36] move around. And you have a 8second or
+[07:39] 10-second cool down before you can start
+[07:41] shooting. And on the top left, you have
+[07:44] the map. You have obviously uh all the
+[07:47] components like the checkpoints, you
+[07:49] have the ability to shoot, and you can
+[07:50] see that when you combine it with a
+[07:52] harness, it could be anything, kilo, it
+[07:54] could be codecs, you're going to be able
+[07:55] to get some exceptional generations. And
+[07:57] I'm not even sponsored by them, but you
+[07:59] can see that it it's exceptional in
+[08:01] terms of generating all the components
+[08:03] cuz the GPT 5.5 is able to reason
+[08:05] exceptionally well and it's able to
+[08:08] output really great textures. It's able
+[08:10] to even proficiently generate in 3JS.
+[08:13] And you can see that I have a full-on
+[08:15] search and destroy game that was created
+[08:17] within a couple of minutes. You have a
+[08:20] lot of different components. You have
+[08:21] the map, different textures, different
+[08:24] animations. You have a fullon game store
+[08:26] that was also developed. Now, speaking
+[08:28] of Minecraft, someone had actually
+[08:30] created a full-on Minecraft clone in a
+[08:33] standalone prompt. And you can see that
+[08:35] it is a lot better when you give it more
+[08:37] detailed instructions in terms of
+[08:39] generating the Minecraft clone cuz you
+[08:40] even have water dynamics that have been
+[08:42] physically attributed to its generation.
+[08:45] You even see that it is hard to traverse
+[08:47] through the water and you can even break
+[08:49] blocks. You have animations for it and
+[08:51] you even have infinite generation with
+[08:53] the terrain. Now, what I've noticed with
+[08:55] my initial test is that if you are to
+[08:58] properly and detail out every
+[09:00] instruction within your prompt, the
+[09:02] model does an exceptional job with its
+[09:04] generations. But if you give it a
+[09:06] lackluster prompt with few instructions
+[09:08] and not thoroughly explaining everything
+[09:10] you want, it's not going to be able to
+[09:12] output what you're expecting. In regards
+[09:15] to SVG, the model does exceptional in
+[09:17] this domain. And you can see that with
+[09:19] these butterflies that it has generated.
+[09:21] It did exceptionally well with this
+[09:23] generation of creating the butterfly and
+[09:26] not just that cuz I had also requested
+[09:27] it to create a painting in SVG and you
+[09:30] can see that the quality is definitely
+[09:31] there and overall I personally like its
+[09:34] generations in SVG more than the Opus
+[09:36] 4.7. So, I had actually requested it to
+[09:39] create a PS5 controller and SCG. And I
+[09:42] was about to freak out cuz this is the
+[09:44] generation I got it. But then I realized
+[09:46] this is an image that it had generated
+[09:48] using the GBT image tool model. But then
+[09:51] I had requested it to create an SVG of
+[09:53] that image. And you can see that it is
+[09:55] still working on it. But the fact that
+[09:57] it got the main structure down really,
+[10:00] really well is nice to see. and it
+[10:02] probably did a better job than most
+[10:03] models do in terms of creating an SG of
+[10:06] a PS5 controller. And for reference, I
+[10:08] had requested it to create an Xbox
+[10:11] controller. And I thought the previous
+[10:14] checkpoint with the GPT 5.5 did better
+[10:16] with SVG, but still this is nice to see
+[10:19] in terms of this generation. Here is
+[10:22] another SVG generation of a painting.
+[10:24] And you can see that this generation is
+[10:26] really well done. There are a lot of
+[10:28] quirks with this generation though
+[10:30] because you can see that the rocks are
+[10:31] out of place but but the main scene has
+[10:34] been constructed well. Here's where
+[10:35] someone had tried to replicate a Pokemon
+[10:38] clone and you can see that it did even
+[10:40] better than the Opus 4.7 where the Opus
+[10:42] 4.7 was actually bugging out with its
+[10:45] generation. But the GPT 5.5 was able to
+[10:48] execute the long horizon task and
+[10:50] creating out the full game. And you can
+[10:52] see that there's even animations to the
+[10:54] different attacks that a Pokemon gives
+[10:56] to the other Pokemon. Now, front end
+[10:58] wise, this is where the model is
+[11:00] exceptional with all of its generations.
+[11:02] This is where I had requested it to
+[11:05] create and follow through with a long
+[11:07] instruction prompt, which I'll showcase
+[11:08] right here. Sorry. And this is where I
+[11:11] had told it to create a landing page
+[11:14] with all of these detailed instructions.
+[11:16] And this is where it did a great job
+[11:18] with its execution. You can see there's
+[11:21] multiple dynamic movements that have
+[11:22] been attributed to this generation,
+[11:24] different typographies, different
+[11:26] components that make this unique in its
+[11:28] own way. So, I can definitely tell you
+[11:30] that Open AI is packed in terms of its
+[11:33] front-end quality. Here is another
+[11:36] generation with the GBT 5.5. And you can
+[11:38] see that this is where it does
+[11:41] exceptionally well in including
+[11:43] different placeholders, different
+[11:44] components, and when you have it
+[11:46] combined with additional skills, you'll
+[11:48] be able to get better outputs. Now,
+[11:50] within the chat GBT web app, I had just
+[11:52] simply said create a CRM dashboard with
+[11:55] the highest extended thinking mode with
+[11:57] the GPT 5.5. And you can see that it did
+[12:00] exceptionally well. And what I'd noticed
+[12:02] right away that it was able to use the
+[12:04] chats packages in terms of generating
+[12:06] this CRM dashboard and this looks
+[12:09] exceptional in terms of its overall
+[12:11] proficient front-end generation and you
+[12:14] can see that with all of these different
+[12:15] components with that CRM dashboard. So
+[12:18] there is a huge gap now in terms of
+[12:21] performance with obviously front end as
+[12:24] well as coding with this model. Now,
+[12:26] this is where I had requested to build a
+[12:28] product viewer, a 360 rotation product
+[12:31] viewer. And this is where it kind of did
+[12:34] probably the worst in almost all the
+[12:35] generations. This is where the front end
+[12:38] is nice to see, but it's that typical
+[12:40] GPT front end that we saw with the GPT
+[12:42] 5.4 or with the Codex model. And you can
+[12:45] see that it didn't actually generate a
+[12:46] 3D product when you can see that Kimmy
+[12:49] and other models are able to even
+[12:50] generate 3D products with this
+[12:52] generation or this prompt. So, this is
+[12:55] definitely unfortunate to see and I
+[12:57] would give this a four out of 10.
+[13:00] Next is a prompt to test how proficient
+[13:02] the model is in 3GS. This is where I had
+[13:05] requested it to create an off-road 3D
+[13:08] physics simulation of an SUV traversing
+[13:10] through a hard terrain. And you can see
+[13:12] that it is really detailed in terms of
+[13:15] generating all the components like the
+[13:17] rocks as well as the mountains, the
+[13:19] hills, everything has been generated
+[13:21] pretty well, exceptionally the car as
+[13:23] well. So this is a nice generation from
+[13:26] the GBT 5.5 with high extended thinking.
+[13:30] Something interesting that I also want
+[13:31] to note is that you can actually
+[13:33] generate and apply game textures or any
+[13:35] sort of image texture that you generate
+[13:37] from the GPT image too directly within
+[13:40] codeex cuz you all know that the image
+[13:42] model that they just recently launched
+[13:44] can create highquality production ready
+[13:46] visuals directly from prompts and you
+[13:49] can even have it so that you can edit
+[13:51] refine them in real workflows like
+[13:53] within codecs and because it is
+[13:56] something that supports that you can
+[13:58] essentially apply those high visuals
+[14:00] with intelligent harness codecs within
+[14:02] your generations to apply different
+[14:05] visuals or different elements to create
+[14:08] and enhance your generations with
+[14:10] whatever you're creating within codecs
+[14:12] using the GPT image 2 to generate game
+[14:14] assets, textures, UI elements
+[14:17] dynamically during deployment. If you
+[14:19] like this video and would love to
+[14:21] support the channel, you can consider
+[14:22] donating to my channel through the super
+[14:25] thanks option below. Or you can consider
+[14:27] joining our private Discord where you
+[14:29] can access multiple subscriptions to
+[14:31] different AI tools for free on a monthly
+[14:33] basis, plus daily AI news and exclusive
+[14:36] content, plus a lot more. But that's
+[14:39] about it guys for today's video on GPT
+[14:41] 5.5. I personally love this model and I
+[14:45] love what they have done in almost all
+[14:47] the aspects with this model. It's
+[14:49] expensive but it's more efficient and
+[14:51] I'm personally going to be using this as
+[14:53] my main driver from now on within codeex
+[14:56] over claw code. So definitely something
+[14:58] that I would highly recommend that you
+[14:59] try out. Make sure that you take a look
+[15:01] at all the links in the description
+[15:02] below. But with that thought guys, thank
+[15:04] you guys so much for watching. Have an
+[15:05] amazing day. Make sure you take a look
+[15:06] at the second channel. Join the
+[15:08] newsletter. Join the Discord. Follow me
+[15:10] on Twitter. And lastly, make sure you
+[15:11] guys subscribe. Turn on notification
+[15:12] bell, like this video, and please take a
+[15:14] look at our previous videos so that you
+[15:15] can stay upto date with the latest AI
+[15:17] news. But with that thought, guys, have
+[15:18] an amazing day, spread positivity, and
+[15:20] I'll see you guys really shortly. is
+[15:22] offers.

@@ -1,0 +1,42 @@
+{
+  "uid": "a5ec1051c607228a",
+  "created_at": "2026-05-18T10:21:01+00:00",
+  "category": "tool",
+  "title": "Toolhouse: backend-as-a-service for AI agents",
+  "summary": "Toolhouse is a sponsored backend-as-a-service for building, deploying and running AI agents with built-in RAG, memory, code execution and integrations (Gmail, Smithery, Zapier, Pipedream). It offers a no-code studio, voice-driven builder (Verb AI), an MCP server and a `th` CLI for defining and deploying agents as APIs.",
+  "source_video_uid": "15b97147d8ab82f2",
+  "source_video_id": "OfEcMXLOAtE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:20",
+  "links": [
+    "https://toolhouse.ai",
+    "https://docs.toolhouse.ai/toolhouse"
+  ],
+  "tags": [
+    "toolhouse",
+    "ai-agents",
+    "baas",
+    "rag",
+    "cli",
+    "mcp"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://toolhouse.ai",
+    "description": "Backend-as-a-service for AI agents with pre-loaded RAG, memory, code execution, browser automation and MCP server hookup. Provides the `th` CLI plus an SDK that integrates with Vercel AI and LlamaIndex.",
+    "web_findings": [
+      {
+        "title": "Toolhouse docs",
+        "url": "https://docs.toolhouse.ai/toolhouse",
+        "snippet": "Official documentation covering the `th` CLI, deployment and SDK."
+      },
+      {
+        "title": "Deploy and run your agents | Toolhouse",
+        "url": "https://docs.toolhouse.ai/toolhouse/deploy-and-run-your-agents",
+        "snippet": "Reference for `th deploy` which reads the th file and produces an Agents API."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:01+00:00",
+  "__class__": "SoftwareNews"
+}

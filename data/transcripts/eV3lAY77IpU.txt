@@ -1,0 +1,293 @@
+[00:00] Looks like the whale is back again to
+[00:02] take back its crown, but it may take a
+[00:04] bit longer for it to do that cuz I'll be
+[00:07] honest, this model isn't what I
+[00:08] expected. The Deep Seek team today is
+[00:11] back and they are releasing two new
+[00:13] models as a part of the V4 release. This
+[00:16] is where I'd like to introduce Deepseek
+[00:18] version 4 preview. This is where they
+[00:20] are open sourcing two new models, the
+[00:23] Pro and Flash. Built around a
+[00:25] cost-effective 1 million context length,
+[00:28] the DeepSc version 4 Pro is the flagship
+[00:30] model with a 1.6 trillion total
+[00:34] parameter size and it has 49 billion
+[00:37] active parameters, claiming that it is
+[00:39] the top open-source performative model,
+[00:42] better than every open- source model in
+[00:45] reasoning, STEM, coding, aensic
+[00:47] workflows, and world knowledge, as well
+[00:49] as rivaling leading closed source
+[00:51] models. But but I personally see that as
+[00:54] benchmark maxed, meaning that the team
+[00:56] optimized heavily for benchmarks in
+[00:58] their favor. From my testing, I still
+[01:01] see Kim K 2.6, Quen, and even Minia Max
+[01:06] N2.7 outperforming DeepSeek version 4
+[01:09] preview in extended thinking and real
+[01:12] world use cases. But regardless, the
+[01:14] Deepseek version 4 flash is a faster,
+[01:17] cheaper option with a 284 billion total
+[01:20] parameter size model with 13 billion
+[01:23] active parameters offering near pro
+[01:25] reasoning on simpler agent tasks while
+[01:28] being efficient. But before I rant, let
+[01:30] me take you through all the technical
+[01:32] specifications because the model
+[01:34] actually is very efficient and could be
+[01:36] an incredible base for future DeepSec
+[01:39] models. Also worth the noting that this
+[01:41] is a preview, so an official release
+[01:44] could fix all of these drawbacks that
+[01:46] I'm seeing right now. Deepc claims
+[01:48] version 4 is on the level of Opus 4.5 on
+[01:52] realworld agentic coding task, but in
+[01:54] certain cases they are stating that it
+[01:56] even beats the Opus 4.6. It also has
+[01:59] strong long context performance,
+[02:01] extremely low cost, and the fact that it
+[02:04] is open- source in the MIT license with
+[02:07] the MIT license is a big win. Now,
+[02:10] benchmark-wise is where they're saying
+[02:11] that it beats models like Claude Opus
+[02:14] 4.6 Max, Gemini 3.1 Pro, and the GPT 5.4
+[02:18] High in certain areas, but I personally
+[02:20] don't agree with all of that. From my
+[02:23] test, the model feels subpar in so many
+[02:26] ways. It is super sloppy, lazy in
+[02:29] execution, and it's hard to tell if
+[02:31] they're actually telling the truth with
+[02:33] these benchmarks. Like, just take a look
+[02:34] at my browserbased OS test where I asked
+[02:37] it to create the Mac OS clone, and you
+[02:40] can see how lackluster its generation
+[02:42] is. It's super basic, no creativity, no
+[02:45] proper UI thinking, no SVG icons for the
+[02:48] apps, even with a 1 million context
+[02:50] window. It's not able to even generate
+[02:52] the base structure of what a Mac OS
+[02:55] operating system looks. And I truly
+[02:57] think that the generation is really
+[02:59] lackluster with this model, even with
+[03:02] the flash model. But I can say that the
+[03:04] flash mode is even better in certain
+[03:07] cases when I am prompting with it. Now,
+[03:09] it's not the best, but still it does get
+[03:12] the job done in a better fashion. You
+[03:14] can say it's still lackluster. And don't
+[03:16] even get me started with front end cuz
+[03:18] you can see that this is where I'd
+[03:20] requested it to create a Slack clone.
+[03:23] And you can see that it did kind of
+[03:25] mimic the same structure of the Slack
+[03:27] application, but it's nowhere near as to
+[03:30] what Slack actually looks like. Whereas
+[03:32] with GLM 5.1, you can clearly see that
+[03:35] it is trying to mimic the same tone and
+[03:38] taste of what the Slack application is.
+[03:40] Or in SVG, you see this butterfly, which
+[03:43] is definitely great to see from the Pro
+[03:44] model. But if you are to compare it to
+[03:46] Quen 3.6 Plus, you're telling me this is
+[03:49] better than this? Hell no. You can
+[03:52] clearly tell that the Quinn 3.6 Plus is
+[03:55] better in almost every fashion when you
+[03:57] compare it to the Deep Seek version 4.
+[03:59] And there is even proof to back this on
+[04:01] Arena. The model isn't even ranked
+[04:03] number one in the code category. It's
+[04:06] actually sitting number three in Code
+[04:08] Arena behind GLM 5.1 and even the Kim K
+[04:12] 2.6, which honestly lines up way more
+[04:15] with what I have been seeing. If you
+[04:17] want the best AI tools, workflows, and
+[04:19] drops before everyone else, join my free
+[04:22] newsletter with the link in the
+[04:23] description below, which is completely
+[04:25] free. Now, pricing is where the model
+[04:27] gets interesting, cuz it is truly
+[04:29] costefficient. The Deep Seek version 4
+[04:32] Pro is priced at 14 per 1 million input
+[04:35] tokens and $348 per 1 million output
+[04:38] tokens. Now, the Flash is even cheaper
+[04:41] where it's basically 3 cents per 1
+[04:43] million input tokens and approximately
+[04:46] 28 cents per 1 million output tokens.
+[04:49] Regardless, if you're looking to get
+[04:50] started with this model, the open
+[04:51] weights are now available on HuggingFace
+[04:54] and you can easily access it through Ola
+[04:56] Mloud. Another option is directly
+[04:59] chatting with it completely for free
+[05:00] through DeepS chatbot where you can
+[05:03] instantly enable flash or the pro mode.
+[05:05] Next is where I had requested the model
+[05:08] to generate an off-road EV durability
+[05:10] test. And this is for the Deep Seek
+[05:12] version 4 Pro. Didn't even finish with
+[05:15] this generation, whereas the Miniax M2.7
+[05:18] had actually completed it, I have the
+[05:20] ability to move the car. And you can see
+[05:22] that it's not perfect at all by any
+[05:24] means. But still, regardless, the fact
+[05:26] that I'm able to get a base generation
+[05:28] is definitely better than nothing, I
+[05:30] guess. Look at this front-end generation
+[05:34] where I had requested it to create the
+[05:35] SAS landing page with the Deepseek
+[05:37] version 4 Pro and you can see that it
+[05:41] looks like the GV3.5
+[05:43] in terms of its generation quality.
+[05:46] And 3JS had requested both models to
+[05:49] create a 3D model of a PS5 controller.
+[05:51] And this is what the Deep Seek version 4
+[05:54] had created with the pro mode enabled
+[05:57] and with extended thinking. And you can
+[05:59] see that it's not what a controller
+[06:02] actually looks like. You're telling me
+[06:04] this is better than the coin model. The
+[06:07] coin model actually looks like a
+[06:09] controller. And there's actual
+[06:11] attributes that show and depict what a
+[06:14] controller actually looks like. It
+[06:15] mimics exactly what the PS5 controller
+[06:18] really actually looks like. Whereas the
+[06:19] Deep Seek version 4 Pro, this doesn't
+[06:22] even look like a controller. It looks
+[06:23] like a freaking table.
+[06:26] Next, I'd requested it to clone an
+[06:28] Instagram feed, and this is what the
+[06:29] MiniAX M2.7 had generated. You can see
+[06:32] that it was able to clone exactly what
+[06:34] an Instagram feed looks like, whereas
+[06:36] the DC version 4 Pro can't even complete
+[06:38] it. There's a lot of bugs. It's messy,
+[06:40] and it can't even compile a generation.
+[06:43] Now, this is just for fun. Don't hate me
+[06:45] because I know a lot of people are
+[06:46] hating me especially from China because
+[06:48] I'm stating that the Deep Seek model is
+[06:50] mid because on Twitter if you go on my
+[06:52] Twitter a lot of people who are getting
+[06:54] angry at me cuz I'm stating the fact
+[06:56] that the Deep Seek 4 is nowhere near
+[06:59] even any of the Chinese models that have
+[07:01] been released like Miniax or even Kim K
+[07:03] 2.6. But regardless, just take a look at
+[07:06] the discrepancy in obviously the
+[07:08] quality. This is where the Opus 4.7 with
+[07:11] the same prompt had generated this and
+[07:13] it's not even fair to compare the
+[07:15] Deepseek with this because the Deep Seek
+[07:17] is such a subpar model. It doesn't even
+[07:19] make sense to compare it with the Opus
+[07:21] 4.7. But just take a look at what the
+[07:23] Opus is capable of generating. And I bet
+[07:25] you even if the 4.6 was given this
+[07:28] prompt, it would do much better than
+[07:31] what anything DeepS had done with this
+[07:34] generation.
+[07:36] To start off, here are a couple of
+[07:38] different front-end tasks that I had
+[07:39] sent in. And this is a pretty lengthy
+[07:42] prompt that I usually send into most
+[07:43] models. And this is where I am
+[07:46] definitely impressed to see that it was
+[07:48] able to stick through with the
+[07:49] typography as well as the different
+[07:52] formats of the landing page. But when it
+[07:54] comes to the dynamic movement, you can
+[07:56] see that it is pretty lackluster. This
+[07:58] is not what I was expecting to see with
+[08:01] this generation. It's definitely hard
+[08:03] for most models to generate this, but I
+[08:05] was expecting a lot more since Deep
+[08:07] Seek's claiming to be better than Opus
+[08:09] 4.6 in many cases. Here is another
+[08:12] similar prompt like the last one that I
+[08:14] sent in. And this is where it did a lot
+[08:16] better. It's not the best, but still you
+[08:19] can see that in this case, the dynamic
+[08:21] movement is a lot better than what we
+[08:22] had seen before. Next is where I had
+[08:24] requested it to create a Minecraft
+[08:26] clone. And this is where I was kind of
+[08:28] really disappointed. I do see that I am
+[08:31] able to move obviously which is great
+[08:32] but it is really messy with the code.
+[08:35] There is no lighting polish, no
+[08:37] creativity with this generation. It's
+[08:39] just a sandbox generation and it is
+[08:42] really basic guys. There's nothing too
+[08:45] special about it. You can see with other
+[08:47] generations, even with the flash model
+[08:49] that I'm able to get infinite terrain
+[08:51] generation. You have an inventory. In
+[08:54] this case, there's no inventory. There's
+[08:55] like five blocks that I can place down.
+[08:57] I can break it. There's an animation for
+[08:59] it, but that's about it. There's no
+[09:01] texture. There's no refined output.
+[09:03] Nothing of that sort. Here, I had
+[09:05] requested it to create a 360deree
+[09:08] rotational product viewer, and I did
+[09:10] create the 3D product with the Deep Seek
+[09:12] version 4 Pro thinking, and I do like
+[09:15] this generation a lot better than the
+[09:18] other ones I've seen. The front end
+[09:19] looks pretty decent. Nothing too
+[09:21] exceptional. It's definitely a 6 out of
+[09:23] 10. Nothing greater than that. And
+[09:26] obviously the Miniax does a decent job,
+[09:28] but it doesn't create a 3D rotational
+[09:30] product. But I guess the front end is
+[09:33] decent. Nothing too crazy either. So
+[09:36] this is definitely a mid generation. If
+[09:39] you like this video and would love to
+[09:41] support the channel, you can consider
+[09:43] donating to my channel through the super
+[09:45] thanks option below. Or you can consider
+[09:48] joining our private Discord where you
+[09:50] can access multiple subscriptions to
+[09:52] different AI tools for free on a monthly
+[09:54] basis. plus daily AI news and exclusive
+[09:57] content, plus a lot more. But yeah,
+[09:59] guys, that's basically it for today's
+[10:01] video. Just because the model is
+[10:03] costefficient doesn't automatically make
+[10:04] it great, which is why I am stating that
+[10:07] it is mid. Obviously, I hope that the
+[10:10] Deep Seek team is successful with this
+[10:12] feature generations and that the
+[10:14] official DeepSeek version 4 model is
+[10:16] something that is impressive and is able
+[10:19] to out compete most proprietary models
+[10:21] in the future cuz that would be great
+[10:23] for the open source community.
+[10:24] Regardless, this model is impressive on
+[10:27] paper with its pricing, context length,
+[10:30] as well as its efficiency. But when it
+[10:32] comes to real world outputs, it can
+[10:34] still feel that it needs a lot of work
+[10:37] to make it more proficient with its
+[10:39] generations. At the end of the day,
+[10:40] cheaper doesn't make it better. It just
+[10:43] means it's cheaper. But that's basically
+[10:45] it, guys. I hope you enjoyed today's
+[10:46] video and got a lot of value. I'll leave
+[10:48] all these links in the description
+[10:49] below. But with that thought, guys,
+[10:51] thank you guys so much for watching.
+[10:52] Make sure you go ahead and take a look
+[10:53] at our second channel. Join the
+[10:54] newsletter, join the Discord, follow me
+[10:56] on Twitter, and lastly, make sure you
+[10:57] guys subscribe, turn on notification
+[10:59] bell, like this video, and please take a
+[11:00] look at our previous videos so that you
+[11:02] can stay up to date with the latest AI
+[11:03] news. But with that thought, guys, have
+[11:05] an amazing day, spread positivity, and
+[11:07] I'll see you guys really shortly. He
+[11:08] suffers.

@@ -1,0 +1,42 @@
+{
+  "uid": "f91eab7784507bb4",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "model",
+  "title": "DeepSeek V4 Preview: Pro (1.6T) and Flash (284B) open-source models",
+  "summary": "DeepSeek releases the V4 Preview, open-sourcing two models: DeepSeek-V4-Pro at 1.6T total / 49B active parameters and DeepSeek-V4-Flash at 284B total / 13B active parameters. Both support a 1M-token context length and are released on Hugging Face under the MIT license. Pro pricing is $0.14/$3.48 per 1M input/output tokens, Flash is $0.03/$0.28.",
+  "source_video_uid": "e6375e3e0a09d71a",
+  "source_video_id": "eV3lAY77IpU",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:18",
+  "links": [
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+    "https://api-docs.deepseek.com/news/news260424"
+  ],
+  "tags": [
+    "deepseek",
+    "open-source",
+    "model-release",
+    "moe",
+    "long-context"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://api-docs.deepseek.com/news/news260424",
+    "notes": "Released 24 April 2026 as a public preview. Hybrid attention combining Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA). The host disputes the team's claim that V4 matches Claude Opus 4.5/4.6 on real-world agentic coding, calling the front-end and 3D-rendering outputs subpar relative to GLM 5.1, Kimi K2.6 and MiniMax M2.7.",
+    "web_findings": [
+      {
+        "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
+        "url": "https://api-docs.deepseek.com/news/news260424",
+        "snippet": "DeepSeek-V4-Pro has 1.6T total / 49B active params; Flash has 284B total / 13B active params."
+      },
+      {
+        "title": "DeepSeek V4 — almost on the frontier, a fraction of the price",
+        "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+        "snippet": "1M-token context; MIT license; weights available on Hugging Face."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

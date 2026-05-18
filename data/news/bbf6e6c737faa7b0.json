@@ -1,0 +1,44 @@
+{
+  "uid": "bbf6e6c737faa7b0",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "Claude Code adds Blender, Autodesk Fusion and creative tool connectors",
+  "summary": "Anthropic added connectors that let Claude Code interact with Blender, Autodesk Fusion, Canva, Adobe and other creative tools. The Fusion connector exposes text-to-CAD style workflows, while the Blender connector enables scene debugging and batch script generation through the Blender Python API.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "10:23",
+  "links": [
+    "https://www.anthropic.com/news/claude-for-creative-work"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "blender",
+    "autodesk",
+    "mcp"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.anthropic.com/news/claude-for-creative-work",
+    "web_findings": [
+      {
+        "title": "Claude for CAD arrives with Blender and Autodesk Fusion connectors",
+        "url": "https://develop3d.com/ai/claude-for-cad-blender-autodesk-fusion/",
+        "snippet": "Nine connectors released on 28 April 2026."
+      },
+      {
+        "title": "Claude for Creative Work",
+        "url": "https://www.anthropic.com/news/claude-for-creative-work",
+        "snippet": "Connector suite for 3D, design and creative workflows."
+      },
+      {
+        "title": "Anthropic connectors enter Adobe, Blender, SketchUp",
+        "url": "https://aitoolsbee.com/news/claude-connectors-enter-nine-apps-including-adobe-blender-sketchup/",
+        "snippet": "Built on Model Context Protocol; accessible from other LLMs as well."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

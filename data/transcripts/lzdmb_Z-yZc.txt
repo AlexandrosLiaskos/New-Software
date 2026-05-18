@@ -1,0 +1,306 @@
+[00:00] Claude Opus 4.7 just dropped today, and
+[00:02] this is Anthropic's most capable Opus
+[00:05] model yet. It's a big leap in agentic
+[00:07] coding, web development, and the model
+[00:09] can handle long-running tasks with much
+[00:11] more rigor. It follows instructions more
+[00:13] precisely, and even verifies its own
+[00:16] output before reporting back. But, I
+[00:18] don't know if that's the best option
+[00:19] that they have integrated with this
+[00:21] model, which I'll emphasize a bit later.
+[00:23] But, essentially with this model, you
+[00:25] can hand off your hardest engineering
+[00:27] work with way less supervision. On top
+[00:29] of that, vision has gotten a serious
+[00:31] upgrade with this model. It can process
+[00:33] images at over three times higher
+[00:35] resolution, and overall produces much
+[00:38] more polished, creative outputs across
+[00:40] UI designs, slides, and documents. If
+[00:43] you want the best AI tools, workflows,
+[00:46] and drops before everyone else, join my
+[00:48] free newsletter with the link in the
+[00:50] description below, which is completely
+[00:51] free. Now, benchmark-wise, comparing it
+[00:54] to the Claude 3 Opus preview is a bit
+[00:56] odd cuz we all know this is a ginormous
+[00:59] model that is obviously on a whole new
+[01:01] level. But, overall, this Opus 4.7 is
+[01:04] still clearly powerful, outperforming
+[01:06] the Opus 4.6, GPT-5.4, and even the
+[01:10] Gemini 3.1 Pro on the hardest task. Now,
+[01:13] one thing I will note is that the Opus
+[01:15] 4.7 has been greatly elevated in terms
+[01:18] of its web dev performance, where it's
+[01:20] now on par with Gemini 3.1 Pro for UI
+[01:24] generation. It shows major gains in Sway
+[01:26] Bench Pro and the Sway Bench Verified,
+[01:28] putting it in conversations for the best
+[01:31] coding model right now. Now, it is also
+[01:33] hitting state-of-the-art across many
+[01:35] other benchmarks, leading in real-world
+[01:37] knowledge with strong performances in
+[01:40] finance agent evals, as well as GDP
+[01:42] eval. Memory has been also greatly
+[01:45] improved, especially for long
+[01:47] multi-session workflows. Now, in terms
+[01:49] of instruction following, the model now
+[01:51] interprets prompts much more literally,
+[01:53] and Anthropic warns that prompts built
+[01:55] for the Opus 4.6 may break, so expect to
+[01:58] retune existing setups. Something
+[02:00] interesting is also the fact that there
+[02:02] is a big jump in reasoning efficiency
+[02:05] over the Opus 4.6. You can see that with
+[02:07] this graph over here. Basically,
+[02:09] everything shifts a tier up. Low now
+[02:11] performs like medium, medium performs
+[02:13] like high, and high now performs like
+[02:15] max. Now, the only caveat that I noticed
+[02:18] is that with this new reasoning mode
+[02:20] that has been enabled, the X high or the
+[02:22] X max high, whatever it is, there was an
+[02:24] issue initially where if you are on any
+[02:27] of the subscriptions here, and if you
+[02:29] are to generate a single prompt with
+[02:31] this new Opus 4.7 on the max reasoning
+[02:33] level, it is going to use up a lot of
+[02:36] tokens. And you can see in this case, I
+[02:38] hit a rate limit in a single prompt,
+[02:41] which is why what they ended up doing is
+[02:44] increasing the usage limits for all of
+[02:47] the subscribers, which is because the
+[02:49] Opus 4.7 is a model that uses a lot of
+[02:52] tokens. Actually, another caveat. Since
+[02:56] we had mentioned that this model uses a
+[02:57] lot more tokens, this is obviously
+[03:00] because the model is more capable, it
+[03:02] needs to reason to get the correct
+[03:04] output. But, that also means that this
+[03:06] model is less efficient, uses more
+[03:09] tokens per task, which is something that
+[03:11] you'll see within this bar graph over
+[03:12] here. And obviously, this is going to
+[03:15] effectively increase the cost within the
+[03:17] same limits that you're using this. It
+[03:19] creates a trade-off, higher quality
+[03:21] versus reduced usable context. Early
+[03:24] reports of weaker long context retention
+[03:27] makes this even more concerning with
+[03:29] these different inputs that were found
+[03:32] within the technical report. The Opus
+[03:34] 4.7's pricing remains the same as the
+[03:36] Opus 4.6, where it is charging you $5
+[03:39] per 1 million input tokens and $25 per 1
+[03:42] million output tokens. If you're looking
+[03:44] to get started with this new model, you
+[03:46] can easily do so through their chatbot.
+[03:48] You can see I already ran through my
+[03:49] limit, but you also have the ability to
+[03:51] use it with another router like
+[03:54] OpenRouter, as well as Kilo. And this is
+[03:56] the harness that I personally use cuz
+[03:58] it's an open-source harness in AI coding
+[04:01] agent, and I personally use the CLI. And
+[04:03] they actually give you $25 worth of free
+[04:05] credits. So, to start things off, what
+[04:07] we're going to be doing is using the
+[04:08] Kilo CLI, the open-source CLI tool, with
+[04:11] the free router from Kilo to generate a
+[04:13] realistic 3D physics simulation, testing
+[04:16] a heavy-duty SUV 3D model. And we're
+[04:20] actually setting this to the highest
+[04:21] reasoning effort. Obviously, it's going
+[04:23] to spend through a lot of tokens, but
+[04:24] let's see what it can generate. And
+[04:26] there you go, the Opus 4.7 had generated
+[04:28] this using the Kilo CLI, and definitely
+[04:31] is the best generation for this prompt.
+[04:33] This is a newer prompt that I started
+[04:35] testing most models on, as it is
+[04:37] something that focuses on long-horizon
+[04:39] reasoning and planning. And you can see
+[04:41] that it did a great job with this
+[04:43] generation. Not the best, obviously, but
+[04:45] it is the best any model has generated
+[04:47] for this test, cuz it focuses obviously
+[04:50] on breaking the massive request into
+[04:52] systems, and the physics, the engine,
+[04:55] rendering, camera, all of these
+[04:56] different logics have been fully
+[04:58] generated thanks to the Opus 4.7, and it
+[05:01] did a really great job overall in
+[05:03] generating this generation of an SUV in
+[05:06] a mountain range. But, regardless, the
+[05:08] model is still really capable, aside
+[05:11] from all of these different caveats.
+[05:13] This is where the X high, in this case,
+[05:15] was able to create a highly ambitious
+[05:17] and creative version of Minecraft. And
+[05:19] this is definitely the best version of
+[05:22] Minecraft I've seen a model generate.
+[05:24] You have different ores, you have all
+[05:26] the components of the game fully
+[05:28] generated, as well as a full-on sandbox
+[05:31] terrain that constantly is being
+[05:33] generated as you move forward through
+[05:35] the terrain. They have also focused on
+[05:37] the water physics, which is also great
+[05:39] to see. It is a little buggy, but still,
+[05:41] regardless, it is a lot more creative
+[05:44] with its generations. It has advanced
+[05:46] features that it has added, like mobs,
+[05:49] as well as an ore system. But, overall,
+[05:51] the execution could be a lot better.
+[05:54] Regardless, this is definitely the best
+[05:56] Minecraft clone I've seen a model
+[05:57] generate.
+[05:58] Using the Kilo CLI, this is where I had
+[06:01] requested it to create a macOS-styled
+[06:03] operating system, and this is truly the
+[06:06] best macOS-styled operating system that
+[06:08] I had generated, cuz it was able to
+[06:10] accurately clone each and every
+[06:12] component of the macOS. You can see that
+[06:15] all of the components have been
+[06:16] thoroughly generated, and I really love
+[06:18] what it had did with this generation.
+[06:21] The file, the top menu bar, you also
+[06:23] have all of these different menu bars
+[06:25] that actually work. You can open up each
+[06:27] individual uh folder, except the
+[06:30] document one. But, you can see that it
+[06:32] did a great job in thoroughly generating
+[06:34] all of the components. The bottom
+[06:36] toolbar looks a little janky, but still,
+[06:38] regardless, the SVG icons of each of
+[06:41] them look really
+[06:43] decent in terms of cloning it, but
+[06:45] better, obviously, in comparison to most
+[06:46] models. Let's actually take a look at
+[06:48] the finder app. Let's take a look at the
+[06:50] launchpad. This is the spotlight, where
+[06:52] you can open up all of these individual
+[06:54] apps. We already had had taken a look at
+[06:56] Safari. Now, iMessage doesn't seem to be
+[06:59] coded out. Same with the mail, maps,
+[07:01] photos, FaceTime, calendar, notes. Notes
+[07:04] seem to be coded out, which is nice to
+[07:06] see, as well as the calculator. And
+[07:08] within the settings, it looks like it
+[07:10] hasn't fully generated everything yet,
+[07:12] but still, regardless, the fact that it
+[07:14] did do a great job in depicting what a
+[07:17] macOS-styled operating system looks is
+[07:19] nice to see.
+[07:20] Here, I'm requesting it to create a
+[07:22] butterfly in SVG code, and you can
+[07:23] actually get a live preview of it being
+[07:25] generated, which is actually really cool
+[07:27] to see within the Claude chatbot. And
+[07:30] this is definitely a nice-looking SVG
+[07:33] butterfly, and I did think that it did a
+[07:36] great job with this generation. I
+[07:38] actually told it to animate it, and you
+[07:39] can see that it actually did a pretty
+[07:41] decent job with this animation of the
+[07:43] butterfly moving in the specified path.
+[07:46] Next, I had requested it to create a
+[07:48] painting in SVG, and I did notice
+[07:50] something that there's slight animations
+[07:52] that basically contribute to the
+[07:54] ambience of this painting, which is nice
+[07:56] to see. You see the birds flying, you
+[07:59] see a small reflection of the sun. It
+[08:01] isn't quite noticeable, but still, you
+[08:03] get these small ambient features added
+[08:06] to this SVG painting. Next is where I
+[08:08] had requested it to create the PS5
+[08:10] controller in SVG code, and you can
+[08:12] clearly see that this is a prompt that
+[08:14] it didn't do a great job with. It's not
+[08:16] decent at all. I guess you can say that
+[08:19] the main touch panel is accurate, but
+[08:21] the body doesn't look as good as what
+[08:24] other models actually generate.
+[08:26] Now, maybe in terms of SVG code
+[08:28] generation, this model is a little
+[08:30] behind in comparison to even something
+[08:32] like Quen or even the Gemini models, cuz
+[08:35] this is what the Quen had generated, the
+[08:37] 35 billion parameter model, and this is
+[08:39] what the Opus 4.7 had generated. You can
+[08:42] clearly see that there's a substantial
+[08:44] decrease in quality with SVG in certain
+[08:47] cases. It's not able to creatively focus
+[08:50] on SVG generations as it used to with
+[08:52] the 4.6. Next, using the CLI, I Next,
+[08:57] using the Kilo CLI, I had requested it
+[08:59] to create a landing page, and you can
+[09:01] clearly see that the model has done a
+[09:03] great job with its front-end
+[09:05] capabilities. The dynamic movements, all
+[09:07] of the typographies have been thoroughly
+[09:10] added, and I really like how well this
+[09:12] model is in terms of its front-end
+[09:14] capabilities. I would now put this on
+[09:16] par with Gemini 3.1 Pro, and that is a
+[09:20] really great boost from what we had
+[09:22] previously saw from the 4.6.
+[09:25] And something I also noticed is that
+[09:26] when you're generating with this model,
+[09:28] you'll see that there is a clear
+[09:30] front-end style that the model
+[09:31] attributes when it generates different
+[09:33] sorts of front-ends. And you can see
+[09:35] that with the color and the typography
+[09:38] that is usually generated when you
+[09:40] prompt it to generate a landing page.
+[09:44] This is pretty cool. I created an FPS
+[09:46] shooter game, and this is actually nice,
+[09:47] cuz you can see the enemies coming at
+[09:49] me. I should be shooting them, but you
+[09:51] can see there's actually recoil. There's
+[09:54] the ability for me to the but it
+[09:56] actually glitched out on that. If I am
+[09:57] to press W, you can see that it doesn't
+[09:59] actually work, which is unfortunate.
+[10:03] If you like this video and would love to
+[10:05] support the channel, you can consider
+[10:07] donating to my channel through the Super
+[10:09] Thanks option below. Or you can consider
+[10:11] joining our private Discord, where you
+[10:13] can access multiple subscriptions to
+[10:15] different AI tools for free on a monthly
+[10:18] basis, plus daily AI news and exclusive
+[10:21] content, plus a lot more.
+[10:23] But, that's about it, guys, for today's
+[10:25] video on the Claude Opus 4.7. I will be
+[10:28] making a lot more videos on this with uh
+[10:30] the ability to combine the model with
+[10:33] other harnesses to showcase what you can
+[10:35] actually do with this in production use
+[10:37] cases. Now, I'll leave all the links
+[10:39] that I use in today's video in the
+[10:40] description below, but with that
+[10:41] thought, guys, I hope you enjoyed
+[10:42] today's video and got some sort of
+[10:43] value. Let me know what you guys think
+[10:45] about this model. Let me know if you do
+[10:48] run any cool demos. Please tag me on
+[10:50] Twitter, and I might even repost it.
+[10:52] But, with that thought, guys, thank you
+[10:53] guys so much for watching. Make sure you
+[10:54] go ahead and take a look at the second
+[10:55] channel, join the newsletter,
+[10:57] join the Discord, follow me on Twitter,
+[10:59] and lastly, make sure you guys
+[11:00] subscribe, turn on the notification
+[11:01] bell, like this video, and please take a
+[11:02] look at our previous video so that you
+[11:04] can stay up-to-date with the latest AI
+[11:06] news. But, with that thought, guys, have
+[11:07] an amazing day, spread positivity, and
+[11:09] I'll see you guys really shortly. Peace
+[11:11] out, folks.

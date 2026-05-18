@@ -1,0 +1,45 @@
+{
+  "uid": "3535839ef36c93f8",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Moonshot Kimi K2.6 open-source long-horizon coding model",
+  "summary": "Moonshot AI released Kimi K2.6, an open-source coding model designed for long-horizon execution that can manage 12+ hour autonomous sessions, 4,000+ tool calls per run, up to 300 parallel agents and a 256K context window. Pricing is $0.95/$4 per million input/output tokens (16 cents on cache hits), with weights on Hugging Face.",
+  "source_video_uid": "6995226273c5c797",
+  "source_video_id": "_9zecUHs21c",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:00",
+  "links": [
+    "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+    "https://kimi.com/"
+  ],
+  "tags": [
+    "moonshot",
+    "kimi",
+    "open-source",
+    "coding",
+    "agent"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://kimi.com/",
+    "web_findings": [
+      {
+        "title": "Kimi K2.6 explained",
+        "url": "https://miraflow.ai/blog/kimi-k2-6-explained-moonshot-ai-open-source-model-ties-gpt-5-5-coding",
+        "snippet": "Open-source model approaching GPT-5.5 on coding; April 2026 release."
+      },
+      {
+        "title": "Meet Kimi K2.6",
+        "url": "https://kingy.ai/ai/meet-kimi-k2-6-moonshot-ais-open-source-bet-on-long-horizon-agentic-coding/",
+        "snippet": "Long-horizon agentic coding focus."
+      },
+      {
+        "title": "Kimi K2 Thinking on Hugging Face",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+        "snippet": "Predecessor reasoning model in the K2 family."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

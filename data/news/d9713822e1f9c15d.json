@@ -1,0 +1,26 @@
+{
+  "uid": "d9713822e1f9c15d",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "Anthropic Claude Code fast mode research preview",
+  "summary": "Anthropic released a Fast Mode for Claude Code in research preview, allowing Opus 4.6 and 4.7 to respond up to 2.5x faster via a higher-speed API configuration. Model quality is unchanged; latency is reduced at increased token cost.",
+  "source_video_uid": "c409e51ed299fa7e",
+  "source_video_id": "xK8Xom50e1k",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:46",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "opus",
+    "fast-mode"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Research preview, transcript-sourced."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

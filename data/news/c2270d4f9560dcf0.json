@@ -1,0 +1,35 @@
+{
+  "uid": "c2270d4f9560dcf0",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "release",
+  "title": "Anthropic ships 10 Claude finance agent templates",
+  "summary": "Anthropic releases a suite of ten Claude agent templates for financial services, including pitch builder, meeting preparer, earnings reviewer, model builder, market researcher, valuation reviewer, statement auditor, KYC screener, general ledger reconciler and month-end closer. Templates run as plugins in Claude Cowork and Claude Code, or as cookbooks for Claude Managed Agents.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "08:16",
+  "links": [
+    "https://www.anthropic.com/news/finance-agents"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "finance",
+    "agents",
+    "release"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.anthropic.com/news/finance-agents",
+    "notes": "Announced 5 May 2026. Bundled with Microsoft 365 add-in support across Excel, PowerPoint, Word and Outlook, plus data connectors to FactSet, S&P Capital IQ, MSCI, PitchBook, Morningstar, Daloopa, LSEG, Chronograph.",
+    "web_findings": [
+      {
+        "title": "Anthropic — Finance agents",
+        "url": "https://www.anthropic.com/news/finance-agents",
+        "snippet": "Ten ready-to-run AI agent templates for financial services."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

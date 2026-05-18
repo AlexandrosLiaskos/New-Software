@@ -1,0 +1,292 @@
+[00:00] Hermes Agent just keeps on getting
+[00:02] better and better before our eyes, which
+[00:04] is exactly why I've been covering it so
+[00:06] much recently. As mentioned in my
+[00:09] previous videos, Hermes Agent has been
+[00:11] climbing above tools like OpenClaw, Pod
+[00:14] Code, and Kilo Code across many daily
+[00:16] use AI agent leaderboards and workflows.
+[00:19] For those unfamiliar with Hermes Agent,
+[00:22] it's one of the most interesting
+[00:23] open-source AI agent projects right now.
+[00:26] It's designed as a persistent autonomous
+[00:28] system that continuously evolves over
+[00:30] time. It's built by News Research under
+[00:33] the MIT license, and it is an agent that
+[00:36] can run 24/7 on your own infrastructure
+[00:38] while building long-term memory,
+[00:40] reusable skills, and even a deeper
+[00:43] understanding of itself as you use it
+[00:45] more. And quite recently, just this
+[00:48] week, we have gotten massive waves of
+[00:50] new updates that make Hermes
+[00:52] significantly more powerful. from native
+[00:54] computer use support to a brand new
+[00:56] multi- aent orchestration system and
+[00:59] much more. So with that thought, let's
+[01:00] dive into everything and cover what we
+[01:02] can do with Hermes's new update.
+[01:04] Starting things off with the brand new
+[01:06] computer use feature that was added
+[01:08] directly into Hermes agent. It's powered
+[01:11] by KUA and it's an early preview feature
+[01:13] that allows Hermes to control your
+[01:15] actual computer using basically any AI
+[01:18] model, not just Frontier models locked
+[01:20] behind special computer use modes. And
+[01:22] honestly, this is one of the coolest
+[01:24] implementations I've seen because it
+[01:26] works entirely in the background,
+[01:28] meaning Hermes does not fully take over
+[01:30] your PC. You can still continue using
+[01:32] your keyboard, mouse, apps, and
+[01:35] workflows normally like you would
+[01:36] usually while the AI agent operates
+[01:39] alongside you simultaneously. This
+[01:41] overall is going to open up a lot of
+[01:43] different practical autonomous workflows
+[01:45] without sacrificing control of your own
+[01:48] workflow. If you've tried to ever give
+[01:51] AI agents actual web access, you know
+[01:54] the pain. You're duct taping together a
+[01:56] search API, a headless browser, a
+[01:58] scraping tool, maybe playright scripts
+[02:01] that break every other week. Tiny Fish,
+[02:04] which is also today's video sponsor,
+[02:06] just replaces all of that. It's one
+[02:08] platform that contains search, fetch,
+[02:11] browser, and agent all under one API
+[02:14] key. And they actually just made a huge
+[02:17] new update with their web search and
+[02:19] fetch APIs, which are now completely
+[02:21] free. No caps, no weird premium limits,
+[02:24] which is kind of rare since most tools
+[02:27] charge per call. The search API comes
+[02:29] back in under 500 milliseconds, which if
+[02:33] you have ever used Tavly or Exa, you
+[02:36] know that's fast. And instead of dumping
+[02:38] raw HTML, it turns clean structured
+[02:41] data, which is way better if you're
+[02:43] building agents. The browser API spins
+[02:45] up a stealth Chrome session in the cloud
+[02:47] in under 250 ms. No local machine, no
+[02:51] Docker, nothing. And the agent, you give
+[02:54] it a task in plain English. It all
+[02:57] connects. You can search, fetch the
+[02:59] content, spin up a browser if you need
+[03:02] to interact with something, and it hands
+[03:03] it off to the agent for multi-step
+[03:05] stuff. All in one pipeline, which is why
+[03:08] Tiny Fish is 100% recommended. I'll drop
+[03:11] the link in the description below so you
+[03:12] can try it out instantly, especially now
+[03:14] that the core APIs are free. So
+[03:17] essentially, this will now make Hermes
+[03:19] agent support true background computer
+[03:21] use on Mac OS at the moment only, but it
+[03:24] will be added to Windows and Linux soon.
+[03:27] This is where the agent can click, type,
+[03:29] scroll, and operate apps directly on
+[03:31] your operating system while you continue
+[03:34] using your browser naturally. Your
+[03:35] cursor doesn't move, your keyboard's
+[03:37] focus doesn't change, and the Mac OS is
+[03:40] not going to be able to switch spaces.
+[03:43] And unlike other computer use systems,
+[03:45] Hermes works with basically any tool
+[03:47] capable model, including Claude, GPT,
+[03:50] Gemini, and local open source models
+[03:52] through VLM. And this essentially is the
+[03:55] open- source equivalent of codec style
+[03:57] background computer use. To get it, it
+[03:59] is super simple. You can enable it with
+[04:01] a couple of different options. One
+[04:03] option is where you can just go into
+[04:06] your dedicated CLI and then use the
+[04:08] Hermes computer use install command and
+[04:11] this will then natively install it
+[04:12] within your instance. Another option is
+[04:14] enabling the tool set interactively and
+[04:17] that is by running the Hermes tools and
+[04:19] then picking the computer use feature to
+[04:21] use it. Remember this works with any
+[04:23] model that has vision. So clots on it
+[04:26] any of the open router vision models,
+[04:28] open AI, GPT4 plus and GPT5 and local
+[04:32] VLMs. So you have a lot of different
+[04:34] options as to what you can use computer
+[04:36] use with in Hermes agent. And remember
+[04:39] this is only for Mac OS at the moment.
+[04:42] They are soon going to be allowing
+[04:43] access to Linux and Windows users soon.
+[04:46] Next up is a pretty massive update cuz
+[04:49] Alibaba's Quinn 3.6 6 Plus is now
+[04:51] available directly inside news portal
+[04:54] and it is free for a limited time. And
+[04:57] honestly, this is a huge win because the
+[04:59] Quen 3.6 Plus is an insanely capable
+[05:02] model, especially for web development.
+[05:04] And it's also great at long horizon
+[05:06] tasks because of its long context
+[05:08] workflow capabilities. Also, how
+[05:11] proficient it is with the Gen 6 task and
+[05:13] multimodal capabilities as well. This is
+[05:15] a model that supports a 1 million token
+[05:17] context window. And I've already
+[05:19] showcased some demos of what this model
+[05:21] is capable of. And combining it with now
+[05:24] with the Hermes agent makes it an
+[05:26] incredible powerful autonomous AI
+[05:28] workflow. And the cool part is
+[05:30] newsportal itself is built on top of
+[05:33] open router. Meaning you'll get all of
+[05:35] the open router model routing benefits
+[05:37] alongside exclusive free models,
+[05:39] discounts, and bundle tool usage
+[05:41] specifically optimized for the Hermes
+[05:44] agent workflow. I'm not sponsored to
+[05:46] promote this. I'm not affiliated with
+[05:48] Hermes. I'm just providing value. And
+[05:50] essentially, if you are looking to get
+[05:51] started with these free models, all you
+[05:53] got to do is head over to News
+[05:55] Research's website, their portal, which
+[05:57] I'll leave a link in the description
+[05:58] below, and you can create an account
+[05:59] completely for free. And this way, you
+[06:01] can access all of the free models that
+[06:04] they have a part of the free tier.
+[06:06] Another huge update is the Light Panda
+[06:08] integration directly within Hermes,
+[06:11] which is an integrated browser backend
+[06:14] that is also open source. And this is a
+[06:16] perfect fit because you obviously have
+[06:18] Hermes which is open source but now you
+[06:20] also have Light Panda which is
+[06:22] integrated and it's an open- source
+[06:24] browser that is built specifically for
+[06:26] machines and AI workflows. So you can
+[06:28] now set up Light Panda as a default
+[06:30] browser backend with automatic Chrome
+[06:32] fallback support whenever it's actually
+[06:34] needed. And it's a massive improvement
+[06:36] for browser automation, agent workflows,
+[06:39] and overall reliability for autonomous
+[06:41] web tasks inside Hermes. There's also an
+[06:44] auto browse feature that has been
+[06:46] enabled and you can use that directly
+[06:47] within Hermes CLI or their cananban or
+[06:51] their desktop app. Speaking of canban,
+[06:53] if you haven't seen it yet, Hermes has a
+[06:56] canban and it just got a massive update
+[06:58] cuz it is something that allows you to
+[07:00] create unlimited boards projects inside
+[07:03] Hermes agent and even a capability to
+[07:05] subscribe to project updates directly
+[07:07] within your home channel through the
+[07:09] gateway messenger that you have
+[07:11] configured. This essentially turns
+[07:13] Hermes into an even more of a persistent
+[07:16] autonomous workspace with multi- aent
+[07:18] operating environments rather than just
+[07:20] a standalone AI tool. It is something
+[07:23] that will let you orchestrate multiple
+[07:25] agents at once to accomplish various
+[07:27] sorts of tasks and then have it managed
+[07:29] through this canband board. All you got
+[07:32] to do is just simply update your Hermes
+[07:34] client by using the Hermes update
+[07:36] command and you're good to go. Now, it's
+[07:38] super simple to set up. All you got to
+[07:40] do is just make sure your Hermes agent
+[07:42] is on the latest update. And that is
+[07:44] where you can just type in Hermes and
+[07:46] then type in update to make sure you
+[07:48] have the latest fetched update for the
+[07:51] Hermes agent. Once you have updated
+[07:53] Hermes, what you got to do is head over
+[07:56] into this canband tutorial page or doc.
+[08:00] And what you got to do is just copy the
+[08:01] Hermes canband initialization command.
+[08:04] Copy this and then we can paste it into
+[08:07] our terminal. After pasting in the
+[08:09] initialization command, then you can
+[08:11] then copy the Hermes dashboard command
+[08:13] and then paste it into your terminal.
+[08:14] And this will start up the web UI, which
+[08:16] you can see that it just did. And now
+[08:19] you can see that it is going to let you
+[08:22] now work with the canban when you are to
+[08:24] head over to the plugin which is stated
+[08:27] over here on the left hand panel. This
+[08:29] is the cananban that will let you manage
+[08:31] and organize all of the multi- aent
+[08:34] operations. And this is the environment
+[08:36] that you can work with. Whether that is
+[08:38] a to-do that you are working for an
+[08:41] agent to accomplish or if it is ready to
+[08:44] move on to the next step or if it is in
+[08:46] progress. This way you'll get a good
+[08:49] idea of where the agents are in this
+[08:51] board. Hermes also got the /goal command
+[08:54] that codeex and cloud code had gotten.
+[08:57] But with Hermes's /go command, it is
+[08:59] something that manages the the
+[09:01] orchestration memory and hands off
+[09:03] between different agents all tracked
+[09:06] through the single Hermes canband board
+[09:08] that we had just talked about while
+[09:10] autonomous agents continuously run the
+[09:12] loop with the goal command. For those
+[09:14] who do not know what the goal command
+[09:15] is, it's essentially a longunning
+[09:18] autonomous objective mode for AI agents.
+[09:20] So instead of giving a single prompt to
+[09:23] define it to work upon it is something
+[09:25] that will continuously plan, execute,
+[09:29] review and retry if some sort of failure
+[09:32] is reached and it is going to manage
+[09:34] subtasks until the objective is actually
+[09:36] completed which is why the goal feature
+[09:38] is actually really good. If you like
+[09:40] this video and would love to support the
+[09:42] channel, you can consider donating to my
+[09:45] channel through the super thanks option
+[09:47] below. Or you can consider joining our
+[09:49] private Discord where you can access
+[09:51] multiple subscriptions to different AI
+[09:53] tools for free on a monthly basis, plus
+[09:56] daily AI news and exclusive content,
+[09:58] plus a lot more. Now, there's many other
+[10:01] meticulous features that have been added
+[10:02] to this new Hermes agent version update.
+[10:06] And this is where you can either clone
+[10:09] voices using XES custom voice lines as a
+[10:12] TTS provider. You can have Hermes speak
+[10:15] in different languages, Google Chat, and
+[10:17] so many other different sorts of small
+[10:20] updates that elevate this agent workflow
+[10:23] even further. And I truly believe that
+[10:25] Hermes is going to be one of the go-to
+[10:28] agent workflows that is open source and
+[10:30] that many people will start using more
+[10:32] and more as time goes because this is
+[10:34] truly a remarkable open-source
+[10:37] self-improving system that is going to
+[10:39] be providing a lot of value. So, I'll
+[10:41] leave all the links that I use in
+[10:42] today's video in the description below
+[10:43] so that you can easily get started. But
+[10:45] with that thought, guys, thank you guys
+[10:46] so much for watching. Make sure you go
+[10:48] ahead and take a look at the second
+[10:49] channel. Join the newsletter, join the
+[10:51] Discord, follow me on Twitter, and
+[10:53] lastly, make sure you guys subscribe,
+[10:54] turn on notification bell, like this
+[10:56] video, and please take a look at our
+[10:57] previous videos so that you can stay up
+[10:59] to date with the latest AI news. But
+[11:01] with that thought, guys, have an amazing
+[11:02] day, spread positivity, and I'll see you
+[11:04] guys really shortly. He suffers.

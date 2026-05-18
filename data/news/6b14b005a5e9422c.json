@@ -1,0 +1,26 @@
+{
+  "uid": "6b14b005a5e9422c",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "DeepSeek V4 rumored as 1.6T-parameter MoE",
+  "summary": "Reports attributed to a Princeton AI Lab fellow describe DeepSeek V4 as a 1.6T-parameter MoE model with sparse MQA, fused MoE kernels and hyperconnections, with leaked figures around 99.4% MMLU and 83.7% SWE-bench. Requires roughly a 512 GB-class machine to run locally even quantized.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "05:10",
+  "links": [
+    "https://www.deepseek.com/"
+  ],
+  "tags": [
+    "deepseek",
+    "model",
+    "rumor",
+    "moe"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Unverified leak; benchmark numbers not independently confirmed."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

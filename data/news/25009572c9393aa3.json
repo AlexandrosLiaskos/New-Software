@@ -1,0 +1,26 @@
+{
+  "uid": "25009572c9393aa3",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "Claude Code /goal: persistent outcome-based execution",
+  "summary": "Anthropic added a /goal command to Claude Code that lets users define a completion condition and have Claude continue working autonomously across multiple turns until the goal is reached. Works in interactive, headless and remote sessions including Claude Code mobile.",
+  "source_video_uid": "ddb71460f4d430fe",
+  "source_video_id": "-jINRoST0mk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:59",
+  "links": [
+    "https://docs.claude.com/en/docs/claude-code"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "agent",
+    "autonomous"
+  ],
+  "research_status": "researched",
+  "research": {
+    "notes": "Mirrors OpenAI Codex's /goal feature. Distinct from time-driven /loop and stop hooks; waits for an explicit completion condition."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

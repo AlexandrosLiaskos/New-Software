@@ -1,0 +1,26 @@
+{
+  "uid": "426d169123f6514c",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "tool",
+  "title": "Google Anti-Gravity used for automated coding environment setup",
+  "summary": "Anti-Gravity, Google's coding environment, is used in the tutorial to autonomously set up the local proxy, scripts and Claude Code launcher files for a hybrid DeepSeek plus Claude workflow from a single natural-language prompt.",
+  "source_video_uid": "bb62d02d4b4ddfa3",
+  "source_video_id": "EibhUi-FnTs",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:09",
+  "links": [
+    "https://antigravity.google/"
+  ],
+  "tags": [
+    "google",
+    "anti-gravity",
+    "coding-environment",
+    "tool"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Used as a setup tool in the tutorial; described as Google account-backed free tier."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

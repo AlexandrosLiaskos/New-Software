@@ -1,0 +1,391 @@
+[00:00] As the week comes to an end, we didn't
+[00:01] get the most explosive week in AI, but
+[00:04] it was still packed with major updates
+[00:06] and pretty wild new developments across
+[00:08] the industry. OpenAI hinted at a future
+[00:11] Codex super app with upcoming features
+[00:14] like remote control, goals, deeper
+[00:16] integrations, and new connectors, while
+[00:19] also launching GPT real time too, their
+[00:21] most intelligent voice model yet,
+[00:24] bringing near GPT-5 level intelligence
+[00:26] to voice agents, which is a huge step
+[00:28] forward for real-time AI interactions.
+[00:31] Shifting over to Google, Gemini seems to
+[00:34] be experimenting more aggressively as
+[00:35] Google I/O approaches. Now, there are
+[00:38] multiple Gemini checkpoints that are
+[00:40] starting to appear within L Arena, and I
+[00:42] got to say, some of these newer variants
+[00:45] may actually feel a bit nerfed compared
+[00:47] to the previous versions. Meanwhile,
+[00:49] Claude Code quietly dropped a massive
+[00:51] feature for finance-focused workflows
+[00:54] with the new financial data set
+[00:55] connection. This is something that opens
+[00:57] up a door for far more advanced
+[01:00] prompting to get market research and
+[01:02] even quant-style trading strategies
+[01:04] generated directly inside the Gen site
+[01:06] coding environment. Over in China, Baidu
+[01:09] released Ernie 5.1, significantly
+[01:12] lowering pre-training costs while
+[01:14] outperforming models like DeepSeek
+[01:16] version 4 on multiple benchmarks. At the
+[01:19] same time, XAI continues turning Grok
+[01:22] into a full super app, adding stronger
+[01:24] tool calling capabilities, email
+[01:26] retrieval, slide generations, and much
+[01:28] more. And somehow, things got even
+[01:31] wilder as the alleged private text
+[01:33] messages involving Sam Altman and entire
+[01:36] OpenAI board surfaced online this week,
+[01:39] and the story only keeps getting
+[01:41] weirder. Now, there's a lot to cover, so
+[01:43] let's just simply dive into it all.
+[01:45] There's a lot of stuff in the AI space
+[01:46] that I don't really put on to the
+[01:48] YouTube channel, and you can actually
+[01:49] access it through my free newsletter
+[01:51] with the link in the description below,
+[01:53] where you can subscribe completely for
+[01:54] free. Starting off with OpenAI, things
+[01:57] got pretty interesting today after the
+[01:59] company posted a cryptic teaser on X
+[02:02] that many believe is hinting at the
+[02:03] upcoming Codex super app. The post
+[02:06] immediately reminded people of Sam
+[02:07] Altman's old Death Star meme. And
+[02:10] honestly, the direction Open AI is
+[02:12] heading makes this theory feel pretty
+[02:14] believable. Now, for those who do not
+[02:16] know, the Codex super app is essentially
+[02:18] Open AI merging ChatGPT, Codex,
+[02:22] browsing, and have automations, voice
+[02:25] agents, remote control, and computer use
+[02:27] capabilities directly into a unified
+[02:30] desktop experience. So, instead of
+[02:32] separate AI tools, Open AI seems to be
+[02:35] building a single AI operating layer for
+[02:38] coding, chatting, workflows, and
+[02:41] everyday computer task. And once Open AI
+[02:44] fully merges Codex with ChatGPT, this is
+[02:47] going to move most of it into the cloud.
+[02:49] It could become the biggest moment in
+[02:51] consumer AI since ChatGPT first
+[02:53] launched. At that point, the gap to
+[02:56] usefulness becomes less about model
+[02:58] intelligence and more about building
+[02:59] custom tools, integrations, and
+[03:02] deployment around AI itself. Not just
+[03:05] that, Open AI is also continuously
+[03:07] pushing other updates into Codex like
+[03:09] remote computer control. This was a new
+[03:12] feature that was spotted this week, and
+[03:14] it's showing that Open AI is working on
+[03:17] a persistent remote SSH connection,
+[03:19] allowing Codex to manage remote
+[03:21] instances directly. So yes, at some
+[03:24] point someone is absolutely going to ask
+[03:26] Codex to fix bugs directly in production
+[03:29] servers.
+[03:30] But something that they actually
+[03:31] launched is upgrading Codex's browser
+[03:34] capabilities this week cuz Codex now
+[03:36] works directly inside Chrome on both
+[03:38] macOS and Windows. It lets you interact
+[03:41] with apps, websites, and this is where
+[03:43] you can essentially have Codex migrate
+[03:46] and manipulate data off of your web.
+[03:49] What's especially interesting is that it
+[03:50] can now operate across multiple tabs as
+[03:53] well within your background without
+[03:55] fully taking over your browser, which
+[03:57] makes the whole experience feel much
+[03:59] more like a real AI assistant that is
+[04:01] running alongside you instead of a
+[04:03] separate tool. Another wild Codex
+[04:06] feature this week was the slash goal
+[04:08] release, and this basically gives Codex
+[04:10] a mission. You define what done looks
+[04:13] like and it will keep iterating until it
+[04:15] reaches the end state. Now, this is huge
+[04:18] for long-running coding tasks like
+[04:20] refactors, migrations, retry loops,
+[04:22] debugging, or experiments where you just
+[04:25] want the AI to keep going until it
+[04:27] actually works. Kind of reminds you of
+[04:30] Ralph loop or one of those other loop
+[04:32] generative AI systems. But, what's crazy
+[04:35] is people are already testing it out on
+[04:38] difficult arc AGI style reasoning tasks
+[04:40] where Codex reportedly ran for days and
+[04:43] even started trying to find loopholes or
+[04:45] external solutions when stuck. The
+[04:47] feature is hidden under a slash
+[04:49] experiment for now, but it really shows
+[04:52] what autonomous AI agents are heading
+[04:54] into next.
+[04:56] Another OpenAI feature is that they
+[04:58] launched GPT real-time 2 this week,
+[05:01] their most intelligent voice model yet,
+[05:03] bringing GPT-5 level reasoning directly
+[05:06] into real-time voice agents. This is a
+[05:08] pretty big step because voice agents are
+[05:10] starting to feel less like basic
+[05:12] assistants and more like real-time
+[05:14] collaborators that can actually listen,
+[05:17] reason, and solve problems as
+[05:19] conversations happen live. Alongside it,
+[05:22] OpenAI also referenced and released GPT
+[05:25] real-time translate and GPT real-time
+[05:27] whisper, pushing towards a new
+[05:29] generation of AI native voice
+[05:32] interfaces.
+[05:33] And people are building crazy demos with
+[05:36] it. For example, on X built a
+[05:38] real-time speech to live presentation
+[05:40] system just hours after launch. He
+[05:43] basically talks naturally and the AI
+[05:45] generates and updates the whiteboard
+[05:48] live as he speaks. But just take a
+[05:50] listen to what Kounis doing here. And
+[05:53] this auto pres of thing you are seeing
+[05:54] here is real time speech to
+[05:57] presentation. This entire whiteboard is
+[06:01] being generated in real time based on
+[06:03] what I'm talking about right now. See
+[06:05] both of my hands are here. I'm not
+[06:07] controlling the whiteboard. The
+[06:09] whiteboard is kind of whiteboarding
+[06:10] itself. But if you think about it, this
+[06:13] is where voice AI starts becoming way
+[06:15] more than just a chatbot. You can
+[06:17] imagine live tutoring, AI meeting
+[06:19] assistants, real-time code and co-pilot.
+[06:22] You can even have automated
+[06:23] presentations, customer support agents,
+[06:26] workflow automation, and even AI systems
+[06:29] that act entirely with your own voice
+[06:32] and collaborate with you while you work
+[06:34] instead of just waiting for prompts one
+[06:36] by one. So, this is just opening up so
+[06:39] many new avenues. Over on the Google
+[06:41] side, things are getting a little weird
+[06:43] in Ella Arena right now. Multiple people
+[06:46] are starting to notice a new Gemini 3.1
+[06:48] Pro variant behaving differently,
+[06:51] especially on front-end and SVG
+[06:53] generation tasks. A lot of users,
+[06:55] including myself, are saying that the
+[06:56] outputs are feeling weaker, more like
+[06:59] GPT-like, and possibly over-tuned with
+[07:01] RL. Now, this is with the current Gemini
+[07:04] 3.1 Pro that is in the arena, and it
+[07:08] usually performs pretty well when you
+[07:10] use it outside of the arena. But some
+[07:12] people are thinking that Google could
+[07:14] secretly be testing 3.2 Pro under the
+[07:17] Gemini 3.1 Pro label, while others are
+[07:19] pointing to the January 2025 knowledge
+[07:22] cut-off, suggesting that it's probably
+[07:24] just another internal 3.1 variant.
+[07:26] Either way, people really do not want
+[07:29] Google nerfing one of the best front-end
+[07:31] coding models right now, cuz this one
+[07:32] doesn't look so good. I don't know,
+[07:34] they're doing something in the arena
+[07:36] right now where it's hard for me to tell
+[07:38] what model is which and which variant is
+[07:41] what. Cuz right now, I just simply
+[07:43] generated a front end, and this looks
+[07:46] pretty good, and it kind of resembles
+[07:48] what Gemini usually outputs. Next is a
+[07:50] pretty big update that Anthropic had
+[07:52] released this week for the support of
+[07:54] financial data set connectors through
+[07:56] MCP servers within Claude and Claude
+[07:58] Code. And essentially, now what people
+[08:01] have been able to do with this is
+[08:03] basically let Claude instantly connect
+[08:05] to massive financial data sets with
+[08:07] access to over 17,000 stocks, company
+[08:10] fundamentals, earning reports, and more
+[08:13] directly inside the coding workflows.
+[08:15] And honestly, this is where MCP starts
+[08:17] getting really powerful, cuz instead of
+[08:19] manually searching for data, developers
+[08:21] can now prompt Claude for live financial
+[08:23] research through these new connectors
+[08:26] with market analysis, trading
+[08:27] strategies, balance sheets, income
+[08:30] statements, or stock comparisons
+[08:31] directly inside the terminal. We're
+[08:33] slowly moving towards AI agents that can
+[08:36] not only just code, but could actively
+[08:38] research, analyze markets, and build
+[08:41] entire quantitative workflows on their
+[08:43] own. Over in China, Baidu officially
+[08:45] released Ernie 5.1, and honestly, the
+[08:48] efficiency numbers are pretty insane.
+[08:50] Ernie 5.1 reportedly only uses around 6%
+[08:54] of its pre-training cost compared to
+[08:56] similar-sized models while still
+[08:58] achieving frontier-level performance
+[09:00] across reasoning, agentic workflows,
+[09:03] search, and creative writing benchmarks.
+[09:05] And especially interesting is that it
+[09:07] surpassed DeepSeek version 4 Pro on
+[09:10] benchmarks like T3 Bench, as well as
+[09:12] Spreadsheet Bench Verified, while also
+[09:15] getting extremely close to models like
+[09:17] Gemini 3.1 Pro on reasoning and writing
+[09:20] tasks. Now, this really continues the
+[09:22] bigger trend we're seeing in AI right
+[09:24] now, where labs are no longer just
+[09:26] racing for bigger models, but for more
+[09:28] efficient models that can deliver
+[09:30] frontier performance at dramatically
+[09:32] lower training and inference costs.
+[09:34] Google is also pushing harder into AI
+[09:37] workspace organization with Gemini
+[09:39] notebooks. This is an idea that is
+[09:41] pretty simple, but honestly quite
+[09:43] powerful. Cuz instead of just juggling
+[09:45] dozens of tabs and documents, you can
+[09:48] keep all your files, notes,
+[09:49] requirements, and drafts into one
+[09:52] AI-native workspace. For example, Google
+[09:54] had showcased how students can manage an
+[09:57] entire grad school application process
+[09:59] inside one single notebook, where Gemini
+[10:02] can track deadlines, reviews, essays,
+[10:04] you can organize transcripts, access
+[10:06] progress, and it can basically act like
+[10:09] an AI project manager for complex
+[10:11] workflows. This feels like Google slowly
+[10:13] is turning Gemini into more of a
+[10:16] long-term productivity operating system
+[10:18] instead of just a regular AI chatbot.
+[10:20] Meanwhile, Grok keeps evolving into more
+[10:23] of an actual AI super app, cuz this week
+[10:26] xAI expanded Grok's connector support,
+[10:28] letting it fetch emails, import
+[10:30] presentations, organize Notion
+[10:32] workspaces. You can even manage
+[10:34] calendars and interact with external
+[10:37] productivity tools directly within the
+[10:39] chatbot. Now, at this point, every major
+[10:42] AI lab seems to be racing towards the
+[10:44] same thing, turning their chatbots into
+[10:46] a full digital operating system. We saw
+[10:48] that recently with Gemini, as well as
+[10:50] what ChatGPT is actually doing with
+[10:52] Codex and turning it into a super app.
+[10:54] But what Grok is doing is definitely
+[10:56] nice, cuz all of these external
+[10:58] productivity tools are accessible within
+[11:00] the chatbot now. And finally, the OpenAI
+[11:04] drama somehow got even crazier this week
+[11:07] after leaked court evidence exposed
+[11:09] private text messages from the infamous
+[11:12] 2023 OpenAI board coup, where Sam Altman
+[11:15] was suddenly fired and then rehired just
+[11:18] days later. For anyone who forgot, the
+[11:20] whole situation was basically around an
+[11:23] internal power struggle for OpenAI's
+[11:25] nonprofit board removed Altman, claiming
+[11:28] there were communication and trust
+[11:30] issues. Now, the move instantly
+[11:32] backfired. Employees revolted, Microsoft
+[11:35] stepped in, nearly the entire company
+[11:38] threatened to quit, and within days,
+[11:40] Altman returned stronger than ever,
+[11:42] while the board basically collapsed.
+[11:45] Now, new leaks are showing that during
+[11:47] the ongoing Elon Musk versus OpenAI
+[11:50] lawsuit, people are analyzing them
+[11:52] heavily because they paint a very
+[11:54] different picture of what actually
+[11:56] happened internally. Show that Altman
+[11:59] acting surprisingly calm and
+[12:00] solution-oriented during the chaos,
+[12:03] trying to save the company, proposing
+[12:04] compromises, asking for meetings, and
+[12:07] even floating ideas like Microsoft
+[12:09] acquiring OpenAI just to stabilize
+[12:11] everything. Meanwhile, the text make
+[12:13] former CTO Mira look much more
+[12:16] conflicted in public and recent legal
+[12:18] testimonies. She had basically framed
+[12:20] Altman as dishonest and manipulative,
+[12:23] but these real-time messages show her
+[12:25] relaying harsh board decisions while
+[12:28] seemingly trying to stay aligned with
+[12:30] both sides at once as the coup was
+[12:33] collapsing. So, now the internet is
+[12:35] basically revisiting the entire OpenAI
+[12:38] civil war again, and these leaks are
+[12:41] making the whole situation look even
+[12:43] messier and more political than people
+[12:45] originally thought.
+[12:47] And lastly, one of the most bizarre
+[12:49] conversations happening online this week
+[12:51] was around the anti-clanker movement.
+[12:53] Basically, people becoming increasingly
+[12:55] uncomfortable with AI and robots
+[12:58] entering physical human spaces and jobs.
+[13:01] A lot of discussion started after videos
+[13:03] of humanoid robots and AI systems went
+[13:06] viral again, and some people online
+[13:09] began openly mocking or harassing robots
+[13:11] in public demonstrations. Others are
+[13:14] calling it the start of a broader
+[13:16] cultural backlash against embodied AI.
+[13:19] What's interesting is that this kind of
+[13:21] anti-robot sentiment seems far more
+[13:23] visible in the US right now compared to
+[13:25] some other countries. Now, this is where
+[13:28] people are interacting with these
+[13:30] robots.
+[13:31] They are slowly hate criming many of
+[13:33] these CEOs of AI labs like Sam Altman,
+[13:36] or I think recently someone tried to
+[13:38] assassinate him, which is just insane.
+[13:41] So, we're starting to see a lot of these
+[13:43] movements where people are going against
+[13:45] AI. Now, it definitely sounds ridiculous
+[13:47] now, but it really shows how society is
+[13:49] starting to psychologically react to AI
+[13:52] moving from screens into real worlds. If
+[13:55] you like this video and would love to
+[13:56] support the channel, you can consider
+[13:58] donating to my channel through the Super
+[14:00] Thanks option below. Or you can consider
+[14:03] joining our private Discord, where you
+[14:05] can access multiple subscriptions to
+[14:07] different AI tools for free on a monthly
+[14:09] basis, plus daily AI news and exclusive
+[14:12] content, plus a lot more. That's about
+[14:15] it, guys, for this week's roundup in AI.
+[14:17] If you like these type of videos,
+[14:18] definitely recommend that you take a
+[14:19] look at these recent videos, where I'm
+[14:21] trying to focus a bit more on AI news
+[14:23] now. But, with that thought, guys, I
+[14:25] hope you enjoyed today's video and got
+[14:26] some sort of value. I'll leave all the
+[14:28] links that I use in today's video in the
+[14:29] description below. Make sure you go
+[14:30] ahead and take a look at our company's
+[14:32] second channel, join the newsletter,
+[14:34] join the Discord, follow me on Twitter.
+[14:36] And lastly, make sure you guys
+[14:37] subscribe, turn on the notification
+[14:38] bell, like this video, and please take a
+[14:40] look at our previous videos so that you
+[14:41] can stay up-to-date with the latest AI
+[14:43] news. But, with that thought, guys, have
+[14:44] an amazing day, spread positivity, and
+[14:46] I'll see you guys fairly shortly. Peace
+[14:48] out, fellas.

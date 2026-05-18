@@ -1,0 +1,343 @@
+[00:00] We've been talking a lot about
+[00:01] spec-driven development because it
+[00:03] fundamentally improves how AI coding
+[00:06] agents perform. Instead of guessing, the
+[00:08] AI operates with clear intent,
+[00:11] structured specs, and defined outcomes.
+[00:13] But even with that, there's still one
+[00:16] big problem. You still have to babysit
+[00:18] the agents, which is a hassle. You run a
+[00:21] task, you check it constantly to see if
+[00:24] it's actually functioning. You fix it if
+[00:26] it breaks down. You then move on to the
+[00:28] next one. So, the workflow ends up being
+[00:31] only partially automated. That's exactly
+[00:34] what this new update is solving because
+[00:36] now we're moving from spec-driven
+[00:38] development to fully orchestrated
+[00:40] execution. This is with a feature called
+[00:43] Bart mode from Tracer, which is also
+[00:45] today's video sponsor.
+[00:47] For the people who do not know, we have
+[00:49] covered Tracer many times on this
+[00:51] channel. It's an AI-powered development
+[00:53] platform that is for managing specs,
+[00:56] tickets, and workflows. But with this
+[00:58] new Bart mode feature, they've
+[01:00] introduced a smart orchestrator that can
+[01:02] execute entire epics start to finish.
+[01:05] And for those who do not know what an
+[01:07] epic is, it's essentially a large
+[01:09] feature or project made up of multiple
+[01:12] smaller tasks, also known as tickets.
+[01:14] Instead of running each specification or
+[01:16] ticket one by one, Bart takes your epic,
+[01:20] breaks it into tasks, and then executes
+[01:22] them as parallel batches using AI
+[01:25] agents. But it doesn't just execute.
+[01:27] After each batch, it reviews the
+[01:29] results, checks alignment with your
+[01:31] specs, and updates tickets or the plan
+[01:34] if new information comes up. So, it's
+[01:36] not just building autonomously and
+[01:38] blindly. It's adapting as it goes
+[01:41] intelligently, and it will only escalate
+[01:43] to you when something actually needs
+[01:45] your input. This is very different from
+[01:47] typical agent loops, which Tracer calls
+[01:50] the Ralph loop, basically retrying tasks
+[01:53] without real awareness. Bart mode, on
+[01:55] the other hand, is a smart orchestration
+[01:57] layer that understands progress and
+[02:00] keeps everything aligned with your
+[02:01] intent. So, you can literally start an
+[02:04] epic, a project, or a ticket, let it
+[02:06] run, and then come back to a completed
+[02:09] result that is intelligently following
+[02:11] through all the specifications that you
+[02:13] had laid out. On top of that, they're
+[02:15] also rolling out with team collaboration
+[02:17] so that you can invite team members into
+[02:20] an artifact and work together in real
+[02:22] time across specs and tickets. So, now
+[02:25] your team and your AI agent are working
+[02:28] all in the same system. Overall, I
+[02:30] personally believe that this is a big
+[02:32] shift from guiding AI step to step to
+[02:35] letting it run full workflows
+[02:37] intelligently, especially now that we
+[02:39] have capable models to do so. So, in
+[02:42] essence, today I'm going to be
+[02:43] showcasing how you can redefine a
+[02:46] spec-driven workflow with Tracer using
+[02:48] this new Bart mode feature, which is
+[02:50] going to let you focus on running the
+[02:53] entire workflow intelligently for you
+[02:55] and autonomously. And the best part is
+[02:57] you can get started completely for free.
+[03:00] What's great is that Tracer lets you run
+[03:02] any coding agent with it completely for
+[03:04] free. So, for example, if you have
+[03:05] Gemini C Lite, you can execute any of
+[03:08] the specs with that specific coding
+[03:11] agent, whether that's Gemini, Claude
+[03:13] Code, or whatever coding agent you hook
+[03:16] up with Tracer. But essentially, you
+[03:18] want to get started by installing Tracer
+[03:20] to your IDE. So, you could install it
+[03:22] for Cursor, VS Code, or WinServe. What
+[03:25] you can do is simply click on the
+[03:26] download button, or you can simply go
+[03:28] over to the extension store and search
+[03:30] up Tracer. Once you have found it, you
+[03:33] can then install it, and then you can
+[03:34] then access it on the left-hand panel.
+[03:37] If you want the best AI tools,
+[03:39] workflows, and drops before everyone
+[03:41] else, join my free newsletter with the
+[03:43] link in the description below, which is
+[03:44] completely free. Once you have opened up
+[03:47] the Tracer panel, as well as after you
+[03:49] have signed up or logged in, you're
+[03:51] going to be then greeted with the main
+[03:52] dashboard of Tracer. This is your
+[03:55] command center. You can get started with
+[03:57] an epic, phases, plan, and review. Epic
+[04:01] mode is where you can turn a huge
+[04:02] project into detailed specs or tickets
+[04:05] where the AI can manage the whole thing.
+[04:07] Phases is essentially where if you're
+[04:09] not sure what you want yet, you can
+[04:11] essentially work with the AI, chat with
+[04:14] it to clarify what you want. Then you
+[04:16] have the plan mode where the it actually
+[04:18] works on creating a detailed full file
+[04:21] by file plan, which you can refine and
+[04:24] then send the plan to a coding agent to
+[04:26] build up. So, this is something that you
+[04:28] would use after you know what you want,
+[04:30] then you can just plan it out with the
+[04:32] AI agent. And then review is essentially
+[04:34] a debugger or a reviewer, which will
+[04:37] focus on finding vulnerabilities or
+[04:39] issues and then having it actually solve
+[04:41] upon any of them. So, I'm going to start
+[04:44] off by working with epic cuz if you're
+[04:47] essentially working on using the Bart
+[04:49] mode, which is orchestrating the
+[04:51] intelligent agent workflow, what we got
+[04:54] to do is select the epic mode, which
+[04:56] breaks down our initial prompt, which
+[04:58] we're telling it to build a dashboard
+[05:00] with authentication and API integration
+[05:03] to manage AI agents. Once you have
+[05:06] specified your prompt, provided all the
+[05:08] context like images, files, and
+[05:10] contacts, what you can also do is if you
+[05:13] click on this drop-down menu, you can
+[05:15] select whatever model you want to use.
+[05:17] For example, if you know that Opus 4.7
+[05:19] would be best, you can select this
+[05:21] model, and you can specify the reasoning
+[05:24] efforts for it. You can also have it on
+[05:27] balance mode, which is a model profile
+[05:30] which is going to default a mix of
+[05:32] different qualitative models with speed
+[05:34] and cost, or frontier, which uses
+[05:36] top-tier models to get the best output.
+[05:39] Now, what I would recommend is using
+[05:40] balance, and then you can send in this
+[05:42] request. And right now, this is where
+[05:45] epic is going to now work upon taking
+[05:48] our specification and building out and
+[05:50] breaking down our entire project into
+[05:53] multiple tasks. This is where it's going
+[05:55] to work alongside you to essentially
+[05:58] focus on what sort of back-end you want
+[06:00] to work with, what sort of tech stack
+[06:02] you want to use. And once you have
+[06:03] specified all of these different
+[06:05] questions, we can then progress forward
+[06:08] on first having Tracer lay out all the
+[06:10] specifications and then using the Bart
+[06:12] mode to autonomously and intelligently
+[06:15] execute upon all of it. And remember,
+[06:17] guys, now with this new feature, you're
+[06:19] able to actually work with multiple
+[06:21] users to help you on detailing out a
+[06:24] specification list for our Bart mode to
+[06:27] execute upon. But you can see that Now
+[06:29] that I have provided all of the
+[06:31] specifications, you can then just go
+[06:34] ahead and submit the questionnaire. And
+[06:35] this is where now it is going to work
+[06:38] upon automatically having Tracer
+[06:40] structure everything into specs and
+[06:42] tickets. So, you can see that it is
+[06:44] creating the implementation plan. It is
+[06:47] going to be super detailed so that our
+[06:49] AI agents are able to tackle everything
+[06:52] intelligently. So, it looks like it has
+[06:55] finished creating the detailed
+[06:56] specification within the board, and this
+[06:59] is where it details out the tech stack.
+[07:02] You have the project structure, data
+[07:04] model. You also have the authentication
+[07:05] flow, which uses different sorts of mind
+[07:08] maps, the API endpoints. Everything has
+[07:11] been thoroughly laid out, even the UI
+[07:13] screen, which is incredible. I've never
+[07:16] seen an implementation plan being
+[07:17] generated by an AI that is able to
+[07:20] thoroughly show you a descriptive
+[07:22] analysis of how your user flow would
+[07:25] look or how essentially your UI would
+[07:28] look within the implementation plan.
+[07:30] This is where you can even now add in
+[07:32] different tickets. Like I'd mentioned,
+[07:34] tickets are essentially these different
+[07:36] breakdowns on different separate tasks
+[07:39] of your overall project, like having it
+[07:42] first focus on the project scaffolding
+[07:44] as well as the database setup or the
+[07:46] authentication, the agent management.
+[07:48] These are individual tickets that have
+[07:50] been fully created and broken down even
+[07:53] further. So, you can truly see why
+[07:55] Tracer is one of the ideal spec-driven
+[07:58] workflows that's out there. You can also
+[08:00] create multiple specs for different
+[08:02] projects and attributes that you want to
+[08:04] add to your overall app or whatever
+[08:06] you're trying to develop. Now, what you
+[08:08] can also do is refine your
+[08:10] implementation plan even further. You
+[08:12] can work with it to tell it that there's
+[08:14] certain things that I want to improve
+[08:15] upon. And what you can even do is you
+[08:18] can hand it off to another agent. You
+[08:21] can have, obviously, Tracer work upon
+[08:23] it, but you also have the ability to use
+[08:25] free tiers like Gemini C Lite, for
+[08:27] example, to execute upon this task or
+[08:30] another coding agent like Kilocode,
+[08:32] which offers $25 worth of free credits.
+[08:35] You have different avenues as to how you
+[08:37] can have your specs that been generated
+[08:40] by Tracer to execute. But in our case,
+[08:43] we are focusing on Bart mode. This is
+[08:46] where now with this new mode enabled, it
+[08:48] will automatically implement on epic
+[08:50] using your coding agents. You can steer
+[08:53] agents by updating the tickets or your
+[08:55] tech stack. But what's going to
+[08:57] essentially happen is that it is going
+[08:59] to be able to autonomously and
+[09:01] intelligently work upon executing all of
+[09:04] these different specs, writing code,
+[09:06] executing the tasks intelligently, and
+[09:09] coordinating everything in the
+[09:10] background. And once everything looks
+[09:12] good, what you can do is just use the
+[09:14] {slash} execute command. And this is
+[09:16] where it is now going to intelligently
+[09:19] execute everything, not blindly, but
+[09:22] working with each of the different
+[09:24] separate agents to work on each batch
+[09:27] where it actually reviews the output,
+[09:30] checks it against the specs again and
+[09:32] again and again, and then updates the
+[09:34] plan if needed. And you can see right
+[09:36] away, it is using the intelligent tool
+[09:39] calling system to read, obviously, the
+[09:41] overall specification, reading all of
+[09:44] the individual tickets, and then it is
+[09:46] going to reason upon it before it works
+[09:49] on outputting any code. And you can see
+[09:51] that it is now starting on the execution
+[09:54] where it is going to build out the
+[09:55] dashboard. And this is where I'm using
+[09:57] Claude code specifically to help me out
+[10:00] with this task. Now, you'll notice that
+[10:02] with any other AI specification
+[10:05] workflow, most of them typically
+[10:07] nowadays run in loops where it's going
+[10:09] to retry tasks over and over again
+[10:12] without any real awareness. But, what
+[10:14] you'll notice with this is that it'll
+[10:17] actually understand the progress and
+[10:19] adapt as it builds through all of the
+[10:22] specification list. So, in theory, after
+[10:24] approving the epic or the specification
+[10:27] that it has intelligently compiled, what
+[10:30] you can now do is just simply start epic
+[10:32] with the execute command and literally
+[10:34] code crap coffee while it runs the
+[10:36] entire thing. And then afterwards, you
+[10:38] can come back with a fully developed
+[10:40] product that has been autonomously
+[10:42] curated to be refined and intelligently
+[10:45] constructed based off of your initial
+[10:47] prompt.
+[10:48] What's also really nice is that Tracer
+[10:50] will also run the reviewer with this
+[10:52] spec-driven workflow where it is going
+[10:55] to make sure that it will find any
+[10:57] issues if there are any. It is something
+[10:59] that will allow you to hand off to a
+[11:01] separate agent to execute. And that is
+[11:04] something that the Bart mode will
+[11:06] autonomously solve if needed. And just
+[11:09] like that, our agent manager dashboard
+[11:11] has been fully generated with
+[11:13] authentication. And you can see that I
+[11:16] can simply go ahead and give it a mock
+[11:18] name. Let's just give it something like
+[11:20] this. And then we can give it a random
+[11:22] password and then sign in. Obviously,
+[11:24] it's not connected to any proper
+[11:25] authentication system. But, the fact
+[11:27] that it was able to create the auth the
+[11:30] workflow for it as well as having API
+[11:34] integration set, which is remarkable.
+[11:36] This is a beautiful dashboard where we
+[11:38] can actually create an agent, give it a
+[11:40] function as well as a description,
+[11:43] choosing what model to use. And this
+[11:45] way, we can actually deploy the agent
+[11:47] and have it executed on our local host.
+[11:50] All of this was fully configured and
+[11:52] built thanks to Tracer's new Bart mode,
+[11:55] which is able to intelligently
+[11:57] orchestrate any tools needed to have a
+[12:00] functional dashboard created. But, in
+[12:02] conclusion, Tracer's new Bart mode, an
+[12:05] AI orchestrator that builds entire
+[12:07] features for you, running tasks in
+[12:09] parallel, adapting as it goes, and
+[12:12] verifying on its own is one of the ideal
+[12:15] ways to use spec-driven workflows. So,
+[12:17] instead of babysitting agents, you can
+[12:19] start with an epic, walk away, and as
+[12:22] you saw, you can come back with
+[12:23] completed results. And you saw that I
+[12:25] was able to do this quite easily, and
+[12:27] it's something that you can even get
+[12:28] started with completely for free. So, I
+[12:30] highly recommend that you take a look at
+[12:32] this with the links in the description
+[12:33] below. But, with that thought, guys,
+[12:35] thank you guys so much for watching. I
+[12:36] hope you enjoyed today's video and got
+[12:38] some sort of value. Make sure you go
+[12:39] ahead and take a look at our second
+[12:41] channel. Join the newsletter. Join the
+[12:43] Discord. Follow me on Twitter. Lastly,
+[12:45] make sure you guys subscribe, turn on
+[12:46] the notification bell, like this video,
+[12:48] and please take a look at our previous
+[12:49] videos so that you can stay up-to-date
+[12:51] with the latest AI news. But, with that
+[12:52] thought, guys, have an amazing day.
+[12:54] Spread positivity, and I'll see you guys
+[12:56] for a little shortly. Peace out, fellas.

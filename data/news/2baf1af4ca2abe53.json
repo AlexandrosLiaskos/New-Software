@@ -1,0 +1,43 @@
+{
+  "uid": "2baf1af4ca2abe53",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "Figure AI Helix-02 humanoid fleet runs autonomous 8-hour warehouse shift",
+  "summary": "Figure AI demonstrated a fleet of humanoid robots completing an autonomous 8-hour warehouse shift powered by the Helix-02 neural network. All inference runs on board, and the robots coordinate, autonomously swap batteries and self-route to maintenance without human intervention.",
+  "source_video_uid": "c409e51ed299fa7e",
+  "source_video_id": "xK8Xom50e1k",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:51",
+  "links": [
+    "https://www.figure.ai/news/helix-02"
+  ],
+  "tags": [
+    "figure-ai",
+    "robotics",
+    "helix",
+    "humanoid"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.figure.ai/news/helix-02",
+    "web_findings": [
+      {
+        "title": "Introducing Helix 02: Full-Body Autonomy",
+        "url": "https://www.figure.ai/news/helix-02",
+        "snippet": "Unified neural network for walking, manipulation, balance and coordination with onboard sensors and full-body control."
+      },
+      {
+        "title": "Figure AI's humanoid completes 8-hour warehouse shift using Helix-02",
+        "url": "https://www.newsbytesapp.com/news/science/figure-ais-humanoid-completes-8-hour-warehouse-shift-using-helix-02-ai/tldr",
+        "snippet": "Helix-02 humanoids approach human-level package handling speed in live demo."
+      },
+      {
+        "title": "Figure AI Robot Sorts 100,000 Packages in 81 Hours",
+        "url": "https://en.sedaily.com/international/2026/05/17/figure-ai-robot-sorts-100000-packages-in-81-hours-without",
+        "snippet": "Subsequent runs extended endurance well past initial 8-hour goal."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,440 @@
+[00:00] It has truly been another wild week in
+[00:02] the AI space with so many new model
+[00:05] drops, new AI labs emerging, and so many
+[00:08] new powerful tools launching. GPT 5.5
+[00:11] just released 5 days ago, and we're
+[00:14] already seeing hints of GPT 5.6 arriving
+[00:17] next month alongside the new GPT 5.5 CEX
+[00:21] model. At the same time, Gemini seems to
+[00:24] be the only major lab that hasn't
+[00:26] dropped a flagship model recently cuz we
+[00:28] all know OpenAI and Enthropic had just
+[00:31] launched their flagship models. But
+[00:33] Google hasn't seemed to be dropping
+[00:35] anything. This is because Google is
+[00:38] preparing to launch Gemini 3.5 at the
+[00:40] developer conference in just 21 days.
+[00:43] We're also seeing two incredible new
+[00:45] models that are emerging from new AI
+[00:47] labs, including Xiaomi and Poolside AI,
+[00:51] outperforming models like Opus, Quen,
+[00:54] and many others in certain coding and
+[00:56] reasoning task while being open- source.
+[00:59] On top of that, we're seeing massive
+[01:01] updates to Claude Code and its pricing
+[01:03] plans that have caused major backlash
+[01:05] and debate across the community. Then we
+[01:08] also have Miniax M3 appearing to be
+[01:11] arriving much sooner than expected. And
+[01:14] there's a lot more happening across the
+[01:15] industry. So with that thought, let's
+[01:17] dive into it all. If you want the best
+[01:20] AI tools, workflows, and drops before
+[01:22] everyone else, join my free newsletter
+[01:25] with the link in the description below,
+[01:26] which is completely free. Let's start
+[01:28] with Open AI because they dropped what I
+[01:32] personally think is the best AI model
+[01:34] right now with the GPT 5.5, even
+[01:36] surpassing Opus 4.7 and many workflows.
+[01:40] But what's even crazier is that Open AI
+[01:43] already seems to be testing out GPT 5.6
+[01:46] internally. Some internal codec routing
+[01:48] logs had showed most requests going
+[01:51] through GPT 5.5, but one rollout entry
+[01:54] referenced the GPT 5.6. Now, I don't
+[01:57] actually think that the GPT 5.6 is
+[02:00] replacing 5.5 anytime soon. We could see
+[02:03] it maybe near the end of next month
+[02:05] because they do release new model
+[02:06] updates every single month recently. But
+[02:09] overall, it looks like a controlled
+[02:11] evolve test rather than a public
+[02:13] rollout. But considering how fast Open
+[02:15] AI is moving right now, I wouldn't be
+[02:17] surprised if GPT 5.6 already is being
+[02:20] tested in production and should be
+[02:23] coming out within the next month. Not
+[02:25] just that, but a new open AI model flag
+[02:28] also appeared in backend logs showing
+[02:30] the new GPT 5.5 C codeex model slug
+[02:33] which was discovered by legit API on X.
+[02:36] Usually Codeex variants tend to launch
+[02:38] shortly after the official base model in
+[02:41] new OpenAI series releases. So this
+[02:43] strongly suggests that open AI could be
+[02:46] preparing to launch a dedicated GBT 5.5
+[02:49] Codex model within the next few weeks
+[02:51] which is obviously going to be more
+[02:52] focused on coding and agentic workflows.
+[02:55] Now this might be a reach but OpenAI
+[02:56] even teased the upcoming Codex model
+[02:58] themselves after posting a funny teaser
+[03:00] of a dog pressing a keyboard.
+[03:04] If you ever tried setting up AI agents
+[03:07] or tools like OpenClaw, you know the
+[03:09] hardest part isn't the AI, it's the
+[03:11] setup, servers, and all the technical
+[03:13] overhead. But today's video sponsor,
+[03:16] Hostinger, completely removes that. With
+[03:18] a one-click open claw deployment using
+[03:21] my link in the description below or my
+[03:23] code, World of AI10, you can launch a
+[03:26] fully working AI assistant in seconds.
+[03:29] No VPS setups, no manual configuration.
+[03:32] Everything is ready out of the box. What
+[03:34] I like about this is that it's not just
+[03:36] simple. It's actually built for real use
+[03:39] case. You get pre-integrated AI credits,
+[03:42] built-in web scraping, and you can
+[03:44] instantly connect your agent to
+[03:45] platforms like WhatsApp, Telegram,
+[03:47] Slack, or Discord. Everything runs in
+[03:50] your own private environment, so your
+[03:52] data and conversations stay fully under
+[03:54] your control. And compared to running
+[03:56] this yourself or using multiple tools,
+[03:59] it's significantly cheaper and way
+[04:01] faster to get started. If you're trying
+[04:03] to build AI agents, automate workflows,
+[04:06] or just experiment without wasting hours
+[04:08] on setup, this is easily the fastest way
+[04:11] to do it. Check out the link in the
+[04:12] description below and use my code for
+[04:14] 10% off to get started. Moving forward
+[04:17] to Google, we have all been waiting for
+[04:19] a new major Gemini model, and it looks
+[04:22] like we may finally be seeing a new one
+[04:25] at Google IO, their developer
+[04:27] conference. But something really
+[04:28] interesting happened this week when a
+[04:30] fellow AI YouTuber, Matthew Berman, had
+[04:33] interviewed the CEO of Google Cloud on a
+[04:35] podcast. And during the conversation,
+[04:38] the cloud CEO stated something pretty
+[04:40] interesting. Just take a listen.
+[04:42] >> We have a new version of Gemini coming
+[04:43] very, very soon. and from all the
+[04:46] benchmarks we've seen, we've been very
+[04:48] confident on that as well.
+[04:49] >> Now, throughout the podcast, he also
+[04:51] mentioned that Google feels extremely
+[04:53] confident based on the internal
+[04:55] benchmarks they've seen so far. Matthew,
+[04:57] the YouTuber, was specifically asking
+[04:59] about a massive 10 trillion scale model.
+[05:02] So, now the big question is whether
+[05:04] we're about to see Gemini 3.5 or maybe
+[05:07] even an early Gemini 4 announcement at
+[05:10] the conference.
+[05:12] Something else related to Google is that
+[05:14] within the Gemini app itself, it has
+[05:17] gained the ability to actually generate
+[05:19] and send files, making it feel much more
+[05:22] similar to Claude. It also appears to
+[05:24] have its own sandbox execution
+[05:26] environment now that can perform tasks,
+[05:28] generate outputs, and package files
+[05:30] directly inside the app, which is
+[05:32] another major step towards more fully
+[05:35] agentic AI systems. Next up is a story
+[05:38] that is pretty crazy because we all
+[05:40] remember the coding agent Root Code
+[05:43] which is a fork of client which is now
+[05:45] officially shutting down after reaching
+[05:47] over 3 million installs. This is to go
+[05:50] allin on their new cloud agent called
+[05:52] Rumote. This now leaves Kilo Code as one
+[05:56] of the last major independent AI coding
+[05:58] tools that isn't directly owned by a
+[06:01] massive AI model app. And honestly, that
+[06:04] matters a lot right now because AI
+[06:06] coding is becoming an industry that is
+[06:09] rapidly consolidating. Open AI has
+[06:12] codeex, Enthropic has cloud code, Google
+[06:14] is pushing Gemini powered tooling, and
+[06:16] more companies are vertically
+[06:18] integrating their AI models directly
+[06:20] into their coding ecosystems. We even
+[06:23] seen SpaceX actually acquire Cursor,
+[06:26] which is incredible on its own. This is
+[06:29] why I support companies like Kiloode,
+[06:31] which is open-source, which is heavily
+[06:33] pushing the idea of model freedom,
+[06:35] meaning developers can actually be able
+[06:37] to choose whichever AI model works best
+[06:40] instead of being locked into one
+[06:42] company's ecosystem. They also recently
+[06:45] had rebuilt their VS code extension,
+[06:47] which is completely free to access on
+[06:49] top of their new open code server
+[06:51] architecture, which adds features like
+[06:53] parallel agent execution. You have sub
+[06:55] agent delegation, agent managers, shared
+[06:58] sessions between the CLI and the IDE and
+[07:01] much more. So while root code is
+[07:04] shutting down, it is definitely a major
+[07:06] shift in AI coding. It also shows how
+[07:09] competitive and consolidated this entire
+[07:12] market is becoming and I'm just so
+[07:14] appreciative of Kilo Code for always
+[07:16] sticking around and innovating
+[07:18] throughout the coding space. Next up is
+[07:20] the tech giant Xiaomi which is getting
+[07:22] into the AI space. Now, you probably
+[07:24] might have noticed their previous
+[07:26] models, but recently they dropped a
+[07:28] seriously underrated new open-source
+[07:30] model called the Mimo version 2.5 Pro.
+[07:33] And honestly, this thing looks
+[07:34] incredibly competitive, where in my test
+[07:37] yesterday in my video, I found it to be
+[07:39] better than Quen 3.6 Plus as well as
+[07:42] Deep Seek version 4 in many tasks. The
+[07:44] entire model family is now fully open
+[07:46] source under the MIT license, meaning
+[07:49] developers can commercially deploy,
+[07:51] fine-tune, and continue training the
+[07:53] model without needing extra
+[07:54] authorization. Now, the flagship MIMO
+[07:57] version 2.5 Pro is a massive 1 trillion
+[08:00] parameter model with 42 billion active
+[08:03] parameters and a hybrid architecture and
+[08:06] a full 1 million token context window.
+[08:09] Xiaomi also claims that the model is
+[08:11] heavily optimized for complex coding. It
+[08:13] is also something that excels at long
+[08:15] horizon workflows and advanced reasoning
+[08:18] tasks. And according to their
+[08:19] benchmarks, it ranks extremely close to
+[08:22] or even above models like Claude Opus
+[08:24] 4.6 in certain tasks, Gemini 3.1 Pro,
+[08:28] and the GPT 5.4 in certain Agentic
+[08:30] evaluations. Now, the Mac OS clone that
+[08:33] I had generated with this model was
+[08:35] exceptional cuz it did quite well with
+[08:38] all of the components I had requested
+[08:40] like the SVG icons, all of the
+[08:43] applications where it even generated a
+[08:45] fullon Minecraft clone within my Mac OS
+[08:48] operating system that it cloned. And you
+[08:51] can see that it did exceptionally well
+[08:53] with all the SVG icons for the
+[08:55] application. Each application was
+[08:57] thoroughly coded out like the finder,
+[08:59] the Safari and many of these other
+[09:01] applications. And interestingly, the
+[09:03] MIMO version 2.5 on Arena is ranked
+[09:06] number 11 in code arena for front-end
+[09:09] design. And it is top three amongst
+[09:12] open- source model, which is quite
+[09:14] incredible. And you can see that this
+[09:16] tiny open source model is able to be
+[09:18] comparable to these proprietary giants
+[09:20] as well as these big open-source firms.
+[09:23] Not just that, another huge release came
+[09:25] from a new AI lab. And I was expecting a
+[09:29] new AI lab to emerge this year. And this
+[09:31] is where poolside AI, a new emerging
+[09:34] open-source lab, just released their
+[09:36] first openweight model called the Laguna
+[09:40] XS2.
+[09:41] And this is a 33 billion parameter
+[09:43] mixture of experts model with 3 billion
+[09:46] active parameters. And it's specifically
+[09:48] designed for aentic coding and long
+[09:50] horizon workflows. But what makes this
+[09:53] especially impressive is that the entire
+[09:55] model was reportedly trained fully
+[09:57] inhouse on poolside's own infrastructure
+[10:00] stack that can run on a single GPU which
+[10:03] is insane and it is being released under
+[10:05] the Apache 2.0 license. We're now
+[10:08] starting to see major trends where newer
+[10:10] AI labs are focusing less on chatbot
+[10:13] style models and more on highly
+[10:15] optimized coding and autonomous agent
+[10:18] systems. And Laguna is another example
+[10:21] of that shift happening in real time.
+[10:23] Next up is where Claude Code has gotten
+[10:26] a new update where you can directly
+[10:28] connect creative tools professionals
+[10:30] already use. One of the biggest
+[10:32] additions this week is the new Blender
+[10:34] connector which allows Claw to connect
+[10:36] directly with Blender for things like
+[10:38] debugging scenes, building custom tools,
+[10:41] automating workflows, and batch applying
+[10:43] changes across entire projects. Not just
+[10:46] that, Enthropic also introduced a new
+[10:48] Autodesk Fusion connector which allows
+[10:51] cloud to directly interact with Autodesk
+[10:53] Fusion. So designers and engineers can
+[10:56] connect, modify, and iterate on 3D
+[10:58] models entirely through natural
+[11:00] conversation. But they have enabled many
+[11:03] other creative tools like Adobe where
+[11:06] that you can essentially enable users to
+[11:08] bring images, videos and designs to life
+[11:10] with claude code or Canva. And you can
+[11:13] see that there is a lineup of new tools
+[11:15] that have been added to Cloud Code. Now,
+[11:18] something simple that has been added to
+[11:19] Cloud Code is the ability to send push
+[11:22] notifications to your phone where it has
+[11:24] the ability to send these messages when
+[11:27] a long task finishes or Claude needs
+[11:29] your input. You can walk away from your
+[11:31] terminal and this is where Claude will
+[11:33] tell you when it's actually completed or
+[11:35] not. Claude Code also received a ton of
+[11:38] quality of life improvements this week.
+[11:40] Large coding sessions can now
+[11:42] significantly be faster with the
+[11:43] slashres feature. This is where it has
+[11:46] reportedly become up to 67% faster on
+[11:50] massive 40 MB plus transcripts alongside
+[11:53] better recovery from crashes and removed
+[11:55] limits on branching sections. Enthropic
+[11:58] also fixed a pretty big new bug which is
+[12:02] pretty annoying for authenticating
+[12:03] users. This is an issue that many had
+[12:06] including the random please run/lo.
+[12:09] It's a prompt that many users were
+[12:11] getting mid task and now it has been
+[12:13] resolved so that you can stay logged in
+[12:15] forever. Memory usage has been also
+[12:18] something that many people have been
+[12:20] talking about and now the startup
+[12:22] performance were improved through this
+[12:24] week especially on Linux systems where
+[12:27] background tasks were slowly consuming
+[12:29] RAM while MCP servers can now connect
+[12:31] concurrently for much faster launches.
+[12:34] What they've also done is reduced hangs
+[12:36] and crashes across the platform, which
+[12:39] is fixing issues with huge web pages,
+[12:42] proxy responses, and parallel API
+[12:44] request race conditions. And finally,
+[12:47] they have improved basic usability
+[12:49] features like paste handling, scrolling
+[12:51] behavior, full screen navigation, and
+[12:53] terminal resizing, which honestly sounds
+[12:56] minor, but makes a massive difference
+[12:58] when you're spending hours inside Cloud
+[13:00] Code every day. Next up is with Nvidia,
+[13:03] which just released a brand new open
+[13:05] multimodal model called Nvidia Neatron 3
+[13:08] Nano Omni. This is a 30 billion
+[13:11] parameter hybrid Mamba Transformer model
+[13:14] and it's built specifically for
+[13:16] multimodal agentic workflows and I got
+[13:18] to say it's pretty incredible cuz it's
+[13:21] capable of handling text, images,
+[13:23] videos, audio, documents, and charts all
+[13:26] within a single unified system. And this
+[13:29] is something that could be deployed
+[13:30] locally if you do have the consumer
+[13:32] grade requirements. Nvidia is heavily
+[13:34] focusing on efficiency here because it's
+[13:37] claiming to be up to 9.2 times higher in
+[13:40] terms of system efficiency for video
+[13:42] workloads and 7.4 times better for
+[13:45] efficient multi-document tasks compared
+[13:47] to similar open multimodal models. The
+[13:50] model supports 256K context window and
+[13:53] is optimized for Nvidia's hardware
+[13:55] ranging from the RTX5090
+[13:58] all the way to the DGX and enterprise
+[14:01] systems. But what's notable is that
+[14:03] Nvidia has fully open sourced this
+[14:05] model, including the weights, data sets,
+[14:08] and training recipes, allowing
+[14:10] developers and enterprise users to
+[14:12] fine-tune and deploy their own
+[14:14] specialized multimodal agents both
+[14:16] locally and in the cloud. Huge props to
+[14:18] Nvidia for this release. I definitely
+[14:20] will be using this locally whenever I
+[14:22] get a chance. What's cool is that the
+[14:24] Deep Seek team is officially extending
+[14:26] the massive discount for the new
+[14:28] Deepseek version 4 Pro until May 31st
+[14:31] with the API still being up to 75% off
+[14:35] for developers. Deepseek also pushed
+[14:37] several integration updates this week,
+[14:40] including support for a full 1 million
+[14:42] token context window directly inside CLA
+[14:45] code using the Deepseek version 4 Pro
+[14:47] with the 1 million model tag alongside
+[14:50] the compatibility update for Open Code
+[14:53] and Open Claw. Honestly, one thing you
+[14:56] have to give DBC credit for is how
+[14:58] aggressively they're pushing
+[15:00] accessibility and pricing. Even though I
+[15:02] personally still think models like Opus
+[15:04] and GPC 5.5 feel stronger overall in
+[15:08] many real world workflows, Deepc
+[15:10] continues to dominate when it comes to
+[15:12] cost efficiency, huge context windows,
+[15:15] and making frontier level capabilities
+[15:17] available to far more developers. So,
+[15:20] huge props to the Deep Seek team. Next
+[15:22] up is where Mistral AI today was stating
+[15:25] that they are releasing something big
+[15:27] today and people have already started
+[15:29] scouring the backend logs where they
+[15:32] have found a new model called Mistral
+[15:34] medium which is starting to appear
+[15:36] online in many different throughout
+[15:38] rebuilds. What's interesting is that the
+[15:40] Mistral small was internally labeled as
+[15:43] the 119 billion parameter model while
+[15:46] the upcoming medium variant is rumored
+[15:48] to be around 128 billion parameters.
+[15:51] That raises some big questions about the
+[15:53] architecture because this could either
+[15:55] be a fully dense model or much less
+[15:58] sparse designed compared to the Mistl
+[16:01] small. Either way, it's definitely going
+[16:02] to look like Mistl is getting ready to
+[16:04] jump back into the frontier model race
+[16:06] again very soon. And lastly, ending
+[16:08] things off with something both
+[16:10] fascinating and slightly dystopian.
+[16:12] China has already started gradually
+[16:15] replacing human cashiers with fully
+[16:17] automated robotic systems in certain
+[16:19] stores and retail environments. We've
+[16:22] already seen selfch checkckout system
+[16:23] for years like what Amazon has been
+[16:26] doing throughout many states in America.
+[16:28] But now we're moving towards actual AI
+[16:31] powered robotic retail workers handling
+[16:33] customer interactions, payments,
+[16:35] checkouts, the whole process in real
+[16:38] time. The speed at which robotics and AI
+[16:41] are merging together right now is
+[16:43] honestly something that we should
+[16:45] definitely be keeping an eye out for. If
+[16:47] you like this video and would love to
+[16:49] support the channel, you can consider
+[16:51] donating to my channel through the super
+[16:53] thanks option below. Or you can consider
+[16:56] joining our private Discord where you
+[16:58] can access multiple subscriptions to
+[17:00] different AI tools for free on a monthly
+[17:02] basis, plus daily AI news and exclusive
+[17:05] content, plus a lot more. But what an
+[17:08] incredible AI week. I'm going to be
+[17:10] making more of these videos oftenly. So
+[17:12] definitely go ahead and subscribe to the
+[17:14] YouTube channel. Make sure you also take
+[17:15] a look at our second channel where we're
+[17:17] also posting news on a daily basis. Join
+[17:20] the newsletter, join the Discord, follow
+[17:22] me on Twitter. But with that thought,
+[17:23] guys, thank you guys so much for
+[17:24] watching. Have an amazing day. Spread
+[17:26] positivity and I'll see you guys really
+[17:27] shortly. He suffers.

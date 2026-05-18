@@ -1,0 +1,27 @@
+{
+  "uid": "2da1afa0e2ccefd5",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "xAI launches Grok 4.3 API and Imagine Agent creative mode",
+  "summary": "xAI made Grok 4.3 available through the API and rolled out Imagine Agent mode, a unified creative workspace inside Imagine for brainstorming, writing, image generation and editing, and image-to-video conversion.",
+  "source_video_uid": "9142929c94ea1f28",
+  "source_video_id": "BN7N6FvfKi0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:24",
+  "links": [
+    "https://x.ai/",
+    "https://grok.x.ai/"
+  ],
+  "tags": [
+    "xai",
+    "grok",
+    "imagine",
+    "multimodal"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Release described in transcript; confirm via xAI's official channels."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

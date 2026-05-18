@@ -1,0 +1,35 @@
+{
+  "uid": "b11453e5881553a1",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "tool",
+  "title": "AionUi: open-source Cowork desktop app for 20+ AI CLIs",
+  "summary": "AionUi (referred to in the video as 'ION UI') is a free, local, open-source Cowork desktop application that hosts AI agents such as Hermes Agent, Claude Code, Codex, Gemini CLI and others. It auto-detects locally installed CLIs and stores all data in a local SQLite database.",
+  "source_video_uid": "459e150ef430cf52",
+  "source_video_id": "dLk2Imx-0uk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:48",
+  "links": [
+    "https://github.com/iOfficeAI/AionUi",
+    "https://www.aionui.com"
+  ],
+  "tags": [
+    "aionui",
+    "cowork",
+    "agent",
+    "open-source",
+    "desktop"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/iOfficeAI/AionUi",
+    "homepage": "https://www.aionui.com",
+    "stars": 25531,
+    "forks": 2341,
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI",
+    "notes": "Built with Electron + React; runs on macOS, Windows and Linux. Often presented as a free alternative to Claude Cowork."
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

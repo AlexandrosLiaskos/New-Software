@@ -1,0 +1,26 @@
+{
+  "uid": "bd5e38176fe37579",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "GPT 5.5 'Spud' reportedly in A/B testing inside ChatGPT",
+  "summary": "OpenAI's next mid-cycle model, referred to as GPT 5.5 and codenamed 'Spud', is reported to be A/B tested inside ChatGPT. Early demos highlight gains in speed, token efficiency, reasoning, SVG and 3D generation, and front-end coding. Polymarket positioning suggests imminent release.",
+  "source_video_uid": "3526c61459aa938c",
+  "source_video_id": "F1POR_pzsew",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "03:00",
+  "links": [
+    "https://chatgpt.com/"
+  ],
+  "tags": [
+    "openai",
+    "gpt",
+    "model",
+    "leak"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Pre-release A/B leak; model name and timing not confirmed by OpenAI."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

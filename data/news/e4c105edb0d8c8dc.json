@@ -1,0 +1,26 @@
+{
+  "uid": "e4c105edb0d8c8dc",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "Anthropic Claude Code weekly limits increased 50 percent",
+  "summary": "Anthropic announced a 50 percent increase to Claude Code weekly limits through 13 July for all Pro, Max, Team and seat-based Enterprise users, stacking on a recent 2x increase to five-hour limits. Concurrently, SDKs, GitHub Actions and third-party autonomous agents were moved into a separate paid API credit system, drawing sharp community backlash.",
+  "source_video_uid": "c409e51ed299fa7e",
+  "source_video_id": "xK8Xom50e1k",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:27",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "pricing",
+    "rate-limits"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Transcript attributes ongoing compute shortage as cause; mentions a SpaceX compute borrowing partnership which is unverified."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

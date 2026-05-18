@@ -1,0 +1,279 @@
+[00:00] If you do not know by now, Open AI is
+[00:02] planning on releasing their internal
+[00:04] code name model Spud, aka the GPT 5.5
+[00:08] model this week. And I got to say, Open
+[00:11] AI might actually be back because this
+[00:13] new model is insanely good. Recently,
+[00:16] Open AI has been AB testing their new
+[00:19] model inside ChatGPT, and there's a
+[00:21] small chance you might get one of the
+[00:23] checkpoints that basically represent the
+[00:25] GPT 5.5. Right now, one that a lot of
+[00:29] people have been getting access to is
+[00:31] the Crest Pro Alpha, and this is a
+[00:33] checkpoint that could represent the GPT
+[00:35] 5.5 Pro model, and it should be
+[00:38] available within ChatGPT today. And
+[00:41] overall, for my personal test, these
+[00:43] models feel noticeably different,
+[00:45] faster, better outputs, stronger
+[00:48] reasoning, better problem-solving, and
+[00:50] just way more capable with complete
+[00:52] tasks like SVG, image style generations,
+[00:55] and agentic workflows. Honestly, I feel
+[00:58] it to be a bit better than the Opus 4.7
+[01:00] at times. Now, most likely, we should
+[01:03] see the GPT 5.5 base model as well as
+[01:06] the GPT 5.5 Pro model with extended
+[01:08] thinking. Spud is basically the 5.5, and
+[01:12] I personally believe that it's going to
+[01:13] be significantly better, obviously, than
+[01:15] the 5.4, but the way to think about it
+[01:18] is that it is like a half-cooked version
+[01:20] of GPT 6, which is basically Spud at
+[01:23] full potential. It's just way more token
+[01:26] efficient, and from what I've seen from
+[01:28] my test as well, it also feels like it
+[01:30] has higher tokens per second, so
+[01:33] responses are not just only better, but
+[01:35] noticeably faster, too. And you'll
+[01:37] notice that when you're using it within
+[01:38] the GPT web app. So, you're kind of
+[01:41] getting this weird combo of better
+[01:42] reasoning plus lower cost plus faster
+[01:45] output with this new model, which is
+[01:47] honestly a massive jump compared to what
+[01:49] we've had before. Cuz you'll notice that
+[01:51] when you are to prompt it for any
+[01:54] front-end related task, it's able to
+[01:56] generate beautiful front-ends,
+[01:57] especially if you're providing images to
+[02:00] code out based off of whatever prompt
+[02:02] that you give it. Like in these demos,
+[02:04] you'll see how proficient the model is
+[02:07] in terms of outputting beautiful code
+[02:09] based off of the image that you had
+[02:11] provided or reference, and it's able to
+[02:14] accurately generate these different
+[02:16] sorts of landing pages with different
+[02:18] sorts of dynamic movements,
+[02:19] typographies, as well as different
+[02:22] attributes that make this model a lot
+[02:24] better in terms of its front-end quality
+[02:26] based off of what we had previously seen
+[02:29] with the GPT 5.4. For example, just take
+[02:32] a look at this Windows OS that I had
+[02:34] created with the GPT 5.5 Pro, and this
+[02:38] is exceptional, guys. Now, if I'm to
+[02:40] double-click, it'll take me into my
+[02:42] Windows 11 browser-based OS, and this is
+[02:45] something that is exceptionally
+[02:47] generated, cuz you can see that all the
+[02:49] SVG icons of all the different
+[02:51] applications have been thoroughly
+[02:53] generated, and this definitely depicts
+[02:55] what a Windows operating system Now, not
+[02:58] everything has been coded out due to the
+[03:00] context, but you can still see that
+[03:02] everything else has been generated
+[03:04] thoroughly, accurately to what a Windows
+[03:07] operating system looks like. Like
+[03:08] Microsoft Edge, you have the notepad,
+[03:11] you also have paint, which is cool to
+[03:12] see, as well as settings. And this is
+[03:15] definitely a great basic generation that
+[03:18] we have gotten from the GPT 5.5, but
+[03:21] still, the fact that it generated all of
+[03:23] these SVGs accurately is really nice to
+[03:26] see. Let's take a look at this Minecraft
+[03:28] clone that it had generated. The fact
+[03:30] that we have gotten a super cloned
+[03:33] version of Minecraft is insane, cuz this
+[03:36] is something that added different
+[03:38] textures, thanks to the 5.5 generating
+[03:41] all the different attributes owning
+[03:43] Minecraft, and you can see that it even
+[03:46] created an inventory. You have the
+[03:47] ability to break blocks, and there's an
+[03:49] animation for it. And one thing I really
+[03:52] like is that it added all the dynamic
+[03:54] movements of Minecraft. The sandbox game
+[03:56] has been thoroughly cloned. You have
+[03:58] infinite terrain. You also have water
+[04:01] that was generated accurately. Now,
+[04:03] obviously the game physics for the water
+[04:05] isn't properly generated in a single
+[04:07] shot generation. But the fact that you
+[04:09] have all these other attributes that
+[04:11] have been added to this Minecraft clone
+[04:13] is great. Like the ability to break
+[04:15] different blocks, you have different
+[04:17] ores, you have different cave systems
+[04:19] that have been generated with this
+[04:20] clone. So, it's really nice to see that
+[04:22] it was capable of doing this.
+[04:24] Next is a demo where it is showcasing
+[04:27] the model's capability in 3.js. And you
+[04:29] can see how good this model is at
+[04:31] real-world rendering tasks. Someone
+[04:33] literally generated Monica's apartment
+[04:35] from Friends, and the level of details
+[04:38] just wasn't possible before cuz in this
+[04:40] case it's able to fully generate a
+[04:42] proper layout. Objects even have
+[04:45] lighting that has been added to to this
+[04:47] 3D environment. And it actually feels
+[04:49] like a real 3.js project. That's the
+[04:51] real difference now. It's not just
+[04:53] generating code cuz it can understand
+[04:55] how 3D environments are structured,
+[04:57] which is insane that an AI model is
+[04:59] capable of doing this. Before you would
+[05:01] get something pretty broken or basic.
+[05:03] Now it's clean, usable, and way more
+[05:06] complete right off the gate. And I like
+[05:08] how fast it is with these generations
+[05:10] cuz you're basically just five coding
+[05:12] full 3.js scenes and barely using any
+[05:15] efforts. I'm not going to lie, I hate
+[05:17] these tacky UI components that OpenAI
+[05:20] models generate with the glassmorphism
+[05:22] generation of these different
+[05:24] components. If you want the best AI
+[05:26] tools, workflows, and drops before
+[05:28] everyone else, join my free newsletter
+[05:31] with the link in the description below,
+[05:32] which is completely free. Next is a
+[05:34] solar system visualization that was
+[05:36] fully coded out with 3.js. I have never
+[05:39] seen this level of detail for a full
+[05:41] solar system that was built. Cuz for
+[05:44] example, you can see all the moons for
+[05:46] each individual planet. You even have
+[05:48] the asteroid belt that was generated and
+[05:51] you can even see the scale that actually
+[05:54] feels accurate. The lighting from the
+[05:56] sun looks natural. Even the planetary
+[05:58] motion feels smooth and realistic, not
+[06:01] just static spheres floating around. So,
+[06:03] you can tell that it understands things
+[06:06] like space sync or orbit paths or how to
+[06:08] structure a full 3D scene instead of
+[06:11] just throwing objects together. It uses
+[06:13] reasoning to generate everything
+[06:15] properly. And that is something that you
+[06:17] will notice with this model. It is a lot
+[06:19] more intelligent and it's capable of
+[06:22] generating everything properly when it
+[06:24] is working on any user task. Not just
+[06:27] that, GPT 5.5 Pro is also really good at
+[06:30] low poly 3D generations, especially with
+[06:33] 3js. It's not just basic shapes either
+[06:35] cuz it understands the composition.
+[06:38] Colors is obviously going to be
+[06:39] generated, but the scene layout and
+[06:42] everything about these generations will
+[06:44] give you more life and more creativity
+[06:47] when you have it prompt on generating
+[06:49] something with freedom. Everything
+[06:51] actually looks clean and intentional,
+[06:53] which is something that I've noticed
+[06:55] with these new models.
+[06:56] Here is a flight simulator in 3js that
+[06:59] was generated by the GPT 5.5 and this is
+[07:02] definitely nice to see, but I still
+[07:04] believe that the Opus 4.7 had done a
+[07:06] better job with this generation. But
+[07:08] still nice to see that it was able to
+[07:10] generate all the components correctly.
+[07:12] Here is another flight simulator that
+[07:14] was generated with the 5.5 and I got to
+[07:17] say this one looks a lot better than the
+[07:19] previous one. You have different
+[07:21] environments that you can actually fly
+[07:23] your plane in like the Grand Canyon,
+[07:25] Swiss Alps, Everest, and Manhattan. What
+[07:28] you'll notice is that with stuff like
+[07:29] 3js, it's not just building what you
+[07:31] asked for. It's almost like it's
+[07:33] directing the scenes for you. Before you
+[07:35] had to micromanage everything when
+[07:37] you're working with 3js, but now it
+[07:39] looks like that the model is thinking
+[07:41] with you and it's pushing the idea
+[07:43] further with these different
+[07:44] generations. The model's SVG generation
+[07:47] is truly incredible. This is where it
+[07:49] was requested to create an Xbox
+[07:51] controller in SVG, and just take a look
+[07:54] at the quality of output. Everything
+[07:56] truly depicts what an Xbox controller
+[07:58] looks like. You have, obviously, all the
+[08:01] buttons that have been added, as well as
+[08:03] the main structure of the Xbox
+[08:05] controller. Obviously, it could be
+[08:06] worked upon further, but the fact that
+[08:08] it did get an SVG generation of an Xbox
+[08:11] controller to be accurately depicted is
+[08:14] great to see. Here is another SVG for
+[08:17] something that represents a cat, and you
+[08:19] can see that it was able to accurately
+[08:21] generate a lot of different features of
+[08:23] a cat. You have its feet, its tail, its
+[08:27] eyes, as well as its whiskers, and you
+[08:29] can see that it can actually understand
+[08:31] composition and symmetry quite well, and
+[08:33] it's able to output it in SVG really
+[08:35] well, as well. And you saw that with my
+[08:37] Windows uh clone or my operating system
+[08:39] that I generated, the SVG icons that
+[08:41] were accurately depicted, and it is
+[08:44] something that did a great job with
+[08:45] those generations. Here is an Xbox 360
+[08:49] ASCII art, and this is a super
+[08:51] incredible demo, cuz it's able to
+[08:53] generate clean ASCII style visuals of
+[08:56] something like an iconic Xbox 360
+[08:58] controller. It's not 100% accurate, but
+[09:01] the fact that you got a good image, as
+[09:04] well as a good reference as to what an
+[09:06] Xbox controller looks like, the spacing,
+[09:08] the structure, the symmetry, all of them
+[09:11] all of these components have been
+[09:12] surprisingly accurately generated. If
+[09:15] you like this video and would love to
+[09:17] support the channel, you can consider
+[09:19] donating to my channel through the Super
+[09:21] Thanks option below. Or you can consider
+[09:23] joining our private Discord, where you
+[09:25] can access multiple subscriptions to
+[09:27] different AI tools for free on a monthly
+[09:29] basis, plus daily AI news and exclusive
+[09:32] content, plus a lot more.
+[09:35] But that's about it, guys, for today's
+[09:36] video on the new GPT 5.5 leaks. I will
+[09:39] definitely keep you posted if it does
+[09:41] end up dropping on Tuesday or either
+[09:43] Thursday, as those are the two days that
+[09:45] OpenAI tends to drop models. But I'm
+[09:48] pretty sure that they will be dropping
+[09:50] within those two days, and I highly,
+[09:52] highly, highly recommend that you stay
+[09:54] tuned by subscribing, obviously, to the
+[09:56] second channel as well as the main
+[09:57] channel, staying tuned on our
+[10:00] newsletter, as well as following us on
+[10:02] Twitter for the latest AI news and
+[10:04] updates. Make sure you also go ahead and
+[10:07] join the Discord. And lastly, make sure
+[10:09] you guys follow me on the YouTube page
+[10:11] by subscribing, turning on the
+[10:12] notification bell, liking this video,
+[10:13] and please take a look at our previous
+[10:15] videos so that you can stay up-to-date
+[10:16] with the latest AI news. But with that
+[10:18] thought, guys, have an amazing day.
+[10:20] Spread positivity. Thank you, Elon. And
+[10:22] lastly, hope you have an amazing day,
+[10:24] and I'll see you guys fairly shortly.
+[10:25] Peace out, fellas.

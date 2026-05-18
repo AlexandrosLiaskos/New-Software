@@ -1,0 +1,25 @@
+{
+  "uid": "c9ce32882390536f",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Anthropic roadmap: infinite context and long-horizon reasoning",
+  "summary": "Anthropic outlined three focus areas for its next-generation models: higher engineering judgment and code taste, an effectively infinite context window, and multi-agent coordination with persistent long-horizon reasoning. No release date or model name was confirmed.",
+  "source_video_uid": "7a7f7bd43d75b8d9",
+  "source_video_id": "xXLjeP_AyOg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "01:46",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "roadmap"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Forward-looking roadmap statements. The 'Mythos architecture' and 'Claude 5' framing is speculative."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,28 @@
+{
+  "uid": "75920ed2fef9f5b6",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "release",
+  "title": "Hermes Agent ships Kanban board for multi-agent orchestration",
+  "summary": "Hermes Agent has updated its built-in Kanban to support unlimited boards and projects, with subscriptions to project updates routed through the Nous Tool Gateway messenger. The board provides a workspace for orchestrating multiple agents across to-do, in-progress and done states, complementing the new /goal command for long-running autonomous objectives.",
+  "source_video_uid": "0ee06f9eb5ba9b81",
+  "source_video_id": "Gx2joHxUhgg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "06:53",
+  "links": [
+    "https://github.com/NousResearch/hermes-agent"
+  ],
+  "tags": [
+    "hermes-agent",
+    "kanban",
+    "multi-agent",
+    "orchestration",
+    "nous-research"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "notes": "Kanban initialised via 'hermes kanban' commands; pairs with /goal command for autonomous objective mode similar to Codex and Claude Code."
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,36 @@
+{
+  "uid": "a4c71cd53fda119b",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "release",
+  "title": "OpenAI Codex app adds Browser Use plugin",
+  "summary": "OpenAI ships a Browser Use plugin inside the Codex desktop app, allowing the GPT-5.5 backed agent to operate the in-app browser to click through rendered UIs, inspect console and network logs, and verify fixes locally.",
+  "source_video_uid": "447fee0a72a9da2a",
+  "source_video_id": "Du34BzfVRas",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:53",
+  "links": [
+    "https://developers.openai.com/codex/app",
+    "https://developers.openai.com/codex/changelog"
+  ],
+  "tags": [
+    "openai",
+    "codex",
+    "browser-use",
+    "agent",
+    "plugin"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://developers.openai.com/codex/app",
+    "notes": "Documented in the official Codex changelog. Browser Use is bundled as a Codex plugin.",
+    "web_findings": [
+      {
+        "title": "Changelog – Codex | OpenAI Developers",
+        "url": "https://developers.openai.com/codex/changelog",
+        "snippet": "The Codex app can now operate the in-app browser through the bundled Browser plugin."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

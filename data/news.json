@@ -1,5 +1,3259 @@
 [
   {
+    "uid": "055c89c25ee46286",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "xAI Grok adds connectors for email, slides, Notion and calendar",
+    "summary": "xAI expanded Grok's connector support so the assistant can fetch emails, import presentations, organise Notion workspaces, manage calendars and interact with external productivity tools directly inside the chat interface.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "10:20",
+    "links": [
+      "https://x.ai/"
+    ],
+    "tags": [
+      "xai",
+      "grok",
+      "connectors",
+      "productivity"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Feature set described in transcript; not separately verified."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "077debe4be097163",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Anthropic financial dataset MCP connectors for Claude Code",
+    "summary": "Anthropic added financial dataset connectors via MCP servers for Claude and Claude Code, providing access to over 17,000 stocks, company fundamentals and earnings reports directly inside coding workflows. The integration targets market analysis, trading strategies and balance-sheet research from the terminal.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "07:50",
+    "links": [
+      "https://docs.financialdatasets.ai/mcp-server",
+      "https://www.anthropic.com/news/claude-for-financial-services"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "mcp",
+      "finance"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/news/claude-for-financial-services",
+      "web_findings": [
+        {
+          "title": "MCP Server - Financial Datasets",
+          "url": "https://docs.financialdatasets.ai/mcp-server",
+          "snippet": "MCP exposes income statements, balance sheets, cash flow, prices and news to Claude and other LLMs."
+        },
+        {
+          "title": "Claude for Financial Services",
+          "url": "https://www.anthropic.com/news/claude-for-financial-services",
+          "snippet": "Anthropic finance-focused agents and connectors for Claude."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "14df782198c656b6",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Poolside AI releases Laguna XS.2 open-weight 33B MoE coding model",
+    "summary": "Poolside AI, a newly emerging open-source lab, released Laguna XS.2, a 33-billion-parameter mixture-of-experts model with three billion active parameters, trained on Poolside's own infrastructure. The model is designed for agentic coding and long-horizon workflows and is licensed under Apache 2.0.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:23",
+    "links": [
+      "https://poolside.ai/blog/introducing-laguna-xs2-m1"
+    ],
+    "tags": [
+      "poolside",
+      "laguna",
+      "open-source",
+      "coding",
+      "moe"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://poolside.ai/models",
+      "license": "Apache-2.0",
+      "web_findings": [
+        {
+          "title": "Introducing Laguna XS.2 and Laguna M.1",
+          "url": "https://poolside.ai/blog/introducing-laguna-xs2-m1",
+          "snippet": "Apache 2.0 33B MoE with 3B active; positioned as Poolside's first open-weight release."
+        },
+        {
+          "title": "Poolside Laguna XS.2 SWE-bench score",
+          "url": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
+          "snippet": "XS.2 reaches 68.2 percent on SWE-bench Verified."
+        },
+        {
+          "title": "VentureBeat coverage",
+          "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+          "snippet": "Free, locally-runnable agentic coding model."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "24e96bf826b37ab1",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Google Gemini Notebooks workspace for files and project tracking",
+    "summary": "Google is pushing Gemini Notebooks, an AI-native workspace that consolidates files, notes, requirements and drafts in one container. A demonstrated workflow uses one notebook to manage an entire graduate-school application with deadline tracking, transcripts and progress.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:34",
+    "links": [
+      "https://notebooklm.google/"
+    ],
+    "tags": [
+      "google",
+      "gemini",
+      "notebooklm",
+      "workspace"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Update of NotebookLM-style product; transcript-sourced."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "260378703ec04de5",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Google tests Gemini 3.2 Pro and Flash variants ahead of I/O",
+    "summary": "Multiple Gemini 3.2 checkpoints (variants code-named Sprite and Cola) are being rapidly tested by Google through internal platforms ahead of Google I/O. Early outputs show solid SVG generation but front-end quality is described as less impressive than the prior Gemini 3 line.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:42",
+    "links": [
+      "https://blog.google/technology/google-deepmind/"
+    ],
+    "tags": [
+      "google",
+      "gemini",
+      "model",
+      "preview"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Pre-release internal testing leak. Public release expected around Google I/O (transcript suggests by May 22)."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "2baf1af4ca2abe53",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "Figure AI Helix-02 humanoid fleet runs autonomous 8-hour warehouse shift",
+    "summary": "Figure AI demonstrated a fleet of humanoid robots completing an autonomous 8-hour warehouse shift powered by the Helix-02 neural network. All inference runs on board, and the robots coordinate, autonomously swap batteries and self-route to maintenance without human intervention.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:51",
+    "links": [
+      "https://www.figure.ai/news/helix-02"
+    ],
+    "tags": [
+      "figure-ai",
+      "robotics",
+      "helix",
+      "humanoid"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.figure.ai/news/helix-02",
+      "web_findings": [
+        {
+          "title": "Introducing Helix 02: Full-Body Autonomy",
+          "url": "https://www.figure.ai/news/helix-02",
+          "snippet": "Unified neural network for walking, manipulation, balance and coordination with onboard sensors and full-body control."
+        },
+        {
+          "title": "Figure AI's humanoid completes 8-hour warehouse shift using Helix-02",
+          "url": "https://www.newsbytesapp.com/news/science/figure-ais-humanoid-completes-8-hour-warehouse-shift-using-helix-02-ai/tldr",
+          "snippet": "Helix-02 humanoids approach human-level package handling speed in live demo."
+        },
+        {
+          "title": "Figure AI Robot Sorts 100,000 Packages in 81 Hours",
+          "url": "https://en.sedaily.com/international/2026/05/17/figure-ai-robot-sorts-100000-packages-in-81-hours-without",
+          "snippet": "Subsequent runs extended endurance well past initial 8-hour goal."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "3280c7dee59c6bff",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Nvidia Nemotron 3 Nano Omni multimodal open model",
+    "summary": "Nvidia released Nemotron 3 Nano Omni, a 30-billion-parameter hybrid Mamba-Transformer multimodal model with mixture-of-experts that handles text, images, video, audio, documents and charts. Nvidia claims up to 9.2x higher efficiency on video workloads versus comparable open models and ships open weights, datasets and training recipes.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "13:00",
+    "links": [
+      "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
+    ],
+    "tags": [
+      "nvidia",
+      "nemotron",
+      "multimodal",
+      "open-source",
+      "mamba"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "web_findings": [
+        {
+          "title": "NVIDIA Launches Nemotron 3 Nano Omni Model",
+          "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+          "snippet": "Unified vision, audio and language model for up to 9x more efficient AI agents."
+        },
+        {
+          "title": "Nemotron 3 Nano Omni technical details",
+          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model/",
+          "snippet": "30B params, ~3B active, 23 Mamba layers, 23 MoE layers (128 experts), 6 GQA attention layers."
+        },
+        {
+          "title": "Available on SageMaker JumpStart and partner platforms",
+          "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/",
+          "snippet": "Distributed across Hugging Face, OpenRouter, SageMaker JumpStart, Vultr and 25+ partners."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "3535839ef36c93f8",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Moonshot Kimi K2.6 open-source long-horizon coding model",
+    "summary": "Moonshot AI released Kimi K2.6, an open-source coding model designed for long-horizon execution that can manage 12+ hour autonomous sessions, 4,000+ tool calls per run, up to 300 parallel agents and a 256K context window. Pricing is $0.95/$4 per million input/output tokens (16 cents on cache hits), with weights on Hugging Face.",
+    "source_video_uid": "6995226273c5c797",
+    "source_video_id": "_9zecUHs21c",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:00",
+    "links": [
+      "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+      "https://kimi.com/"
+    ],
+    "tags": [
+      "moonshot",
+      "kimi",
+      "open-source",
+      "coding",
+      "agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://kimi.com/",
+      "web_findings": [
+        {
+          "title": "Kimi K2.6 explained",
+          "url": "https://miraflow.ai/blog/kimi-k2-6-explained-moonshot-ai-open-source-model-ties-gpt-5-5-coding",
+          "snippet": "Open-source model approaching GPT-5.5 on coding; April 2026 release."
+        },
+        {
+          "title": "Meet Kimi K2.6",
+          "url": "https://kingy.ai/ai/meet-kimi-k2-6-moonshot-ais-open-source-bet-on-long-horizon-agentic-coding/",
+          "snippet": "Long-horizon agentic coding focus."
+        },
+        {
+          "title": "Kimi K2 Thinking on Hugging Face",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+          "snippet": "Predecessor reasoning model in the K2 family."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "396b50d866a2d2f4",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Mistral Medium model surfaces in backend logs at ~128B parameters",
+    "summary": "Mistral AI signalled a major release and a new model named Mistral Medium has been appearing across backend rebuilds. Internal labels put Mistral Small at about 119 billion parameters and the upcoming Medium variant at around 128 billion, raising questions about whether it is dense or less sparse than the Small variant.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "15:22",
+    "links": [
+      "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B"
+    ],
+    "tags": [
+      "mistral",
+      "model",
+      "pre-release"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+      "web_findings": [
+        {
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "snippet": "Released 29 April 2026, 128B dense multimodal model with 256K context."
+        },
+        {
+          "title": "Mistral Medium 3.5 review",
+          "url": "https://nerdleveltech.com/mistral-medium-3-5-open-weight-128b-frontier-coder",
+          "snippet": "Replaces Devstral 2 and Magistral; scores 77.6 percent on SWE-Bench Verified."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "3f465eb8ca1910b9",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "OpenAI GPT-5.6 internal checkpoints Ember Alpha and Beacon Alpha",
+    "summary": "OpenAI is reportedly testing internal GPT-5.6 checkpoints under the codenames Ember Alpha and Beacon Alpha, with a possible public release around mid-June. Sources point to a longer red-teaming and safety evaluation cycle than for prior 2025 releases.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "05:22",
+    "links": [],
+    "tags": [
+      "openai",
+      "gpt-5.6",
+      "model",
+      "pre-release"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Internal testing reports from credible developers on X; no formal OpenAI announcement."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "40c572f9620ce8ec",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Xiaomi MiMo V2.5 Pro open-source MoE model with 1T parameters",
+    "summary": "Xiaomi released MiMo V2.5 Pro, a one-trillion-parameter mixture-of-experts model with 42 billion active parameters, hybrid attention architecture and a one-million-token context window. The model is MIT-licensed and reportedly matches Claude Opus 4.6 and Gemini 3.1 Pro on certain coding and agentic benchmarks.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "07:20",
+    "links": [
+      "https://mimo.xiaomi.com/mimo-v2-5-pro/"
+    ],
+    "tags": [
+      "xiaomi",
+      "mimo",
+      "open-source",
+      "moe",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+      "license": "MIT",
+      "web_findings": [
+        {
+          "title": "Xiaomi Releases MiMo-V2.5-Pro",
+          "url": "https://rits.shanghai.nyu.edu/ai/xiaomi-releases-mimo-v2-5-pro-1t-parameter-open-moe-matches-frontier-coding-models/",
+          "snippet": "1.02T params, 42B active, hybrid-attention, 1M context."
+        },
+        {
+          "title": "MiMo V2.5 Pro coding benchmarks",
+          "url": "https://firethering.com/mimo-v2-5-pro-xiaomi-coding-model/",
+          "snippet": "Roughly 57.2 percent on SWE-bench Pro, neighbourhood of Claude Opus 4.6."
+        },
+        {
+          "title": "VentureBeat: open-source MiMo on agentic tasks",
+          "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+          "snippet": "Strong token efficiency on agentic coding benchmarks."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "426d169123f6514c",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "tool",
+    "title": "Google Anti-Gravity used for automated coding environment setup",
+    "summary": "Anti-Gravity, Google's coding environment, is used in the tutorial to autonomously set up the local proxy, scripts and Claude Code launcher files for a hybrid DeepSeek plus Claude workflow from a single natural-language prompt.",
+    "source_video_uid": "bb62d02d4b4ddfa3",
+    "source_video_id": "EibhUi-FnTs",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:09",
+    "links": [
+      "https://antigravity.google/"
+    ],
+    "tags": [
+      "google",
+      "anti-gravity",
+      "coding-environment",
+      "tool"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Used as a setup tool in the tutorial; described as Google account-backed free tier."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4309f476cdf097c1",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Codex runs inside Chrome on macOS and Windows",
+    "summary": "OpenAI upgraded Codex browser capabilities so it now operates directly inside Chrome on macOS and Windows. The agent can manipulate web applications, migrate data and act across multiple background tabs without taking over the browser session.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:30",
+    "links": [
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "browser",
+      "chrome"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Feature described in transcript; no formal release post cited."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4a7d54b521af954a",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "Google Cloud CEO confirms a new Gemini version coming very soon",
+    "summary": "In a podcast interview, the Google Cloud CEO said a new version of Gemini is coming very soon and that internal benchmarks make Google confident in its performance. The transcript speculates Gemini 3.5 or an early Gemini 4 could be announced at Google I/O 21 days later.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:17",
+    "links": [
+      "https://blog.google/"
+    ],
+    "tags": [
+      "google",
+      "gemini",
+      "pre-release"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Source: Matthew Berman podcast interview cited in transcript."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4d2bae6d585d2c85",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Kimi K2.6 agent modes including agent swarms for parallel execution",
+    "summary": "Kimi K2.6 ships with four specialised modes inside the Kimi chatbot: Instant for quick responses, Thinking for deep research, Agent for specialised tools such as slides, websites and stocks, and Agent Swarms which deploys multiple agents in parallel for long-horizon tasks. The Kimi CLI, OpenRouter and Kilo Code are listed as integration paths.",
+    "source_video_uid": "6995226273c5c797",
+    "source_video_id": "_9zecUHs21c",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:47",
+    "links": [
+      "https://kimi.com/"
+    ],
+    "tags": [
+      "moonshot",
+      "kimi",
+      "agent-swarms",
+      "tool"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Mode set is described in transcript and demonstrated in walkthrough."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "52115a49dce1ba9e",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "OpenAI GPT-5.6 and GPT-5.5 Codex variant spotted in backend logs",
+    "summary": "Internal Codex routing logs reference a GPT-5.6 rollout entry, and a separate model slug for a GPT-5.5 Codex variant was discovered in OpenAI backend logs. Both suggest dedicated coding and successor models are being prepared within weeks.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:42",
+    "links": [],
+    "tags": [
+      "openai",
+      "gpt-5.5",
+      "gpt-5.6",
+      "codex",
+      "model"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Discovered via API logs reported by legit API on X; no OpenAI announcement."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "53fb0e006f43c1cf",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "DeepSeek V4 frontier open-source model under MIT license",
+    "summary": "DeepSeek V4 is a frontier-level open-source model released under the MIT license, supporting a one-million-token context window. The transcript frames it as roughly 76 percent cheaper than GPT-5.5 and Opus 4.7 on input/output tokens and well-suited to long-horizon agent workflows, tool calling and algorithmic coding.",
+    "source_video_uid": "bb62d02d4b4ddfa3",
+    "source_video_id": "EibhUi-FnTs",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:02",
+    "links": [
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "https://api-docs.deepseek.com/news/news260424"
+    ],
+    "tags": [
+      "deepseek",
+      "model",
+      "open-source",
+      "coding"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "license": "MIT",
+      "web_findings": [
+        {
+          "title": "DeepSeek V4 Preview Release",
+          "url": "https://api-docs.deepseek.com/news/news260424",
+          "snippet": "V4-Pro 1.6T params (49B active) and V4-Flash 284B params (13B active), both with 1M context, MIT licensed."
+        },
+        {
+          "title": "DeepSeek V4 review",
+          "url": "https://www.mindstudio.ai/blog/deepseek-v4-open-source-frontier-model-review",
+          "snippet": "Around 91.2 percent on SWE-Bench Verified, 10-13x cheaper per output token than GPT-5.5 or Opus 4.7."
+        },
+        {
+          "title": "DeepSeek V4 in Kilo Code",
+          "url": "https://kilo.ai/landing/deepseek-v4",
+          "snippet": "1M context default across DeepSeek services."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5a2edfb19027424d",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "DeepSeek V4 Pro extends discount and adds 1M context inside Claude Code",
+    "summary": "The DeepSeek team extended a 75 percent API discount for DeepSeek V4 Pro through 31 May and shipped a one-million-token context window directly inside Claude Code via the deepseek-v4-pro-1m model tag, along with compatibility updates for Open Code and OpenClaw.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "14:24",
+    "links": [
+      "https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code"
+    ],
+    "tags": [
+      "deepseek",
+      "claude-code",
+      "context-window",
+      "pricing"
+    ],
+    "research_status": "researched",
+    "research": {
+      "web_findings": [
+        {
+          "title": "Integrate with Claude Code | DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/quick_start/agent_integrations/claude_code",
+          "snippet": "Set ANTHROPIC_BASE_URL to https://api.deepseek.com/anthropic; DeepSeek as Anthropic-compatible backend."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5ffed07daf3a22ca",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "Roo Code shuts down VS Code extension and pivots to Roomote cloud agent",
+    "summary": "Roo Code, a Cline fork with over three million installs, announced the shutdown of its VS Code extension, cloud service and router to focus on Roomote, a new cloud-based autonomous coding agent. The transcript frames it as part of broader consolidation in AI coding tools.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "05:38",
+    "links": [
+      "https://thenewstack.io/roo-code-cloud-ides-ai-coding/"
+    ],
+    "tags": [
+      "roo-code",
+      "roomote",
+      "vscode",
+      "shutdown",
+      "agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "web_findings": [
+        {
+          "title": "Roo Code pivots to cloud-based agent",
+          "url": "https://thenewstack.io/roo-code-cloud-ides-ai-coding/",
+          "snippet": "Roo Code shuts on 15 May 2026; team goes all-in on Roomote."
+        },
+        {
+          "title": "Thank you, Roo!",
+          "url": "https://blog.kilo.ai/p/thank-you-roo",
+          "snippet": "Kilo Code positions itself as migration target."
+        },
+        {
+          "title": "Roomote pricing",
+          "url": "https://www.roborhythms.com/roo-code-vs-roomote/",
+          "snippet": "Roomote billed at $20/month plus $5 per agent-hour, accessible via web, Slack or GitHub."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "60a8d2feacebc54e",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "OpenAI Codex super app teaser and slash goal feature",
+    "summary": "OpenAI posted a teaser hinting at a Codex super app that merges ChatGPT, Codex, browsing, voice agents, remote control and computer use into a unified desktop experience. A new slash goal feature was also surfaced, giving Codex an end-state target it iterates toward, with users reporting multi-day autonomous runs on arc-AGI-style tasks.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:55",
+    "links": [
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "agent",
+      "ide"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Teaser plus internal-feature reporting; slash goal hidden under /experiment."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "69aff7d574a0ca5c",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "repo",
+    "title": "claude-code-router proxy routes Claude Code to DeepSeek and other backends",
+    "summary": "The tutorial demonstrates a local Anthropic-compatible proxy that routes Claude Code traffic to providers including DeepSeek, OpenRouter, NVIDIA NIM, LM Studio and Ollama. It enables a hybrid workflow in which DeepSeek V4 handles scaffolding and basic tasks while Claude Opus 4.7 handles complex UI and high-stakes code.",
+    "source_video_uid": "bb62d02d4b4ddfa3",
+    "source_video_id": "EibhUi-FnTs",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:39",
+    "links": [
+      "https://github.com/musistudio/claude-code-router"
+    ],
+    "tags": [
+      "claude-code",
+      "proxy",
+      "deepseek",
+      "open-source",
+      "tool"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/musistudio/claude-code-router",
+      "homepage": "https://musistudio.github.io/claude-code-router/",
+      "stars": 34111,
+      "forks": 2779,
+      "language": "TypeScript",
+      "license": "MIT",
+      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "6c1679b6ac0dd94c",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Leaked Gemini Omni video generation model surfaces online",
+    "summary": "Early generations of Google's unreleased Gemini Omni multimodal video model have leaked, with users speculating it may be Veo 4. Demonstrations show heavy scene modification while preserving motion and structure, and aggressive cleanup behaviour during edits.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:46",
+    "links": [],
+    "tags": [
+      "google",
+      "gemini",
+      "video-generation",
+      "leak"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Unofficial leak; no Google announcement at time of transcript."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "8aaa278692df9995",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Claude Code quality-of-life update: faster sessions, push notifications, MCP concurrency",
+    "summary": "Claude Code received a quality-of-life update including push notifications when long tasks finish or input is needed, a /res-style feature reportedly up to 67 percent faster on 40+ MB transcripts, a fix for the recurring re-login prompt, lower memory usage on Linux, concurrent MCP server connection on startup, and various paste, scroll and resize improvements.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "11:18",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "update",
+      "performance"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Compilation of changelog items as described in transcript."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "a5d07af4df9a314e",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "Google Jules opens wait list for major update",
+    "summary": "Google Jules is preparing a major update and has opened a wait list for early access. A headline feature is continuous background execution so tasks keep running after a user closes their laptop. The wait list is widely linked to a successor project.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:07",
+    "links": [
+      "https://jules.google/"
+    ],
+    "tags": [
+      "google",
+      "jules",
+      "coding-agent",
+      "waitlist"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://jules.google/",
+      "web_findings": [
+        {
+          "title": "Jules - An Autonomous Coding Agent",
+          "url": "https://jules.google/",
+          "snippet": "Public beta, async coding agent that runs tasks in remote VMs."
+        },
+        {
+          "title": "Project Jitro waitlist",
+          "url": "https://developers.googleblog.com/",
+          "snippet": "Successor product Project Jitro reportedly tied to the new wait list, with Google I/O 2026 cited as likely announcement window."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "bbf6e6c737faa7b0",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Claude Code adds Blender, Autodesk Fusion and creative tool connectors",
+    "summary": "Anthropic added connectors that let Claude Code interact with Blender, Autodesk Fusion, Canva, Adobe and other creative tools. The Fusion connector exposes text-to-CAD style workflows, while the Blender connector enables scene debugging and batch script generation through the Blender Python API.",
+    "source_video_uid": "4d0c1c6f11bce0e9",
+    "source_video_id": "3TIL611HgvE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "10:23",
+    "links": [
+      "https://www.anthropic.com/news/claude-for-creative-work"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "blender",
+      "autodesk",
+      "mcp"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/news/claude-for-creative-work",
+      "web_findings": [
+        {
+          "title": "Claude for CAD arrives with Blender and Autodesk Fusion connectors",
+          "url": "https://develop3d.com/ai/claude-for-cad-blender-autodesk-fusion/",
+          "snippet": "Nine connectors released on 28 April 2026."
+        },
+        {
+          "title": "Claude for Creative Work",
+          "url": "https://www.anthropic.com/news/claude-for-creative-work",
+          "snippet": "Connector suite for 3D, design and creative workflows."
+        },
+        {
+          "title": "Anthropic connectors enter Adobe, Blender, SketchUp",
+          "url": "https://aitoolsbee.com/news/claude-connectors-enter-nine-apps-including-adobe-blender-sketchup/",
+          "snippet": "Built on Model Context Protocol; accessible from other LLMs as well."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "d9713822e1f9c15d",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Anthropic Claude Code fast mode research preview",
+    "summary": "Anthropic released a Fast Mode for Claude Code in research preview, allowing Opus 4.6 and 4.7 to respond up to 2.5x faster via a higher-speed API configuration. Model quality is unchanged; latency is reduced at increased token cost.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:46",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "opus",
+      "fast-mode"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Research preview, transcript-sourced."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "dd3d148236809fe9",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "Baidu releases ERNIE 5.1 mixture-of-experts model",
+    "summary": "Baidu released ERNIE 5.1, a mixture-of-experts model trained at approximately 6 percent of the pre-training cost of comparable frontier models. It surpasses DeepSeek V4 Pro on benchmarks including τ³-bench and SpreadsheetBench-Verified and approaches Gemini 3.1 Pro on reasoning.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:42",
+    "links": [
+      "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/"
+    ],
+    "tags": [
+      "baidu",
+      "ernie",
+      "model",
+      "moe"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+      "web_findings": [
+        {
+          "title": "ERNIE 5.1 Officially Released",
+          "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/",
+          "snippet": "Released 9 May 2026; ranks 4th on Arena Search globally, 1st among Chinese models with score 1,223."
+        },
+        {
+          "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs",
+          "url": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+          "snippet": "Text-only MoE with roughly half the active parameters per forward pass of ERNIE 5.0."
+        },
+        {
+          "title": "Baidu Unveils ERNIE 5.0, New AI Chips",
+          "url": "https://www.eweek.com/news/baidu-ernie-5-0-release/",
+          "snippet": "Baidu chip and model expansion."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "e4c105edb0d8c8dc",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "news",
+    "title": "Anthropic Claude Code weekly limits increased 50 percent",
+    "summary": "Anthropic announced a 50 percent increase to Claude Code weekly limits through 13 July for all Pro, Max, Team and seat-based Enterprise users, stacking on a recent 2x increase to five-hour limits. Concurrently, SDKs, GitHub Actions and third-party autonomous agents were moved into a separate paid API credit system, drawing sharp community backlash.",
+    "source_video_uid": "c409e51ed299fa7e",
+    "source_video_id": "xK8Xom50e1k",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:27",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "pricing",
+      "rate-limits"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Transcript attributes ongoing compute shortage as cause; mentions a SpaceX compute borrowing partnership which is unverified."
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "eda052350b25ebb9",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "release",
+    "title": "Anthropic Claude Design AI visual canvas in research preview",
+    "summary": "Anthropic released Claude Design, a research-preview design tool powered by Claude Opus 4.7 that generates slides, prototypes, landing pages and marketing graphics from natural-language descriptions. Outputs can be refined via chat, comments, direct edits or sliders, and exports include ZIP, PDF, standalone HTML, Canva and hand-off to Claude Code. Available to paid Claude users at launch.",
+    "source_video_uid": "abafe9ee7e5aa6b0",
+    "source_video_id": "uhQfErAzdiA",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:00",
+    "links": [
+      "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "https://support.claude.com/en/articles/14604416-get-started-with-claude-design"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-design",
+      "opus-4.7",
+      "design-tool"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "web_findings": [
+        {
+          "title": "Introducing Claude Design by Anthropic Labs",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+          "snippet": "Research-preview workspace powered by Opus 4.7 for visual prototyping; available to Pro, Max, Team and Enterprise subscribers."
+        },
+        {
+          "title": "Anthropic just launched Claude Design",
+          "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+          "snippet": "Released 17 April 2026; positioned as complement to Figma and Canva with handoff to both."
+        },
+        {
+          "title": "Get started with Claude Design",
+          "url": "https://support.claude.com/en/articles/14604416-get-started-with-claude-design",
+          "snippet": "Onboarding builds a design system from a codebase or design files."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "f7de9abc86df0ae4",
+    "created_at": "2026-05-18T10:23:19+00:00",
+    "category": "model",
+    "title": "OpenAI GPT-Realtime-2 voice model and Realtime API expansion",
+    "summary": "OpenAI launched GPT-Realtime-2, a voice model built on GPT-5-class reasoning, alongside GPT-Realtime-Translate and GPT-Realtime-Whisper. The release expands real-time voice agents with continuous-stream audio handling and a 128K context window.",
+    "source_video_uid": "292f305a188c741a",
+    "source_video_id": "t5UtgnjQST8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:56",
+    "links": [
+      "https://developers.openai.com/api/docs/models/gpt-realtime-2"
+    ],
+    "tags": [
+      "openai",
+      "voice",
+      "realtime-api",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://developers.openai.com/api/docs/models/gpt-realtime-2",
+      "web_findings": [
+        {
+          "title": "OpenAI launches GPT-Realtime-2",
+          "url": "https://thenextweb.com/news/openai-gpt-realtime-2-voice-models",
+          "snippet": "Three new voice models announced 7 May 2026; Realtime API exits beta."
+        },
+        {
+          "title": "gpt-realtime-2 Model | OpenAI API",
+          "url": "https://developers.openai.com/api/docs/models/gpt-realtime-2",
+          "snippet": "128K context, $32/$64 per million audio input/output tokens."
+        },
+        {
+          "title": "OpenAI on X announcement",
+          "url": "https://x.com/OpenAI/status/2052438196454379986",
+          "snippet": "Production-ready voice agents that handle interruptions, parallel tool calls, preambles."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:23:19+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "1b57f2f0a5f6de18",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "news",
+    "title": "Codebuff switches default routing to GLM 5.1",
+    "summary": "Codebuff (and Freebuff) have switched their default model from MiniMax M2.5 to GLM 5.1. The team reports internal eval scores rising from 68% to 83% on coding benchmarks after the swap, with reported performance comparable to Claude Opus 4.6 on common tasks.",
+    "source_video_uid": "2d0b571630cfaaba",
+    "source_video_id": "JZIf-HiutvY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:55",
+    "links": [
+      "https://codebuff.com"
+    ],
+    "tags": [
+      "codebuff",
+      "freebuff",
+      "glm-5.1",
+      "model-routing",
+      "benchmarks"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Benchmark figures (68% to 83%) are first-party Codebuff numbers reported in the video; not independently verified."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "30c7ea84a07d9d25",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Freebuff: free ad-supported AI coding agent built on Codebuff",
+    "summary": "Freebuff is a zero-config, fully free AI coding CLI built on top of the open-source Codebuff platform. It is monetised through in-terminal ads rather than subscriptions and ships with nine built-in sub-agents (file picker, code reviewer, browser use, thinker, etc.). Output runs on a custom GPU deployment that delivers up to 300 tokens per second.",
+    "source_video_uid": "2d0b571630cfaaba",
+    "source_video_id": "JZIf-HiutvY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:36",
+    "links": [
+      "https://freebuff.com/",
+      "https://github.com/CodebuffAI/codebuff/tree/main/freebuff",
+      "https://www.npmjs.com/package/freebuff"
+    ],
+    "tags": [
+      "freebuff",
+      "codebuff",
+      "ai-coding-agent",
+      "cli",
+      "ad-supported",
+      "free"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://freebuff.com/",
+      "repo_url": "https://github.com/CodebuffAI/codebuff",
+      "notes": "Distributed via npm. Built on the Codebuff multi-agent architecture; free tier supported by ads displayed in the CLI."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "34e84fff06472f1a",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "model",
+    "title": "Xiaomi releases MiMo v2.5 base native-omni model",
+    "summary": "Alongside MiMo v2.5 Pro, Xiaomi has released MiMo v2.5, the base model in the family, as a native omni model with multimodal understanding and integrated agent capabilities. Both models ship under the MIT license.",
+    "source_video_uid": "73930f3886708e27",
+    "source_video_id": "popj1l3LA-I",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:22",
+    "links": [
+      "https://mimo.xiaomi.com/"
+    ],
+    "tags": [
+      "xiaomi",
+      "mimo",
+      "mimo-v2.5",
+      "open-source",
+      "multimodal",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://mimo.xiaomi.com/",
+      "notes": "Native omni model; multimodal understanding plus agent capabilities. MIT license."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "36827e63f0cc59b0",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "tool",
+    "title": "Lightpanda headless browser integrated into Hermes Agent",
+    "summary": "Hermes Agent now integrates Lightpanda, an open-source headless browser engineered for AI and automation workloads, as a default browser backend with automatic Chrome fallback. The integration improves browser automation reliability for autonomous web tasks in Hermes.",
+    "source_video_uid": "0ee06f9eb5ba9b81",
+    "source_video_id": "Gx2joHxUhgg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:06",
+    "links": [
+      "https://github.com/lightpanda-io/browser",
+      "https://lightpanda.io"
+    ],
+    "tags": [
+      "lightpanda",
+      "headless-browser",
+      "hermes-agent",
+      "browser-automation",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/lightpanda-io/browser",
+      "homepage": "https://lightpanda.io",
+      "stars": 30384,
+      "forks": 1339,
+      "language": "Zig",
+      "license": "AGPL-3.0",
+      "description": "Lightpanda: the headless browser designed for AI and automation"
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "40448a61467bda08",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Hermes Agent adds background computer use on macOS",
+    "summary": "NousResearch's Hermes Agent has shipped an early-preview background computer-use feature powered by KUA, allowing the agent to operate apps via mouse, keyboard and screen on macOS without taking over the user's active session. The integration works with any vision-capable model (Claude, GPT, Gemini, local VLMs); Windows and Linux support is planned.",
+    "source_video_uid": "0ee06f9eb5ba9b81",
+    "source_video_id": "Gx2joHxUhgg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:04",
+    "links": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://hermes-agent.nousresearch.com"
+    ],
+    "tags": [
+      "hermes-agent",
+      "nous-research",
+      "computer-use",
+      "agent",
+      "macos",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155627,
+      "forks": 24984,
+      "language": "Python",
+      "license": "MIT",
+      "description": "The agent that grows with you",
+      "notes": "Background computer-use is an early preview feature, macOS-only at launch, powered by KUA. Works with any vision-capable LLM."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "46c9a12c92834e7e",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "model",
+    "title": "Xiaomi open-sources MiMo v2.5 Pro trillion-parameter MoE",
+    "summary": "Xiaomi has released MiMo v2.5 Pro, a roughly 1.02-trillion-parameter Mixture-of-Experts model with 42 billion active parameters, a 1 million token context window and hybrid attention. Released under the MIT license for commercial deployment, the model targets long-horizon agentic workflows and software engineering, reporting competitive scores on SWE-bench Pro, GDP-Eval and Claw-Eval versus Claude Opus 4.6, Gemini 3.1 Pro and GPT-5.4 while using 40-60% fewer tokens. API pricing is $1 per million input tokens and $3 per million output tokens.",
+    "source_video_uid": "73930f3886708e27",
+    "source_video_id": "popj1l3LA-I",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:00",
+    "links": [
+      "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+      "https://openrouter.ai/xiaomi/mimo-v2.5-pro"
+    ],
+    "tags": [
+      "xiaomi",
+      "mimo",
+      "mimo-v2.5-pro",
+      "moe",
+      "open-source",
+      "model",
+      "agentic"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://mimo.xiaomi.com/mimo-v2-5-pro/",
+      "notes": "MIT license. ~1.02T parameters / 42B active; trained FP8 across ~27T tokens. Sustains 1000+ tool calls. Released alongside the MiMo v2.5 base model (native omni). Available via MiMo Studio, OpenRouter and Kilo Code (with $25 free credits).",
+      "web_findings": [
+        {
+          "title": "Xiaomi Releases MiMo-V2.5-Pro: 1T-Parameter Open MoE",
+          "url": "https://rits.shanghai.nyu.edu/ai/xiaomi-releases-mimo-v2-5-pro-1t-parameter-open-moe-matches-frontier-coding-models/",
+          "snippet": "1T-parameter open MoE matches frontier coding models."
+        },
+        {
+          "title": "Xiaomi open-sources MiMo-V2.5 Pro under MIT license",
+          "url": "https://www.thestandard.com.hk/china/article/330592/Xiaomi-open-sources-MiMo-V25-Pro-model-under-MIT-license-topping-benchmarks",
+          "snippet": "Open-sourced under MIT license, topping benchmarks."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4e8af98575e2df1c",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "repo",
+    "title": "Codebuff: open-source terminal coding agent with multi-agent architecture",
+    "summary": "Codebuff is the open-source terminal coding agent that powers Freebuff. It coordinates specialised sub-agents around a project rather than relying on a single model, and reportedly scored 61% versus Claude Code's 53% on a 175-task internal evaluation.",
+    "source_video_uid": "2d0b571630cfaaba",
+    "source_video_id": "JZIf-HiutvY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "02:18",
+    "links": [
+      "https://github.com/CodebuffAI/codebuff",
+      "https://codebuff.com"
+    ],
+    "tags": [
+      "codebuff",
+      "ai-coding-agent",
+      "open-source",
+      "cli",
+      "multi-agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/CodebuffAI/codebuff",
+      "homepage": "https://codebuff.com",
+      "stars": 5389,
+      "forks": 629,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "Generate code from the terminal!"
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5ef66c4b66ceb34a",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "TinyFish makes Web Search and Fetch APIs free for all developers",
+    "summary": "TinyFish has made its Web Search and Web Fetch APIs free for every developer and agent, with no credit card required. Search returns structured data with sub-500 ms latency; the Browser API spins up stealth Chrome sessions in under 250 ms; an Agent API handles multi-step tasks. Free-tier limits are 5 search queries per minute and 25 fetch URLs per minute.",
+    "source_video_uid": "0ee06f9eb5ba9b81",
+    "source_video_id": "Gx2joHxUhgg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:49",
+    "links": [
+      "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+      "https://docs.tinyfish.ai/",
+      "https://agent.tinyfish.ai/sign-up"
+    ],
+    "tags": [
+      "tinyfish",
+      "web-search-api",
+      "fetch-api",
+      "browser-api",
+      "agent-infrastructure"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.tinyfish.ai",
+      "notes": "REST API, MCP server, Python/TypeScript SDKs, CLI; integrations with OpenClaw, Hermes Agent, n8n, LangChain, CrewAI.",
+      "web_findings": [
+        {
+          "title": "Search and Fetch are now FREE for every agent",
+          "url": "https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere",
+          "snippet": "TinyFish Web Search and Fetch are now free for every developer and agent."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "72a465a2ec9b6dbc",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Gemini 3.1 Flash-Lite heading to general availability on Vertex AI",
+    "summary": "Google has emailed Vertex AI customers still on Gemini Flash 2 announcing the imminent general availability of Gemini 3.1 Flash-Lite, Google's most cost-effective model. Pricing is $0.25 per million input tokens and $1.50 per million output tokens, with an Arena Elo of 1432 reported at launch.",
+    "source_video_uid": "c53290e4563472df",
+    "source_video_id": "2dayUh6KeZU",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:54",
+    "links": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/3-1-flash-lite"
+    ],
+    "tags": [
+      "gemini",
+      "gemini-3.1-flash-lite",
+      "vertex-ai",
+      "google",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "notes": "Pricing $0.25 / $1.50 per 1M input/output tokens. Available via Gemini API in Google AI Studio and Vertex AI."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "75920ed2fef9f5b6",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Hermes Agent ships Kanban board for multi-agent orchestration",
+    "summary": "Hermes Agent has updated its built-in Kanban to support unlimited boards and projects, with subscriptions to project updates routed through the Nous Tool Gateway messenger. The board provides a workspace for orchestrating multiple agents across to-do, in-progress and done states, complementing the new /goal command for long-running autonomous objectives.",
+    "source_video_uid": "0ee06f9eb5ba9b81",
+    "source_video_id": "Gx2joHxUhgg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:53",
+    "links": [
+      "https://github.com/NousResearch/hermes-agent"
+    ],
+    "tags": [
+      "hermes-agent",
+      "kanban",
+      "multi-agent",
+      "orchestration",
+      "nous-research"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "notes": "Kanban initialised via 'hermes kanban' commands; pairs with /goal command for autonomous objective mode similar to Codex and Claude Code."
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "989f6c4033710d35",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "model",
+    "title": "Anthropic releases Claude Opus 4.7",
+    "summary": "Anthropic has released Claude Opus 4.7, its most capable Opus model. SWE-bench Verified rises from 80.8% to 87.6% versus Opus 4.6 and SWE-bench Pro from 53.4% to 64.3%; MCP-Atlas reaches 77.3%, a leading score for multi-tool orchestration. Vision processes images at over three times higher resolution. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. Anthropic warns that prompts tuned for Opus 4.6 may need retuning because the new model interprets instructions more literally.",
+    "source_video_uid": "9a25b616ea2730d8",
+    "source_video_id": "lzdmb_Z-yZc",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:00",
+    "links": [
+      "https://www.anthropic.com/news/claude-opus-4-7",
+      "https://www.anthropic.com/claude/opus",
+      "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-opus-4.7",
+      "model",
+      "agentic-coding"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/claude/opus",
+      "notes": "Released 2026-04-16. Available on Claude Pro/Max/Team/Enterprise, the API, Amazon Bedrock, Vertex AI and Microsoft Foundry. First Claude model to pass Anthropic's 'implicit-need' tests. Reasoning tiers shifted up one notch (low ~ old medium, etc.). Token usage per task is higher than Opus 4.6.",
+      "web_findings": [
+        {
+          "title": "Introducing Claude Opus 4.7",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "snippet": "Most capable Opus model; major gains on SWE-bench and agentic reasoning."
+        },
+        {
+          "title": "Claude Opus 4.7 leads on SWE-bench and agentic reasoning",
+          "url": "https://thenextweb.com/news/anthropic-claude-opus-4-7-coding-agentic-benchmarks-release",
+          "snippet": "Beats GPT-5.4 and Gemini 3.1 Pro on agentic coding benchmarks."
+        },
+        {
+          "title": "Claude Opus 4.7 is generally available",
+          "url": "https://github.blog/changelog/2026-04-16-claude-opus-4-7-is-generally-available/",
+          "snippet": "GA on GitHub Copilot 2026-04-16."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "9a82e62cad3c905e",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Qwen 3.6 Plus free on Nous Portal for Hermes Agent",
+    "summary": "Alibaba's Qwen 3.6 Plus has been made available on Nous Portal and is free for a limited time for use inside Hermes Agent. The model carries a 1 million-token context window and is positioned for long-horizon agentic and web-development workflows. Nous Portal is built on top of OpenRouter and bundles 300+ models with token and paid-tool billing.",
+    "source_video_uid": "0ee06f9eb5ba9b81",
+    "source_video_id": "Gx2joHxUhgg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:42",
+    "links": [
+      "https://portal.nousresearch.com/info",
+      "https://x.com/nousresearch/status/2053876496045920601"
+    ],
+    "tags": [
+      "qwen",
+      "qwen-3.6-plus",
+      "alibaba",
+      "nous-portal",
+      "hermes-agent",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://portal.nousresearch.com/info",
+      "notes": "Nous Portal aggregates 300+ models (built on OpenRouter routing). Qwen 3.6 Plus free for limited promotional period in collaboration with Alibaba Cloud.",
+      "web_findings": [
+        {
+          "title": "Nous Research announces free Qwen 3.6 Plus on Portal",
+          "url": "https://x.com/nousresearch/status/2053876496045920601",
+          "snippet": "Qwen 3.6 Plus by Alibaba is now FREE for a limited time on Nous Portal."
+        },
+        {
+          "title": "Alibaba Cloud confirms free Qwen 3.6 Plus on Nous Portal",
+          "url": "https://x.com/alibaba_cloud/status/2054372732234797342",
+          "snippet": "Qwen 3.6 Plus is now FREE for a limited time on Nous Portal."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ab47e8f0f6ee73de",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "release",
+    "title": "Traycer launches Bart Mode for autonomous epic execution",
+    "summary": "Traycer has launched Bart Mode, an outer-loop AI orchestrator that takes an epic, breaks it into tickets and runs them as parallel agent batches, reviewing each batch against the spec and updating the plan when new information emerges. The mode is agent-agnostic and orchestrates whichever coding agent is connected (Claude Code, Cursor, Windsurf, Gemini CLI, Kilo Code). A complementary team-collaboration feature has also been rolled out.",
+    "source_video_uid": "8c4754c7480ac9e0",
+    "source_video_id": "nD24henxjT8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:42",
+    "links": [
+      "https://traycer.ai/",
+      "https://traycer.ai/blog/ralph-loops-bart-orchestrates",
+      "https://docs.traycer.ai/tasks/epic"
+    ],
+    "tags": [
+      "traycer",
+      "bart-mode",
+      "spec-driven-development",
+      "orchestrator",
+      "ai-agents"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://traycer.ai/",
+      "notes": "Bart Mode (internally 'Smart YOLO') manages a feedback loop across specs, tickets, diffs and verification results. Distinct from Ralph-style retry loops. Available via the Traycer IDE extension for Cursor, VS Code and Windsurf.",
+      "web_findings": [
+        {
+          "title": "Ralph Loops. Bart Orchestrates.",
+          "url": "https://traycer.ai/blog/ralph-loops-bart-orchestrates",
+          "snippet": "Bart is an outer-loop orchestrator that adapts the plan as code evolves."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "bd654af89252eb93",
+    "created_at": "2026-05-18T10:22:14+00:00",
+    "category": "model",
+    "title": "Updated Gemini 3 Flash candidate appears on LM Arena",
+    "summary": "An anonymous Gemini 3 Flash candidate has surfaced on LM Arena keeping the same model slug but showing markedly higher output quality, with early head-to-head tests suggesting performance close to Gemini 3.1 Pro. The build is widely interpreted as an early Gemini 3.1, 3.2 or 3.5 Flash preview ahead of Google I/O 2026.",
+    "source_video_uid": "c53290e4563472df",
+    "source_video_id": "2dayUh6KeZU",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:00",
+    "links": [
+      "https://lmarena.ai",
+      "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/"
+    ],
+    "tags": [
+      "gemini",
+      "gemini-3-flash",
+      "google",
+      "lm-arena",
+      "model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "notes": "Spotted on LM Arena under the existing Gemini 3 Flash slug; pre-release signals (leaked AI Studio metadata, app strings) point to Gemini 3.2 Flash with $0.25/M input and $2.00/M output. Expected launch window: Google I/O, May 19-20, 2026.",
+      "web_findings": [
+        {
+          "title": "Google prepares new upgrades for Gemini Flash model",
+          "url": "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/",
+          "snippet": "An anonymous Gemini Flash candidate has surfaced on LM Arena for evaluation."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:22:14+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "25009572c9393aa3",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "Claude Code /goal: persistent outcome-based execution",
+    "summary": "Anthropic added a /goal command to Claude Code that lets users define a completion condition and have Claude continue working autonomously across multiple turns until the goal is reached. Works in interactive, headless and remote sessions including Claude Code mobile.",
+    "source_video_uid": "ddb71460f4d430fe",
+    "source_video_id": "-jINRoST0mk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:59",
+    "links": [
+      "https://docs.claude.com/en/docs/claude-code"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "agent",
+      "autonomous"
+    ],
+    "research_status": "researched",
+    "research": {
+      "notes": "Mirrors OpenAI Codex's /goal feature. Distinct from time-driven /loop and stop hooks; waits for an explicit completion condition."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "2da1afa0e2ccefd5",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "xAI launches Grok 4.3 API and Imagine Agent creative mode",
+    "summary": "xAI made Grok 4.3 available through the API and rolled out Imagine Agent mode, a unified creative workspace inside Imagine for brainstorming, writing, image generation and editing, and image-to-video conversion.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:24",
+    "links": [
+      "https://x.ai/",
+      "https://grok.x.ai/"
+    ],
+    "tags": [
+      "xai",
+      "grok",
+      "imagine",
+      "multimodal"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Release described in transcript; confirm via xAI's official channels."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "447c16ba13818b2b",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "tool",
+    "title": "Twin: natural-language AI company and agent builder",
+    "summary": "Twin (twin.so) is a multi-agent platform that lets users describe a business or workflow in plain English and have an orchestrator, builder and runner construct and execute autonomous agents that hit APIs, drive browsers, and run on a schedule. Marketed as a no-code alternative to Zapier/n8n for end-to-end business automations such as lead generation, content repurposing and operations.",
+    "source_video_uid": "0ed60af6aba1e5b5",
+    "source_video_id": "mqnWsUggIk8",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:07",
+    "links": [
+      "https://twin.so/",
+      "https://docs.twin.so/welcome",
+      "https://github.com/twin-so"
+    ],
+    "tags": [
+      "twin",
+      "agents",
+      "no-code",
+      "automation"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://twin.so/",
+      "notes": "Sponsored segment, but Twin is a real product. Public launch with a $10M seed led by LocalGlobe; reports of 1M workflows automated, 100K agents deployed, 60K users. Orchestrator/builder/runner architecture with 5,000+ user-built integrations.",
+      "web_findings": [
+        {
+          "title": "Twin — The AI Company Builder",
+          "url": "https://twin.so/",
+          "snippet": "Autonomous agents that connect to any API, automate browsers, and run on schedule, all with natural language."
+        },
+        {
+          "title": "Twin Labs on GitHub",
+          "url": "https://github.com/twin-so",
+          "snippet": "Open organisation page for Twin."
+        },
+        {
+          "title": "Twin launch announcement",
+          "url": "https://twin.so/blog/launch",
+          "snippet": "Public launch with $10M seed round led by LocalGlobe."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "48e8cd010c6da9d8",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "model",
+    "title": "Gemini 3 Flash quietly upgraded in LM Arena",
+    "summary": "Google updated the Gemini 3 Flash slug in LM Arena (rebranded as Arena) with a checkpoint whose output quality is reported to approach Gemini 3.1 Pro. Google also notified Vertex AI customers that Gemini 3.1 Flash-Lite will become generally available.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:09",
+    "links": [
+      "https://lmarena.ai/",
+      "https://cloud.google.com/vertex-ai"
+    ],
+    "tags": [
+      "google",
+      "gemini",
+      "lm-arena",
+      "model"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Anonymous arena checkpoint; slug unchanged so version identification is unverified."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4e02faf2031c052f",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Grok 4.3 beta and xAI roadmap to 'Grok 5 as AGI'",
+    "summary": "xAI's Grok 4.3 beta, reported at approximately 3.5T parameters with a December 2025 knowledge cutoff, is accessible to Super Grok Heavy users. Elon Musk's stated roadmap places Grok 4.4 at 1T parameters in early May, Grok 4.5 at 1.5T parameters in late May, and Grok 5 as positioned to be AGI.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:09",
+    "links": [
+      "https://x.ai/",
+      "https://grok.x.ai/"
+    ],
+    "tags": [
+      "xai",
+      "grok",
+      "roadmap",
+      "model"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Roadmap claims attributed to Musk; AGI characterisation is subjective and undefined."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4f5572a484e1e115",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "OpenAI Codex evolves into desktop super-app with computer use",
+    "summary": "OpenAI's Codex app now provides macOS computer use (visual UI control with its own cursor for front-end iteration and apps without APIs), in-app image generation via GPT Image 1.5, and cross-session task continuation. A research preview called Chronicle gives Codex persistent memory of day-to-day work. Currently Mac-only for Pro users.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:22",
+    "links": [
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "computer-use",
+      "agent"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Features described in transcript; cross-check official OpenAI Codex release notes."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5c767ca2bd9bb95f",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Claude Jupiter codename surfaces ahead of Anthropic dev event",
+    "summary": "Strings referencing an internal Anthropic model codenamed 'Claude Jupiter version 1' were discovered, reportedly undergoing red-teaming, jailbreak testing and constitutional-classifier evaluation under Anthropic's responsible scaling policy. Speculation links it to a Sonnet 4.8 or Haiku 4.7 release at the Code with Claude conference on May 6.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:05",
+    "links": [
+      "https://www.anthropic.com/"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "leak",
+      "model"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Codename leak reported by testing-catalog; not officially confirmed by Anthropic."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "6a8a3b4b47d93b01",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "model",
+    "title": "Moonshot Kimi K2.6: open-source coding model with agent swarms",
+    "summary": "Moonshot AI released Kimi Chat 2.6 (Kimi K2.6), an open-source 1T-parameter coding model reporting state-of-the-art results on SWE-bench, BrowserComp and advanced math and vision tasks. Features include 12+ hour coding sessions, 4,000+ tool calls, 300 parallel agent swarms, multi-language multi-file generation, and pricing roughly 94% and 95% cheaper than Opus 4.6 on input and output respectively. Runs locally via MLX on dual M3 Ultra Macs.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:11",
+    "links": [
+      "https://github.com/MoonshotAI/Kimi-K2",
+      "https://www.kimi.com/blog/kimi-k2-6",
+      "https://huggingface.co/moonshotai"
+    ],
+    "tags": [
+      "moonshot",
+      "kimi",
+      "open-source",
+      "coding-model"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/MoonshotAI/Kimi-K2",
+      "stars": 10781,
+      "forks": 840,
+      "license": "NOASSERTION",
+      "description": "Kimi K2 is the large language model series developed by Moonshot AI team",
+      "homepage": "https://moonshotai.github.io/Kimi-K2/",
+      "notes": "K2.6 builds on the Kimi K2 series; weights released under a Modified MIT license per Moonshot's repository."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "6b14b005a5e9422c",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "DeepSeek V4 rumored as 1.6T-parameter MoE",
+    "summary": "Reports attributed to a Princeton AI Lab fellow describe DeepSeek V4 as a 1.6T-parameter MoE model with sparse MQA, fused MoE kernels and hyperconnections, with leaked figures around 99.4% MMLU and 83.7% SWE-bench. Requires roughly a 512 GB-class machine to run locally even quantized.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "05:10",
+    "links": [
+      "https://www.deepseek.com/"
+    ],
+    "tags": [
+      "deepseek",
+      "model",
+      "rumor",
+      "moe"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Unverified leak; benchmark numbers not independently confirmed."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "6e98d2c9851bd770",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "OpenAI Codex 'pets' overlay and migration importer",
+    "summary": "OpenAI added a /pet and /hatch command set to Codex that spawns an animated desktop companion showing live agent status (active thread, running, waiting, ready for review). A separate migration system imports settings, plugins, agents and project configurations from other tools into Codex.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:35",
+    "links": [
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "cli",
+      "ide-tooling"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Feature described in transcript; verify in official OpenAI Codex changelog."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "829b3ecc4a5f7948",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "Claude Code silent prompt compaction update",
+    "summary": "Claude Code revised its system-prompt compaction: trimming is now silent (no explicit alerts) and the compaction prompt is tuned to better preserve sensitive instructions and original user intent during long-running sessions.",
+    "source_video_uid": "ddb71460f4d430fe",
+    "source_video_id": "-jINRoST0mk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:12",
+    "links": [
+      "https://docs.claude.com/en/docs/claude-code"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "context-management"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Behaviour change described in transcript; specific release notes not located."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "835665b82d97eec9",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "GitHub Copilot Max tier appears at $99/month",
+    "summary": "A new GitHub Copilot Max subscription tier was spotted as a placeholder, priced at $99 per month, positioned as a higher-end plan aimed at power users and advanced AI workflows as part of a broader Copilot lineup revamp.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:50",
+    "links": [
+      "https://github.com/features/copilot"
+    ],
+    "tags": [
+      "github",
+      "copilot",
+      "pricing"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Pre-launch placeholder; pricing and feature set may change before GA."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "866a7e3e54dc8ac5",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Google tests new Gemini checkpoints and Colab-style agent",
+    "summary": "Newer Gemini checkpoints, possibly labelled Gemini 3.2 Pro or 3.5 Pro, are being A/B tested inside Google AI Studio ahead of Google I/O. A separate Colab-style competitor inside Gemini, currently referred to as 'agent', is reported, expected to automate Google Workspace tasks. Google has also extended subscription access inside AI Studio, raising coding limits and exposing pro models without an API key.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:48",
+    "links": [
+      "https://aistudio.google.com/"
+    ],
+    "tags": [
+      "google",
+      "gemini",
+      "ai-studio",
+      "leak"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Pre-I/O speculation; version labels and product framing not officially confirmed."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "92f62f14f490ee95",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "model",
+    "title": "Qwen 3.6 Max Preview: Alibaba's flagship agentic coding model",
+    "summary": "Alibaba released Qwen 3.6 Max Preview, a flagship preview model built on Qwen 3.6 Plus with stronger world knowledge, instruction following and agentic coding. It targets multi-step development workflows, front-end generation, visual reasoning, and browser-based visual agent tasks with a 1M token context window. Priced at $1.30 per 1M input tokens and $7.80 per 1M output tokens.",
+    "source_video_uid": "b6ee1fcbb7e4cbd2",
+    "source_video_id": "CEVSgJIYSqs",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:23",
+    "links": [
+      "https://chat.qwen.ai/",
+      "https://qwenlm.github.io/"
+    ],
+    "tags": [
+      "alibaba",
+      "qwen",
+      "model",
+      "agentic-coding"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://chat.qwen.ai/",
+      "notes": "Preview accessible via Alibaba's chatbot and API; not available through OpenRouter or Kilo at time of recording. Reported to outperform Claude 4.5 Opus and GLM 5.1 on selected benchmarks per the transcript."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ad12d6a4eac74a92",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "Claude managed agents: multi-agent orchestration and webhooks",
+    "summary": "Anthropic expanded Claude managed agents with multi-agent orchestration (lead agent delegating to parallel specialists), an outcome-loop self-evaluation system against predefined rubrics, a dreaming capability for reviewing past sessions, and webhook support for external integration.",
+    "source_video_uid": "7a7f7bd43d75b8d9",
+    "source_video_id": "xXLjeP_AyOg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "05:53",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "managed-agents",
+      "orchestration"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Capabilities described from conference talk; verify against Anthropic's official release notes when available."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "bd5e38176fe37579",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "GPT 5.5 'Spud' reportedly in A/B testing inside ChatGPT",
+    "summary": "OpenAI's next mid-cycle model, referred to as GPT 5.5 and codenamed 'Spud', is reported to be A/B tested inside ChatGPT. Early demos highlight gains in speed, token efficiency, reasoning, SVG and 3D generation, and front-end coding. Polymarket positioning suggests imminent release.",
+    "source_video_uid": "3526c61459aa938c",
+    "source_video_id": "F1POR_pzsew",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:00",
+    "links": [
+      "https://chatgpt.com/"
+    ],
+    "tags": [
+      "openai",
+      "gpt",
+      "model",
+      "leak"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Pre-release A/B leak; model name and timing not confirmed by OpenAI."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "c13f9b403cce61a5",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Claude Cardinal: in-app memory and usage analytics dashboard",
+    "summary": "A Claude feature codenamed Cardinal is reported to surface a monthly visual breakdown of user activity, conversation clusters, working styles and focus areas, exposed in a redesigned settings layout across mobile, web and desktop.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:32",
+    "links": [
+      "https://claude.ai/"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "memory",
+      "leak"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Unreleased feature observed in app strings; not officially announced."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "c9ce32882390536f",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Anthropic roadmap: infinite context and long-horizon reasoning",
+    "summary": "Anthropic outlined three focus areas for its next-generation models: higher engineering judgment and code taste, an effectively infinite context window, and multi-agent coordination with persistent long-horizon reasoning. No release date or model name was confirmed.",
+    "source_video_uid": "7a7f7bd43d75b8d9",
+    "source_video_id": "xXLjeP_AyOg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:46",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "roadmap"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Forward-looking roadmap statements. The 'Mythos architecture' and 'Claude 5' framing is speculative."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "e20cc6621502736c",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Arc-AGI 3 benchmark scores released for frontier models",
+    "summary": "New Arc-AGI 3 benchmark scores were published. Reported figures include GPT 5.5 around 0.4%, Opus 4.6 max around 0.5%, and Opus 4.7 around 0.2%, underlining that frontier models still solve only a small fraction of the benchmark.",
+    "source_video_uid": "9142929c94ea1f28",
+    "source_video_id": "BN7N6FvfKi0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "07:52",
+    "links": [
+      "https://arcprize.org/"
+    ],
+    "tags": [
+      "arc-agi",
+      "benchmark",
+      "evaluation"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Specific score values from transcript; check arcprize.org leaderboard for canonical numbers."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "e40b87a371284d0f",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "release",
+    "title": "Claude Code Agent View: unified multi-session dashboard",
+    "summary": "Anthropic launched Agent View inside Claude Code as a research preview, providing a centralized dashboard to manage multiple concurrent Claude sessions. Users can inspect sessions, reply inline to unblock agents, and dispatch parallel coding tasks. Available to Pro, Max, Team, Enterprise and Claude API plans.",
+    "source_video_uid": "ddb71460f4d430fe",
+    "source_video_id": "-jINRoST0mk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:49",
+    "links": [
+      "https://www.anthropic.com/claude-code",
+      "https://docs.claude.com/en/docs/claude-code"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "agent-view",
+      "ide-tooling"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/claude-code",
+      "notes": "Announced as a research preview alongside other Claude Code updates. Activated via left-arrow from any active session or the 'claude agents' command in the CLI."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "e72b047d6b0d74c5",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "tool",
+    "title": "Claude Code /radio: built-in lo-fi coding station",
+    "summary": "Claude Code added a /radio command that opens Claude FM, an in-CLI lo-fi music stream intended for coding sessions.",
+    "source_video_uid": "ddb71460f4d430fe",
+    "source_video_id": "-jINRoST0mk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:46",
+    "links": [
+      "https://docs.claude.com/en/docs/claude-code"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "cli"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Minor cosmetic feature mentioned in transcript; not independently verified."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ecc7677f6e6b68ae",
+    "created_at": "2026-05-18T10:21:45+00:00",
+    "category": "news",
+    "title": "Anthropic doubles Claude Code rate limits across paid plans",
+    "summary": "At the Code with Claude developer conference, Anthropic announced an immediate doubling of Claude Code 5-hour rate limits across Pro, Max, Teams and Enterprise plans, and removed the peak-hour limit reduction for Pro and Max users. API limits for Opus models were also raised.",
+    "source_video_uid": "7a7f7bd43d75b8d9",
+    "source_video_id": "xXLjeP_AyOg",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:14",
+    "links": [
+      "https://www.anthropic.com/news"
+    ],
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "rate-limits"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "Conference announcement reported in transcript. The reported SpaceX compute partnership and 'Colossus 1' framing is unverified and likely speculative."
+    },
+    "research_date": "2026-05-18T10:21:45+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "1780c134bfce185e",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "Gemini 3.5 Flash checkpoint tested in LM Arena",
+    "summary": "A Gemini Flash-tier checkpoint, labelled 'Gemini 3.0 flash' inside the LM Arena but reported as Gemini 3.5 Flash, shows reasoning and front-end generation closer to Claude Opus 4.7 and Gemini 3.1 Pro. Pricing leaks elsewhere put it at $0.25/1M input and $2.00/1M output tokens.",
+    "source_video_uid": "f9ae3741ae735fcf",
+    "source_video_id": "oekV5AQGRCY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "02:26",
+    "links": [
+      "https://lmarena.ai/"
+    ],
+    "tags": [
+      "gemini",
+      "google",
+      "model-release",
+      "flash"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://deepmind.google/technologies/gemini/",
+      "notes": "Closely related to the Gemini 3.2 Flash leak documented by TestingCatalog; the host conflates the 3.2 and 3.5 naming because Google was rapidly renaming checkpoints in arena.",
+      "web_findings": [
+        {
+          "title": "Gemini 3.2 Flash quietly leaks ahead of Google I/O 2026",
+          "url": "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/",
+          "snippet": "Gemini 3.2 Flash priced at $0.25 per million input tokens and $2.00 per million output tokens, matching much of Gemini 3.1 Pro's capability."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "2b615a71bd830e00",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "SubQ: first sub-quadratic frontier LLM with 12M-token context",
+    "summary": "Subquadratic, a Miami-based startup, launches SubQ, a frontier model built on a fully sub-quadratic sparse attention architecture supporting a 12 million-token context window. The company claims up to 52x speedup over FlashAttention at 1M tokens and roughly a fifth of the cost of Claude Opus or GPT-5.5 for comparable workloads.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:32",
+    "links": [
+      "https://subquadratic.ai/"
+    ],
+    "tags": [
+      "subq",
+      "subquadratic",
+      "long-context",
+      "sparse-attention",
+      "model-release"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://subquadratic.ai/",
+      "notes": "Launched 5 May 2026 with a $29M seed round. Claims benchmark scores of 95.0 on RULER-128K, 65.9 on MRCR v2 at 1M tokens, 81.8 on SWE-Bench Verified. Independent verification has been requested by researchers.",
+      "web_findings": [
+        {
+          "title": "The context window has been shattered: Subquadratic debuts a 12-million-token window",
+          "url": "https://thenewstack.io/subquadratic-12-million-context-window/",
+          "snippet": "SubQ ships with a 12 million token context window, runs roughly 52x faster than FlashAttention at 1M tokens."
+        },
+        {
+          "title": "Subquadratic launches with $29M to bring 12M-token context windows to AI",
+          "url": "https://siliconangle.com/2026/05/05/subquadratic-launches-29m-bring-12m-token-context-windows-ai/",
+          "snippet": "Founded by Justin Dangel and Alex Whedon (former Head of Generative AI at Meta)."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4f87868b1e1ea867",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Gemma 4 gains multi-token prediction drafters for ~3x faster inference",
+    "summary": "Google releases Multi-Token Prediction (MTP) drafter models for the Gemma 4 family. Through speculative decoding the drafters deliver up to a 3x speedup with no degradation in output quality. The drafters ship under the Apache 2.0 license, with weights on Hugging Face and Kaggle.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "09:27",
+    "links": [
+      "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+    ],
+    "tags": [
+      "gemma",
+      "google",
+      "open-weights",
+      "inference",
+      "speculative-decoding"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "notes": "Released 5 May 2026. Compatible with transformers, MLX, vLLM, SGLang and Ollama.",
+      "web_findings": [
+        {
+          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+          "snippet": "Up to 3x speedup with no degradation in output quality, Apache 2.0 license."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "530c775df3b2f0f7",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "news",
+    "title": "Google shuts down Project Mariner, folds tech into Gemini and Chrome",
+    "summary": "Google quietly retires Project Mariner, the experimental browser-based AI agent showcased at Google I/O 2024. Components of the technology are folded into a persistent 24/7 personal agent inside the Gemini app and into Chrome's auto-browse features.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "06:06",
+    "links": [
+      "https://labs.google/mariner"
+    ],
+    "tags": [
+      "google",
+      "project-mariner",
+      "agent",
+      "discontinuation"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://labs.google/mariner",
+      "notes": "Shut down on 4 May 2026 after a 17-month experiment.",
+      "web_findings": [
+        {
+          "title": "Project Mariner is Over: Google Folds its AI Web Agent into Gemini & Chrome",
+          "url": "https://www.androidheadlines.com/2026/05/google-shuts-down-project-mariner-ai-agent.html",
+          "snippet": "Project Mariner shut down on May 4 2026; tech absorbed into Gemini Agent and Chrome."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "57c529959f980fe0",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Google Pomelli adds product catalogs and AI photoshoots",
+    "summary": "Pomelli, a Google Labs and DeepMind AI marketing tool for small-to-medium businesses, adds a Catalog feature that turns uploaded products or services into personalised marketing campaigns and AI photoshoots. Public beta, free.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "10:59",
+    "links": [
+      "https://labs.google.com/pomelli/about"
+    ],
+    "tags": [
+      "pomelli",
+      "google",
+      "marketing",
+      "image-generation"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://labs.google.com/pomelli/about",
+      "notes": "Public beta in US, Canada, Australia and New Zealand. Free.",
+      "web_findings": [
+        {
+          "title": "Google Labs and DeepMind launch AI marketing tool Pomelli",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli/",
+          "snippet": "Pomelli analyses a website to build a 'Business DNA' profile and generates branded campaigns."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "633d84f7d15c8297",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Perplexity launches Computer for Professional Finance",
+    "summary": "Perplexity launches Computer for Professional Finance, integrating licensed data from Morningstar, PitchBook, Daloopa and Carbon Arc via MCP. The release ships with 35 dedicated finance workflows aimed at recurring analyst tasks.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "11:23",
+    "links": [
+      "https://www.perplexity.ai/"
+    ],
+    "tags": [
+      "perplexity",
+      "finance",
+      "computer-use",
+      "mcp"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.perplexity.ai/",
+      "notes": "Announced in early May 2026; positioned in direct competition with Anthropic's finance agent templates.",
+      "web_findings": [
+        {
+          "title": "Perplexity launches 'Computer for professional finance' with Morningstar PitchBook data",
+          "url": "https://www.newsbytesapp.com/news/science/perplexity-launches-computer-for-professional-finance-with-morningstar-pitchbook-data/tldr",
+          "snippet": "Licensed Morningstar, PitchBook, Daloopa and Carbon Arc data through MCP, plus 35 finance workflows."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "6799923d96009148",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Google AI Studio integrates Nano Banana for in-app image asset generation",
+    "summary": "Google AI Studio integrates the Nano Banana image model so that custom assets can be generated and inserted into apps as they are built. A redesigned edit tool provides component-level visual control, annotation and asset swapping.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "10:04",
+    "links": [
+      "https://aistudio.google.com/"
+    ],
+    "tags": [
+      "google-ai-studio",
+      "nano-banana",
+      "image-generation",
+      "google"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "homepage": "https://aistudio.google.com/",
+      "notes": "Described only briefly in the video; no dedicated launch page found in the consulted sources."
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "885f82dc04cbd42b",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "OpenAI rolls out GPT-5.5 Instant in ChatGPT",
+    "summary": "OpenAI begins rolling out GPT-5.5 Instant in ChatGPT, described as a faster, more accurate variant of the flagship with stronger performance in medicine, law and finance, improved image analysis and adaptive web-search invocation.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "07:33",
+    "links": [
+      "https://openai.com/index/introducing-gpt-5-5/"
+    ],
+    "tags": [
+      "gpt-5.5",
+      "openai",
+      "model-release",
+      "chatgpt"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://openai.com/index/introducing-gpt-5-5/",
+      "notes": "Official OpenAI announcement page corroborates the launch.",
+      "web_findings": [
+        {
+          "title": "Introducing GPT-5.5 | OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-5-5/",
+          "snippet": "OpenAI's newest frontier model for coding, computer use, knowledge work and research."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "93d9fbd8c4cd139d",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Codex computer-use loop runs 42% faster",
+    "summary": "A Codex app update reports a 42% speedup for the computer-use loop. The host claims GPT-5.5 reaches 78.7% on OSWorld Verified, the benchmark measuring autonomous operation of real computer environments.",
+    "source_video_uid": "447fee0a72a9da2a",
+    "source_video_id": "Du34BzfVRas",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "02:39",
+    "links": [
+      "https://developers.openai.com/codex/app/computer-use"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "computer-use",
+      "performance"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://developers.openai.com/codex/app/computer-use",
+      "notes": "Computer use is available on macOS only at launch, excluding the EEA, UK and Switzerland.",
+      "web_findings": [
+        {
+          "title": "Computer Use – Codex app | OpenAI Developers",
+          "url": "https://developers.openai.com/codex/app/computer-use",
+          "snippet": "Codex can see and operate graphical user interfaces on macOS."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "a4c71cd53fda119b",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "OpenAI Codex app adds Browser Use plugin",
+    "summary": "OpenAI ships a Browser Use plugin inside the Codex desktop app, allowing the GPT-5.5 backed agent to operate the in-app browser to click through rendered UIs, inspect console and network logs, and verify fixes locally.",
+    "source_video_uid": "447fee0a72a9da2a",
+    "source_video_id": "Du34BzfVRas",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:53",
+    "links": [
+      "https://developers.openai.com/codex/app",
+      "https://developers.openai.com/codex/changelog"
+    ],
+    "tags": [
+      "openai",
+      "codex",
+      "browser-use",
+      "agent",
+      "plugin"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://developers.openai.com/codex/app",
+      "notes": "Documented in the official Codex changelog. Browser Use is bundled as a Codex plugin.",
+      "web_findings": [
+        {
+          "title": "Changelog – Codex | OpenAI Developers",
+          "url": "https://developers.openai.com/codex/changelog",
+          "snippet": "The Codex app can now operate the in-app browser through the bundled Browser plugin."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "a8b40a289a8284f9",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "Gemini 3.5 Pro checkpoint 'Cappuccino' surfaces ahead of Google I/O",
+    "summary": "A new Gemini 3.5 Pro checkpoint, internally referred to as 'Cappuccino', appears in arena testing ahead of Google I/O. The host reports notably stronger code generation, including a working Minecraft clone with mobs, health bar and creative mode.",
+    "source_video_uid": "f9ae3741ae735fcf",
+    "source_video_id": "oekV5AQGRCY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:55",
+    "links": [
+      "https://io.google/2026/"
+    ],
+    "tags": [
+      "gemini",
+      "google",
+      "model-release",
+      "frontier"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://io.google/2026/",
+      "notes": "Reported as a pre-IO checkpoint. The follow-up news cycle showed Google preparing Gemini 3.2 Flash for I/O on May 19-20 2026; the 'Cappuccino' codename is documented only in community reporting at this stage.",
+      "web_findings": [
+        {
+          "title": "Google I/O 2026: Gemini Spark, Omni AI Video & Gemini 3.5 Rumors",
+          "url": "https://nokiapoweruser.com/google-io-2026-gemini-spark-omni-gemini-3-5-rumors/",
+          "snippet": "Reports point to a more capable Gemini 3.5 Pro model focused on advanced reasoning and coding tasks."
+        },
+        {
+          "title": "Google prepares new upgrades for Gemini Flash model",
+          "url": "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/",
+          "snippet": "New Gemini 3.5 Flash and Pro checkpoints appeared ahead of Google I/O 2026."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ad98c14cda141f7c",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "repo",
+    "title": "Hermes Agent: self-improving autonomous agent from Nous Research",
+    "summary": "Hermes Agent is an open-source persistent autonomous agent from Nous Research, designed to run continuously on the user's infrastructure while building long-term memory and reusable skills. Released under the MIT license.",
+    "source_video_uid": "459e150ef430cf52",
+    "source_video_id": "dLk2Imx-0uk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:08",
+    "links": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://hermes-agent.nousresearch.com"
+    ],
+    "tags": [
+      "hermes-agent",
+      "nous-research",
+      "agent",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155627,
+      "forks": 24984,
+      "language": "Python",
+      "license": "MIT",
+      "description": "The agent that grows with you",
+      "notes": "Multi-platform (Telegram, Discord, Slack, WhatsApp, Email, CLI), with five execution backends (local, Docker, SSH, Singularity, Modal)."
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "b11453e5881553a1",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "tool",
+    "title": "AionUi: open-source Cowork desktop app for 20+ AI CLIs",
+    "summary": "AionUi (referred to in the video as 'ION UI') is a free, local, open-source Cowork desktop application that hosts AI agents such as Hermes Agent, Claude Code, Codex, Gemini CLI and others. It auto-detects locally installed CLIs and stores all data in a local SQLite database.",
+    "source_video_uid": "459e150ef430cf52",
+    "source_video_id": "dLk2Imx-0uk",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:48",
+    "links": [
+      "https://github.com/iOfficeAI/AionUi",
+      "https://www.aionui.com"
+    ],
+    "tags": [
+      "aionui",
+      "cowork",
+      "agent",
+      "open-source",
+      "desktop"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/iOfficeAI/AionUi",
+      "homepage": "https://www.aionui.com",
+      "stars": 25531,
+      "forks": 2341,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI",
+      "notes": "Built with Electron + React; runs on macOS, Windows and Linux. Often presented as a free alternative to Claude Cowork."
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "c2270d4f9560dcf0",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "Anthropic ships 10 Claude finance agent templates",
+    "summary": "Anthropic releases a suite of ten Claude agent templates for financial services, including pitch builder, meeting preparer, earnings reviewer, model builder, market researcher, valuation reviewer, statement auditor, KYC screener, general ledger reconciler and month-end closer. Templates run as plugins in Claude Cowork and Claude Code, or as cookbooks for Claude Managed Agents.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "08:16",
+    "links": [
+      "https://www.anthropic.com/news/finance-agents"
+    ],
+    "tags": [
+      "anthropic",
+      "claude",
+      "finance",
+      "agents",
+      "release"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.anthropic.com/news/finance-agents",
+      "notes": "Announced 5 May 2026. Bundled with Microsoft 365 add-in support across Excel, PowerPoint, Word and Outlook, plus data connectors to FactSet, S&P Capital IQ, MSCI, PitchBook, Morningstar, Daloopa, LSEG, Chronograph.",
+      "web_findings": [
+        {
+          "title": "Anthropic — Finance agents",
+          "url": "https://www.anthropic.com/news/finance-agents",
+          "snippet": "Ten ready-to-run AI agent templates for financial services."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "cff41fb800a4fd89",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "Gemini 3.2 Flash leaks in iOS app and AI Studio",
+    "summary": "Gemini 3.2 Flash is reportedly being A/B tested through Antigravity, LM Arena, Google AI Studio and the Gemini iOS app. Pricing is reported at $0.25 per 1M input tokens and $2.00 per 1M output tokens, with a January 2026 knowledge cutoff.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "03:54",
+    "links": [
+      "https://aistudio.google.com/"
+    ],
+    "tags": [
+      "gemini",
+      "google",
+      "model-release",
+      "leak"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://deepmind.google/technologies/gemini/",
+      "notes": "Confirmed as a real pre-I/O 2026 rollout. The host's video timestamps May 2026.",
+      "web_findings": [
+        {
+          "title": "Gemini 3.2 Flash: Google's Model Surfaces in iOS App and AI Studio Ahead of I/O 2026",
+          "url": "https://pasqualepillitteri.it/en/news/2013/gemini-3-2-flash-leak-ios-ai-studio-2026-en",
+          "snippet": "Gemini 3.2 Flash appeared inside the official iOS Gemini app and Google AI Studio on May 5, 2026."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ed634edccec65a04",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "release",
+    "title": "NotebookLM mind maps gain prompt-driven customisation",
+    "summary": "Google updates NotebookLM mind maps with prompt-based customisation, scoping to specific sources or topics, renaming and sharing, and smoother navigation between notes.",
+    "source_video_uid": "fd8c1d4fb99c38ed",
+    "source_video_id": "JFgD4c3Tab0",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "10:32",
+    "links": [
+      "https://notebooklm.google.com/"
+    ],
+    "tags": [
+      "notebooklm",
+      "google",
+      "feature-update"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://notebooklm.google.com/",
+      "notes": "Documented in Google Workspace Updates and NotebookLM Help pages.",
+      "web_findings": [
+        {
+          "title": "Use Mind Maps in NotebookLM - NotebookLM Help",
+          "url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
+          "snippet": "Customise mind maps with prompts to focus on a specific source, concept, timeline or goal."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "efabdfc46ab84e6c",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "GPT-5.5 ('Spud') leak: Crest Pro Alpha checkpoint surfaces in ChatGPT",
+    "summary": "OpenAI A/B-tests a GPT-5.5 candidate (internal code name 'Spud') inside ChatGPT, with one checkpoint labelled 'Crest Pro Alpha' surfacing for some users. The host reports stronger reasoning, faster token output, improved SVG and three.js scene generation, and a Minecraft-clone with textures, inventory and animation in one shot.",
+    "source_video_uid": "5c12e84400a6ee3d",
+    "source_video_id": "UfUBW9QcTjU",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:01",
+    "links": [
+      "https://openai.com/index/introducing-gpt-5-5/"
+    ],
+    "tags": [
+      "openai",
+      "gpt-5.5",
+      "model-release",
+      "leak"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://openai.com/index/introducing-gpt-5-5/",
+      "notes": "GPT-5.5 was subsequently launched officially by OpenAI and surfaced in the Codex app as the recommended model. The 'Spud' / 'Crest Pro Alpha' codename is documented only via community reporting around the leak window.",
+      "web_findings": [
+        {
+          "title": "Introducing GPT-5.5 | OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-5-5/",
+          "snippet": "GPT-5.5 is OpenAI's newest frontier model for coding, computer use, knowledge work and research."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "f91eab7784507bb4",
+    "created_at": "2026-05-18T10:21:27+00:00",
+    "category": "model",
+    "title": "DeepSeek V4 Preview: Pro (1.6T) and Flash (284B) open-source models",
+    "summary": "DeepSeek releases the V4 Preview, open-sourcing two models: DeepSeek-V4-Pro at 1.6T total / 49B active parameters and DeepSeek-V4-Flash at 284B total / 13B active parameters. Both support a 1M-token context length and are released on Hugging Face under the MIT license. Pro pricing is $0.14/$3.48 per 1M input/output tokens, Flash is $0.03/$0.28.",
+    "source_video_uid": "e6375e3e0a09d71a",
+    "source_video_id": "eV3lAY77IpU",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:18",
+    "links": [
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "https://api-docs.deepseek.com/news/news260424"
+    ],
+    "tags": [
+      "deepseek",
+      "open-source",
+      "model-release",
+      "moe",
+      "long-context"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://api-docs.deepseek.com/news/news260424",
+      "notes": "Released 24 April 2026 as a public preview. Hybrid attention combining Compressed Sparse Attention (CSA) and Heavily Compressed Attention (HCA). The host disputes the team's claim that V4 matches Claude Opus 4.5/4.6 on real-world agentic coding, calling the front-end and 3D-rendering outputs subpar relative to GLM 5.1, Kimi K2.6 and MiniMax M2.7.",
+      "web_findings": [
+        {
+          "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
+          "url": "https://api-docs.deepseek.com/news/news260424",
+          "snippet": "DeepSeek-V4-Pro has 1.6T total / 49B active params; Flash has 284B total / 13B active params."
+        },
+        {
+          "title": "DeepSeek V4 — almost on the frontier, a fraction of the price",
+          "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "snippet": "1M-token context; MIT license; weights available on Hugging Face."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:27+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "0ec63369274d1a20",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "tool",
+    "title": "OpenAI Codex app expands with plugins, automations and computer use",
+    "summary": "OpenAI's Codex desktop app gains a plugin store (browser use, Sentry, macOS app builder, etc.), scheduled automations, multi-project management, computer-use and browser-use plugins, and direct PR/commit pushing. Free tier available; installs on Windows and macOS.",
+    "source_video_uid": "b40363d197ddb979",
+    "source_video_id": "8rXugE921aY",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "04:23",
+    "links": [
+      "https://github.com/openai/codex",
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai-codex",
+      "coding-agent",
+      "plugins",
+      "browser-use",
+      "automation"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://openai.com/codex",
+      "repo_url": "https://github.com/openai/codex",
+      "stars": 83469,
+      "forks": 12094,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "Lightweight coding agent that runs in your terminal; the desktop app builds on this with a plugin store and scheduled automations.",
+      "web_findings": [
+        {
+          "title": "openai/codex repo",
+          "url": "https://github.com/openai/codex",
+          "snippet": "Apache-2.0; primary Codex source."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "145c089cb0ecd689",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "model",
+    "title": "GPT image 2 used inside Codex for in-workflow asset generation",
+    "summary": "The video notes that OpenAI's GPT image 2 model can be invoked directly inside Codex to generate game textures, UI elements and other visual assets during a coding session, then refined in the same workflow.",
+    "source_video_uid": "958d56f14a648cbb",
+    "source_video_id": "v4M9hy_JY5E",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "13:30",
+    "links": [
+      "https://openai.com/codex"
+    ],
+    "tags": [
+      "openai",
+      "gpt-image-2",
+      "image-generation",
+      "codex"
+    ],
+    "research_status": "transcript_only",
+    "research": {
+      "notes": "GPT image 2 is referenced as an in-Codex tool but no dedicated public release page was retrieved during this pass."
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "470b659216ca440c",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "release",
+    "title": "Hermes Agent desktop app released by Nous Research",
+    "summary": "Nous Research released an open-source native desktop app for Hermes Agent, providing a GUI to manage profiles, skills, memory, providers, cron jobs and gateways for the persistent self-evolving agent. Cross-platform installers are available for Windows, macOS and Linux.",
+    "source_video_uid": "80714007531e29ce",
+    "source_video_id": "YBp_PXBbe80",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "02:23",
+    "links": [
+      "https://github.com/NousResearch/hermes-agent",
+      "https://hermes-agent.nousresearch.com"
+    ],
+    "tags": [
+      "hermes-agent",
+      "nous-research",
+      "autonomous-agent",
+      "desktop-app",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 155627,
+      "forks": 24984,
+      "language": "Python",
+      "license": "MIT",
+      "description": "The agent that grows with you - a persistent autonomous system with long-term memory, reusable skills and a closed self-improvement loop.",
+      "web_findings": [
+        {
+          "title": "NousResearch/hermes-agent on GitHub",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "snippet": "MIT-licensed Python project; desktop app installer distributed via release page."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "47b5dfd3fb81eac1",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "model",
+    "title": "OpenAI launches GPT-5.5 flagship model",
+    "summary": "OpenAI released GPT-5.5, a frontier model focused on agentic workflows, coding, research and document creation. It reportedly uses about a quarter of the tokens of GPT-5.4 high and a third of those of Opus 4.7, scores 82.7% on terminal-bench and 58.6% on SWE-bench Verified, and is priced at $5 per 1M input tokens and $30 per 1M output tokens.",
+    "source_video_uid": "958d56f14a648cbb",
+    "source_video_id": "v4M9hy_JY5E",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:03",
+    "links": [
+      "https://openai.com/index/introducing-gpt-5-5/"
+    ],
+    "tags": [
+      "openai",
+      "gpt-5-5",
+      "frontier-model",
+      "coding",
+      "agentic"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://openai.com/index/introducing-gpt-5-5/",
+      "description": "GPT-5.5 launched 2026-04-23 (API on 2026-04-24); rolled out to Plus, Pro, Business, Enterprise and via Codex. GPT-5.5 Instant became the default for free users on 2026-05-05.",
+      "web_findings": [
+        {
+          "title": "Introducing GPT-5.5 | OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-5-5/",
+          "snippet": "Official launch post."
+        },
+        {
+          "title": "OpenAI announces GPT-5.5 (CNBC)",
+          "url": "https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html",
+          "snippet": "Coverage of the release on 2026-04-23."
+        },
+        {
+          "title": "OpenAI releases GPT-5.5 Instant (TechCrunch)",
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "snippet": "Free-tier rollout of GPT-5.5 Instant."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "634efab20fa35d8b",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "release",
+    "title": "Ollama integration lands in OpenAI Codex app",
+    "summary": "OpenAI's Codex desktop app now officially supports Ollama, allowing locally-hosted open-source models (Gemma 4, Qwen 3.6, DeepSeek v4) to power Codex's AI coding agent capabilities for free. Requires Ollama 0.24+ and is available on macOS and Windows, with Linux pending.",
+    "source_video_uid": "330fc53e2169a33a",
+    "source_video_id": "qo40REk9wNU",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:04",
+    "links": [
+      "https://ollama.com/blog/codex",
+      "https://docs.ollama.com/integrations/codex"
+    ],
+    "tags": [
+      "ollama",
+      "openai-codex",
+      "local-llm",
+      "coding-agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://ollama.com/blog/codex",
+      "repo_url": "https://github.com/openai/codex",
+      "stars": 83469,
+      "forks": 12094,
+      "language": "Rust",
+      "license": "Apache-2.0",
+      "description": "OpenAI Codex CLI / app; Ollama integration enables locally-hosted open-source models via a one-line launch command.",
+      "web_findings": [
+        {
+          "title": "OpenAI Codex with Ollama - Ollama Blog",
+          "url": "https://ollama.com/blog/codex",
+          "snippet": "Official blog announcing Codex + Ollama integration."
+        },
+        {
+          "title": "Codex CLI - Ollama docs",
+          "url": "https://docs.ollama.com/integrations/codex",
+          "snippet": "Documentation for connecting Codex CLI to a local Ollama endpoint."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "a5ec1051c607228a",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "tool",
+    "title": "Toolhouse: backend-as-a-service for AI agents",
+    "summary": "Toolhouse is a sponsored backend-as-a-service for building, deploying and running AI agents with built-in RAG, memory, code execution and integrations (Gmail, Smithery, Zapier, Pipedream). It offers a no-code studio, voice-driven builder (Verb AI), an MCP server and a `th` CLI for defining and deploying agents as APIs.",
+    "source_video_uid": "15b97147d8ab82f2",
+    "source_video_id": "OfEcMXLOAtE",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "00:20",
+    "links": [
+      "https://toolhouse.ai",
+      "https://docs.toolhouse.ai/toolhouse"
+    ],
+    "tags": [
+      "toolhouse",
+      "ai-agents",
+      "baas",
+      "rag",
+      "cli",
+      "mcp"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://toolhouse.ai",
+      "description": "Backend-as-a-service for AI agents with pre-loaded RAG, memory, code execution, browser automation and MCP server hookup. Provides the `th` CLI plus an SDK that integrates with Vercel AI and LlamaIndex.",
+      "web_findings": [
+        {
+          "title": "Toolhouse docs",
+          "url": "https://docs.toolhouse.ai/toolhouse",
+          "snippet": "Official documentation covering the `th` CLI, deployment and SDK."
+        },
+        {
+          "title": "Deploy and run your agents | Toolhouse",
+          "url": "https://docs.toolhouse.ai/toolhouse/deploy-and-run-your-agents",
+          "snippet": "Reference for `th deploy` which reads the th file and produces an Agents API."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "db72d20baee7c90f",
+    "created_at": "2026-05-18T10:21:01+00:00",
+    "category": "repo",
+    "title": "Open Design: open-source alternative to Claude Design",
+    "summary": "A community-built open-source alternative to Anthropic's Claude Design. It auto-detects up to 15 local coding-agent CLIs (Codex, Claude Code, Gemini CLI, Kilo, etc.) and uses them as the design engine, with 31 composable skills and 72 design systems, a local daemon with filesystem access, SQLite persistence and HTML/PDF/PPTX export pipelines.",
+    "source_video_uid": "cb837eca81de6bd5",
+    "source_video_id": "8XcbyliBwc4",
+    "source_channel_handle": "intheworldofai",
+    "timestamp_in_video": "01:10",
+    "links": [
+      "https://github.com/nexu-io/open-design",
+      "https://open-design.ai"
+    ],
+    "tags": [
+      "open-design",
+      "claude-design-alternative",
+      "design-tool",
+      "open-source",
+      "cli-agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://open-design.ai",
+      "repo_url": "https://github.com/nexu-io/open-design",
+      "stars": 44283,
+      "forks": 5053,
+      "language": "TypeScript",
+      "license": "Apache-2.0",
+      "description": "Local-first, open-source alternative to Anthropic's Claude Design. Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+      "web_findings": [
+        {
+          "title": "Open Design homepage",
+          "url": "https://opendesigner.io/",
+          "snippet": "Project landing page."
+        },
+        {
+          "title": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "snippet": "Primary repo; Apache-2.0; ~44k stars."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T10:21:01+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "05ace5fb43bb0917",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "DeepSeek TUI: terminal interface for DeepSeek models",
+    "summary": "Text-based terminal application for interacting with DeepSeek language models — running prompts, managing conversations, and accessing workflows from the command line.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "llm",
+      "cli",
+      "deepseek"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "0be61b463109af9e",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "k3s: lightweight Kubernetes for edge and local clusters",
+    "summary": "Production Kubernetes distribution packaged into a smaller, easier-to-manage runtime; designed for edge, IoT, CI, and resource-constrained environments while remaining upstream-compatible.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/k3s-io/k3s"
+    ],
+    "tags": [
+      "kubernetes",
+      "edge",
+      "infrastructure"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/k3s-io/k3s",
+      "homepage": "https://k3s.io",
+      "stars": 33033,
+      "forks": 2661,
+      "language": "Go",
+      "license": "Apache-2.0"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "2a3e078fe43b3a19",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Claude for Legal: legal workflow patterns from Anthropic",
+    "summary": "Anthropic's open collection of example prompts, reasoning patterns, and structured workflows demonstrating Claude in document review, drafting, and legal analysis with human-in-the-loop review.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/anthropics/claude-cookbooks"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "legal",
+      "skills"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/anthropics/claude-cookbooks",
+      "stars": 43216,
+      "forks": 4904,
+      "language": "Jupyter Notebook",
+      "license": "MIT",
+      "notes": "The host described this as 'Claude for Legal'; the closest first-party Anthropic surface for legal-workflow recipes is the public claude-cookbooks notebook collection. A dedicated 'claude-for-legal' repo could not be confirmed at research time."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "34e3ca984fcd1723",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "tool",
+    "title": "Higgsfield Supercomputer: agentic product+distribution workflow",
+    "summary": "Higgsfield AI's Supercomputer combines research, branding, landing-page generation, launch video, and ad variations into one agentic chat — positioned as an end-to-end go-to-market workflow rather than an isolated video generator.",
+    "source_video_uid": "9e6d11f75a0b8118",
+    "source_video_id": "GZUQoSf7GR0",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://higgsfield.ai/"
+    ],
+    "tags": [
+      "ai-agent",
+      "video",
+      "marketing",
+      "higgsfield"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://higgsfield.ai/supercomputer-intro",
+      "notes": "Launched 14 May 2026. Built on a custom Hermes 3 series from Nous Research, fine-tuned for agentic orchestration; routes across Claude Opus 4.7 / Sonnet 4.6, GPT-5.5 Pro and Gemini 3.1 Pro. Underlying video model is Seedance 2.0.",
+      "web_findings": [
+        {
+          "title": "Higgsfield Supercomputer — Agentic AI Content Creation",
+          "url": "https://higgsfield.ai/supercomputer-intro",
+          "snippet": "Self-learning cloud-native agent for the full marketing creative process."
+        },
+        {
+          "title": "Higgsfield AI Supercomputer — explainx.ai analysis",
+          "url": "https://explainx.ai/blog/higgsfield-ai-supercomputer-hermes-agent-2026",
+          "snippet": "Architecture overview; 40+ built-in tools, three layers of memory."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "377bb6dd27135efd",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "model",
+    "title": "DeepSeek V4 Flash free on the Nous portal (limited time)",
+    "summary": "DeepSeek V4 Flash is available free for a limited window on the Nous Research portal, courtesy of NVIDIA AI — usable for coding, reasoning, and long-context autonomous workflows.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://portal.nousresearch.com/"
+    ],
+    "tags": [
+      "deepseek",
+      "model",
+      "nvidia",
+      "free-tier"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://portal.nousresearch.com/",
+      "notes": "Hosted on Nous Research's portal with sponsorship from NVIDIA AI; available free for a limited window."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "389c30b072ca6631",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "n8n-mcp: Model Context Protocol layer for n8n workflows",
+    "summary": "Bridges n8n automation workflows with MCP, letting AI agents and external tools invoke n8n workflows through structured context and execution interfaces.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/czlonkowski/n8n-mcp"
+    ],
+    "tags": [
+      "mcp",
+      "n8n",
+      "automation",
+      "ai-agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/czlonkowski/n8n-mcp",
+      "homepage": "https://www.n8n-mcp.com/",
+      "stars": 21055,
+      "forks": 3417,
+      "language": "TypeScript",
+      "license": "MIT",
+      "notes": "MCP server for Claude Desktop / Claude Code / Windsurf / Cursor that lets these agents author n8n workflows."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4fb57d18d58b94fa",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Mistral Vibe: open-source terminal coding agent",
+    "summary": "Mistral's open-source terminal-native coding agent — async tasks, sub-agents, slash-command skills, multi-choice clarification, IDE plugins (VS Code, JetBrains), bring-your-own-key, and a paid tier on Le Chat Pro at USD 14.99/month with student discount. Powered by Devstral, Codestral, and Codestral Embed.",
+    "source_video_uid": "5b7177ee266d84fd",
+    "source_video_id": "WxjviB1pJbk",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://mistral.ai/",
+      "https://chat.mistral.ai/"
+    ],
+    "tags": [
+      "mistral",
+      "cli",
+      "coding-agent",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://mistral.ai/news/devstral-2-vibe-cli",
+      "repo_url": "https://github.com/mistralai/mistral-vibe",
+      "license": "Apache-2.0",
+      "notes": "Launched late January 2026 alongside Devstral 2; in 2026 the model under the hood was swapped to Mistral Medium 3.5. ACP-compatible for IDE integration.",
+      "web_findings": [
+        {
+          "title": "Introducing Devstral 2 and Mistral Vibe CLI — Mistral AI",
+          "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+          "snippet": "Native CLI built for Devstral; explores, modifies, and executes changes across a codebase from natural language."
+        },
+        {
+          "title": "mistralai/mistral-vibe — GitHub",
+          "url": "https://github.com/mistralai/mistral-vibe",
+          "snippet": "Minimal CLI coding agent by Mistral. Apache-2.0."
+        },
+        {
+          "title": "Remote agents in Vibe — Mistral AI",
+          "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+          "snippet": "Adds remote agents and swaps in Mistral Medium 3.5."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
     "uid": "520c31f29d17e47c",
     "created_at": "2026-05-18T09:56:54+00:00",
     "category": "vuln",
@@ -44,81 +3298,6 @@
     "__class__": "SoftwareNews"
   },
   {
-    "uid": "ef5a68781fd5fa43",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "release",
-    "title": "pnpm 11 ships supply-chain mitigations by default",
-    "summary": "pnpm 11 enables three defaults that block this class of attack: minimumReleaseAge refuses packages younger than 24 hours, blockExoticSubdependencies refuses non-registry transitive deps, and approvedBuilds disables install scripts unless whitelisted.",
-    "source_video_uid": "912b42c924151c15",
-    "source_video_id": "gwTQLZSIlsU",
-    "source_channel_handle": "Fireship",
-    "timestamp_in_video": "",
-    "links": [
-      "https://pnpm.io/"
-    ],
-    "tags": [
-      "pnpm",
-      "package-manager",
-      "security"
-    ],
-    "research_status": "researched",
-    "research": {
-      "homepage": "https://pnpm.io/",
-      "web_findings": [
-        {
-          "title": "pnpm — Fast, disk space efficient package manager",
-          "url": "https://pnpm.io/",
-          "snippet": "minimumReleaseAge, blockExoticSubdependencies and approved-builds are documented as defaults from v11."
-        }
-      ]
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "9a080f784e45efac",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "release",
-    "title": "Sentry ships Seer agent for production debugging",
-    "summary": "Sentry launched Seer, an AI agent that investigates production errors by pulling traces, spans, logs, and replays from existing Sentry data, walking upstream across services to identify root cause, and drafting fixes as pull requests. Open beta.",
-    "source_video_uid": "912b42c924151c15",
-    "source_video_id": "gwTQLZSIlsU",
-    "source_channel_handle": "Fireship",
-    "timestamp_in_video": "",
-    "links": [
-      "https://sentry.io/"
-    ],
-    "tags": [
-      "observability",
-      "ai-agent",
-      "sentry"
-    ],
-    "research_status": "researched",
-    "research": {
-      "homepage": "https://sentry.io/product/seer/",
-      "notes": "Seer Agent launched April 28 2026; January 2026 update added local-development and code-review debugging plus flat unlimited pricing.",
-      "web_findings": [
-        {
-          "title": "Sentry Launches Seer Agent — Sentry press release",
-          "url": "https://sentry.io/about/press-releases/sentry-launches-seer-agent/",
-          "snippet": "Investigate production problems in plain language; multi-player from Slack."
-        },
-        {
-          "title": "Sentry's Seer Agent lets developers debug production issues in natural language — The New Stack",
-          "url": "https://thenewstack.io/sentrys-seer-agent-debug/",
-          "snippet": "Walks the dependency graph across services to identify root cause and draft fixes."
-        },
-        {
-          "title": "Sentry Expands Seer AI Debugging Agent to Local Development and Code Review",
-          "url": "https://sentry.io/about/press-releases/sentry-expands-seer-ai-debugging-agent/",
-          "snippet": "PR-level defect analysis and background root-cause triage on incoming errors."
-        }
-      ]
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
     "uid": "5b24c3aead27f302",
     "created_at": "2026-05-18T09:56:54+00:00",
     "category": "news",
@@ -139,6 +3318,80 @@
       "homepage": "",
       "web_findings": [],
       "notes": "Trial heard in U.S. District Court for the Northern District of California (Oakland) before Judge Yvonne Gonzalez Rogers; advisory jury, USD 134 billion in claimed damages plus an unwinding of OpenAI's for-profit conversion."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5eb5bb9e0abcb1c8",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Rufflow: structured workflow manager for AI outputs",
+    "summary": "Organises and transforms AI-generated outputs into structured workflows; targets consistency and repeatability across automation pipelines.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "ai-workflow",
+      "automation"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5f19a5f4c8eb5d9b",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "scientific-agent-skills: reusable skills for scientific AI agents",
+    "summary": "Open-source collection of structured prompts, tool interactions, and domain-specific actions for scientific AI agents; integrates as a capability layer into assistant systems and research pipelines.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "ai-agent",
+      "skills",
+      "research"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "80434ea80f26b030",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Hermes Agent 0.14.0 — Foundation release",
+    "summary": "Nous Research's Hermes Agent ships its 'Foundation' release: native Windows beta, ~19 s faster cold start, persistent Chrome DevTools Protocol connection (some browser flows up to 180x faster), 1-hour cross-session prompt cache, native video generation, and a /handoff command for transferring live sessions across models without losing context.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/NousResearch/hermes"
+    ],
+    "tags": [
+      "nous-research",
+      "ai-agent",
+      "windows",
+      "release"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155606,
+      "forks": 24979,
+      "language": "Python",
+      "license": "MIT",
+      "latest_release": "v2026.5.16 — Hermes Agent v0.14.0",
+      "latest_release_date": "2026-05-16"
     },
     "research_date": "2026-05-18T09:59:34+00:00",
     "__class__": "SoftwareNews"
@@ -190,24 +3443,34 @@
     "__class__": "SoftwareNews"
   },
   {
-    "uid": "5f19a5f4c8eb5d9b",
+    "uid": "8e69e6af769f96bd",
     "created_at": "2026-05-18T09:56:54+00:00",
     "category": "repo",
-    "title": "scientific-agent-skills: reusable skills for scientific AI agents",
-    "summary": "Open-source collection of structured prompts, tool interactions, and domain-specific actions for scientific AI agents; integrates as a capability layer into assistant systems and research pipelines.",
+    "title": "Hermes Agent: autonomous framework for tool-using AI agents",
+    "summary": "Framework from Nous Research that combines language models with memory, APIs, file operations, and iterative execution loops to drive multi-step autonomous workflows.",
     "source_video_uid": "e9b87ebf0400c5ec",
     "source_video_id": "CtxB7U0EVhg",
     "source_channel_handle": "ManuAGI",
     "timestamp_in_video": "",
-    "links": [],
+    "links": [
+      "https://github.com/NousResearch/hermes"
+    ],
     "tags": [
       "ai-agent",
-      "skills",
-      "research"
+      "nous-research",
+      "framework"
     ],
-    "research_status": "transcript_only",
-    "research": {},
-    "research_date": "",
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155606,
+      "forks": 24979,
+      "language": "Python",
+      "license": "MIT",
+      "notes": "Nous Research's flagship self-evolving agent. Companion repos exist for plugins, function-calling, self-evolution and compression evaluation."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
     "__class__": "SoftwareNews"
   },
   {
@@ -241,216 +3504,44 @@
     "__class__": "SoftwareNews"
   },
   {
-    "uid": "389c30b072ca6631",
+    "uid": "9a080f784e45efac",
     "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "n8n-mcp: Model Context Protocol layer for n8n workflows",
-    "summary": "Bridges n8n automation workflows with MCP, letting AI agents and external tools invoke n8n workflows through structured context and execution interfaces.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
+    "category": "release",
+    "title": "Sentry ships Seer agent for production debugging",
+    "summary": "Sentry launched Seer, an AI agent that investigates production errors by pulling traces, spans, logs, and replays from existing Sentry data, walking upstream across services to identify root cause, and drafting fixes as pull requests. Open beta.",
+    "source_video_uid": "912b42c924151c15",
+    "source_video_id": "gwTQLZSIlsU",
+    "source_channel_handle": "Fireship",
     "timestamp_in_video": "",
     "links": [
-      "https://github.com/czlonkowski/n8n-mcp"
+      "https://sentry.io/"
     ],
     "tags": [
-      "mcp",
-      "n8n",
-      "automation",
-      "ai-agent"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/czlonkowski/n8n-mcp",
-      "homepage": "https://www.n8n-mcp.com/",
-      "stars": 21055,
-      "forks": 3417,
-      "language": "TypeScript",
-      "license": "MIT",
-      "notes": "MCP server for Claude Desktop / Claude Code / Windsurf / Cursor that lets these agents author n8n workflows."
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "05ace5fb43bb0917",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "DeepSeek TUI: terminal interface for DeepSeek models",
-    "summary": "Text-based terminal application for interacting with DeepSeek language models — running prompts, managing conversations, and accessing workflows from the command line.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [],
-    "tags": [
-      "llm",
-      "cli",
-      "deepseek"
-    ],
-    "research_status": "transcript_only",
-    "research": {},
-    "research_date": "",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "cebe59ea96bbbf37",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "Hysteria: high-performance proxy and tunneling protocol",
-    "summary": "Open-source proxy and tunneling system using modern transport protocols to improve latency and throughput across unstable or restricted networks.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://github.com/apernet/hysteria"
-    ],
-    "tags": [
-      "networking",
-      "proxy",
-      "tunneling"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/apernet/hysteria",
-      "homepage": "https://v2.hysteria.network/",
-      "stars": 21162,
-      "forks": 2177,
-      "language": "Go",
-      "license": "MIT"
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "8e69e6af769f96bd",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "Hermes Agent: autonomous framework for tool-using AI agents",
-    "summary": "Framework from Nous Research that combines language models with memory, APIs, file operations, and iterative execution loops to drive multi-step autonomous workflows.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://github.com/NousResearch/hermes"
-    ],
-    "tags": [
-      "ai-agent",
-      "nous-research",
-      "framework"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/NousResearch/hermes-agent",
-      "homepage": "https://hermes-agent.nousresearch.com",
-      "stars": 155606,
-      "forks": 24979,
-      "language": "Python",
-      "license": "MIT",
-      "notes": "Nous Research's flagship self-evolving agent. Companion repos exist for plugins, function-calling, self-evolution and compression evaluation."
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "b3f49e01c858ca53",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "OpenSRE: AI-assisted platform for SRE workflows",
-    "summary": "Open-source SRE platform combining observability, diagnostics, and operational tooling with AI assistance for incident response and reliability automation.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [],
-    "tags": [
-      "sre",
       "observability",
-      "ai-assisted"
-    ],
-    "research_status": "transcript_only",
-    "research": {},
-    "research_date": "",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "5eb5bb9e0abcb1c8",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "Rufflow: structured workflow manager for AI outputs",
-    "summary": "Organises and transforms AI-generated outputs into structured workflows; targets consistency and repeatability across automation pipelines.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [],
-    "tags": [
-      "ai-workflow",
-      "automation"
-    ],
-    "research_status": "transcript_only",
-    "research": {},
-    "research_date": "",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "2a3e078fe43b3a19",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "Claude for Legal: legal workflow patterns from Anthropic",
-    "summary": "Anthropic's open collection of example prompts, reasoning patterns, and structured workflows demonstrating Claude in document review, drafting, and legal analysis with human-in-the-loop review.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://github.com/anthropics/claude-cookbooks"
-    ],
-    "tags": [
-      "claude",
-      "anthropic",
-      "legal",
-      "skills"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/anthropics/claude-cookbooks",
-      "stars": 43216,
-      "forks": 4904,
-      "language": "Jupyter Notebook",
-      "license": "MIT",
-      "notes": "The host described this as 'Claude for Legal'; the closest first-party Anthropic surface for legal-workflow recipes is the public claude-cookbooks notebook collection. A dedicated 'claude-for-legal' repo could not be confirmed at research time."
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "b80645faa1cb341c",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "repo",
-    "title": "Awesome AI Agents: curated directory of agent frameworks",
-    "summary": "Curated index of AI-agent frameworks, multi-agent systems, orchestration tools, and autonomous-workflow projects — a discovery hub for comparing approaches.",
-    "source_video_uid": "e9b87ebf0400c5ec",
-    "source_video_id": "CtxB7U0EVhg",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://github.com/e2b-dev/awesome-ai-agents"
-    ],
-    "tags": [
       "ai-agent",
-      "awesome-list",
-      "discovery"
+      "sentry"
     ],
     "research_status": "researched",
     "research": {
-      "repo_url": "https://github.com/e2b-dev/awesome-ai-agents",
-      "homepage": "https://e2b.dev/docs",
-      "stars": 27888,
-      "forks": 2892,
-      "license": "NOASSERTION"
+      "homepage": "https://sentry.io/product/seer/",
+      "notes": "Seer Agent launched April 28 2026; January 2026 update added local-development and code-review debugging plus flat unlimited pricing.",
+      "web_findings": [
+        {
+          "title": "Sentry Launches Seer Agent — Sentry press release",
+          "url": "https://sentry.io/about/press-releases/sentry-launches-seer-agent/",
+          "snippet": "Investigate production problems in plain language; multi-player from Slack."
+        },
+        {
+          "title": "Sentry's Seer Agent lets developers debug production issues in natural language — The New Stack",
+          "url": "https://thenewstack.io/sentrys-seer-agent-debug/",
+          "snippet": "Walks the dependency graph across services to identify root cause and draft fixes."
+        },
+        {
+          "title": "Sentry Expands Seer AI Debugging Agent to Local Development and Code Review",
+          "url": "https://sentry.io/about/press-releases/sentry-expands-seer-ai-debugging-agent/",
+          "snippet": "PR-level defect analysis and background root-cause triage on incoming errors."
+        }
+      ]
     },
     "research_date": "2026-05-18T09:59:34+00:00",
     "__class__": "SoftwareNews"
@@ -487,31 +3578,105 @@
     "__class__": "SoftwareNews"
   },
   {
-    "uid": "0be61b463109af9e",
+    "uid": "aba7e280daa0972b",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Hermes proxy: route one subscription across coding agents",
+    "summary": "A local OpenAI-compatible proxy in Hermes 0.14 lets a single Claude/ChatGPT/Grok subscription drive any compatible coding agent without separate API keys — runs as a local host endpoint authenticated by the user's existing plan.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "proxy",
+      "openai-compatible",
+      "nous-research"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "notes": "Ships as part of Hermes Agent 0.14 — exposes a local OpenAI-compatible endpoint backed by the user's chat subscription."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "b3f49e01c858ca53",
     "created_at": "2026-05-18T09:56:54+00:00",
     "category": "repo",
-    "title": "k3s: lightweight Kubernetes for edge and local clusters",
-    "summary": "Production Kubernetes distribution packaged into a smaller, easier-to-manage runtime; designed for edge, IoT, CI, and resource-constrained environments while remaining upstream-compatible.",
+    "title": "OpenSRE: AI-assisted platform for SRE workflows",
+    "summary": "Open-source SRE platform combining observability, diagnostics, and operational tooling with AI assistance for incident response and reliability automation.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "sre",
+      "observability",
+      "ai-assisted"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "b80645faa1cb341c",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Awesome AI Agents: curated directory of agent frameworks",
+    "summary": "Curated index of AI-agent frameworks, multi-agent systems, orchestration tools, and autonomous-workflow projects — a discovery hub for comparing approaches.",
     "source_video_uid": "e9b87ebf0400c5ec",
     "source_video_id": "CtxB7U0EVhg",
     "source_channel_handle": "ManuAGI",
     "timestamp_in_video": "",
     "links": [
-      "https://github.com/k3s-io/k3s"
+      "https://github.com/e2b-dev/awesome-ai-agents"
     ],
     "tags": [
-      "kubernetes",
-      "edge",
-      "infrastructure"
+      "ai-agent",
+      "awesome-list",
+      "discovery"
     ],
     "research_status": "researched",
     "research": {
-      "repo_url": "https://github.com/k3s-io/k3s",
-      "homepage": "https://k3s.io",
-      "stars": 33033,
-      "forks": 2661,
+      "repo_url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "homepage": "https://e2b.dev/docs",
+      "stars": 27888,
+      "forks": 2892,
+      "license": "NOASSERTION"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "cebe59ea96bbbf37",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Hysteria: high-performance proxy and tunneling protocol",
+    "summary": "Open-source proxy and tunneling system using modern transport protocols to improve latency and throughput across unstable or restricted networks.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/apernet/hysteria"
+    ],
+    "tags": [
+      "networking",
+      "proxy",
+      "tunneling"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/apernet/hysteria",
+      "homepage": "https://v2.hysteria.network/",
+      "stars": 21162,
+      "forks": 2177,
       "language": "Go",
-      "license": "Apache-2.0"
+      "license": "MIT"
     },
     "research_date": "2026-05-18T09:59:34+00:00",
     "__class__": "SoftwareNews"
@@ -548,169 +3713,31 @@
     "__class__": "SoftwareNews"
   },
   {
-    "uid": "34e3ca984fcd1723",
+    "uid": "ef5a68781fd5fa43",
     "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "tool",
-    "title": "Higgsfield Supercomputer: agentic product+distribution workflow",
-    "summary": "Higgsfield AI's Supercomputer combines research, branding, landing-page generation, launch video, and ad variations into one agentic chat — positioned as an end-to-end go-to-market workflow rather than an isolated video generator.",
-    "source_video_uid": "9e6d11f75a0b8118",
-    "source_video_id": "GZUQoSf7GR0",
-    "source_channel_handle": "ManuAGI",
+    "category": "release",
+    "title": "pnpm 11 ships supply-chain mitigations by default",
+    "summary": "pnpm 11 enables three defaults that block this class of attack: minimumReleaseAge refuses packages younger than 24 hours, blockExoticSubdependencies refuses non-registry transitive deps, and approvedBuilds disables install scripts unless whitelisted.",
+    "source_video_uid": "912b42c924151c15",
+    "source_video_id": "gwTQLZSIlsU",
+    "source_channel_handle": "Fireship",
     "timestamp_in_video": "",
     "links": [
-      "https://higgsfield.ai/"
+      "https://pnpm.io/"
     ],
     "tags": [
-      "ai-agent",
-      "video",
-      "marketing",
-      "higgsfield"
+      "pnpm",
+      "package-manager",
+      "security"
     ],
     "research_status": "researched",
     "research": {
-      "homepage": "https://higgsfield.ai/supercomputer-intro",
-      "notes": "Launched 14 May 2026. Built on a custom Hermes 3 series from Nous Research, fine-tuned for agentic orchestration; routes across Claude Opus 4.7 / Sonnet 4.6, GPT-5.5 Pro and Gemini 3.1 Pro. Underlying video model is Seedance 2.0.",
+      "homepage": "https://pnpm.io/",
       "web_findings": [
         {
-          "title": "Higgsfield Supercomputer — Agentic AI Content Creation",
-          "url": "https://higgsfield.ai/supercomputer-intro",
-          "snippet": "Self-learning cloud-native agent for the full marketing creative process."
-        },
-        {
-          "title": "Higgsfield AI Supercomputer — explainx.ai analysis",
-          "url": "https://explainx.ai/blog/higgsfield-ai-supercomputer-hermes-agent-2026",
-          "snippet": "Architecture overview; 40+ built-in tools, three layers of memory."
-        }
-      ]
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "80434ea80f26b030",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "release",
-    "title": "Hermes Agent 0.14.0 — Foundation release",
-    "summary": "Nous Research's Hermes Agent ships its 'Foundation' release: native Windows beta, ~19 s faster cold start, persistent Chrome DevTools Protocol connection (some browser flows up to 180x faster), 1-hour cross-session prompt cache, native video generation, and a /handoff command for transferring live sessions across models without losing context.",
-    "source_video_uid": "d60e6b620236ae95",
-    "source_video_id": "uZIijUyMT20",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://github.com/NousResearch/hermes"
-    ],
-    "tags": [
-      "nous-research",
-      "ai-agent",
-      "windows",
-      "release"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/NousResearch/hermes-agent",
-      "homepage": "https://hermes-agent.nousresearch.com",
-      "stars": 155606,
-      "forks": 24979,
-      "language": "Python",
-      "license": "MIT",
-      "latest_release": "v2026.5.16 — Hermes Agent v0.14.0",
-      "latest_release_date": "2026-05-16"
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "aba7e280daa0972b",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "release",
-    "title": "Hermes proxy: route one subscription across coding agents",
-    "summary": "A local OpenAI-compatible proxy in Hermes 0.14 lets a single Claude/ChatGPT/Grok subscription drive any compatible coding agent without separate API keys — runs as a local host endpoint authenticated by the user's existing plan.",
-    "source_video_uid": "d60e6b620236ae95",
-    "source_video_id": "uZIijUyMT20",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [],
-    "tags": [
-      "proxy",
-      "openai-compatible",
-      "nous-research"
-    ],
-    "research_status": "researched",
-    "research": {
-      "repo_url": "https://github.com/NousResearch/hermes-agent",
-      "notes": "Ships as part of Hermes Agent 0.14 — exposes a local OpenAI-compatible endpoint backed by the user's chat subscription."
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "377bb6dd27135efd",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "model",
-    "title": "DeepSeek V4 Flash free on the Nous portal (limited time)",
-    "summary": "DeepSeek V4 Flash is available free for a limited window on the Nous Research portal, courtesy of NVIDIA AI — usable for coding, reasoning, and long-context autonomous workflows.",
-    "source_video_uid": "d60e6b620236ae95",
-    "source_video_id": "uZIijUyMT20",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://portal.nousresearch.com/"
-    ],
-    "tags": [
-      "deepseek",
-      "model",
-      "nvidia",
-      "free-tier"
-    ],
-    "research_status": "researched",
-    "research": {
-      "homepage": "https://portal.nousresearch.com/",
-      "notes": "Hosted on Nous Research's portal with sponsorship from NVIDIA AI; available free for a limited window."
-    },
-    "research_date": "2026-05-18T09:59:34+00:00",
-    "__class__": "SoftwareNews"
-  },
-  {
-    "uid": "4fb57d18d58b94fa",
-    "created_at": "2026-05-18T09:56:54+00:00",
-    "category": "release",
-    "title": "Mistral Vibe: open-source terminal coding agent",
-    "summary": "Mistral's open-source terminal-native coding agent — async tasks, sub-agents, slash-command skills, multi-choice clarification, IDE plugins (VS Code, JetBrains), bring-your-own-key, and a paid tier on Le Chat Pro at USD 14.99/month with student discount. Powered by Devstral, Codestral, and Codestral Embed.",
-    "source_video_uid": "5b7177ee266d84fd",
-    "source_video_id": "WxjviB1pJbk",
-    "source_channel_handle": "ManuAGI",
-    "timestamp_in_video": "",
-    "links": [
-      "https://mistral.ai/",
-      "https://chat.mistral.ai/"
-    ],
-    "tags": [
-      "mistral",
-      "cli",
-      "coding-agent",
-      "open-source"
-    ],
-    "research_status": "researched",
-    "research": {
-      "homepage": "https://mistral.ai/news/devstral-2-vibe-cli",
-      "repo_url": "https://github.com/mistralai/mistral-vibe",
-      "license": "Apache-2.0",
-      "notes": "Launched late January 2026 alongside Devstral 2; in 2026 the model under the hood was swapped to Mistral Medium 3.5. ACP-compatible for IDE integration.",
-      "web_findings": [
-        {
-          "title": "Introducing Devstral 2 and Mistral Vibe CLI — Mistral AI",
-          "url": "https://mistral.ai/news/devstral-2-vibe-cli",
-          "snippet": "Native CLI built for Devstral; explores, modifies, and executes changes across a codebase from natural language."
-        },
-        {
-          "title": "mistralai/mistral-vibe — GitHub",
-          "url": "https://github.com/mistralai/mistral-vibe",
-          "snippet": "Minimal CLI coding agent by Mistral. Apache-2.0."
-        },
-        {
-          "title": "Remote agents in Vibe — Mistral AI",
-          "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-          "snippet": "Adds remote agents and swaps in Mistral Medium 3.5."
+          "title": "pnpm — Fast, disk space efficient package manager",
+          "url": "https://pnpm.io/",
+          "snippet": "minimumReleaseAge, blockExoticSubdependencies and approved-builds are documented as defaults from v11."
         }
       ]
     },

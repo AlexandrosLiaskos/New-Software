@@ -1,0 +1,35 @@
+{
+  "uid": "4f87868b1e1ea867",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "release",
+  "title": "Gemma 4 gains multi-token prediction drafters for ~3x faster inference",
+  "summary": "Google releases Multi-Token Prediction (MTP) drafter models for the Gemma 4 family. Through speculative decoding the drafters deliver up to a 3x speedup with no degradation in output quality. The drafters ship under the Apache 2.0 license, with weights on Hugging Face and Kaggle.",
+  "source_video_uid": "fd8c1d4fb99c38ed",
+  "source_video_id": "JFgD4c3Tab0",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:27",
+  "links": [
+    "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"
+  ],
+  "tags": [
+    "gemma",
+    "google",
+    "open-weights",
+    "inference",
+    "speculative-decoding"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "notes": "Released 5 May 2026. Compatible with transformers, MLX, vLLM, SGLang and Ollama.",
+    "web_findings": [
+      {
+        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+        "snippet": "Up to 3x speedup with no degradation in output quality, Apache 2.0 license."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

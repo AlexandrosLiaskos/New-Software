@@ -1,0 +1,35 @@
+{
+  "uid": "bd654af89252eb93",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "model",
+  "title": "Updated Gemini 3 Flash candidate appears on LM Arena",
+  "summary": "An anonymous Gemini 3 Flash candidate has surfaced on LM Arena keeping the same model slug but showing markedly higher output quality, with early head-to-head tests suggesting performance close to Gemini 3.1 Pro. The build is widely interpreted as an early Gemini 3.1, 3.2 or 3.5 Flash preview ahead of Google I/O 2026.",
+  "source_video_uid": "c53290e4563472df",
+  "source_video_id": "2dayUh6KeZU",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:00",
+  "links": [
+    "https://lmarena.ai",
+    "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/"
+  ],
+  "tags": [
+    "gemini",
+    "gemini-3-flash",
+    "google",
+    "lm-arena",
+    "model"
+  ],
+  "research_status": "researched",
+  "research": {
+    "notes": "Spotted on LM Arena under the existing Gemini 3 Flash slug; pre-release signals (leaked AI Studio metadata, app strings) point to Gemini 3.2 Flash with $0.25/M input and $2.00/M output. Expected launch window: Google I/O, May 19-20, 2026.",
+    "web_findings": [
+      {
+        "title": "Google prepares new upgrades for Gemini Flash model",
+        "url": "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/",
+        "snippet": "An anonymous Gemini Flash candidate has surfaced on LM Arena for evaluation."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

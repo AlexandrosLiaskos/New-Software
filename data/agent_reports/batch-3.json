@@ -1,0 +1,73 @@
+{
+  "agent_id": "batch-3",
+  "finished_at": "2026-05-18T10:23:19+00:00",
+  "news_count": 30,
+  "videos": [
+    {
+      "video_uid": "c409e51ed299fa7e",
+      "news_uids": [
+        "260378703ec04de5",
+        "6c1679b6ac0dd94c",
+        "3f465eb8ca1910b9",
+        "e4c105edb0d8c8dc",
+        "d9713822e1f9c15d",
+        "a5d07af4df9a314e",
+        "2baf1af4ca2abe53"
+      ],
+      "status": "analyzed"
+    },
+    {
+      "video_uid": "292f305a188c741a",
+      "news_uids": [
+        "60a8d2feacebc54e",
+        "4309f476cdf097c1",
+        "f7de9abc86df0ae4",
+        "077debe4be097163",
+        "dd3d148236809fe9",
+        "055c89c25ee46286",
+        "24e96bf826b37ab1"
+      ],
+      "status": "analyzed"
+    },
+    {
+      "video_uid": "bb62d02d4b4ddfa3",
+      "news_uids": [
+        "53fb0e006f43c1cf",
+        "69aff7d574a0ca5c",
+        "426d169123f6514c"
+      ],
+      "status": "analyzed"
+    },
+    {
+      "video_uid": "4d0c1c6f11bce0e9",
+      "news_uids": [
+        "52115a49dce1ba9e",
+        "4a7d54b521af954a",
+        "5ffed07daf3a22ca",
+        "40c572f9620ce8ec",
+        "14df782198c656b6",
+        "bbf6e6c737faa7b0",
+        "8aaa278692df9995",
+        "3280c7dee59c6bff",
+        "5a2edfb19027424d",
+        "396b50d866a2d2f4"
+      ],
+      "status": "analyzed"
+    },
+    {
+      "video_uid": "6995226273c5c797",
+      "news_uids": [
+        "3535839ef36c93f8",
+        "4d2bae6d585d2c85"
+      ],
+      "status": "analyzed"
+    },
+    {
+      "video_uid": "abafe9ee7e5aa6b0",
+      "news_uids": [
+        "eda052350b25ebb9"
+      ],
+      "status": "analyzed"
+    }
+  ]
+}

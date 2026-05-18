@@ -1,0 +1,27 @@
+{
+  "uid": "1b57f2f0a5f6de18",
+  "created_at": "2026-05-18T10:22:14+00:00",
+  "category": "news",
+  "title": "Codebuff switches default routing to GLM 5.1",
+  "summary": "Codebuff (and Freebuff) have switched their default model from MiniMax M2.5 to GLM 5.1. The team reports internal eval scores rising from 68% to 83% on coding benchmarks after the swap, with reported performance comparable to Claude Opus 4.6 on common tasks.",
+  "source_video_uid": "2d0b571630cfaaba",
+  "source_video_id": "JZIf-HiutvY",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "03:55",
+  "links": [
+    "https://codebuff.com"
+  ],
+  "tags": [
+    "codebuff",
+    "freebuff",
+    "glm-5.1",
+    "model-routing",
+    "benchmarks"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Benchmark figures (68% to 83%) are first-party Codebuff numbers reported in the video; not independently verified."
+  },
+  "research_date": "2026-05-18T10:22:14+00:00",
+  "__class__": "SoftwareNews"
+}

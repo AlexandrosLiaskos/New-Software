@@ -1,0 +1,34 @@
+{
+  "uid": "1780c134bfce185e",
+  "created_at": "2026-05-18T10:21:27+00:00",
+  "category": "model",
+  "title": "Gemini 3.5 Flash checkpoint tested in LM Arena",
+  "summary": "A Gemini Flash-tier checkpoint, labelled 'Gemini 3.0 flash' inside the LM Arena but reported as Gemini 3.5 Flash, shows reasoning and front-end generation closer to Claude Opus 4.7 and Gemini 3.1 Pro. Pricing leaks elsewhere put it at $0.25/1M input and $2.00/1M output tokens.",
+  "source_video_uid": "f9ae3741ae735fcf",
+  "source_video_id": "oekV5AQGRCY",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "02:26",
+  "links": [
+    "https://lmarena.ai/"
+  ],
+  "tags": [
+    "gemini",
+    "google",
+    "model-release",
+    "flash"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://deepmind.google/technologies/gemini/",
+    "notes": "Closely related to the Gemini 3.2 Flash leak documented by TestingCatalog; the host conflates the 3.2 and 3.5 naming because Google was rapidly renaming checkpoints in arena.",
+    "web_findings": [
+      {
+        "title": "Gemini 3.2 Flash quietly leaks ahead of Google I/O 2026",
+        "url": "https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model/",
+        "snippet": "Gemini 3.2 Flash priced at $0.25 per million input tokens and $2.00 per million output tokens, matching much of Gemini 3.1 Pro's capability."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:27+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,25 @@
+{
+  "uid": "ecc7677f6e6b68ae",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "news",
+  "title": "Anthropic doubles Claude Code rate limits across paid plans",
+  "summary": "At the Code with Claude developer conference, Anthropic announced an immediate doubling of Claude Code 5-hour rate limits across Pro, Max, Teams and Enterprise plans, and removed the peak-hour limit reduction for Pro and Max users. API limits for Opus models were also raised.",
+  "source_video_uid": "7a7f7bd43d75b8d9",
+  "source_video_id": "xXLjeP_AyOg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "04:14",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "rate-limits"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Conference announcement reported in transcript. The reported SpaceX compute partnership and 'Colossus 1' framing is unverified and likely speculative."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

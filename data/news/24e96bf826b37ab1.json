@@ -1,0 +1,26 @@
+{
+  "uid": "24e96bf826b37ab1",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "Google Gemini Notebooks workspace for files and project tracking",
+  "summary": "Google is pushing Gemini Notebooks, an AI-native workspace that consolidates files, notes, requirements and drafts in one container. A demonstrated workflow uses one notebook to manage an entire graduate-school application with deadline tracking, transcripts and progress.",
+  "source_video_uid": "292f305a188c741a",
+  "source_video_id": "t5UtgnjQST8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:34",
+  "links": [
+    "https://notebooklm.google/"
+  ],
+  "tags": [
+    "google",
+    "gemini",
+    "notebooklm",
+    "workspace"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Update of NotebookLM-style product; transcript-sourced."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

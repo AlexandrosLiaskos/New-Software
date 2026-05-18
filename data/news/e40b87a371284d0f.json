@@ -1,0 +1,28 @@
+{
+  "uid": "e40b87a371284d0f",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "Claude Code Agent View: unified multi-session dashboard",
+  "summary": "Anthropic launched Agent View inside Claude Code as a research preview, providing a centralized dashboard to manage multiple concurrent Claude sessions. Users can inspect sessions, reply inline to unblock agents, and dispatch parallel coding tasks. Available to Pro, Max, Team, Enterprise and Claude API plans.",
+  "source_video_uid": "ddb71460f4d430fe",
+  "source_video_id": "-jINRoST0mk",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:49",
+  "links": [
+    "https://www.anthropic.com/claude-code",
+    "https://docs.claude.com/en/docs/claude-code"
+  ],
+  "tags": [
+    "anthropic",
+    "claude-code",
+    "agent-view",
+    "ide-tooling"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.anthropic.com/claude-code",
+    "notes": "Announced as a research preview alongside other Claude Code updates. Activated via left-arrow from any active session or the 'claude agents' command in the CLI."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

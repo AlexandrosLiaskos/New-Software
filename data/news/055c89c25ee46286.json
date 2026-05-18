@@ -1,0 +1,26 @@
+{
+  "uid": "055c89c25ee46286",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "release",
+  "title": "xAI Grok adds connectors for email, slides, Notion and calendar",
+  "summary": "xAI expanded Grok's connector support so the assistant can fetch emails, import presentations, organise Notion workspaces, manage calendars and interact with external productivity tools directly inside the chat interface.",
+  "source_video_uid": "292f305a188c741a",
+  "source_video_id": "t5UtgnjQST8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "10:20",
+  "links": [
+    "https://x.ai/"
+  ],
+  "tags": [
+    "xai",
+    "grok",
+    "connectors",
+    "productivity"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Feature set described in transcript; not separately verified."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

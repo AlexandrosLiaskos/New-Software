@@ -1,0 +1,45 @@
+{
+  "uid": "14df782198c656b6",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "Poolside AI releases Laguna XS.2 open-weight 33B MoE coding model",
+  "summary": "Poolside AI, a newly emerging open-source lab, released Laguna XS.2, a 33-billion-parameter mixture-of-experts model with three billion active parameters, trained on Poolside's own infrastructure. The model is designed for agentic coding and long-horizon workflows and is licensed under Apache 2.0.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "09:23",
+  "links": [
+    "https://poolside.ai/blog/introducing-laguna-xs2-m1"
+  ],
+  "tags": [
+    "poolside",
+    "laguna",
+    "open-source",
+    "coding",
+    "moe"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://poolside.ai/models",
+    "license": "Apache-2.0",
+    "web_findings": [
+      {
+        "title": "Introducing Laguna XS.2 and Laguna M.1",
+        "url": "https://poolside.ai/blog/introducing-laguna-xs2-m1",
+        "snippet": "Apache 2.0 33B MoE with 3B active; positioned as Poolside's first open-weight release."
+      },
+      {
+        "title": "Poolside Laguna XS.2 SWE-bench score",
+        "url": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
+        "snippet": "XS.2 reaches 68.2 percent on SWE-bench Verified."
+      },
+      {
+        "title": "VentureBeat coverage",
+        "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+        "snippet": "Free, locally-runnable agentic coding model."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

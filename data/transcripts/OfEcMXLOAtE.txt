@@ -1,0 +1,350 @@
+[00:00] What if I was to tell you that there is
+[00:02] a way for you to create AI agents with a
+[00:05] single platform with no code required
+[00:07] and that it is so easy that a
+[00:10] 10-year-old can create a highly
+[00:12] sophisticated agent in minutes. It's one
+[00:14] of the easiest and best AI agent
+[00:17] builders that's out there. And this is
+[00:19] where I would like to introduce
+[00:20] Toolhouse, which is also today's video
+[00:22] sponsor. Toolhouse is basically a
+[00:25] backend as a service for AI developers
+[00:28] and regular AI users. It gives you
+[00:31] everything you need to build AI agents,
+[00:33] give them tools like sending emails,
+[00:35] scraping data, or running code, and you
+[00:38] can even add knowledge with rag, deploy
+[00:41] instantly, all without dealing with
+[00:43] complicated setups. So, whether you're
+[00:45] developer, hacker, or full-on 5-voter,
+[00:48] this is a personal platform that is
+[00:51] built for you. For example, take a look
+[00:53] at this demo. One of the devs at
+[00:55] Toolhouse spoke to an agent builder
+[00:57] using his own voice to create an AI
+[01:00] agent that automates Google services
+[01:02] like scraping news topics, inputting
+[01:04] them into a Google Doc, summarizing the
+[01:07] content, and then sending an email to
+[01:09] the recipient using Google. This AI
+[01:12] agent was able to orchestrate all of
+[01:14] these different tools and literally
+[01:16] created with the dev's voice. And you
+[01:19] can clearly see that it automated a task
+[01:22] in legit a few minutes, which was super
+[01:25] easy, saving him time scraping content
+[01:27] and summarizing it into emails. This
+[01:30] removes all the backend complexity for
+[01:32] AI apps.
+[01:34] And this is what you can do with
+[01:35] Toolhouse, the all-in-one backend for AI
+[01:38] agents. And I personally believe it's
+[01:40] the easiest way for you to create AI
+[01:42] agents using different tools that they
+[01:44] have, like their CLI. You also have the
+[01:47] ability to use rag where you can upload
+[01:49] docs and have the agents get the
+[01:51] knowledge instantly. You can even use
+[01:53] their MCP server hookup, which is a way
+[01:56] for you to give agent abilities like
+[01:59] email scraping directly to other agents.
+[02:02] And you can even use their agent builder
+[02:04] or their studio, which is a way for you
+[02:06] to use their no-code platform to build
+[02:09] agents. At the end, you have the ability
+[02:12] to build powerful AI agents with
+[02:14] multiple tools, knowledge, and API
+[02:17] endpoints better than any other AI agent
+[02:20] platform. If you want the best AI tools,
+[02:23] workflows, and drops before everyone
+[02:25] else, join my free newsletter with the
+[02:27] link in the description below, which is
+[02:28] completely free. To get started, it is
+[02:31] super simple. Just click on start
+[02:32] building and create an account. This is
+[02:35] where you can easily create an account
+[02:36] with your Google or GitHub account. And
+[02:39] once you have created an account, you're
+[02:40] going to be then sent over to the main
+[02:42] dashboard of Toolhouse. This is the
+[02:44] homepage where you can essentially just
+[02:46] simply type in in plain natural language
+[02:48] to build out an agent, and it'll set it
+[02:51] up for you quite easily and
+[02:53] autonomously. You can also use your
+[02:55] voice to create AI agents in Toolhouse
+[02:57] using Verb AI. So, you can essentially
+[02:59] talk to the Toolhouse agent. You can
+[03:02] essentially tell it in natural language
+[03:04] as you speak.
+[03:06] Hey, let's build an agent. Got an idea?
+[03:09] Yep. Can you create me a deep research
+[03:11] agent for me? Love it. What kind of
+[03:14] research should it focus on?
+[03:16] Finding new information about large
+[03:19] language models. Nice. Should it run on
+[03:21] a schedule or only on demand?
+[03:23] Yep, every single day at 9:00 a.m. So,
+[03:26] you can see as it's actually processing
+[03:29] my query, it is using all the tools that
+[03:31] Toolhouse has to configure that agent.
+[03:35] Your agent is live and scheduled daily
+[03:37] at 9:00 a.m. your time. You'll see the
+[03:39] testing workbench in a few seconds.
+[03:42] Here's your first draft. Give it a go.
+[03:44] We can keep improving it together. Let
+[03:46] me know what you think after you try it,
+[03:48] and we'll make it even more awesome. We
+[03:50] could also refine sources it prioritizes
+[03:53] or make it email you automatically. And
+[03:55] as you saw, I simply just used my voice
+[03:58] to have Toolhouse actually focus on
+[04:01] creating the entire pipeline for me.
+[04:03] You're able to test out the workbench
+[04:05] and this way you can get a better
+[04:07] understanding of what the agent is
+[04:09] capable of doing. This is where I sent
+[04:11] in the user query to conduct today's
+[04:14] deep research on large language models
+[04:16] and it is going to use all the different
+[04:19] integrations and tools to execute this
+[04:21] task. You don't touch infrastructure.
+[04:24] This is something that builds out the
+[04:26] full agent logic and that's what I mean.
+[04:28] It's able to fully create all of these
+[04:31] different agents for you autonomously
+[04:33] and you can see that we have a lot of
+[04:35] information being outputted like the new
+[04:38] Claude mythos, the sources as well being
+[04:41] provided. Something quickly to note when
+[04:43] you're using the voice mode, you also
+[04:44] have the ability to use the keyboard as
+[04:46] well. So just keep that in mind. You
+[04:48] also have the ability to upload files
+[04:49] and and interact with the agent with
+[04:51] this chat panel as well. And remember,
+[04:53] if you want to make something better a
+[04:54] part of this agent, like if you do not
+[04:57] like the output quality, you can
+[04:58] actually make a change and you can tell
+[05:00] it that I want to specifically change a
+[05:03] certain output. But I personally like
+[05:05] what it has generated and now it is
+[05:08] something that I can readily access
+[05:10] anytime I am looking to use this deep
+[05:13] research agent that I just created. This
+[05:15] is an agent that you can even access
+[05:17] through a chatbot and share it around so
+[05:19] that others can access through this link
+[05:22] that you are providing. Something that I
+[05:24] also want to note is that there are
+[05:26] ready-made templates for you to easily
+[05:28] use to automate specific functions like
+[05:31] invoice processing. Now, if you want to
+[05:33] enhance the capability of your agent,
+[05:35] for example, like in my case, I have it
+[05:38] right now on a schedule where every
+[05:40] single day at 9:00 a.m. it is going to
+[05:42] query the agent to process a deep
+[05:45] research on new daily large language
+[05:47] model information. But say if I want to
+[05:50] extend the capability of this agent,
+[05:52] like have it so that it is able to email
+[05:55] me every single day on this briefing
+[05:57] that it has created. What I can do is
+[05:59] invoke an integration to process that
+[06:03] agent's briefing through Gmail, for
+[06:05] example. This is where you have the
+[06:07] ability to add in various sorts of
+[06:09] integrations to enhance the capability
+[06:11] of your language model even further. You
+[06:14] can see that in my case, I have enabled
+[06:16] Gmail to actually send me a email every
+[06:19] single day of that daily brief. And this
+[06:21] way I can automate a specific function
+[06:24] like that quite easily by simply adding
+[06:26] in this integration. So now I can go
+[06:29] back to my daily large language model
+[06:30] deep research agent. I can click on edit
+[06:33] agent. And now what I can do is within
+[06:36] integrations, I can add in a new
+[06:38] integration. This is where I have
+[06:40] connected my Gmail integration, so I can
+[06:44] search up Gmail. And what I can do is
+[06:46] add in any of these different functions,
+[06:50] like listing filters or having it so
+[06:52] that I am able to send an email. So I'm
+[06:55] going to select the specific one and I
+[06:57] am going to save it. Then within the
+[06:59] system prompt, I'm going to specify to
+[07:02] send me an email. And I'm going to have
+[07:04] it send that briefing to the specific
+[07:07] email. Now one thing that I also want to
+[07:09] mention is that you have the ability
+[07:11] have it access through an API so that
+[07:14] you can essentially have it integrated
+[07:16] within your application. Another thing
+[07:18] you can do is have it vibe coded within
+[07:21] your application, which is also pretty
+[07:22] interesting cuz if you were to click
+[07:24] this button where I can copy the prompt
+[07:26] and then I can open up lovable and now I
+[07:29] can simply just paste in this exact same
+[07:30] prompt that will use that specific tool
+[07:33] house agent that we had just built. So I
+[07:36] can then send in this prompt.
+[07:38] Now lovable will essentially build out
+[07:40] this full on agent interface using the
+[07:43] Toolhouse agent. And there you go, just
+[07:45] like that, it has built the chat
+[07:46] interface that is now powered by
+[07:48] Toolhouse, and I can chat with it. I can
+[07:50] say, "Conduct a new research on new
+[07:52] LLMs." And it is going to be able to now
+[07:55] execute this task for me. And just like
+[07:57] that, the Toolhouse agent was something
+[07:59] that outputted this, the executive
+[08:01] summary of all the new model releases,
+[08:04] and it also provides all the sources.
+[08:06] Something you can also do is add in
+[08:08] agent files for the agent to manage with
+[08:11] these different individual files. But
+[08:13] that is the gist of how you can easily
+[08:16] configure the agent. But now, let's
+[08:18] actually test this out.
+[08:21] Now, if I'm to check my email, I have
+[08:23] gotten the daily LLM intelligence brief,
+[08:25] which gives me a summary of the new
+[08:27] model releases, like the Anthropic
+[08:30] Glasswing Project, which introduces
+[08:32] Mythos. We also have a couple of other
+[08:34] things, like Spud, as well as all the
+[08:36] sources listed out, too. So, this is
+[08:38] actually pretty interesting how fast I
+[08:40] was able to automate this task with
+[08:42] essentially my voice. Something to also
+[08:44] note is that you can manage all your
+[08:45] auth connections over here. So, if you
+[08:47] want to revoke access to a certain
+[08:49] integration, you can do so over here.
+[08:51] And you can also manage all your
+[08:53] individual logs to get a better
+[08:54] understanding of what is happening in
+[08:56] the background. Now, what I'm going to
+[08:58] be also doing is showcasing how you can
+[09:00] create an AI agent that reads my private
+[09:02] documents, summarizes insights, and then
+[09:05] emails me the results automatically. And
+[09:07] this is using the CLI that Toolhouse
+[09:10] provides. What we're going to need to do
+[09:12] is first install this Toolhouse CLI. So,
+[09:14] we're going to open up our command
+[09:15] prompt, and then we're going to paste in
+[09:16] this command, and I'll leave all these
+[09:18] links in the description below. Then,
+[09:20] what we're going to do is run this
+[09:21] command first, which is the th login to
+[09:24] set up Toolhouse. Then, what we got to
+[09:26] do is create your th file, and this is
+[09:28] where you need to create the agent file
+[09:31] of whatever agent you're trying to
+[09:33] create. You can give it whatever name
+[09:34] you want, but what I'm going to be doing
+[09:36] is creating a rag knowledge base agent.
+[09:40] So, we can open up our command prompt,
+[09:42] and then what we can type in is th new
+[09:44] doc agent. Now, if you are to use the
+[09:47] run command, you can test out the agent
+[09:49] with the name of the agent you have
+[09:51] created, and you can essentially deploy
+[09:53] it once you have readily made it
+[09:56] functional by adding in the
+[09:57] functionality. But, this is obviously a
+[10:00] more developer-focused method of using
+[10:03] Toolhouse within the CLI. But, if you
+[10:05] want to make it easier so that you can
+[10:07] essentially have a coding agent work
+[10:09] with Toolhouse to configure your agents,
+[10:12] you can use a custom MCP server
+[10:13] integration using Smethery, Zapier, or
+[10:16] Pipedream. And they have a step-by-step
+[10:18] guide as to how you can set this up.
+[10:20] This is a bit more complicated, but
+[10:22] it'll make you use the CLI in a
+[10:24] developer-focused method easier. What
+[10:26] I'm going to do is use the CLI myself to
+[10:29] essentially create and configure my
+[10:32] agent. What I'm going to do now is add
+[10:34] different notes. And this is where I'm
+[10:36] going to give it private knowledge of my
+[10:38] files, so that the agent can actually
+[10:40] reason over my documents. Now, you can
+[10:42] clearly see that I have specified this
+[10:45] PDF, and I have added it to my agent.
+[10:49] And now, you can essentially access this
+[10:52] agent that is able to perform rag on my
+[10:54] private files. Now, all we got to do is
+[10:56] just deploy my agent. So, in this case,
+[10:59] we can use the th deploy command, and
+[11:01] then go back into the command prompt,
+[11:03] and then paste in this command. And just
+[11:05] like that, it has been deployed, and you
+[11:07] have two different options to perform
+[11:08] rag now with this new agent that we have
+[11:10] created. You can use this agent within
+[11:12] the browser using the th open command,
+[11:15] where you can open it up in your browser
+[11:17] to test it out. So, I can simply go
+[11:19] ahead and run this command, or you have
+[11:20] the capability to test it out through an
+[11:23] API. And this is the new creative writer
+[11:26] or rag agent that we had just created
+[11:29] using the CLI.
+[11:30] So, let's test this out. I simply just
+[11:32] asked it what this PDF is about and it
+[11:34] is telling me the PDF is about the
+[11:36] YouTube channel in the world of AI and
+[11:39] this is a super simple rag agent I built
+[11:42] through the CLI. If you like this video
+[11:44] and would love to support the channel,
+[11:46] you can consider donating to my channel
+[11:48] through the super thanks option below.
+[11:50] Or you can consider joining our private
+[11:52] Discord where you can access multiple
+[11:54] subscriptions to different AI tools for
+[11:56] free on a monthly basis, plus daily AI
+[12:00] news and exclusive content, plus a lot
+[12:02] more.
+[12:03] And that's how you can easily build AI
+[12:06] agents using Toolhouse. This is where,
+[12:08] as you saw from my examples, you can
+[12:11] fully create a whole pipeline in
+[12:13] minutes, whether that is integrating it
+[12:16] through a live API endpoint or just
+[12:19] simply using the dashboard to create the
+[12:21] AI agent or even using my CLI. This is
+[12:24] where you can go in just minutes using
+[12:26] Toolhouse to create a full agent
+[12:28] pipeline that can automate anything and
+[12:31] it completely removes the back-end
+[12:32] complexity and lets you focus actually
+[12:35] on building useful AI systems. This is
+[12:37] something that I highly recommend that
+[12:39] you take a look at as you can get
+[12:40] started completely for free and I'll
+[12:42] leave all these links that I'm using in
+[12:43] today's video in the description below.
+[12:45] But with that thought, guys, thank you
+[12:46] guys so much for watching. Make sure you
+[12:47] go ahead and take a look at the second
+[12:49] channel, join the newsletter, the
+[12:51] Discord, follow me on Twitter and lastly
+[12:52] make sure you guys subscribe, turn on
+[12:54] the notification bell, like this video
+[12:55] and please take a look at our previous
+[12:56] videos so that you can stay up-to-date
+[12:58] with the latest AI news. With that
+[13:00] thought, guys, have an amazing day.
+[13:01] Spread positivity and I'll see you guys
+[13:03] really shortly. Peace out, fellas.

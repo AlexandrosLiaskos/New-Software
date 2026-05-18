@@ -1,0 +1,334 @@
+[00:00] Open AI has truly made a massive
+[00:02] comeback with the launch of GPT 5.5, a
+[00:05] faster and more capable flagship model
+[00:08] that's built for complex workflows like
+[00:10] coding, research, and data analysis. And
+[00:13] honestly, in several areas, it genuinely
+[00:15] feels stronger than the current cloud
+[00:17] models. Right now, I personally believe
+[00:19] that Open AI may have pulled ahead in
+[00:22] the AI race, especially because
+[00:24] Enthropic has been self-sabotaging its
+[00:27] own community with aggressive rate
+[00:29] limits and reduce model performance.
+[00:32] Many users have confirmed and noticed
+[00:34] the quality shift after Enthropic
+[00:36] reportedly lowered the reasoning effort
+[00:39] on their models from high to medium,
+[00:41] which noticeably impacted output quality
+[00:44] and reliability. combined with the new
+[00:47] restrictions, it honestly made using
+[00:49] cloud code frustrating. Despite it being
+[00:52] such an incredible product overall, for
+[00:54] example, just take a look at my own
+[00:56] experience. I'm literally paying for
+[00:58] Enthropics Pro plan and with Opus 4.7
+[01:01] inside Cloud Code. I can run through
+[01:04] basically my entire daily quota with
+[01:06] essentially one serious coding prompt.
+[01:08] That's not just usable. It is something
+[01:11] that will be very difficult to justify
+[01:13] spending $20 a month for what feels like
+[01:16] an extremely rate limited usage. This is
+[01:19] where I had just simply requested it to
+[01:21] create a Mac OS clone and you can see I
+[01:24] hit my usage within a couple seconds.
+[01:26] Just compare the value proposition. Open
+[01:29] AI's $20 plus plan gives you
+[01:31] dramatically more usable coding time
+[01:34] rather than Enthropics Pro plan because
+[01:36] GPT 5.5 is far more token efficient.
+[01:40] meaning you get way more token output
+[01:42] before hitting limits. And in practice,
+[01:45] it is three to five times more real
+[01:47] coding usage for the same price. Odd may
+[01:50] still win in certain niche code quality
+[01:53] scenarios, but the GPT 5.5 combined with
+[01:56] codecs is simply the better overall
+[01:58] developer workflow right now. That's
+[02:00] exactly why I'm here today to tell you
+[02:02] Open AI is back in the lead with GPT
+[02:05] 5.5, especially when you combine it with
+[02:07] Codeex, which I honestly think is one of
+[02:10] the most underrated AI coding tools
+[02:12] available right now. In my opinion, this
+[02:15] is currently the best AI coding workflow
+[02:17] in the market because you get both
+[02:18] strong model quality and dramatically
+[02:20] better usable volume while using this
+[02:23] perfect harness at the moment which is
+[02:25] practically usable for almost every use
+[02:28] case. Whether that is data analysis,
+[02:30] code generation or debugging, whatever
+[02:33] it may be, you can use it and do
+[02:34] everything within codec. For example, I
+[02:37] built a Terraria style game using GBT
+[02:40] 5.5 and Codex. And it even leveraged GBT
+[02:43] image 2 directly within Codex to
+[02:45] generate the visual game assets. This is
+[02:48] honestly insane cuz it was able to not
+[02:50] even use up 25% of my quota for the day.
+[02:54] And the fact that it's able to output
+[02:56] such quality like this is just
+[02:58] incredible. And for those who do not
+[03:00] know what Open AI's codeex is, it's an
+[03:03] AI coding agent like Claude Code that
+[03:05] can autonomously write, edit, debug, and
+[03:08] execute code across your entire software
+[03:10] project. It can even help you control
+[03:12] your computer. It can even control and
+[03:15] automate browser tasks. It's practically
+[03:17] cloud code, but ran with open AI models.
+[03:20] Codeex can essentially help you work
+[03:23] around any type of work from organizing,
+[03:26] researching to generating spreadsheets,
+[03:28] slide decks, summaries, and much more.
+[03:31] You can even have it catch up on what
+[03:33] changed across Slack, Gmail, Google
+[03:36] Calendar, and instantly see what
+[03:38] actually needs your attention across
+[03:39] these different apps. What's great is
+[03:41] that you can even also use it for
+[03:44] controlling your computer. Whether that
+[03:46] is your browser to automate browser
+[03:48] based tasks or simply automate
+[03:50] computer-based tasks like opening up
+[03:52] applications, organizing things, or just
+[03:55] simply using it to debug various sorts
+[03:57] of apps. You can use codecs to even
+[04:00] analyze a data export, flag what
+[04:02] changed, and help draft a polished
+[04:04] readout in seconds. And most
+[04:07] importantly, you can use it to build
+[04:09] almost anything. web development,
+[04:11] back-end Python scripts, or whatever you
+[04:14] are looking to automate. This is a
+[04:16] perfect tool to almost do anything. And
+[04:19] honestly, there's so much more to it.
+[04:21] So, let's dive into Codeex and showcase
+[04:23] what you can actually do with it. Make
+[04:25] sure you go ahead and actually sign up
+[04:27] with an account with Chat GPT if you do
+[04:29] not have one because you can actually
+[04:30] get started with Codeex completely for
+[04:32] free as they have a free tier. You can
+[04:34] install it for Windows as well as for
+[04:36] Mac OS. And once you have it installed,
+[04:39] we can get started with the usage. If
+[04:41] you want the best AI tools, workflows,
+[04:44] and drops before everyone else, join my
+[04:46] free newsletter with the link in the
+[04:48] description below, which is completely
+[04:49] free. After installing, you're going to
+[04:52] be then sent over to the main dashboard
+[04:54] of Codeex, and it is super userfriendly,
+[04:57] just like how Chat GBT is. This is
+[04:59] essentially where you can command Codeex
+[05:01] to do almost anything. If you are to
+[05:04] actually use the at command, this is
+[05:06] where you have couple of different
+[05:07] plugins you can use. Right now I only
+[05:09] have browser use which is where I can
+[05:12] control my browser but you can also even
+[05:14] control your computer. Now to manage
+[05:16] these different plugins on the left hand
+[05:18] panel you have a plug-in store and this
+[05:20] is where you can easily install any
+[05:22] plugin to essentially have codecs used
+[05:25] to automate certain things like sentry
+[05:27] to inspect recent sentry issues and
+[05:29] events building Mac OS apps. There's so
+[05:31] many different plugins that will
+[05:33] essentially help you automate and build
+[05:35] off of whatever you're doing with
+[05:37] codecs. And using those plugins, you can
+[05:40] practically build almost anything. Like
+[05:42] for example, I built a CSGO clone in
+[05:45] 3GS. And this is where you even have a
+[05:48] live web preview of whatever you have
+[05:50] built. Whether that is opening up web
+[05:52] development projects, frontends, or you
+[05:55] can even visualize whatever you had
+[05:57] built, whether that is slide decks, data
+[06:00] analysis, or even different documents.
+[06:02] So, this is just incredible cuz I had
+[06:05] actually built out a fullon CSGO clone.
+[06:08] And the fact that I'm able to move
+[06:09] around, I'm able to even shoot it is not
+[06:12] going to work directly within this web
+[06:14] browser. But if I'm to open it up within
+[06:16] another browser, you can see right now
+[06:18] that I'm able to shoot and I'm able to
+[06:20] actually secure the flag as well, which
+[06:22] is incredible. And what I really like
+[06:24] about Codeex is you can practically
+[06:25] visualize almost anything, whether that
+[06:27] is diffs, text files, MDs, whatever it
+[06:30] may be. You can easily review it
+[06:32] directly and you can even edit the code
+[06:34] as well. What's also nice is you can
+[06:36] even open up the terminal. So this is a
+[06:39] great way for you to manage multiple
+[06:41] sessions, multiple terminals directly in
+[06:44] one interface. And what I would
+[06:47] recommend is within the chat panel you
+[06:49] see on the left hand side, you can
+[06:51] actually create multiple projects. And
+[06:53] this is going to keep everything well
+[06:54] organized with your coding agents. And
+[06:57] that way you can easily deploy the
+[06:59] codeex agents into a specified project
+[07:02] to work upon it directly within that
+[07:04] project only. What's also great is that
+[07:06] you can even push commits directly from
+[07:08] the codeex app where you can write in
+[07:10] where you can even commit and then
+[07:12] create a PR as well. Now you even have
+[07:15] automations that you can set up where
+[07:17] you can have it so that it is able to
+[07:20] schedule these different events within
+[07:22] the codeex app. For example, I clicked
+[07:24] on new automation. I told it find me new
+[07:26] AI news and send me a brief every day
+[07:28] with a summary plus insights. Now you
+[07:31] can select a project. You can then set a
+[07:33] time as well as a work tree. And then
+[07:35] you can click on create. And just like
+[07:37] that, it was able to then give me a
+[07:39] summary of a daily AI news brief of
+[07:42] different topics with different sources.
+[07:44] This is a super simple automation, but
+[07:47] it works every single day. But in the
+[07:48] same manner, you can essentially work
+[07:50] with it to set up automations for code
+[07:53] quality where it can scan recent commits
+[07:55] and it's able to analyze any bugs,
+[07:58] propose minimal fixes as well or you can
+[08:00] even have it automatically fix various
+[08:03] sorts of critical issues. Now within the
+[08:05] main dashboard of Codeex, something
+[08:07] important I want to mention is that you
+[08:09] can change permissions where you can
+[08:11] have it so that it has the default
+[08:13] permissions where Codex automatically
+[08:15] runs commands in the sandbox only or you
+[08:18] can also have it on auto review where it
+[08:20] runs commands in a sandbox and uses auto
+[08:22] review for elevated requests where it
+[08:24] will use your own personal guidance to
+[08:27] essentially execute that task. Or you
+[08:30] can have it so that it does everything
+[08:32] autonomously like a YOLO mode where it
+[08:34] doesn't even require your user
+[08:36] permissions and just does everything
+[08:38] within that project. This is why I
+[08:40] personally believe you should create a
+[08:42] project and shouldn't have it run across
+[08:45] every single file you have on your
+[08:47] computer. You can attach files as well
+[08:49] as have it so that you can plan. This is
+[08:52] quite important cuz you can create an
+[08:54] imple implementation plan first and then
+[08:56] have GPT basically create that detailed
+[09:00] specdriven workflow so that you can then
+[09:02] use one of these different models to
+[09:04] essentially code out whatever you had
+[09:06] planned. Now you have different
+[09:08] intelligence levels or reasoning
+[09:10] efforts. I personally leave it at medium
+[09:12] cuz it is sufficient in my case, but you
+[09:15] can set it to extra high, test it out to
+[09:17] see what works best. You can even change
+[09:19] the speed as well. You can change it
+[09:21] from standard to fast. And if you have
+[09:23] it set to fast, it is about 1.5 times
+[09:26] faster with increased planned usage. But
+[09:28] let's say if you want to use a plugin
+[09:30] like browser use, you can essentially
+[09:32] use the act command, then select the
+[09:34] browser use plugin or whatever plugin
+[09:36] you want to use and then you can type in
+[09:38] your prompt like open up YouTube and
+[09:40] find the world of AI YouTube channel.
+[09:42] You can then go ahead and send in this
+[09:43] request and this will actually open up
+[09:46] browser use directly within the codeex
+[09:48] app and execute that browser automation
+[09:51] or that browser task. In the same manner
+[09:53] you can do this with computer use task
+[09:55] but not using the browser use plugin.
+[09:57] Obviously you can use and run
+[09:59] computer-based tasks directly within the
+[10:02] codeex app. Honestly browser use inside
+[10:05] codeex can help you do almost anything
+[10:07] and it closes the build and verify loop
+[10:09] for local deployment. You can ask Codeex
+[10:12] to build out your front end, test it
+[10:13] like a real user by clicking through the
+[10:16] app, inspect what users see with vision,
+[10:18] and check console network logs to debug
+[10:21] the issue. This overall brings a closer
+[10:24] fully autonomous coding agent that can
+[10:27] deliver high quality results with tested
+[10:29] changes. What's nice is that you can
+[10:32] even have Codeex actually work upon
+[10:34] creating spreadsheets and even
+[10:36] PowerPoints, which I'll showcase in a
+[10:37] second. And this is where I created a
+[10:39] comprehensive comparison of new models
+[10:42] that are supposed to be dropping this
+[10:43] year. And you can see that it's able to
+[10:45] execute all of these different
+[10:47] components like building out
+[10:48] spreadsheets, tables, benchmarks as
+[10:51] well, which is incredible. The risk
+[10:53] readout as well as laying out all the
+[10:55] sources. And the fact that it's able to
+[10:57] do this is just incredible. And like I
+[10:59] said, you can even create spreadsheets.
+[11:01] This is where it has created a 12 slide
+[11:04] modern research briefing covering
+[11:06] whatever the findings that it had
+[11:08] composed within those two Excel sheets
+[11:10] and that is just incredible. This is
+[11:13] pretty decent. It is nothing
+[11:15] extraordinary but the fact that it
+[11:16] created something like this is really
+[11:18] nice to see. If you like this video and
+[11:20] would love to support the channel, you
+[11:22] can consider donating to my channel
+[11:24] through the super thanks option below.
+[11:26] Or you can consider joining our private
+[11:29] Discord where you can access multiple
+[11:31] subscriptions to different AI tools for
+[11:33] free on a monthly basis, plus daily AI
+[11:36] news and exclusive content, plus a lot
+[11:38] more. But that's about it, guys, for
+[11:40] today's video on Codeex. Combining this
+[11:42] with the GPT 5.5, you're going to be
+[11:45] able to get exceptional results. And I
+[11:47] personally believe this is not only the
+[11:49] best coding workflow that is available,
+[11:51] but a great AI super app that lets you
+[11:54] do practically almost anything locally.
+[11:57] So definitely recommend that you try
+[11:58] this out and get started with Codeex
+[12:01] with links in the description below.
+[12:03] This is something that will definitely
+[12:04] help you out in many ways. So with that
+[12:07] thought guys, thank you guys so much for
+[12:08] watching. If you want me to make more
+[12:09] videos on Codeex, definitely let me know
+[12:11] in the comment section below. But with
+[12:13] that thought guys, make sure you go
+[12:14] ahead and take a look at the second
+[12:16] channel. Join the newsletter, join the
+[12:17] Discord, follow me on Twitter, and
+[12:19] lastly, make sure you guys subscribe,
+[12:20] turn on notification bell, like this
+[12:22] video, and please take a look at our
+[12:23] previous videos so that you can stay up
+[12:25] to date with the latest AI news. But
+[12:26] with that thought, guys, have an amazing
+[12:28] day, spread positivity, and I'll see you
+[12:30] guys fairly shortly. He suffers.

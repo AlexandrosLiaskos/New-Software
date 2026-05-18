@@ -1,0 +1,26 @@
+{
+  "uid": "ad12d6a4eac74a92",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "release",
+  "title": "Claude managed agents: multi-agent orchestration and webhooks",
+  "summary": "Anthropic expanded Claude managed agents with multi-agent orchestration (lead agent delegating to parallel specialists), an outcome-loop self-evaluation system against predefined rubrics, a dreaming capability for reviewing past sessions, and webhook support for external integration.",
+  "source_video_uid": "7a7f7bd43d75b8d9",
+  "source_video_id": "xXLjeP_AyOg",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "05:53",
+  "links": [
+    "https://www.anthropic.com/news"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "managed-agents",
+    "orchestration"
+  ],
+  "research_status": "transcript_only",
+  "research": {
+    "notes": "Capabilities described from conference talk; verify against Anthropic's official release notes when available."
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

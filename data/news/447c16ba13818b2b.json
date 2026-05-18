@@ -1,0 +1,46 @@
+{
+  "uid": "447c16ba13818b2b",
+  "created_at": "2026-05-18T10:21:45+00:00",
+  "category": "tool",
+  "title": "Twin: natural-language AI company and agent builder",
+  "summary": "Twin (twin.so) is a multi-agent platform that lets users describe a business or workflow in plain English and have an orchestrator, builder and runner construct and execute autonomous agents that hit APIs, drive browsers, and run on a schedule. Marketed as a no-code alternative to Zapier/n8n for end-to-end business automations such as lead generation, content repurposing and operations.",
+  "source_video_uid": "0ed60af6aba1e5b5",
+  "source_video_id": "mqnWsUggIk8",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:07",
+  "links": [
+    "https://twin.so/",
+    "https://docs.twin.so/welcome",
+    "https://github.com/twin-so"
+  ],
+  "tags": [
+    "twin",
+    "agents",
+    "no-code",
+    "automation"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://twin.so/",
+    "notes": "Sponsored segment, but Twin is a real product. Public launch with a $10M seed led by LocalGlobe; reports of 1M workflows automated, 100K agents deployed, 60K users. Orchestrator/builder/runner architecture with 5,000+ user-built integrations.",
+    "web_findings": [
+      {
+        "title": "Twin — The AI Company Builder",
+        "url": "https://twin.so/",
+        "snippet": "Autonomous agents that connect to any API, automate browsers, and run on schedule, all with natural language."
+      },
+      {
+        "title": "Twin Labs on GitHub",
+        "url": "https://github.com/twin-so",
+        "snippet": "Open organisation page for Twin."
+      },
+      {
+        "title": "Twin launch announcement",
+        "url": "https://twin.so/blog/launch",
+        "snippet": "Public launch with $10M seed round led by LocalGlobe."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:21:45+00:00",
+  "__class__": "SoftwareNews"
+}

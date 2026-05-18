@@ -1,0 +1,43 @@
+{
+  "uid": "5ffed07daf3a22ca",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "news",
+  "title": "Roo Code shuts down VS Code extension and pivots to Roomote cloud agent",
+  "summary": "Roo Code, a Cline fork with over three million installs, announced the shutdown of its VS Code extension, cloud service and router to focus on Roomote, a new cloud-based autonomous coding agent. The transcript frames it as part of broader consolidation in AI coding tools.",
+  "source_video_uid": "4d0c1c6f11bce0e9",
+  "source_video_id": "3TIL611HgvE",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "05:38",
+  "links": [
+    "https://thenewstack.io/roo-code-cloud-ides-ai-coding/"
+  ],
+  "tags": [
+    "roo-code",
+    "roomote",
+    "vscode",
+    "shutdown",
+    "agent"
+  ],
+  "research_status": "researched",
+  "research": {
+    "web_findings": [
+      {
+        "title": "Roo Code pivots to cloud-based agent",
+        "url": "https://thenewstack.io/roo-code-cloud-ides-ai-coding/",
+        "snippet": "Roo Code shuts on 15 May 2026; team goes all-in on Roomote."
+      },
+      {
+        "title": "Thank you, Roo!",
+        "url": "https://blog.kilo.ai/p/thank-you-roo",
+        "snippet": "Kilo Code positions itself as migration target."
+      },
+      {
+        "title": "Roomote pricing",
+        "url": "https://www.roborhythms.com/roo-code-vs-roomote/",
+        "snippet": "Roomote billed at $20/month plus $5 per agent-hour, accessible via web, Slack or GitHub."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,45 @@
+{
+  "uid": "53fb0e006f43c1cf",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "model",
+  "title": "DeepSeek V4 frontier open-source model under MIT license",
+  "summary": "DeepSeek V4 is a frontier-level open-source model released under the MIT license, supporting a one-million-token context window. The transcript frames it as roughly 76 percent cheaper than GPT-5.5 and Opus 4.7 on input/output tokens and well-suited to long-horizon agent workflows, tool calling and algorithmic coding.",
+  "source_video_uid": "bb62d02d4b4ddfa3",
+  "source_video_id": "EibhUi-FnTs",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "00:02",
+  "links": [
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "https://api-docs.deepseek.com/news/news260424"
+  ],
+  "tags": [
+    "deepseek",
+    "model",
+    "open-source",
+    "coding"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "license": "MIT",
+    "web_findings": [
+      {
+        "title": "DeepSeek V4 Preview Release",
+        "url": "https://api-docs.deepseek.com/news/news260424",
+        "snippet": "V4-Pro 1.6T params (49B active) and V4-Flash 284B params (13B active), both with 1M context, MIT licensed."
+      },
+      {
+        "title": "DeepSeek V4 review",
+        "url": "https://www.mindstudio.ai/blog/deepseek-v4-open-source-frontier-model-review",
+        "snippet": "Around 91.2 percent on SWE-Bench Verified, 10-13x cheaper per output token than GPT-5.5 or Opus 4.7."
+      },
+      {
+        "title": "DeepSeek V4 in Kilo Code",
+        "url": "https://kilo.ai/landing/deepseek-v4",
+        "snippet": "1M context default across DeepSeek services."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

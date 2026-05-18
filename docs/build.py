@@ -72,26 +72,47 @@ PAGE = """<!doctype html>
 
 def render_index(items: list[SoftwareNews], videos: dict[str, Video]) -> str:
     today = datetime.now(timezone.utc).strftime("%d %B %Y")
-    rows = []
+
+    # Build a compact data payload for client-side filtering.
+    payload = []
     for it in items:
         v = videos.get(it.source_video_uid)
         ch = it.source_channel_handle or (v.channel_handle if v else "")
         date = (it.research_date or it.created_at)[:10]
-        cat = (it.category or "news").upper()
-        rows.append(f"""
-<li class="news-row">
-  <div class="cat">{esc(cat)}</div>
-  <div>
-    <div class="title"><a href="news/{esc(it.uid)}.html">{esc(it.title)}</a></div>
-    <div class="summary">{esc(it.summary)}</div>
-    <div class="summary" style="font-style:normal;font-family:var(--sans);font-size:11px;letter-spacing:0.12em;text-transform:uppercase;margin-top:8px;">via @{esc(ch)}</div>
-  </div>
-  <div class="date">{esc(date)}</div>
-</li>""")
+        r = it.research or {}
+        payload.append({
+            "uid": it.uid,
+            "title": it.title,
+            "summary": it.summary,
+            "category": (it.category or "news").lower(),
+            "channel": ch,
+            "date": date,
+            "created_at": it.created_at,
+            "tags": list(it.tags or []),
+            "research_status": it.research_status,
+            "stars": r.get("stars") or 0,
+            "repo_url": r.get("repo_url", ""),
+            "homepage": r.get("homepage", ""),
+            "video_title": v.title if v else "",
+            "video_url": v.url if v else "",
+        })
 
-    list_html = "\n".join(rows) if rows else """
-<div class="empty">No software news archived yet. The daily curator has not yet run.</div>
-"""
+    cats: dict[str, int] = {}
+    chans: dict[str, int] = {}
+    for p in payload:
+        cats[p["category"]] = cats.get(p["category"], 0) + 1
+        chans[p["channel"]] = chans.get(p["channel"], 0) + 1
+
+    def chips(name: str, counter: dict[str, int]) -> str:
+        out = [f'<button class="chip active" data-filter="{name}" data-value="">All <span class="n">{len(payload)}</span></button>']
+        for k, n in sorted(counter.items(), key=lambda kv: (-kv[1], kv[0])):
+            out.append(f'<button class="chip" data-filter="{name}" data-value="{esc(k)}">{esc(k)} <span class="n">{n}</span></button>')
+        return "\n".join(out)
+
+    cat_chips = chips("category", cats)
+    chan_chips = chips("channel", chans)
+
+    data_json = json.dumps(payload, ensure_ascii=False)
 
     body = f"""
 <div class="masthead">
@@ -117,9 +138,42 @@ def render_index(items: list[SoftwareNews], videos: dict[str, Video]) -> str:
   <h2><em>The Archive</em></h2>
   <div class="rule"></div>
 </div>
-<ul class="news-list">
-{list_html}
-</ul>
+
+<div class="toolbar">
+  <div class="search">
+    <input id="q" type="search" placeholder="Search titles, summaries, tags, repositories…" autocomplete="off">
+    <div class="search-meta"><span id="result-count">{len(payload)}</span> items</div>
+  </div>
+
+  <div class="filter-row">
+    <div class="filter-label">Category</div>
+    <div class="chips">{cat_chips}</div>
+  </div>
+
+  <div class="filter-row">
+    <div class="filter-label">Channel</div>
+    <div class="chips">{chan_chips}</div>
+  </div>
+
+  <div class="filter-row sort-row">
+    <div class="filter-label">Sort</div>
+    <select id="sort">
+      <option value="date-desc">Newest first</option>
+      <option value="date-asc">Oldest first</option>
+      <option value="title-asc">Title A → Z</option>
+      <option value="title-desc">Title Z → A</option>
+      <option value="stars-desc">Most starred</option>
+      <option value="channel">Channel</option>
+    </select>
+    <button id="clear" class="clear-btn" type="button">Clear filters</button>
+  </div>
+</div>
+
+<ul id="news-list" class="news-list"></ul>
+<div id="empty" class="empty" hidden>No items match the current filter.</div>
+
+<script id="news-data" type="application/json">{data_json}</script>
+<script src="app.js"></script>
 """
     return PAGE.format(title="New Software", css="styles.css", body=body)
 

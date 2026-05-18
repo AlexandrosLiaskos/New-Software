@@ -1,0 +1,33 @@
+{
+  "uid": "69aff7d574a0ca5c",
+  "created_at": "2026-05-18T10:23:19+00:00",
+  "category": "repo",
+  "title": "claude-code-router proxy routes Claude Code to DeepSeek and other backends",
+  "summary": "The tutorial demonstrates a local Anthropic-compatible proxy that routes Claude Code traffic to providers including DeepSeek, OpenRouter, NVIDIA NIM, LM Studio and Ollama. It enables a hybrid workflow in which DeepSeek V4 handles scaffolding and basic tasks while Claude Opus 4.7 handles complex UI and high-stakes code.",
+  "source_video_uid": "bb62d02d4b4ddfa3",
+  "source_video_id": "EibhUi-FnTs",
+  "source_channel_handle": "intheworldofai",
+  "timestamp_in_video": "03:39",
+  "links": [
+    "https://github.com/musistudio/claude-code-router"
+  ],
+  "tags": [
+    "claude-code",
+    "proxy",
+    "deepseek",
+    "open-source",
+    "tool"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/musistudio/claude-code-router",
+    "homepage": "https://musistudio.github.io/claude-code-router/",
+    "stars": 34111,
+    "forks": 2779,
+    "language": "TypeScript",
+    "license": "MIT",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic."
+  },
+  "research_date": "2026-05-18T10:23:19+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,380 @@
+[00:00] Looks like the Moonshot AI team is back
+[00:02] again and this time around they might
+[00:04] have just dropped one of the best
+[00:06] open-source models yet. Allow me to
+[00:08] introduce the Kimi K 2.6, an advanced
+[00:12] open-source coding model. And this is
+[00:14] something that can run hours
+[00:16] autonomously. It can handle long-horizon
+[00:18] execution, manages thousands of tool
+[00:21] calls, and even design production-ready
+[00:23] websites with real taste.
+[00:26] Now, benchmark-wise, this is where
+[00:27] things get wild cuz the Kimi K 2.6 is
+[00:31] hitting state-of-the-art results across
+[00:33] benchmarks like Sway Bench, yeah,
+[00:35] browser comp, and even advanced math and
+[00:38] vision tasks. It performs on par with or
+[00:41] even beating models like Opus 4.6,
+[00:44] Gemini 3.1 Pro, and GPT 5.4 high, which
+[00:48] is honestly crazy because this is an
+[00:50] open-source model going head-to-head
+[00:53] with proprietary giants. And it's not
+[00:55] just competitive, it's efficient. We're
+[00:57] talking about 94% approximately cheaper
+[01:01] on input and 95% cheaper on output
+[01:05] compared to Opus 4.6, which still is
+[01:08] outperforming it on Sway Bench Pro. Just
+[01:10] take a look at the output. The model can
+[01:12] generate beautiful, highly interactive
+[01:14] websites with actual design taste, not
+[01:17] just generic AI layouts. It focuses much
+[01:20] more on aesthetic tones. It's able to
+[01:23] focus on the typography, the dynamic
+[01:25] movements, everything that should be
+[01:27] there for a beautiful front end, and
+[01:29] it's actually able to thoroughly work
+[01:32] upon it, like something that even
+[01:34] proprietary models struggle with.
+[01:36] Not just that, it gets deeper cuz the
+[01:38] Kimi K 2.6 is something that has strong
+[01:41] long-horizon coding capabilities where
+[01:43] it is something that introduces
+[01:44] 12-plus-hour autonomous coding sessions.
+[01:47] It has the ability to use 4,000-plus
+[01:50] tool calls in a single run. You can have
+[01:52] up to 300 parallel agents working
+[01:54] together, strong multi-language
+[01:57] full-stack development from a single
+[01:59] prompt. And the thing is, this isn't
+[02:01] just a coding model. It's a full-on
+[02:04] execution agent that is able to work
+[02:06] upon this engine that can execute
+[02:09] anything. And that is all with the agent
+[02:11] swarms enabled, cuz it can take
+[02:13] something like building quantitative
+[02:15] strategies across hundreds of assets and
+[02:18] then turn them into full financial
+[02:20] models, structured data sets, and even
+[02:22] polished McKinsey-style presentations
+[02:25] all in one workflow. Something cool that
+[02:27] Kimi Chat 2.6 had done was identified 30
+[02:31] retail stores in Los Angeles without
+[02:33] official websites from Google Maps. It
+[02:35] then generated highly converting landing
+[02:37] pages for each of them, demonstrating
+[02:39] opportunity discovery and end-to-end
+[02:41] execution, which is just incredible. If
+[02:44] you want the best AI tools, workflows,
+[02:46] and drops before everyone else, join my
+[02:49] free newsletter with the link in the
+[02:50] description below, which is completely
+[02:52] free. And what I really like about Kimi
+[02:54] Chat 2.6 is long horizon execution is
+[02:57] that it can enable autonomous agents
+[02:59] that can run for days. You can have it
+[03:01] so that you can manage real-world tasks
+[03:03] like monitoring, you have incident
+[03:05] response, you also have cross-platform
+[03:07] operations without human input, which
+[03:10] significantly improves the reliability
+[03:12] and performance over the Kimi Chat 2.5
+[03:15] with better API handling. You have
+[03:16] long-running stability and higher task
+[03:19] completion across multiple workflows.
+[03:22] Pricing-wise, the model is priced at 95
+[03:25] cents per 1 million input tokens and $4
+[03:27] per 1 million output tokens and just 16
+[03:30] cents per million on cache hits, which
+[03:33] is one of the most cost-efficient,
+[03:35] high-performance models out there right
+[03:37] now. It also has a 256K
+[03:40] context window, so it can handle
+[03:42] codebases and long workflows without
+[03:44] breaking. You can easily get started
+[03:46] through kimi.com, where you can
+[03:47] essentially just use Kimi Chat 2.6
+[03:50] directly through their chatbot. Another
+[03:52] way is accessing it through their API,
+[03:54] or you can use Kimiko, which they offer
+[03:57] a lot of different plans to get higher
+[03:59] usage to use it within their harness.
+[04:01] Another option is using it through Kilo
+[04:03] Code, which is an open-source coding
+[04:06] agent, and this is something that also
+[04:08] works really well with the Kimiko 2.6.
+[04:11] And if you're looking to use another API
+[04:13] router, you can use Open Router. And the
+[04:14] model weights are available through
+[04:16] Hugging Face if needed. To start things
+[04:19] off, just take a look at what the Kimiko
+[04:20] 2.6 was capable of generating. Here, it
+[04:23] was requested to create a website with
+[04:25] real design taste, and you can see that
+[04:27] it was able to output using image and
+[04:30] video generation APIs to build a
+[04:33] standout hero section with visuals
+[04:35] automatically. And you can see that
+[04:37] there's different dynamic movements,
+[04:39] there's videos that have been added to
+[04:41] the landing page, and you can see that
+[04:43] it was able to do this right directly
+[04:45] within the Kimiko chatbot. Now,
+[04:47] something I want to also specify is that
+[04:49] the Kimiko models come with four
+[04:51] different specialized modes. You have
+[04:52] the instant for quicker responses,
+[04:54] thinking that uses deep research for
+[04:56] complex questions, the agent mode, which
+[04:58] is able to focus on specialized skills
+[05:01] like research, slides, websites, stocks,
+[05:03] and sheets, which also uses additional
+[05:06] tools. And then you have agent swarms,
+[05:08] which is where it is able to work on
+[05:10] long horizon tasks much better. And it
+[05:13] is going to take a bit longer, but
+[05:14] you're going to be able to get
+[05:15] qualitative execution done.
+[05:17] And this is what I mean. When you are to
+[05:19] prompt anything with the agent mode
+[05:22] enabled, it's able to use multiple
+[05:24] tools, and it's able to execute a prompt
+[05:26] on your prompt thoroughly. And you can
+[05:27] see that with this landing page that it
+[05:30] had generated, where it's able to even
+[05:31] incorporate other APIs to incorporate
+[05:34] the visuals, whether that's videos or
+[05:36] even images. And you can see that with
+[05:39] all of these different components, and I
+[05:41] just truly love the qualitative output,
+[05:43] especially due to this model being super
+[05:45] efficient.
+[05:47] Like, for example, if you give it a
+[05:49] prompt with agent mode enabled, it's
+[05:51] able to thoroughly even generate images
+[05:53] for you. And that is the capability of
+[05:56] agent mode cuz it is able to execute
+[05:58] with higher complexity. And honestly,
+[06:00] guys, the front-end capability of this
+[06:02] model is truly exceptional. And I truly
+[06:05] believe that it is even better than Opus
+[06:07] 4.7 in certain cases. Just take a look
+[06:10] at the quality that's able to output for
+[06:13] this long horizon task that I had given
+[06:15] it, where I'm telling it to become a
+[06:17] creative front-end developer, and it did
+[06:19] an exceptional job in all the dynamic
+[06:21] movements. It did also great with the
+[06:24] typography, as well as thoroughly coding
+[06:26] out everything I had requested. Next up
+[06:29] is our iconic macOS browser-based task,
+[06:32] and this is where we're trying to see
+[06:33] how well it is in terms of proficiently
+[06:35] generating a mimicked macOS style of
+[06:38] operating system. You have the bottom
+[06:40] toolbar, but what I like right away is
+[06:42] that each individual icon or Sorry,
+[06:45] application icon has been generated with
+[06:47] SVG. You have the launchpad, which is
+[06:49] nice to see. You have settings, notes,
+[06:52] the PDF viewer, which is a unique new
+[06:54] app that it has added. Safari has been
+[06:56] coded out. You also have VS Code. Let's
+[06:59] actually take a look at this in a bigger
+[07:01] view. You have a terminal that has been
+[07:03] also generated. But what I really like
+[07:05] is that they have created all the
+[07:07] elements of VS Code. You have settings,
+[07:10] and what I really like with this is that
+[07:13] if you go to appearance, you have the
+[07:14] ability to change it to dark mode, and
+[07:19] What is this?
+[07:22] I'm not doing anything. I didn't even
+[07:24] prompt this, guys.
+[07:26] Oh.
+[07:29] Wait.
+[07:29] Was this a part of the prompt?
+[07:32] Oh, it added a prank effect to my
+[07:35] generation. Sorry about that, guys. I
+[07:38] truly did not know about that, but now
+[07:40] back to the macOS overview. We have a
+[07:43] notes app that has been added and this
+[07:45] looks really like a Mac OS notes app.
+[07:48] You have a PDF viewer, which is
+[07:50] definitely nice to see cuz most models
+[07:51] don't even generate that. And what I am
+[07:54] most surprised about is the Minecraft
+[07:56] clone. I didn't even know that it
+[07:57] generated a Minecraft clone. And it
+[08:00] wasn't even something that I had
+[08:01] requested it to generate. Now, you have
+[08:03] the ability to actually move around. You
+[08:05] can even break blocks, which is crazy.
+[08:08] And I am truly amazed as to seeing a
+[08:11] Minecraft clone being generated within
+[08:14] my web OS clone of a Mac OS. Next is
+[08:16] where I was testing out how proficient
+[08:19] the model is in 3js. And this is where I
+[08:21] had tested it on my electric SUV
+[08:23] off-road simulation prompt. And this is
+[08:26] what it had generated. This is the
+[08:28] simulation and you can see that it did a
+[08:30] great job in terms of accurately
+[08:33] generating all of the components of an
+[08:36] off-road SUV. And this is something that
+[08:38] even added a snow mode, which is
+[08:40] something that I didn't even ask it to
+[08:42] do. And that is just incredible cuz it's
+[08:44] able to traverse through the terrain. It
+[08:47] also gives you different camera angles
+[08:49] and I'm able to actually control the
+[08:51] snow mode as well, which is something
+[08:53] that I'm doing right now. This is
+[08:54] actually better than what I had
+[08:56] previously saw from the Opus.
+[08:58] Next, I created a 3D 60 rotating product
+[09:01] viewer and I got to say this is one of
+[09:03] the better ends of generations that I've
+[09:05] gotten from most open-source models cuz
+[09:08] this is where it created, obviously, the
+[09:10] 3D design of an headset. You also have
+[09:13] the ability to auto-rotate it, which is
+[09:15] something that most models don't do, but
+[09:17] the fact that it was able to depict the
+[09:19] shadow with the lighting for this 3D
+[09:22] viewer is incredible. I have the ability
+[09:24] to change different colors. I would
+[09:27] definitely want a better generation for
+[09:29] the product, but still, regardless, the
+[09:31] fact that it's able to focus on all
+[09:33] these components is great to see.
+[09:35] Next, I had requested it to create a
+[09:36] realistic butterfly in SVG code and I
+[09:39] got to say it is really good at coding
+[09:41] out various components in SVG. It may
+[09:44] need a little work with the body, but I
+[09:46] still give this an eight out of 10 due
+[09:48] to it creating the realistic wings. In
+[09:50] SVG code, I had requested it to create a
+[09:53] painting and this looks absolutely
+[09:55] amazing. So, in SVG, I do think that the
+[09:58] model is exceptional with its
+[09:59] generations. Just for fun, I had
+[10:01] requested it to animate it and you can
+[10:02] see that it did a great job in animating
+[10:05] multiple birds flying through the scene.
+[10:08] Next up, what we're going to be doing is
+[10:09] now enabling agent swarms where we're
+[10:11] going to have it execute a long horizon
+[10:13] task. But, what's crazy is someone
+[10:15] actually created a Linux system and you
+[10:18] can see that it is thoroughly generated
+[10:21] with all the components. You have the
+[10:23] user authentication, you have the
+[10:26] operating system that was generated with
+[10:28] functional components, which is just
+[10:30] insane, guys. This is something that was
+[10:32] generated with the agent swarms where
+[10:34] multiple agents are executing upon all
+[10:37] of the individual task and you can see
+[10:39] that everything has been coded out
+[10:41] thoroughly, even the terminal as well as
+[10:43] the text editor where you have the
+[10:45] ability to even add in different
+[10:47] components to the editor itself. This is
+[10:50] the capability of the agent swarms where
+[10:52] it's able to execute upon multiple tasks
+[10:55] and deploy multiple agents in parallel
+[10:57] to execute it. It may run longer, but
+[11:00] it's able to execute any task that you
+[11:02] give it. So, this is where we're going
+[11:04] to give it a task to become a senior AI
+[11:07] analyst and produce a high concise
+[11:10] qualitative report on the market of AI
+[11:13] where we're going to have it discover
+[11:15] the current state of AI, talk about the
+[11:18] key players, the agentic AI trends, as
+[11:20] well as real-world use cases, and when
+[11:23] AGI should be achieved. And this is
+[11:25] where it is going to be able to
+[11:27] thoroughly deploy multiple agents with
+[11:29] different sorts of tools as well as
+[11:32] capabilities to help us execute this
+[11:34] task. And what it will do is plan it out
+[11:37] and it will then deploy those agents to
+[11:39] work upon this task.
+[11:41] And remember guys, since the model is
+[11:42] exceptional with long horizon execution,
+[11:44] this is a model that won't forget or
+[11:46] hallucinate based off of the initial
+[11:48] prompt. And currently it is working on
+[11:51] phase one, which is the landscape scan
+[11:54] where it's going to be able to do a deep
+[11:55] research on AI concepts. And you can see
+[11:58] that it has even created a specialized
+[12:01] agent that focuses on AI research
+[12:03] itself.
+[12:05] And what's nice is that you have the
+[12:06] ability to track each agent's
+[12:08] capability.
+[12:09] And what's nice is that you will be able
+[12:11] to manage each agent's task by clicking
+[12:14] on it to see where it's at in its
+[12:16] individual steps in accomplishing this
+[12:18] task. There we go, the agent's form has
+[12:20] finally completed its task where it was
+[12:22] able to create a state of AI report. And
+[12:25] you can see that it is approximately
+[12:27] 12,000 words with five chapters. And it
+[12:30] even adds in an executive summary. And
+[12:32] you can see the amount of sources that
+[12:34] it scoured to essentially develop this
+[12:37] beautiful detailed report on all the
+[12:39] five or six different uh structures that
+[12:42] I had I'd requested it to focus on. And
+[12:44] this is the preview file, but it has
+[12:46] also listed out all the components like
+[12:48] all the charts that it has generated for
+[12:50] this report. But let's actually take a
+[12:52] look at the report itself. This is
+[12:55] exceptional guys. The fact that it's
+[12:56] able to even cite it properly, it's able
+[12:59] to even focus on all the components,
+[13:02] adds in different charts, adds in
+[13:04] different diagrams to help explain the
+[13:07] topics that we had specified on it to
+[13:10] execute. And I really love how it was
+[13:13] able to thoroughly work with multiple
+[13:16] agents to get the task done. Something
+[13:18] that would probably take a human
+[13:19] multiple hours to execute is done within
+[13:22] minutes.
+[13:23] If you like this video and would love to
+[13:25] support the channel, you can consider
+[13:27] donating to my channel through the Super
+[13:29] Thanks option below. Or you can consider
+[13:32] joining our private Discord where you
+[13:34] can access multiple subscriptions to
+[13:36] different AI tools for free on a monthly
+[13:38] basis, plus daily AI news and exclusive
+[13:41] content, plus a lot more. That's what I
+[13:44] got for today's video on the Kimiko 2.6.
+[13:46] This is definitely a great, amazing,
+[13:49] advanced open-source model that I highly
+[13:51] recommend that you take a look at,
+[13:53] especially if being cost-efficient par
+[13:55] with proprietary giants, and in certain
+[13:57] cases even better. I'll leave all these
+[13:59] links in the description below, but with
+[14:01] that thought, make sure you go ahead and
+[14:02] subscribe to the second channel, join
+[14:03] the newsletter, join the Discord, follow
+[14:04] me on Twitter. Lastly, make sure you
+[14:06] guys subscribe, turn on the notification
+[14:07] bell, like this video, and please take a
+[14:09] look at our previous videos so that you
+[14:10] can stay up-to-date with the latest AI
+[14:12] news. But with that thought, guys, have
+[14:14] an amazing day, spread positivity, and
+[14:16] I'll see you guys really shortly. Peace
+[14:17] out, fellas.

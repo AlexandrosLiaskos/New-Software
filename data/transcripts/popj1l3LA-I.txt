@@ -1,0 +1,386 @@
+[00:00] Xiaomi is back with a major model
+[00:02] release and it's seriously impressive
+[00:04] with the launch of Memo version 2.5 Pro,
+[00:08] a new open- source Frontier model.
+[00:10] They're making a strong push into a
+[00:12] Gentic AI and Long Horizon Reasoning.
+[00:15] This is something a lot of people have
+[00:17] been recommending me to check out, and
+[00:19] after testing it, I can say that the
+[00:21] results genuinely hold up. At its core,
+[00:24] Memo version 2.5 Pro is a 1.2 2 trillion
+[00:27] parameter mixture of experts model. This
+[00:30] is something that has 42 billion active
+[00:32] parameters with a 1 million token
+[00:34] context window and a hybrid attention
+[00:37] architecture. It's designed to handle
+[00:39] complex multi-step workflows sustaining
+[00:41] thousands of tool calls while
+[00:43] maintaining strong coherence and
+[00:45] precision instruction following. They've
+[00:47] actually introduced tool models under
+[00:49] the MIT license today and it's fully
+[00:52] open source and ready for commercial
+[00:54] deployment. You have the memo version
+[00:56] 2.5 Pro and the Memo version 2.5. The
+[00:59] Pro is optimized for advanced agentic
+[01:02] workflows and software engineering with
+[01:04] top tier performance across many of
+[01:06] these different benchmarks like
+[01:07] Swaybench Pro. You also have it so that
+[01:09] it excels at GDP Evolve as well as Claw
+[01:12] Evolve competing directly with models
+[01:15] like Opus 4.6, the Gemini 3.1 Pro and
+[01:18] GPT 5.4. Now the MIMO version 2.5 base
+[01:22] model is a native omni model and this is
+[01:26] something that it has strong multimodal
+[01:28] understanding and integrated agent
+[01:30] capabilities and both of these models
+[01:32] actually show clear progress in long
+[01:34] horizon task execution coding and agent
+[01:37] reliability but like any model
+[01:40] benchmarks only tell part of the story.
+[01:42] If you want the best AI tools,
+[01:44] workflows, and drops before everyone
+[01:46] else, join my free newsletter with the
+[01:48] link in the description below, which is
+[01:49] completely free. Also, something to
+[01:51] emphasize is this isn't just a model
+[01:54] that is being benchmaxed. It's something
+[01:56] that is specifically being built for
+[01:58] long horizon agent workflows where it's
+[02:00] capable of handling multiple tools. And
+[02:02] this is where it can actually handle
+[02:04] thousands of tool calls with stable
+[02:06] coherence. And this is a model that can
+[02:08] actually complete real world tasks like
+[02:10] building full apps or compliers end to
+[02:12] end showing strong planning persistence
+[02:15] and selfcorrection in coding workflows.
+[02:18] Now it's also far more token efficient
+[02:20] than other proprietary models where it
+[02:23] is using 40 to 60% fewer tokens than
+[02:26] models like GPC 5.4, Claude Opus 4.6,
+[02:30] and even Gemini 3.1 Pro at similar
+[02:33] performance. This is where the real test
+[02:35] here isn't just intelligence. It's more
+[02:37] about how long the model stays useful
+[02:40] before it actually breaks. Like I had
+[02:42] mentioned before, it has a 1 million
+[02:44] token context window. And it's priced
+[02:46] pretty cheap where it's priced at $1 per
+[02:49] 1 million input tokens and $3 per 1
+[02:51] million output tokens. And what you're
+[02:53] getting out of this model is truly
+[02:55] insane. Now, to use this model, you can
+[02:57] easily do so through Xiai's Memo Studio
+[03:00] where you can easily run it through
+[03:01] their chatbot completely for free. You
+[03:03] can also access it through their API.
+[03:06] And obviously, if you do have a data
+[03:08] center at home, for example, you can
+[03:10] easily run the model locally. If you do
+[03:13] have a multiGPU setup, I'm pretty sure
+[03:15] most of us don't, so don't even bother
+[03:17] looking at the huggy face weights. But a
+[03:19] way for you to access the model for free
+[03:21] is through Kilo Code. And they actually
+[03:23] offer $25 worth of free credits. And you
+[03:26] can use it with their harness, which is
+[03:27] open source. And I personally believe
+[03:29] this would be a good combination with
+[03:31] Xiai's model. Another option is using
+[03:34] Open Router, which also is another API
+[03:36] provider. And if you want to test it
+[03:37] out, you can also use Arena as well.
+[03:39] Now, what we're going to be doing is
+[03:40] using the Kilo CLI, the harness with the
+[03:43] Memo version 2.5 Pro within Kilo Code
+[03:46] completely for free to help us create a
+[03:48] browserbased OS that clones Mac OS with
+[03:51] a Minecraft clone. What I'm also
+[03:53] requesting it is to use SVG icons that
+[03:56] represent the app. And this is something
+[03:58] that will now have it execute upon this
+[04:00] task to create all the components I had
+[04:03] requested. And in about 3 minutes, this
+[04:05] is what I have gotten from kilo code. We
+[04:08] can enter in a password. And once we
+[04:11] click enter, this is our Mac OS clone.
+[04:14] And I got to say, I am truly surprised
+[04:16] by the SVG icons within the bottom
+[04:18] toolbar. It actually opens up when you
+[04:21] highlight over an application. And I
+[04:23] personally find that it did a pretty
+[04:24] great job. The terminal is actually
+[04:26] animated which is pretty great to see.
+[04:28] But now let's actually go through each
+[04:30] of the applications. We have the Finder
+[04:32] app which has been coded out thoroughly.
+[04:34] You have a Safari, a message app, notes.
+[04:37] You also have maps. You have a photo app
+[04:40] which hasn't been coded out perfectly
+[04:42] cuz the placeholders are overlapping
+[04:44] each other. But still, it's decent. You
+[04:46] have the music app, the terminal that
+[04:48] actually works, the calculator,
+[04:50] calendar, as well as a weather app. The
+[04:52] system settings. Now, I don't think each
+[04:55] of these categories work, which is kind
+[04:56] of unfortunate, but still, it did get
+[04:59] the job done. So, it's nice. The dynamic
+[05:01] movements and the attributes that clone
+[05:03] Mac OS, like the system requirements,
+[05:05] haven't been fully generated. The top
+[05:07] toolbar hasn't been also coded out, like
+[05:10] the spotlight has been generated, but
+[05:12] none of the other components have been,
+[05:14] which is kind of unfortunate as well.
+[05:16] But still, I do like the quality of this
+[05:19] generation a lot better than the Kim K
+[05:21] 2.6. You also have a Minecraft clone,
+[05:24] which is kind of impressive that it
+[05:26] cloned this out in one shot. You can see
+[05:28] that I'm able to walk around the
+[05:29] terrain. Am I allowed to break the
+[05:31] blocks? You can, but there's no
+[05:32] animation. I can place down blocks,
+[05:34] which is great. And there doesn't seem
+[05:37] to be an infinite generation of terrain,
+[05:39] which is kind of expected with this
+[05:41] context, but still, it's great to see
+[05:43] that it also generated this. Now, the
+[05:46] other app that or I guess this is a
+[05:48] launchpad, which is something that Mac
+[05:49] OS's have. So, this is definitely a
+[05:52] great feature to have directly built
+[05:54] within the Mac OS clone. So, overall, it
+[05:56] did generate a complex structured UI
+[05:59] that simulates a real OS, and I
+[06:01] definitely find this to be better than
+[06:03] the Kim K 2.6. Now, speaking of
+[06:05] Minecraft, I'd actually requested to
+[06:07] create a Minecraft clone. And this is
+[06:10] pretty decent. Not the best obviously,
+[06:12] but the fact that it created this
+[06:14] environment with an actual hand that is
+[06:17] being showcased for the player. You have
+[06:20] the water that is generated, but it is
+[06:22] pretty buggy. You have clouds. You have
+[06:24] different terrains that have been also
+[06:26] generated. Have the ability to break
+[06:28] blocks, which is cool. And I believe it
+[06:30] also even generated caves with different
+[06:32] ores. There's also working inventory,
+[06:35] which is pretty nice to see. So,
+[06:37] overall, I do like the generation from
+[06:39] this model. The fact that it's able to
+[06:41] out compete something like Deep Seek
+[06:43] with this generation is insane to me.
+[06:46] Now, front end wise, this is where I
+[06:48] really like where the model has been
+[06:50] performing because it's able to generate
+[06:52] all of the requirements I am specifying
+[06:55] like the typography, the tone, and the
+[06:57] layout structure. And you can truly see
+[06:59] that with a couple of these examples
+[07:01] that requested it to generate like a
+[07:03] long SAS landing page, which you can see
+[07:06] has been thoroughly generated with the
+[07:08] dynamic movements. You have different
+[07:09] sections that have been generated with
+[07:11] different attributes and actually does
+[07:13] quite well when you clone UIs. This is
+[07:15] where I'd requested it to create a Slack
+[07:17] workspace with channels, direct
+[07:19] messages, and you can see that it did do
+[07:21] a decent job with this generation. I
+[07:23] personally found that did obviously
+[07:25] better than the GLM 4.7. It also did
+[07:27] quite well in creating the Amazon style
+[07:30] product page, which does look pretty
+[07:32] accurate to how Amazon's product page
+[07:34] looks like. And you can see that it even
+[07:36] did a better job than the GLM 5.1 within
+[07:39] their studio. I had requested it to
+[07:41] create a SAS landing page. And I got to
+[07:43] say, this landing page is a lot better
+[07:45] than what I've previously saw with other
+[07:47] open- source models. A lot of the
+[07:50] components have been thoroughly
+[07:51] generated, and I truly love what it was
+[07:54] able to output with this particular
+[07:56] front end. Now, with the 360° product
+[07:58] viewer, the UI looks absolutely amazing,
+[08:01] but certain components like the product
+[08:02] itself has been coded out in 3D uh
+[08:05] visuals. It also doesn't have the
+[08:07] functionality to change colors. So that
+[08:10] is only the downside with this
+[08:12] generation of the 360 degree product
+[08:15] viewer. But when you compare it to
+[08:17] something like the Deepseek version 4,
+[08:19] it does look a lot better with this
+[08:21] generation. And I got to say the Deep
+[08:23] Seek wins on this cuz it did generate
+[08:25] the 3D product properly and the overall
+[08:28] structure and UI looks decent and better
+[08:31] than what the generation that the Memo
+[08:33] version 2.5 Pro did. Now, when it comes
+[08:36] to 3JS, this is a domain that I found
+[08:38] the model to be proficient at. This is
+[08:40] where it successfully passed my 3D SUV
+[08:44] off-road durability test. And this is
+[08:46] something that did obviously better than
+[08:47] the Gemini 3 Flash, which can even load
+[08:50] in the assets. So, this is where I was
+[08:54] testing it out and a couple of other
+[08:55] prompts like how well it is in
+[08:58] generating 3D scenes, how it's able to
+[09:00] properly use dynamic 3D physics. Now,
+[09:03] not saying that it's perfect in this SUV
+[09:05] generation, but in the other prompts,
+[09:07] you'll see that it does quite well. Like
+[09:10] the lava lamp prompt, which is where it
+[09:11] tests the model's ability to create
+[09:13] smooth and continuous physics, like the
+[09:15] simulation, you see the meatball, the
+[09:17] fluid motion, everything has been
+[09:19] thoroughly generated. And I personally
+[09:21] found that this is probably the best
+[09:23] generation from an open- source model.
+[09:25] Now, here is another 3JS project that I
+[09:28] developed with Kilo. And I personally
+[09:31] found that the generation is a lot
+[09:32] better when you combine it with another
+[09:35] harness like Kiloode. And this is where
+[09:37] it was able to test the model's ability
+[09:40] on how to use advanced frontier
+[09:42] engineering to build out a 3D 3GS scene
+[09:45] of a room with a '9s or 2000s TV box.
+[09:49] And you can see that it does
+[09:50] exceptionally well in creating this
+[09:52] prompt where I told it to generate nine
+[09:54] different channels being displayed in
+[09:56] this environment. and it did
+[09:58] exceptionally well when it was able to
+[10:00] organize this large single file 3GS
+[10:02] project with multiple scenes with the
+[10:04] different channels. Now let's actually
+[10:06] view through all of them. Second one is
+[10:09] showcasing fireworks which is actually
+[10:11] pretty cool. The particles you have a
+[10:14] night city that is being displayed. I
+[10:16] don't think it shows it properly because
+[10:18] it's a bit too dark within the scene. It
+[10:20] didn't actually generate it properly.
+[10:22] But you can still see there's cars which
+[10:25] people are driving through the city. You
+[10:27] have an ocean wave channel which is
+[10:29] pretty cool. Still a dark scene. You
+[10:32] have an audio visualizer which is way
+[10:35] too loud. Sorry guys. You have a solar
+[10:37] system which has been generated within
+[10:39] the scene. This is probably the coolest
+[10:41] uh channel which has been generated. You
+[10:43] have a ping pong game that has been also
+[10:45] generated. Fractual tree that was
+[10:47] generated which is cool. And then
+[10:49] lastly, you have a bird flock which is
+[10:52] being simulated in this 3GS scene. So
+[10:55] this just essentially shows how well the
+[10:57] model is in terms of simulating all of
+[11:00] these different components like the
+[11:01] physics, the shaders, the games, the
+[11:03] procedural animation voids. All this was
+[11:06] fully coded out thoroughly with this
+[11:08] model. Now in regards to SVG, the model
+[11:11] does quite proficiently well in
+[11:13] generating SVG code because this is
+[11:15] where I had requested it to create a
+[11:17] pelican riding a bike in SVG. You can
+[11:19] see that it does a decent job with most
+[11:22] of the attributes of this environment,
+[11:25] but you can see one slight error. You
+[11:27] see the pedals actually twirling,
+[11:29] whereas the Pelican's legs are supposed
+[11:31] to be twirling to move the bike. But in
+[11:33] this case, it's doing the opposite. Now,
+[11:35] when I actually compare it to the Kim
+[11:37] K2.6, you can see how well the Kimi
+[11:40] model does in terms of generating this
+[11:42] particular pelican riding a bike. And it
+[11:45] also does a similar thing, but it
+[11:47] doesn't actually move the legs with the
+[11:49] pedals. So that is the only downside
+[11:51] with the Kimi generation, but the
+[11:54] overall generation with the Mimo version
+[11:56] 2.5 Pro, it is still pretty decent where
+[11:59] it was able to generate most of the
+[12:01] components thoroughly well. Here I had
+[12:03] requested it to create a painting in SVG
+[12:05] and you can see that it did pretty well
+[12:07] with this generation. You have different
+[12:09] environments and different gradients
+[12:11] that have been generated. And if you
+[12:13] compare it to Kimik K 2.6, it actually
+[12:16] does better than this, but you also have
+[12:18] dynamic movement with this. So that is
+[12:20] also a cool feature that it tried to
+[12:22] add, but it's not the best. It's not on
+[12:25] par with what we see over here. Now,
+[12:29] lastly, with my last prompt where I told
+[12:31] it to create a butterfly and SVG, this
+[12:34] is probably one of the best generations
+[12:36] I've gotten from any open source models
+[12:38] cuz it added ambience and it did
+[12:40] properly generate the flap animation of
+[12:43] a butterfly and its wings. So, this is
+[12:46] truly remarkable and what it generated
+[12:48] in this particular prompt is definitely
+[12:50] nice to see. And I actually tried to
+[12:53] test it out in comparison to another
+[12:55] open- source model like the Miniax M2.7.
+[12:58] And you can see that the Mimo does
+[12:59] pretty well with this generation. You
+[13:02] can see that the flap animation is
+[13:03] perfect for the wings. And if you are to
+[13:05] compare it to the Miniax M2.7, I'm not
+[13:08] saying this is bad, but I'd gladly take
+[13:10] the Mimo version 2.5 Pro over what the
+[13:12] M27 had generated. If you like this
+[13:15] video and would love to support the
+[13:17] channel, you can consider donating to my
+[13:19] channel through the super thanks option
+[13:21] below. Or you can consider joining our
+[13:24] private Discord where you can access
+[13:26] multiple subscriptions to different AI
+[13:28] tools for free on a monthly basis, plus
+[13:30] daily AI news and exclusive content,
+[13:33] plus a lot more. In conclusion, I'm
+[13:36] surprised to see such a great
+[13:37] open-source model that stands out less
+[13:39] for its raw benchmarks, more for its
+[13:42] ability to sustain long complex Asian
+[13:44] workflows without breaking. I definitely
+[13:46] love this model and I will be testing it
+[13:48] out bit more and it definitely could be
+[13:51] a serious contender for practical
+[13:52] production grade AI systems and not just
+[13:55] for demos. So definitely recommend that
+[13:57] you try this out. I'll leave all the
+[13:58] links in the description below so that
+[14:00] you can take a look at it. But with that
+[14:01] thought guys, thank you guys so much for
+[14:02] watching. Make sure you go ahead and
+[14:04] subscribe to the second channel, join
+[14:05] the newsletter, join the Discord, follow
+[14:07] me on Twitter, and lastly, make sure you
+[14:08] guys subscribe, turn on notification
+[14:10] bell, like this video, and please take a
+[14:11] look at our previous videos so that you
+[14:13] can stay up to date with the latest AI
+[14:15] news. But with that thought, guys, have
+[14:16] an amazing day, spread positivity, and
+[14:18] I'll see you guys fairly shortly. He
+[14:19] suffers.
