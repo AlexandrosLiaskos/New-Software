@@ -1,0 +1,31 @@
+{
+  "uid": "2a3e078fe43b3a19",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "Claude for Legal: legal workflow patterns from Anthropic",
+  "summary": "Anthropic's open collection of example prompts, reasoning patterns, and structured workflows demonstrating Claude in document review, drafting, and legal analysis with human-in-the-loop review.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/anthropics/claude-cookbooks"
+  ],
+  "tags": [
+    "claude",
+    "anthropic",
+    "legal",
+    "skills"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/anthropics/claude-cookbooks",
+    "stars": 43216,
+    "forks": 4904,
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "notes": "The host described this as 'Claude for Legal'; the closest first-party Anthropic surface for legal-workflow recipes is the public claude-cookbooks notebook collection. A dedicated 'claude-for-legal' repo could not be confirmed at research time."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

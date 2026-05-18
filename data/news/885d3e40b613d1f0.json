@@ -1,0 +1,46 @@
+{
+  "uid": "885d3e40b613d1f0",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "tool",
+  "title": "Kernel open-sources GPU-accelerated browser sandbox for agents",
+  "summary": "Kernel provides open-source browser infrastructure that spins up sandboxed Chromium instances in under 30 ms on GPU-accelerated hardware, aimed at AI agent workloads. Includes session replay for debugging; in production at Framer and Cash App, billed only when active.",
+  "source_video_uid": "52cd49ec9697b96a",
+  "source_video_id": "3tbB2dffx0s",
+  "source_channel_handle": "Fireship",
+  "timestamp_in_video": "",
+  "links": [
+    "https://onkernel.com/"
+  ],
+  "tags": [
+    "ai-agent",
+    "browser",
+    "infrastructure",
+    "open-source"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://www.kernel.sh/",
+    "repo_url": "https://github.com/kernel/kernel-images",
+    "license": "Apache-2.0",
+    "notes": "Founded 2025 by Rafael Garcia and Catherine Jue (YC). Unikernel-per-browser architecture; reports <325 ms cold start vs 3–5 s for container-based equivalents.",
+    "web_findings": [
+      {
+        "title": "Kernel: Browser infrastructure for web agents and automations",
+        "url": "https://www.kernel.sh/",
+        "snippet": "Sandboxed unikernel per browser; MP4 replay; Apache-2.0 infra and SDKs."
+      },
+      {
+        "title": "kernel/kernel-images — GitHub",
+        "url": "https://github.com/kernel/kernel-images",
+        "snippet": "Browsers-as-a-service for automations and web agents."
+      },
+      {
+        "title": "Kernel vs Browserbase — Kernel Blog",
+        "url": "https://onkernel.com/blog/kernel-vs-browserbase",
+        "snippet": "Reports 5.8× faster cold starts and 50–98% lower cost vs Browserbase."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

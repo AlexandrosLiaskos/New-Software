@@ -1,0 +1,186 @@
+[00:00] Just a few days ago, the worst nightmare
+[00:02] of every open- source maintainer finally
+[00:04] came true. No, they weren't forced to
+[00:06] socialize with the opposite sex.
+[00:07] Instead, in just 6 minutes, which I've
+[00:09] been arguing for years is actually quite
+[00:11] a long time, over 100 packages that
+[00:14] collectively get downloaded more than 50
+[00:15] million times a week, were compromised
+[00:17] in a supply chain attack where no one
+[00:19] was fished, no passwords were leaked,
+[00:21] and no tokens were stolen. And to make
+[00:23] it even worse, the poisoned packages
+[00:25] were signed, verified, and shipped
+[00:27] through npm's trusted publishing
+[00:29] feature, which was built primarily to
+[00:31] prevent these kinds of attacks and has
+[00:33] been the recommended publishing setup
+[00:35] for almost 2 years now. In today's
+[00:37] video, we'll break down the clever trick
+[00:38] that let an attacker hijack the release
+[00:40] pipeline of one of the biggest projects
+[00:42] in the React ecosystem. We'll see how
+[00:44] the malware then spread to hundreds of
+[00:46] other packages and learn about the dead
+[00:48] man switch, which is now on every
+[00:50] infected machine that will nuke your
+[00:52] home folder the second you try to clean
+[00:54] it up. Heaven help us all. It is May
+[00:56] 14th, 2026, and you're watching the code
+[00:58] report. Life has been extra exciting
+[01:00] lately because every time I wake up, I
+[01:02] wonder which one is going to destroy my
+[01:04] life first, the rodent poop cruise virus
+[01:06] or the mini shy hallude virus. But
+[01:08] thankfully, I'm no poop expert, so I'll
+[01:10] stick with breaking down how the shy
+[01:12] hallude prairie dogged its little head
+[01:14] again in a fairly sophisticated attack
+[01:16] that no one saw coming. And it all
+[01:18] started with how Tanstack's release
+[01:19] process works. Whenever a new pull
+[01:21] request is merged, a GitHub actions
+[01:23] workflow kicks off, which handles
+[01:25] publishing the new version to the mpm
+[01:27] registry. But to do that, the continuous
+[01:29] integration server needs to get a
+[01:31] publish token from npm first. To prove
+[01:34] the request is legit, GitHub itself
+[01:36] signs a statement saying which workflow
+[01:38] is running, in which repo, and on which
+[01:40] branch. NPM then checks that signed
+[01:42] statement against the org's allow list
+[01:44] and only hands over a token if
+[01:46] everything matches. The token then lives
+[01:48] for a few minutes in the CI's cache and
+[01:50] then quickly becomes stale, so there's
+[01:52] nothing for traditional fishing attacks
+[01:53] to steal. This sounds bulletproof, but
+[01:56] the problem is that the mini shy hulude
+[01:58] attack wasn't traditional. Here's how it
+[02:00] worked. The attacker forked the Tanstack
+[02:02] repo, created a pull request, and then
+[02:04] immediately closed it. Even though it
+[02:06] was just a fork and the pull request was
+[02:08] never seen by anyone, just creating the
+[02:10] PR was enough to kick off the publishing
+[02:12] workflow. And this is where the Tanstack
+[02:13] team went wrong because when they
+[02:15] configured the trigger for the workflow,
+[02:17] they used the pull request target
+[02:19] option, which meant that any pull
+[02:20] request that came in would run in the
+[02:22] context of the main repository along
+[02:24] with the main repository's permissions,
+[02:26] even if the PR was created from a fork.
+[02:28] that those permissions were enough to
+[02:30] allow the attacker's code to write a
+[02:32] poisoned file into the shared cache of
+[02:34] the CI server, which is used by GitHub
+[02:36] actions to reuse dependencies between
+[02:38] jobs. A few hours later, an unrelated
+[02:41] pull request was merged into main. The
+[02:43] poisoned file was triggered, which
+[02:45] grabbed the npm publish token from the
+[02:47] cache and used it to take a massive shy
+[02:49] hall dump on the 84 brand new
+[02:52] compromised Tanstack packages. But from
+[02:54] there, if you were lucky enough to npm
+[02:56] install one of those packages, the
+[02:57] malware ran and scan your system for
+[03:00] anything valuable it could get its
+[03:01] grubby little sete on. And if it found
+[03:03] any npm publishing tokens, it used those
+[03:06] to publish new poison versions with the
+[03:08] same hack, which is how a tan stack
+[03:10] problem became an everybody problem. The
+[03:12] first wave of victims included
+[03:14] maintainers at Mistral AI, UiPath, Open
+[03:17] Search, Guardrails AI, and Squawk.
+[03:20] Within hours, those companies pushed
+[03:21] compromised packages onto the mpm
+[03:23] registry as well. And through their
+[03:25] Python SDKs, the worm jumped the shark
+[03:27] over to Pi. But by the next morning,
+[03:30] security firm Aikido was tracking 373
+[03:33] poisoned versions across 169 packages.
+[03:36] And the worm was getting even smarter.
+[03:38] It started forging commits signed by the
+[03:40] Claude Code GitHub app. So, its
+[03:42] malicious activity blended in with the
+[03:44] AI generated commits maintainers were
+[03:46] already used to seeing. And on infected
+[03:47] machines, it embedded itself directly
+[03:49] into clawed code and VS Code. So even
+[03:52] after a developer uninstalled the bad
+[03:53] packages, the worm would just re-execute
+[03:56] itself the next time they open their
+[03:57] editor. And my favorite part, if you
+[03:59] were infected, the malware also
+[04:01] installed a background process that
+[04:03] would quietly check every 60 seconds
+[04:05] whether your stolen GitHub token was
+[04:06] still valid. The moment your token
+[04:08] expires, it activates war crime mode and
+[04:10] nukes your root directory. So, how do we
+[04:13] prevent this in the future? Well, the
+[04:14] reality is that we probably don't. But
+[04:16] there are some things you can do on your
+[04:18] end to help your odds. The best would be
+[04:20] to use PNPM1 or higher, which comes with
+[04:22] two features turned on by default that
+[04:24] would have stopped this exact worm from
+[04:26] reaching most of you. The first is
+[04:27] minimum release age. It tells PNPM to
+[04:30] refuse any packages published less than
+[04:32] 24 hours ago, which is long past when
+[04:34] most malicious packages are detected and
+[04:36] pulled from the registry. The second is
+[04:39] block exotic subd dependencies.
+[04:41] Normally, every transitive dependency in
+[04:42] your project comes from the npm
+[04:44] registry. But there's nothing stopping a
+[04:46] package from listing a dependency that
+[04:48] points at a random git repo or a tarball
+[04:51] URL on some attackers S3 bucket. Block
+[04:53] exotic subdeps refuses to install
+[04:55] anything that doesn't come through a
+[04:57] proper registry, which closes one of the
+[04:59] most elegant ways for malware to smuggle
+[05:01] itself in. And the third PNPM feature
+[05:03] worth using is approved builds. Most npm
+[05:06] malware does its damage through install
+[05:08] scripts that run automatically when you
+[05:10] type npm install. The PNPM11 blocks all
+[05:13] of them by default and lets you walk
+[05:15] through your dependencies and whitelist
+[05:16] the few packages you actually want to
+[05:18] let run code. But even when using PNPM,
+[05:21] things can still break in production.
+[05:22] And that's where Sentry, today's
+[05:24] sponsor, can help you out. They just
+[05:26] shipped Seir Agent, an AI agent that
+[05:28] investigates your production issues for
+[05:30] you. is so the next time you get a jump
+[05:31] scare Slack notification about a bunch
+[05:33] of new errors, you can just ask your
+[05:35] agent to investigate the problem instead
+[05:37] of manually digging through dashboards
+[05:39] and logs yourself. The agent uses all
+[05:41] the context Sentry already has on your
+[05:43] system to pull traces, spans, logs, and
+[05:46] replays. Then it walks upstream across
+[05:48] your services to find the actual root
+[05:50] cause. From there, you can work with
+[05:52] Seir to draft a fix and open a pull
+[05:54] request is so you can spend less time
+[05:56] staring at error messages and more time
+[05:58] pretending to touch grass. The
+[06:00] developers are calling it a self-healing
+[06:02] software and you can try it out for free
+[06:03] right now during the open beta at
+[06:05] century.io/fireship.
+[06:08] This has been the code report. Thanks
+[06:09] for watching and I will see you in the
+[06:11] next one.

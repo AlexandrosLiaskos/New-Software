@@ -1,0 +1,29 @@
+{
+  "uid": "b80645faa1cb341c",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "Awesome AI Agents: curated directory of agent frameworks",
+  "summary": "Curated index of AI-agent frameworks, multi-agent systems, orchestration tools, and autonomous-workflow projects — a discovery hub for comparing approaches.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/e2b-dev/awesome-ai-agents"
+  ],
+  "tags": [
+    "ai-agent",
+    "awesome-list",
+    "discovery"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "homepage": "https://e2b.dev/docs",
+    "stars": 27888,
+    "forks": 2892,
+    "license": "NOASSERTION"
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "0be61b463109af9e",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "k3s: lightweight Kubernetes for edge and local clusters",
+  "summary": "Production Kubernetes distribution packaged into a smaller, easier-to-manage runtime; designed for edge, IoT, CI, and resource-constrained environments while remaining upstream-compatible.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/k3s-io/k3s"
+  ],
+  "tags": [
+    "kubernetes",
+    "edge",
+    "infrastructure"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/k3s-io/k3s",
+    "homepage": "https://k3s.io",
+    "stars": 33033,
+    "forks": 2661,
+    "language": "Go",
+    "license": "Apache-2.0"
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

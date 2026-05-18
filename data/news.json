@@ -1,0 +1,720 @@
+[
+  {
+    "uid": "520c31f29d17e47c",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "vuln",
+    "title": "Shai-Hulud npm worm compromises 169 packages",
+    "summary": "A self-propagating supply-chain worm slipped through npm Trusted Publishing by abusing GitHub Actions pull_request_target on TanStack, then spread via stolen tokens to packages at Mistral AI, UiPath, OpenSearch, and Guardrails AI; security firm Aikido tracked 373 poisoned versions across 169 packages.",
+    "source_video_uid": "912b42c924151c15",
+    "source_video_id": "gwTQLZSIlsU",
+    "source_channel_handle": "Fireship",
+    "timestamp_in_video": "",
+    "links": [
+      "https://www.aikido.dev/"
+    ],
+    "tags": [
+      "npm",
+      "supply-chain",
+      "security",
+      "github-actions"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "notes": "Compromised packages carry valid SLSA Build Level 3 provenance attestations — the first npm worm documented to produce validly-attested malicious packages. Attacker pwned a fork-triggered pull_request_target workflow, then extracted OIDC tokens from /proc/<pid>/mem of the GitHub Actions runner.",
+      "web_findings": [
+        {
+          "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+          "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+          "snippet": "84 npm artifacts across 42 @tanstack/* packages compromised on May 11 2026 by chaining GitHub Actions Pwn Request, cache poisoning and OIDC token exploitation."
+        },
+        {
+          "title": "Our response to the TanStack npm supply chain attack — OpenAI",
+          "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/",
+          "snippet": "OpenAI postmortem covering exposure surface and remediation."
+        },
+        {
+          "title": "TanStack npm Packages Hit by Mini Shai-Hulud — Snyk",
+          "url": "https://snyk.io/blog/tanstack-npm-packages-compromised/",
+          "snippet": "Snyk's technical breakdown of the worm propagation mechanism."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ef5a68781fd5fa43",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "pnpm 11 ships supply-chain mitigations by default",
+    "summary": "pnpm 11 enables three defaults that block this class of attack: minimumReleaseAge refuses packages younger than 24 hours, blockExoticSubdependencies refuses non-registry transitive deps, and approvedBuilds disables install scripts unless whitelisted.",
+    "source_video_uid": "912b42c924151c15",
+    "source_video_id": "gwTQLZSIlsU",
+    "source_channel_handle": "Fireship",
+    "timestamp_in_video": "",
+    "links": [
+      "https://pnpm.io/"
+    ],
+    "tags": [
+      "pnpm",
+      "package-manager",
+      "security"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://pnpm.io/",
+      "web_findings": [
+        {
+          "title": "pnpm — Fast, disk space efficient package manager",
+          "url": "https://pnpm.io/",
+          "snippet": "minimumReleaseAge, blockExoticSubdependencies and approved-builds are documented as defaults from v11."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "9a080f784e45efac",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Sentry ships Seer agent for production debugging",
+    "summary": "Sentry launched Seer, an AI agent that investigates production errors by pulling traces, spans, logs, and replays from existing Sentry data, walking upstream across services to identify root cause, and drafting fixes as pull requests. Open beta.",
+    "source_video_uid": "912b42c924151c15",
+    "source_video_id": "gwTQLZSIlsU",
+    "source_channel_handle": "Fireship",
+    "timestamp_in_video": "",
+    "links": [
+      "https://sentry.io/"
+    ],
+    "tags": [
+      "observability",
+      "ai-agent",
+      "sentry"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://sentry.io/product/seer/",
+      "notes": "Seer Agent launched April 28 2026; January 2026 update added local-development and code-review debugging plus flat unlimited pricing.",
+      "web_findings": [
+        {
+          "title": "Sentry Launches Seer Agent — Sentry press release",
+          "url": "https://sentry.io/about/press-releases/sentry-launches-seer-agent/",
+          "snippet": "Investigate production problems in plain language; multi-player from Slack."
+        },
+        {
+          "title": "Sentry's Seer Agent lets developers debug production issues in natural language — The New Stack",
+          "url": "https://thenewstack.io/sentrys-seer-agent-debug/",
+          "snippet": "Walks the dependency graph across services to identify root cause and draft fixes."
+        },
+        {
+          "title": "Sentry Expands Seer AI Debugging Agent to Local Development and Code Review",
+          "url": "https://sentry.io/about/press-releases/sentry-expands-seer-ai-debugging-agent/",
+          "snippet": "PR-level defect analysis and background root-cause triage on incoming errors."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5b24c3aead27f302",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "news",
+    "title": "Musk v. Altman closing arguments begin in Oakland",
+    "summary": "Closing arguments opened in Elon Musk's USD 134 billion suit against Sam Altman, OpenAI and Microsoft, alleging breach of charitable trust in the for-profit conversion. Trial discovery surfaced internal emails and Brockman testimony; the case is heard before Judge Yvonne Gonzalez Rogers with an advisory jury.",
+    "source_video_uid": "52cd49ec9697b96a",
+    "source_video_id": "3tbB2dffx0s",
+    "source_channel_handle": "Fireship",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "openai",
+      "litigation",
+      "ai-industry"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "",
+      "web_findings": [],
+      "notes": "Trial heard in U.S. District Court for the Northern District of California (Oakland) before Judge Yvonne Gonzalez Rogers; advisory jury, USD 134 billion in claimed damages plus an unwinding of OpenAI's for-profit conversion."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "885d3e40b613d1f0",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "tool",
+    "title": "Kernel open-sources GPU-accelerated browser sandbox for agents",
+    "summary": "Kernel provides open-source browser infrastructure that spins up sandboxed Chromium instances in under 30 ms on GPU-accelerated hardware, aimed at AI agent workloads. Includes session replay for debugging; in production at Framer and Cash App, billed only when active.",
+    "source_video_uid": "52cd49ec9697b96a",
+    "source_video_id": "3tbB2dffx0s",
+    "source_channel_handle": "Fireship",
+    "timestamp_in_video": "",
+    "links": [
+      "https://onkernel.com/"
+    ],
+    "tags": [
+      "ai-agent",
+      "browser",
+      "infrastructure",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://www.kernel.sh/",
+      "repo_url": "https://github.com/kernel/kernel-images",
+      "license": "Apache-2.0",
+      "notes": "Founded 2025 by Rafael Garcia and Catherine Jue (YC). Unikernel-per-browser architecture; reports <325 ms cold start vs 3–5 s for container-based equivalents.",
+      "web_findings": [
+        {
+          "title": "Kernel: Browser infrastructure for web agents and automations",
+          "url": "https://www.kernel.sh/",
+          "snippet": "Sandboxed unikernel per browser; MP4 replay; Apache-2.0 infra and SDKs."
+        },
+        {
+          "title": "kernel/kernel-images — GitHub",
+          "url": "https://github.com/kernel/kernel-images",
+          "snippet": "Browsers-as-a-service for automations and web agents."
+        },
+        {
+          "title": "Kernel vs Browserbase — Kernel Blog",
+          "url": "https://onkernel.com/blog/kernel-vs-browserbase",
+          "snippet": "Reports 5.8× faster cold starts and 50–98% lower cost vs Browserbase."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5f19a5f4c8eb5d9b",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "scientific-agent-skills: reusable skills for scientific AI agents",
+    "summary": "Open-source collection of structured prompts, tool interactions, and domain-specific actions for scientific AI agents; integrates as a capability layer into assistant systems and research pipelines.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "ai-agent",
+      "skills",
+      "research"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "920d28cb61d63148",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Telegraf: plugin-driven metrics collection agent",
+    "summary": "InfluxData's open-source agent for collecting metrics, logs, and events through a large plugin ecosystem, forwarding to time-series databases and observability platforms.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/influxdata/telegraf"
+    ],
+    "tags": [
+      "observability",
+      "metrics",
+      "go"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/influxdata/telegraf",
+      "homepage": "https://influxdata.com/telegraf",
+      "stars": 17517,
+      "forks": 5807,
+      "language": "Go",
+      "license": "MIT"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "389c30b072ca6631",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "n8n-mcp: Model Context Protocol layer for n8n workflows",
+    "summary": "Bridges n8n automation workflows with MCP, letting AI agents and external tools invoke n8n workflows through structured context and execution interfaces.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/czlonkowski/n8n-mcp"
+    ],
+    "tags": [
+      "mcp",
+      "n8n",
+      "automation",
+      "ai-agent"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/czlonkowski/n8n-mcp",
+      "homepage": "https://www.n8n-mcp.com/",
+      "stars": 21055,
+      "forks": 3417,
+      "language": "TypeScript",
+      "license": "MIT",
+      "notes": "MCP server for Claude Desktop / Claude Code / Windsurf / Cursor that lets these agents author n8n workflows."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "05ace5fb43bb0917",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "DeepSeek TUI: terminal interface for DeepSeek models",
+    "summary": "Text-based terminal application for interacting with DeepSeek language models — running prompts, managing conversations, and accessing workflows from the command line.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "llm",
+      "cli",
+      "deepseek"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "cebe59ea96bbbf37",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Hysteria: high-performance proxy and tunneling protocol",
+    "summary": "Open-source proxy and tunneling system using modern transport protocols to improve latency and throughput across unstable or restricted networks.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/apernet/hysteria"
+    ],
+    "tags": [
+      "networking",
+      "proxy",
+      "tunneling"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/apernet/hysteria",
+      "homepage": "https://v2.hysteria.network/",
+      "stars": 21162,
+      "forks": 2177,
+      "language": "Go",
+      "license": "MIT"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "8e69e6af769f96bd",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Hermes Agent: autonomous framework for tool-using AI agents",
+    "summary": "Framework from Nous Research that combines language models with memory, APIs, file operations, and iterative execution loops to drive multi-step autonomous workflows.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/NousResearch/hermes"
+    ],
+    "tags": [
+      "ai-agent",
+      "nous-research",
+      "framework"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155606,
+      "forks": 24979,
+      "language": "Python",
+      "license": "MIT",
+      "notes": "Nous Research's flagship self-evolving agent. Companion repos exist for plugins, function-calling, self-evolution and compression evaluation."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "b3f49e01c858ca53",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "OpenSRE: AI-assisted platform for SRE workflows",
+    "summary": "Open-source SRE platform combining observability, diagnostics, and operational tooling with AI assistance for incident response and reliability automation.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "sre",
+      "observability",
+      "ai-assisted"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "5eb5bb9e0abcb1c8",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Rufflow: structured workflow manager for AI outputs",
+    "summary": "Organises and transforms AI-generated outputs into structured workflows; targets consistency and repeatability across automation pipelines.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "ai-workflow",
+      "automation"
+    ],
+    "research_status": "transcript_only",
+    "research": {},
+    "research_date": "",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "2a3e078fe43b3a19",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Claude for Legal: legal workflow patterns from Anthropic",
+    "summary": "Anthropic's open collection of example prompts, reasoning patterns, and structured workflows demonstrating Claude in document review, drafting, and legal analysis with human-in-the-loop review.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/anthropics/claude-cookbooks"
+    ],
+    "tags": [
+      "claude",
+      "anthropic",
+      "legal",
+      "skills"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/anthropics/claude-cookbooks",
+      "stars": 43216,
+      "forks": 4904,
+      "language": "Jupyter Notebook",
+      "license": "MIT",
+      "notes": "The host described this as 'Claude for Legal'; the closest first-party Anthropic surface for legal-workflow recipes is the public claude-cookbooks notebook collection. A dedicated 'claude-for-legal' repo could not be confirmed at research time."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "b80645faa1cb341c",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "Awesome AI Agents: curated directory of agent frameworks",
+    "summary": "Curated index of AI-agent frameworks, multi-agent systems, orchestration tools, and autonomous-workflow projects — a discovery hub for comparing approaches.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/e2b-dev/awesome-ai-agents"
+    ],
+    "tags": [
+      "ai-agent",
+      "awesome-list",
+      "discovery"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/e2b-dev/awesome-ai-agents",
+      "homepage": "https://e2b.dev/docs",
+      "stars": 27888,
+      "forks": 2892,
+      "license": "NOASSERTION"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ab31cbd67637dbbb",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "ds4: compact systems-programming data structures in C (antirez)",
+    "summary": "Antonio (antirez) Sanfilippo's compact C library of efficient data structures for systems programming; targets memory and runtime efficiency in low-level applications.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/antirez/ds4"
+    ],
+    "tags": [
+      "c",
+      "data-structures",
+      "antirez",
+      "systems"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/antirez/ds4",
+      "stars": 10522,
+      "forks": 860,
+      "language": "C",
+      "license": "MIT",
+      "notes": "The video summary mis-identifies the project: antirez/ds4 is in fact a local inference engine for DeepSeek 4 Flash (Metal and CUDA), not a generic data-structures library. Worth tracking on the strength of the author and the topic."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "0be61b463109af9e",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "k3s: lightweight Kubernetes for edge and local clusters",
+    "summary": "Production Kubernetes distribution packaged into a smaller, easier-to-manage runtime; designed for edge, IoT, CI, and resource-constrained environments while remaining upstream-compatible.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/k3s-io/k3s"
+    ],
+    "tags": [
+      "kubernetes",
+      "edge",
+      "infrastructure"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/k3s-io/k3s",
+      "homepage": "https://k3s.io",
+      "stars": 33033,
+      "forks": 2661,
+      "language": "Go",
+      "license": "Apache-2.0"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "ee7c9e941616c674",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "repo",
+    "title": "MTEB: benchmark suite for embedding models",
+    "summary": "Massive Text Embedding Benchmark — datasets, evaluation pipelines, and standardised metrics for comparing retrieval, classification, and semantic similarity across embedding models.",
+    "source_video_uid": "e9b87ebf0400c5ec",
+    "source_video_id": "CtxB7U0EVhg",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/embeddings-benchmark/mteb"
+    ],
+    "tags": [
+      "embeddings",
+      "benchmark",
+      "evaluation"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/embeddings-benchmark/mteb",
+      "homepage": "https://embeddings-benchmark.github.io/mteb/",
+      "stars": 3265,
+      "forks": 616,
+      "language": "Python",
+      "license": "Apache-2.0",
+      "notes": "Video calls this 'MTV'; the canonical project is MTEB (Massive Text Embedding Benchmark)."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "34e3ca984fcd1723",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "tool",
+    "title": "Higgsfield Supercomputer: agentic product+distribution workflow",
+    "summary": "Higgsfield AI's Supercomputer combines research, branding, landing-page generation, launch video, and ad variations into one agentic chat — positioned as an end-to-end go-to-market workflow rather than an isolated video generator.",
+    "source_video_uid": "9e6d11f75a0b8118",
+    "source_video_id": "GZUQoSf7GR0",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://higgsfield.ai/"
+    ],
+    "tags": [
+      "ai-agent",
+      "video",
+      "marketing",
+      "higgsfield"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://higgsfield.ai/supercomputer-intro",
+      "notes": "Launched 14 May 2026. Built on a custom Hermes 3 series from Nous Research, fine-tuned for agentic orchestration; routes across Claude Opus 4.7 / Sonnet 4.6, GPT-5.5 Pro and Gemini 3.1 Pro. Underlying video model is Seedance 2.0.",
+      "web_findings": [
+        {
+          "title": "Higgsfield Supercomputer — Agentic AI Content Creation",
+          "url": "https://higgsfield.ai/supercomputer-intro",
+          "snippet": "Self-learning cloud-native agent for the full marketing creative process."
+        },
+        {
+          "title": "Higgsfield AI Supercomputer — explainx.ai analysis",
+          "url": "https://explainx.ai/blog/higgsfield-ai-supercomputer-hermes-agent-2026",
+          "snippet": "Architecture overview; 40+ built-in tools, three layers of memory."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "80434ea80f26b030",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Hermes Agent 0.14.0 — Foundation release",
+    "summary": "Nous Research's Hermes Agent ships its 'Foundation' release: native Windows beta, ~19 s faster cold start, persistent Chrome DevTools Protocol connection (some browser flows up to 180x faster), 1-hour cross-session prompt cache, native video generation, and a /handoff command for transferring live sessions across models without losing context.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://github.com/NousResearch/hermes"
+    ],
+    "tags": [
+      "nous-research",
+      "ai-agent",
+      "windows",
+      "release"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "stars": 155606,
+      "forks": 24979,
+      "language": "Python",
+      "license": "MIT",
+      "latest_release": "v2026.5.16 — Hermes Agent v0.14.0",
+      "latest_release_date": "2026-05-16"
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "aba7e280daa0972b",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Hermes proxy: route one subscription across coding agents",
+    "summary": "A local OpenAI-compatible proxy in Hermes 0.14 lets a single Claude/ChatGPT/Grok subscription drive any compatible coding agent without separate API keys — runs as a local host endpoint authenticated by the user's existing plan.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [],
+    "tags": [
+      "proxy",
+      "openai-compatible",
+      "nous-research"
+    ],
+    "research_status": "researched",
+    "research": {
+      "repo_url": "https://github.com/NousResearch/hermes-agent",
+      "notes": "Ships as part of Hermes Agent 0.14 — exposes a local OpenAI-compatible endpoint backed by the user's chat subscription."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "377bb6dd27135efd",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "model",
+    "title": "DeepSeek V4 Flash free on the Nous portal (limited time)",
+    "summary": "DeepSeek V4 Flash is available free for a limited window on the Nous Research portal, courtesy of NVIDIA AI — usable for coding, reasoning, and long-context autonomous workflows.",
+    "source_video_uid": "d60e6b620236ae95",
+    "source_video_id": "uZIijUyMT20",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://portal.nousresearch.com/"
+    ],
+    "tags": [
+      "deepseek",
+      "model",
+      "nvidia",
+      "free-tier"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://portal.nousresearch.com/",
+      "notes": "Hosted on Nous Research's portal with sponsorship from NVIDIA AI; available free for a limited window."
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  },
+  {
+    "uid": "4fb57d18d58b94fa",
+    "created_at": "2026-05-18T09:56:54+00:00",
+    "category": "release",
+    "title": "Mistral Vibe: open-source terminal coding agent",
+    "summary": "Mistral's open-source terminal-native coding agent — async tasks, sub-agents, slash-command skills, multi-choice clarification, IDE plugins (VS Code, JetBrains), bring-your-own-key, and a paid tier on Le Chat Pro at USD 14.99/month with student discount. Powered by Devstral, Codestral, and Codestral Embed.",
+    "source_video_uid": "5b7177ee266d84fd",
+    "source_video_id": "WxjviB1pJbk",
+    "source_channel_handle": "ManuAGI",
+    "timestamp_in_video": "",
+    "links": [
+      "https://mistral.ai/",
+      "https://chat.mistral.ai/"
+    ],
+    "tags": [
+      "mistral",
+      "cli",
+      "coding-agent",
+      "open-source"
+    ],
+    "research_status": "researched",
+    "research": {
+      "homepage": "https://mistral.ai/news/devstral-2-vibe-cli",
+      "repo_url": "https://github.com/mistralai/mistral-vibe",
+      "license": "Apache-2.0",
+      "notes": "Launched late January 2026 alongside Devstral 2; in 2026 the model under the hood was swapped to Mistral Medium 3.5. ACP-compatible for IDE integration.",
+      "web_findings": [
+        {
+          "title": "Introducing Devstral 2 and Mistral Vibe CLI — Mistral AI",
+          "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+          "snippet": "Native CLI built for Devstral; explores, modifies, and executes changes across a codebase from natural language."
+        },
+        {
+          "title": "mistralai/mistral-vibe — GitHub",
+          "url": "https://github.com/mistralai/mistral-vibe",
+          "snippet": "Minimal CLI coding agent by Mistral. Apache-2.0."
+        },
+        {
+          "title": "Remote agents in Vibe — Mistral AI",
+          "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+          "snippet": "Adds remote agents and swaps in Mistral Medium 3.5."
+        }
+      ]
+    },
+    "research_date": "2026-05-18T09:59:34+00:00",
+    "__class__": "SoftwareNews"
+  }
+]

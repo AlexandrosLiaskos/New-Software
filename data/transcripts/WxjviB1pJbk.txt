@@ -1,0 +1,293 @@
+[00:00] We all know Claude Code and its powerful
+[00:02] agent capabilities right inside your
+[00:03] terminal. With the all the recent hype
+[00:05] around it, many developers have been
+[00:07] searching for cheaper or even free
+[00:09] alternatives that deliver similar
+[00:11] results. Today, I found one that's truly
+[00:14] impressive, agentic, efficient in code
+[00:17] generation that's open source and
+[00:19] partially free. It's from the Mistral
+[00:21] team who's also sponsoring today's
+[00:23] video, and it's called Mistral Vibe.
+[00:26] This is something that launched recently
+[00:28] and it's already shaping up to be a
+[00:30] game-changer in AI-assisted development.
+[00:33] But, what is Mistral Vibe? Well, it's a
+[00:35] terminal-native AI coding agent that is
+[00:38] like Open Code and Claude Code, capable
+[00:41] of writing, testing, refactoring your
+[00:44] code, and even deploying your code all
+[00:46] from the command line. It supports async
+[00:49] tasks, it integrates with tools like
+[00:51] GitHub, Jira, Slack, and Jenkins, and
+[00:54] comes with customizable agent workflows
+[00:57] to automate long-running tasks. For
+[00:59] example, take a look at how it can
+[01:01] document shell aliases with the Mistral
+[01:04] Vibe tool. This is where it's capable of
+[01:06] reading your dot files, understanding
+[01:08] what each alias does, and generating
+[01:11] clean structured documentation
+[01:12] automatically. You can point it at your
+[01:15] aliases and explain each command
+[01:17] purpose. It filters out highly specific
+[01:20] scripts and shows how to install them
+[01:22] via the ZSHRC
+[01:24] or the alias file. You can even create
+[01:27] custom sub-agents in Mistral Vibe,
+[01:29] letting you build specialized agents to
+[01:32] deploy scripts, PR reviews, test
+[01:34] generations, or even repeatable
+[01:36] workflows, and invoke them on demand
+[01:38] with a single command. Sub-agents
+[01:41] inherit project context while focusing
+[01:43] on your domain. It is something that can
+[01:45] enable composable automation that scales
+[01:48] with your team and your developer
+[01:49] workflow. You even have multi-choice
+[01:51] clarification that gives you control
+[01:54] when Vibe isn't sure what to do next.
+[01:56] Instead of guessing, it surfaces
+[01:58] multiple options, so you can pick the
+[02:00] path that matches your intent. This
+[02:03] means safer automation and sharper
+[02:05] outcomes. And finally, with slash
+[02:07] command skills, this makes repeated
+[02:09] tasks faster cuz with Mistral Vibe CLI,
+[02:13] it supports pre-configured workflows
+[02:15] that you can access with a single
+[02:17] keystroke. You simply use the slash
+[02:19] command to deploy, lint, generate docs,
+[02:22] or even have it so that it can tackle
+[02:24] any task that you define it. That is
+[02:26] where these skills encapsulate best
+[02:28] practices into repeatable commands,
+[02:31] eliminating boilerplate and acceleration
+[02:34] with operation across your codebase. If
+[02:36] you want the best AI tools, workflows,
+[02:39] and drops before everyone else, join my
+[02:41] free newsletter with the link in the
+[02:42] description below, which is completely
+[02:44] free. Under the hood, Mistral Vibe is
+[02:47] powered by a stack of models. Dev Tool
+[02:49] is one of the ones that drives the code
+[02:51] generation and deployment. Code Tool
+[02:54] handles large project context, and Code
+[02:56] Tool Embed enables state-of-the-art
+[02:58] semantic search for smarter code
+[03:00] navigation and retrieval. And what's
+[03:02] great is that Mistral Vibe is free and
+[03:05] open source, and you can even bring your
+[03:07] own API key. But if you are wanting to
+[03:10] get a generous usage for full-time
+[03:13] development, you would want to get the
+[03:15] Late Chat Pro, and this is where you get
+[03:17] full access to Mistral Vibe CLI and Dev
+[03:19] Tool. And if you are a student, you get
+[03:22] 50% off. It's ideal for sustained and
+[03:25] daily dev work, and it is priced at
+[03:28] $14.99 a month. Late Chat Team gets you
+[03:31] higher usage, and it's more meant for
+[03:33] team usage, and this is something that
+[03:35] is charging you $24.99
+[03:38] a seat per month.
+[03:40] So, to get started, it is super simple.
+[03:42] You have the ability to install Vibe CLI
+[03:44] using Bash or Python. But say if you
+[03:47] want to work with it directly within
+[03:49] your IDE, you have the ability to
+[03:50] install the VS Code or JetBrains
+[03:52] installation with tab completion and
+[03:55] context of our code edits. This is a
+[03:57] great option if you're not looking to
+[03:59] deploy directly within the terminal, but
+[04:01] throughout this video, we are deploying
+[04:03] it to our terminal and it's super
+[04:05] simple. Head over to the AI studio of
+[04:08] Mistral, which I'll leave a link in the
+[04:09] description below, and in the left
+[04:11] panel, you'll see Vibe CLI. You have the
+[04:13] ability to now install the CLI using the
+[04:16] curl command, and it is super simple.
+[04:18] Just simply go ahead and copy this and
+[04:20] open up your terminal. I'm opening up
+[04:22] WSL cuz I am on Windows. And once it
+[04:26] loads in, we can then paste in this
+[04:28] command to install Mistral Vibe. And it
+[04:31] is really easy as that, guys. After
+[04:34] installing, you have the ability to get
+[04:36] started with Mistral Vibe CLI using two
+[04:39] different commands. You can use Vibe,
+[04:40] which is the standard CLI usage, where
+[04:42] you manually run commands and interact
+[04:45] step-by-step with it, or you can use the
+[04:48] ACP method, which runs Vibe in a more
+[04:50] agent-driven, automated mode, where it
+[04:52] can orchestrate tasks and manage
+[04:54] workflows, and even act more
+[04:56] autonomously. You can use whatever
+[04:58] method is best suited for you, but
+[05:00] essentially, once you launch it in, you
+[05:01] will be able to see the Mistral Vibe
+[05:03] CLI. And the experience is totally
+[05:05] amazing, guys. I really love how this
+[05:08] CLI actually looks. You have the ability
+[05:10] to obviously select your plan, or you
+[05:12] can simply just bring your own API to
+[05:14] get started. And if you are to use the
+[05:16] {slash} help command directly within the
+[05:19] terminal, this is where it will be able
+[05:21] to provide you a list of all the
+[05:22] commands, special features, and the
+[05:24] keyboard shortcuts that will let you use
+[05:26] Mistral Vibe easily. And this is
+[05:29] essentially where you can now start
+[05:31] using Mistral Vibe to do anything. For
+[05:33] example, let me just showcase how fast
+[05:35] and easy it is to prototype anything
+[05:38] with Mistral Vibe. I'm requesting it to
+[05:40] create a beautiful front end with this
+[05:42] detailed prompt, and you will be able to
+[05:44] see how fast it is in terms of executing
+[05:47] this task using the Dev stroll model.
+[05:51] Right away, you will be able to see the
+[05:52] multiple-choice questionnaire. That is a
+[05:55] feature that Mistral has built within
+[05:57] its CLI. This is a way for you to easily
+[06:00] work with your tool to get the best
+[06:02] generations. It is asking us to upload
+[06:05] the image you want as reference for the
+[06:07] landing page design. You can either
+[06:09] upload it, you can skip, or you can even
+[06:11] type in your answer. Afterwards, you'll
+[06:13] see that it will then work upon creating
+[06:15] a detailed plan for you to execute upon.
+[06:19] This is where it is going to handle
+[06:21] everything like coding out all the
+[06:23] files, structuring it, and making sure
+[06:25] that it's able to import all the
+[06:27] libraries that we had requested. If you
+[06:29] approve the plan, we can just tell it to
+[06:30] continue and start developing this
+[06:33] landing page for us.
+[06:37] And you can see right away that it has
+[06:39] already started creating the HTML file,
+[06:41] the CSS file, and the JavaScript file.
+[06:44] And I got to say, the performance is
+[06:46] truly remarkable, guys, cuz just take a
+[06:48] look at the quality of output based off
+[06:51] the prompt I sent in. This is our
+[06:53] landing page that was instantly
+[06:55] developed with the Mistral
+[06:58] I'll also leave their GitHub repo, which
+[07:00] talks about all of the components like
+[07:03] setting up the different custom agents,
+[07:05] setting up custom system prompts, the
+[07:07] MCP server configs, as well as a couple
+[07:10] of other things. This is a really
+[07:12] detailed log of what you can do with
+[07:14] this CLI tool, as well as their change
+[07:17] log, cuz this is a great way for you to
+[07:19] keep up with whatever they are shipping
+[07:21] on a weekly basis. Sub-agents and task
+[07:24] delegation, especially with this cheap
+[07:26] price, is going to get you a lot of
+[07:28] things done. Cuz you can essentially
+[07:30] just have it so that if you are to
+[07:32] invoke the task tool by just specifying
+[07:35] it within your prompt, it is going to be
+[07:37] able to align you to create custom
+[07:39] agents, as well as having them work upon
+[07:42] delegating your task. So, in this case,
+[07:44] I I have a pretty big code base and it
+[07:47] is a code base on my AI ops dashboard. I
+[07:51] am requesting it to analyze my code base
+[07:53] and generate test for all utility
+[07:55] functions. Now, you will see that this
+[07:58] is where Mistral Vibe really is going to
+[08:00] stand out cuz it is going to be able to
+[08:02] use asynchronous agents with extended
+[08:05] autonomy, meaning that it can handle
+[08:07] long-running task without blocking me.
+[08:10] It also does this in parallel cuz it has
+[08:12] parallel execution capabilities, which
+[08:14] is something that is built within the
+[08:16] task itself, delegating tasks to sub
+[08:19] agents to do multiple things at the same
+[08:21] time. It runs validation loops, making
+[08:24] sure outputs are correct completely.
+[08:27] And you can see that it was able to
+[08:29] successfully analyze the code base and
+[08:31] generate test for all the utility
+[08:33] functions, even providing me a summary.
+[08:36] And I have the ability to actually
+[08:38] access the test for me to get a better
+[08:40] understanding of what it ran. And guys,
+[08:42] to create sub agents, it is super
+[08:44] simple. You can just just tell the
+[08:46] Mistral Vibe agent like create a sub
+[08:48] agent to handle PR reviews and run it.
+[08:52] This is a way for you to easily invoke
+[08:55] and have it so that you can create sub
+[08:57] agents that are able to sub
+[08:59] Sorry, able to support a composable
+[09:02] automation for you where you can chain
+[09:04] specialized agents to do anything and
+[09:06] you can even have them work together.
+[09:08] And like I had stated, there are a
+[09:10] couple of different {slash} commands
+[09:11] that you can use for meta actions and
+[09:13] configuration changes during a session.
+[09:16] You have the ability to use them by
+[09:17] accessing the {slash} help command that
+[09:20] will get you access to a list of
+[09:22] different commands that you can use.
+[09:24] But, you can even create your own custom
+[09:27] {slash} command using skills. This is
+[09:29] where you can create a skills directory,
+[09:31] a skills MD like you would within Claude
+[09:34] code. And this is where you can set it
+[09:36] to this so that it is true within the
+[09:39] skills metadata so that you can define
+[09:41] the command logic in your skill. You can
+[09:44] create a skill like deploying it
+[09:46] directly to your GitHub repo. A
+[09:48] description would be provided and then
+[09:50] have it so that you can invoke it once
+[09:53] you specify to your CLI agent that you
+[09:55] want to use the skill. If you like this
+[09:58] video and would love to support the
+[09:59] channel, you can consider donating to my
+[10:02] channel through the Super Thanks option
+[10:04] below. Or you can consider joining our
+[10:06] private Discord where you can access
+[10:08] multiple subscriptions to different AI
+[10:10] tools for free on a monthly basis, plus
+[10:13] daily AI news and exclusive content,
+[10:15] plus a lot more. In essence, this is a
+[10:18] great remarkable tool that is a cheaper
+[10:21] as well as a great alternative to
+[10:23] something like Open Code as well as
+[10:26] Claude Code while nailing all the
+[10:28] features that those two tools have at a
+[10:31] cheaper rate. This Michelle Vibe adds
+[10:33] structured control to your terminal
+[10:35] native automation. This includes custom
+[10:37] sub agents, clarification prompts, slash
+[10:40] commands, skills, and unified agent
+[10:42] modes all directly within its free
+[10:45] open-source CLI tool. It's something
+[10:47] that I highly recommend that you take a
+[10:49] look at with all the links in the
+[10:50] description below so that you can easily
+[10:52] get started completely for free. Make
+[10:55] sure you join the newsletter as well as
+[10:57] our second channel. Join the Discord,
+[10:59] follow me on Twitter, and lastly, make
+[11:01] sure you guys subscribe. And thanks to
+[11:03] the Michelle team for sponsoring today's
+[11:04] video and supporting the channel. But
+[11:06] with that thought, guys, have an amazing
+[11:07] day, spread positivity, and I'll see you
+[11:09] guys fairly shortly. Peace out, fellas.

@@ -1,0 +1,43 @@
+{
+  "uid": "9a080f784e45efac",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "release",
+  "title": "Sentry ships Seer agent for production debugging",
+  "summary": "Sentry launched Seer, an AI agent that investigates production errors by pulling traces, spans, logs, and replays from existing Sentry data, walking upstream across services to identify root cause, and drafting fixes as pull requests. Open beta.",
+  "source_video_uid": "912b42c924151c15",
+  "source_video_id": "gwTQLZSIlsU",
+  "source_channel_handle": "Fireship",
+  "timestamp_in_video": "",
+  "links": [
+    "https://sentry.io/"
+  ],
+  "tags": [
+    "observability",
+    "ai-agent",
+    "sentry"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://sentry.io/product/seer/",
+    "notes": "Seer Agent launched April 28 2026; January 2026 update added local-development and code-review debugging plus flat unlimited pricing.",
+    "web_findings": [
+      {
+        "title": "Sentry Launches Seer Agent — Sentry press release",
+        "url": "https://sentry.io/about/press-releases/sentry-launches-seer-agent/",
+        "snippet": "Investigate production problems in plain language; multi-player from Slack."
+      },
+      {
+        "title": "Sentry's Seer Agent lets developers debug production issues in natural language — The New Stack",
+        "url": "https://thenewstack.io/sentrys-seer-agent-debug/",
+        "snippet": "Walks the dependency graph across services to identify root cause and draft fixes."
+      },
+      {
+        "title": "Sentry Expands Seer AI Debugging Agent to Local Development and Code Review",
+        "url": "https://sentry.io/about/press-releases/sentry-expands-seer-ai-debugging-agent/",
+        "snippet": "PR-level defect analysis and background root-cause triage on incoming errors."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

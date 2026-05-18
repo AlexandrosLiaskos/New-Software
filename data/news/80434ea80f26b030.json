@@ -1,0 +1,33 @@
+{
+  "uid": "80434ea80f26b030",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "release",
+  "title": "Hermes Agent 0.14.0 — Foundation release",
+  "summary": "Nous Research's Hermes Agent ships its 'Foundation' release: native Windows beta, ~19 s faster cold start, persistent Chrome DevTools Protocol connection (some browser flows up to 180x faster), 1-hour cross-session prompt cache, native video generation, and a /handoff command for transferring live sessions across models without losing context.",
+  "source_video_uid": "d60e6b620236ae95",
+  "source_video_id": "uZIijUyMT20",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/NousResearch/hermes"
+  ],
+  "tags": [
+    "nous-research",
+    "ai-agent",
+    "windows",
+    "release"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "homepage": "https://hermes-agent.nousresearch.com",
+    "stars": 155606,
+    "forks": 24979,
+    "language": "Python",
+    "license": "MIT",
+    "latest_release": "v2026.5.16 — Hermes Agent v0.14.0",
+    "latest_release_date": "2026-05-16"
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

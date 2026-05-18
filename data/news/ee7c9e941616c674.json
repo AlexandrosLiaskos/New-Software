@@ -1,0 +1,31 @@
+{
+  "uid": "ee7c9e941616c674",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "MTEB: benchmark suite for embedding models",
+  "summary": "Massive Text Embedding Benchmark — datasets, evaluation pipelines, and standardised metrics for comparing retrieval, classification, and semantic similarity across embedding models.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/embeddings-benchmark/mteb"
+  ],
+  "tags": [
+    "embeddings",
+    "benchmark",
+    "evaluation"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/embeddings-benchmark/mteb",
+    "homepage": "https://embeddings-benchmark.github.io/mteb/",
+    "stars": 3265,
+    "forks": 616,
+    "language": "Python",
+    "license": "Apache-2.0",
+    "notes": "Video calls this 'MTV'; the canonical project is MTEB (Massive Text Embedding Benchmark)."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

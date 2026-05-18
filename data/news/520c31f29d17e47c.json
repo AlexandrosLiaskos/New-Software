@@ -1,0 +1,44 @@
+{
+  "uid": "520c31f29d17e47c",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "vuln",
+  "title": "Shai-Hulud npm worm compromises 169 packages",
+  "summary": "A self-propagating supply-chain worm slipped through npm Trusted Publishing by abusing GitHub Actions pull_request_target on TanStack, then spread via stolen tokens to packages at Mistral AI, UiPath, OpenSearch, and Guardrails AI; security firm Aikido tracked 373 poisoned versions across 169 packages.",
+  "source_video_uid": "912b42c924151c15",
+  "source_video_id": "gwTQLZSIlsU",
+  "source_channel_handle": "Fireship",
+  "timestamp_in_video": "",
+  "links": [
+    "https://www.aikido.dev/"
+  ],
+  "tags": [
+    "npm",
+    "supply-chain",
+    "security",
+    "github-actions"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+    "notes": "Compromised packages carry valid SLSA Build Level 3 provenance attestations — the first npm worm documented to produce validly-attested malicious packages. Attacker pwned a fork-triggered pull_request_target workflow, then extracted OIDC tokens from /proc/<pid>/mem of the GitHub Actions runner.",
+    "web_findings": [
+      {
+        "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+        "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+        "snippet": "84 npm artifacts across 42 @tanstack/* packages compromised on May 11 2026 by chaining GitHub Actions Pwn Request, cache poisoning and OIDC token exploitation."
+      },
+      {
+        "title": "Our response to the TanStack npm supply chain attack — OpenAI",
+        "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/",
+        "snippet": "OpenAI postmortem covering exposure surface and remediation."
+      },
+      {
+        "title": "TanStack npm Packages Hit by Mini Shai-Hulud — Snyk",
+        "url": "https://snyk.io/blog/tanstack-npm-packages-compromised/",
+        "snippet": "Snyk's technical breakdown of the worm propagation mechanism."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

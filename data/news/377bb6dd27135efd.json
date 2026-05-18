@@ -1,0 +1,27 @@
+{
+  "uid": "377bb6dd27135efd",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "model",
+  "title": "DeepSeek V4 Flash free on the Nous portal (limited time)",
+  "summary": "DeepSeek V4 Flash is available free for a limited window on the Nous Research portal, courtesy of NVIDIA AI — usable for coding, reasoning, and long-context autonomous workflows.",
+  "source_video_uid": "d60e6b620236ae95",
+  "source_video_id": "uZIijUyMT20",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://portal.nousresearch.com/"
+  ],
+  "tags": [
+    "deepseek",
+    "model",
+    "nvidia",
+    "free-tier"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://portal.nousresearch.com/",
+    "notes": "Hosted on Nous Research's portal with sponsorship from NVIDIA AI; available free for a limited window."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

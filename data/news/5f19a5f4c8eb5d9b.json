@@ -1,0 +1,21 @@
+{
+  "uid": "5f19a5f4c8eb5d9b",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "scientific-agent-skills: reusable skills for scientific AI agents",
+  "summary": "Open-source collection of structured prompts, tool interactions, and domain-specific actions for scientific AI agents; integrates as a capability layer into assistant systems and research pipelines.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [],
+  "tags": [
+    "ai-agent",
+    "skills",
+    "research"
+  ],
+  "research_status": "transcript_only",
+  "research": {},
+  "research_date": "",
+  "__class__": "SoftwareNews"
+}

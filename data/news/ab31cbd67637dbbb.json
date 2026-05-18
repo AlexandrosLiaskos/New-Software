@@ -1,0 +1,31 @@
+{
+  "uid": "ab31cbd67637dbbb",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "ds4: compact systems-programming data structures in C (antirez)",
+  "summary": "Antonio (antirez) Sanfilippo's compact C library of efficient data structures for systems programming; targets memory and runtime efficiency in low-level applications.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/antirez/ds4"
+  ],
+  "tags": [
+    "c",
+    "data-structures",
+    "antirez",
+    "systems"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/antirez/ds4",
+    "stars": 10522,
+    "forks": 860,
+    "language": "C",
+    "license": "MIT",
+    "notes": "The video summary mis-identifies the project: antirez/ds4 is in fact a local inference engine for DeepSeek 4 Flash (Metal and CUDA), not a generic data-structures library. Worth tracking on the strength of the author and the topic."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

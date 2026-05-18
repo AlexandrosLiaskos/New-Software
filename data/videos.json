@@ -1,0 +1,115 @@
+[
+  {
+    "uid": "d60e6b620236ae95",
+    "created_at": "2026-05-18T09:52:14+00:00",
+    "video_id": "uZIijUyMT20",
+    "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+    "channel_handle": "intheworldofai",
+    "title": "Hermes Agent Foundation Update: Real-Time Agents, DeepSeek V4 FREE, Native Windows Support, & More!",
+    "published": "2026-05-18T06:16:23+00:00",
+    "url": "https://www.youtube.com/watch?v=uZIijUyMT20",
+    "transcript_path": "data\\transcripts\\uZIijUyMT20.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "80434ea80f26b030",
+      "aba7e280daa0972b",
+      "377bb6dd27135efd"
+    ],
+    "__class__": "Video"
+  },
+  {
+    "uid": "5b7177ee266d84fd",
+    "created_at": "2026-05-18T09:52:15+00:00",
+    "video_id": "WxjviB1pJbk",
+    "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+    "channel_handle": "intheworldofai",
+    "title": "Stop Paying $200/Month for Claude Code! Here's a FREE Option!",
+    "published": "2026-05-17T05:59:20+00:00",
+    "url": "https://www.youtube.com/watch?v=WxjviB1pJbk",
+    "transcript_path": "data\\transcripts\\WxjviB1pJbk.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "4fb57d18d58b94fa"
+    ],
+    "__class__": "Video"
+  },
+  {
+    "uid": "9e6d11f75a0b8118",
+    "created_at": "2026-05-18T09:52:17+00:00",
+    "video_id": "GZUQoSf7GR0",
+    "channel_id": "UC1weYqfDgX0ALlNOSzcyblQ",
+    "channel_handle": "ManuAGI",
+    "title": "Higgsfield Supercomputer Just Changed AI Business Forever 🤯 (Claude + GPT-5.5 + AI Video)",
+    "published": "2026-05-18T02:15:03+00:00",
+    "url": "https://www.youtube.com/watch?v=GZUQoSf7GR0",
+    "transcript_path": "data\\transcripts\\GZUQoSf7GR0.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "34e3ca984fcd1723"
+    ],
+    "__class__": "Video"
+  },
+  {
+    "uid": "e9b87ebf0400c5ec",
+    "created_at": "2026-05-18T09:52:18+00:00",
+    "video_id": "CtxB7U0EVhg",
+    "channel_id": "UC1weYqfDgX0ALlNOSzcyblQ",
+    "channel_handle": "ManuAGI",
+    "title": "Top Open-Source GitHub Projects : Telegraf, Hermes Agent, OpenSRE, K3s & Needle #257",
+    "published": "2026-05-16T14:45:25+00:00",
+    "url": "https://www.youtube.com/watch?v=CtxB7U0EVhg",
+    "transcript_path": "data\\transcripts\\CtxB7U0EVhg.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "5f19a5f4c8eb5d9b",
+      "920d28cb61d63148",
+      "389c30b072ca6631",
+      "05ace5fb43bb0917",
+      "cebe59ea96bbbf37",
+      "8e69e6af769f96bd",
+      "b3f49e01c858ca53",
+      "5eb5bb9e0abcb1c8",
+      "2a3e078fe43b3a19",
+      "b80645faa1cb341c",
+      "ab31cbd67637dbbb",
+      "0be61b463109af9e",
+      "ee7c9e941616c674"
+    ],
+    "__class__": "Video"
+  },
+  {
+    "uid": "52cd49ec9697b96a",
+    "created_at": "2026-05-18T09:52:20+00:00",
+    "video_id": "3tbB2dffx0s",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "channel_handle": "Fireship",
+    "title": "I can’t believe this trial is real...",
+    "published": "2026-05-15T18:51:21+00:00",
+    "url": "https://www.youtube.com/watch?v=3tbB2dffx0s",
+    "transcript_path": "data\\transcripts\\3tbB2dffx0s.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "5b24c3aead27f302",
+      "885d3e40b613d1f0"
+    ],
+    "__class__": "Video"
+  },
+  {
+    "uid": "912b42c924151c15",
+    "created_at": "2026-05-18T09:52:22+00:00",
+    "video_id": "gwTQLZSIlsU",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "channel_handle": "Fireship",
+    "title": "A single PR just hijacked the NPM registry...",
+    "published": "2026-05-14T17:39:11+00:00",
+    "url": "https://www.youtube.com/watch?v=gwTQLZSIlsU",
+    "transcript_path": "data\\transcripts\\gwTQLZSIlsU.txt",
+    "analysis_status": "analyzed",
+    "extracted_news_uids": [
+      "520c31f29d17e47c",
+      "ef5a68781fd5fa43",
+      "9a080f784e45efac"
+    ],
+    "__class__": "Video"
+  }
+]

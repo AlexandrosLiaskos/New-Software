@@ -1,0 +1,39 @@
+{
+  "uid": "34e3ca984fcd1723",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "tool",
+  "title": "Higgsfield Supercomputer: agentic product+distribution workflow",
+  "summary": "Higgsfield AI's Supercomputer combines research, branding, landing-page generation, launch video, and ad variations into one agentic chat — positioned as an end-to-end go-to-market workflow rather than an isolated video generator.",
+  "source_video_uid": "9e6d11f75a0b8118",
+  "source_video_id": "GZUQoSf7GR0",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://higgsfield.ai/"
+  ],
+  "tags": [
+    "ai-agent",
+    "video",
+    "marketing",
+    "higgsfield"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://higgsfield.ai/supercomputer-intro",
+    "notes": "Launched 14 May 2026. Built on a custom Hermes 3 series from Nous Research, fine-tuned for agentic orchestration; routes across Claude Opus 4.7 / Sonnet 4.6, GPT-5.5 Pro and Gemini 3.1 Pro. Underlying video model is Seedance 2.0.",
+    "web_findings": [
+      {
+        "title": "Higgsfield Supercomputer — Agentic AI Content Creation",
+        "url": "https://higgsfield.ai/supercomputer-intro",
+        "snippet": "Self-learning cloud-native agent for the full marketing creative process."
+      },
+      {
+        "title": "Higgsfield AI Supercomputer — explainx.ai analysis",
+        "url": "https://explainx.ai/blog/higgsfield-ai-supercomputer-hermes-agent-2026",
+        "snippet": "Architecture overview; 40+ built-in tools, three layers of memory."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

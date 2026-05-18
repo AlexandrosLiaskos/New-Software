@@ -1,0 +1,31 @@
+{
+  "uid": "8e69e6af769f96bd",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "Hermes Agent: autonomous framework for tool-using AI agents",
+  "summary": "Framework from Nous Research that combines language models with memory, APIs, file operations, and iterative execution loops to drive multi-step autonomous workflows.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/NousResearch/hermes"
+  ],
+  "tags": [
+    "ai-agent",
+    "nous-research",
+    "framework"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "homepage": "https://hermes-agent.nousresearch.com",
+    "stars": 155606,
+    "forks": 24979,
+    "language": "Python",
+    "license": "MIT",
+    "notes": "Nous Research's flagship self-evolving agent. Companion repos exist for plugins, function-calling, self-evolution and compression evaluation."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

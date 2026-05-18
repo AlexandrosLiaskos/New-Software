@@ -1,0 +1,202 @@
+[00:00] Yesterday in a federal courthouse in
+[00:01] Oakland, the trial of the century, Musk
+[00:04] versus Altman, began its closing
+[00:06] arguments. And so far, this trial has
+[00:08] felt like a Silicon Valley episode
+[00:10] written by someone on bath salts. The
+[00:11] richest and sexiest man alive, Elon
+[00:14] Musk, is currently suing a poor gay man,
+[00:16] Sam Altman, and his friends at OpenAI
+[00:18] and Microsoft for $134 billion.
+[00:21] Elon says they stole an open-source
+[00:23] charity and turned it into a
+[00:25] closed-source money printer. While
+[00:26] Altman says he owns no OpenAI equity and
+[00:29] is just doing this because he loves it.
+[00:31] I I'm doing this cuz I love it. The
+[00:33] supporting cast includes Greg Brockman,
+[00:35] who somehow owns $30 billion of the
+[00:37] thing Sam doesn't own. Ilya Sutskever,
+[00:39] the vibes-based AI safety priest. Mira
+[00:42] Murati, Sam's Brutus. And Saadia
+[00:44] Natella, the only adult in the room. And
+[00:46] every single one of them has their
+[00:47] texts, emails, and private diary entries
+[00:50] entered into evidence. In today's video,
+[00:52] we'll break down all the absurdities
+[00:53] discovered throughout this lawsuit and
+[00:55] find out who's going to win, probably.
+[00:57] It is May 15th, 2026, and you're
+[01:00] watching The Code Report. The Musk
+[01:01] versus Altman lawsuit was filed 2 years
+[01:03] ago in 2024, but the drama goes back
+[01:06] over a decade. In 2015, Elon, Sam, Greg
+[01:09] Brockman, and Ilya Sutskever founded
+[01:11] OpenAI as a nonprofit to save humanity
+[01:13] from evil. Elon donated $38 million,
+[01:16] then tried to take it over, lost, rage
+[01:18] quit the board in 2018, and started xAI.
+[01:21] Meanwhile, OpenAI pulled this trick
+[01:23] where they bolted a for-profit
+[01:24] subsidiary onto the nonprofit, it cashed
+[01:27] a $13 billion check from Microsoft, and
+[01:29] is now approaching a valuation of nearly
+[01:31] $1 trillion. In 2024, Musk couldn't take
+[01:34] it anymore.
+[01:39] I just can't do it. I can't take this
+[01:41] no more, man. His claim is that
+[01:43] Altman and Brockman stole a charity,
+[01:45] breached a charitable trust, and
+[01:47] Microsoft aided and abetted them. What
+[01:49] he wants in return is a disgorgement of
+[01:51] up to $134 billion, and plus they need
+[01:54] to unwind the for-profit conversion and
+[01:56] remove Altman and Brockman. But now
+[01:58] here's the fun part. This trial's
+[01:59] discovery has basically been a giant
+[02:01] group chat leak between all these
+[02:03] executives. In exhibit A, we have emails
+[02:05] between Sam and Elon where we find out
+[02:07] that OpenAI was almost called something
+[02:09] entirely different. Elon wanted to call
+[02:11] it Freethink and Sam wanted to call it
+[02:13] Axon. But in hindsight, the best name
+[02:15] for it would have been ClosedAI. In
+[02:17] exhibit B from 2017, OpenAI's tech had
+[02:19] just beat the best humans on Earth at
+[02:21] Dota 2. Elon got a mega huge boner and
+[02:23] emailed the team that it's time to take
+[02:25] the next step for OpenAI, which
+[02:27] translated into converting it from
+[02:28] non-profit to for-profit with Elon as
+[02:30] CEO and as the majority shareholder. But
+[02:33] the craziest part is the meeting
+[02:34] location. Quote, "The haunted mansion I
+[02:36] just bought near San Francisco."
+[02:38] According to Brockman's testimony under
+[02:40] oath, the house was still littered with
+[02:42] confetti and red solo cups from a party
+[02:43] the night before and Amber Heard was
+[02:45] there serving whiskey. And just a few
+[02:47] weeks earlier, Elon had gifted each
+[02:49] co-founder a brand new Tesla Model 3.
+[02:51] But all this buttering up didn't work
+[02:53] and eventually the other co-founders
+[02:55] proposed equal equity. Ilya Sutskever
+[02:57] had even commissioned a painting of a
+[02:59] Tesla to give to Musk as a peace
+[03:00] offering. But according to Brockman,
+[03:02] their proposal made Elon furious. He
+[03:04] quote, "stood up and stormed around the
+[03:06] table. I thought he was going to hit me.
+[03:08] He grabbed the painting and started to
+[03:09] storm out of the room. And then he
+[03:11] turned around and said, 'When will you
+[03:12] be departing from OpenAI?'" Six months
+[03:14] later, he would stop making donations
+[03:16] and leave the OpenAI board. Now, in the
+[03:18] years that followed between 2019 and
+[03:20] 2021, Microsoft entered with a $1
+[03:23] billion investment. Even though CEO
+[03:24] Nadella was pretty skeptical of the
+[03:26] actual value of this investment.
+[03:28] Eventually he would double down though
+[03:29] and in 2022 said he didn't want
+[03:31] Microsoft to become the next IBM while
+[03:34] OpenAI became the next Microsoft. But
+[03:36] then around this time, we get another
+[03:37] crazy character popping up, Shivon
+[03:39] Zilis. And she's the mother of four of
+[03:41] Elon's 14 children and used to be on the
+[03:44] OpenAI board and kept Elon up to date on
+[03:46] what was going on there, which became a
+[03:47] big conflict of interest when he
+[03:49] launched xAI. But this next exhibit is
+[03:51] perhaps the most complex and
+[03:53] In November 2023, Sam Altman was fired
+[03:56] from OpenAI for 4 days before a pattern
+[03:59] of behavior related to his honesty and
+[04:01] candor. Ilya wrote a memo accusing him
+[04:03] of a consistent pattern of lying and
+[04:05] pitting his execs against each other.
+[04:07] Meanwhile, Mira Murati snaked him from
+[04:09] the inside. At the height of the chaos,
+[04:11] Altman texted Mira, "Can you indicate
+[04:13] directionally, good or bad?" Her reply
+[04:15] is now immortal, "Directionally, very
+[04:17] bad." Altman was fired and Mira took his
+[04:19] place temporarily. But, Sam Altman was
+[04:21] then reinstated a few days later after
+[04:23] receiving a ton of support from OpenAI
+[04:25] employees and other powerful people. As
+[04:27] Satya Nadella, watching $13 billion of
+[04:29] Microsoft's money swing in the wind,
+[04:31] described the entire situation as,
+[04:33] quote, "A sort of amateur city as far as
+[04:35] I'm concerned." And that brings us to
+[04:37] yesterday, the closing arguments of the
+[04:38] trial. Elon himself wasn't there because
+[04:41] he was on Air Force One flying to
+[04:42] Beijing with Trump, but his lawyer
+[04:44] focused on Altman's lack of
+[04:45] trustworthiness and how he's been able
+[04:47] to enrich himself through various deals
+[04:49] in other companies he owns that are
+[04:50] connected to OpenAI. But, on the flip
+[04:52] side, OpenAI's lawyers claimed Elon is a
+[04:54] guy who never cared about the nonprofit
+[04:56] structure and only cared about winning.
+[04:58] And he seems to have selective amnesia
+[05:00] about his past dealings with the OpenAI
+[05:02] founders. Basically, both sides are
+[05:04] terrible, but who's actually going to
+[05:05] win? Polymarket is giving Elon a 32%
+[05:08] chance of winning, but I think it's even
+[05:10] lower than that. The jury in this case
+[05:11] is advisory, so that means it ultimately
+[05:13] comes down to this judge, Yvonne
+[05:15] Gonzalez Rogers. And I can tell just by
+[05:17] looking at her that she's not going to
+[05:18] like Elon. Her husband worked for the
+[05:20] Obama administration, so this was over
+[05:22] before it even started. But, even if
+[05:24] Hulk Hogan was the judge, Elon's case is
+[05:26] still pretty weak. What they've done to
+[05:27] OpenAI is messed up, but here's the
+[05:29] problem. Elon himself tried to make
+[05:31] OpenAI for profit back in 2017. There
+[05:33] was also never a hard contract that
+[05:35] OpenAI would stay nonprofit forever. And
+[05:37] even worse, he admitted under oath that
+[05:40] xAI and Grok did steal OpenAI models,
+[05:43] and that makes this whole lawsuit feel
+[05:44] like it's trying to a competitor
+[05:46] as opposed to rescuing a charity. No
+[05:48] matter what happens though, the one
+[05:49] thing you need to know about is Kernel,
+[05:51] the sponsor of today's video. They
+[05:53] provide open-source infrastructure that
+[05:55] lets your AI agents access the internet
+[05:57] blazingly fast thanks to GPU
+[05:59] acceleration. It's able to spin up
+[06:01] sandbox Chromium browsers in the cloud
+[06:04] in under 30 milliseconds, which is fast
+[06:06] enough to unlock more advanced use cases
+[06:08] for your agents like interacting with
+[06:10] WebGL heavy websites and automating
+[06:12] complex user workflows. The faster
+[06:15] agents also means you'll use fewer
+[06:16] tokens and they cost a lot less money to
+[06:18] run overall since Kernel only charges
+[06:21] you when your browsers are actually
+[06:22] doing work. It also comes with a replay
+[06:25] feature that lets you record and
+[06:26] download your agents browser sessions
+[06:28] for easy debugging. All of Kernel's SDKs
+[06:30] and browser infrastructure itself are
+[06:32] open-source and over 3,000 teams
+[06:35] including Framer and Cash App are using
+[06:37] it in production. Try it out for free
+[06:39] today with the link below. This has been
+[06:41] the Code Report. Thanks for watching and
+[06:43] I will see you in the next one.

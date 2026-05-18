@@ -1,0 +1,25 @@
+{
+  "uid": "5b24c3aead27f302",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "news",
+  "title": "Musk v. Altman closing arguments begin in Oakland",
+  "summary": "Closing arguments opened in Elon Musk's USD 134 billion suit against Sam Altman, OpenAI and Microsoft, alleging breach of charitable trust in the for-profit conversion. Trial discovery surfaced internal emails and Brockman testimony; the case is heard before Judge Yvonne Gonzalez Rogers with an advisory jury.",
+  "source_video_uid": "52cd49ec9697b96a",
+  "source_video_id": "3tbB2dffx0s",
+  "source_channel_handle": "Fireship",
+  "timestamp_in_video": "",
+  "links": [],
+  "tags": [
+    "openai",
+    "litigation",
+    "ai-industry"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "",
+    "web_findings": [],
+    "notes": "Trial heard in U.S. District Court for the Northern District of California (Oakland) before Judge Yvonne Gonzalez Rogers; advisory jury, USD 134 billion in claimed damages plus an unwinding of OpenAI's for-profit conversion."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

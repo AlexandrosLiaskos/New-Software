@@ -1,0 +1,308 @@
+[00:00] Past week, I've made several videos
+[00:02] covering Hermes Agent, one of the most
+[00:04] interesting open-source AI agent
+[00:06] projects right now. It's designed as a
+[00:08] persistent autonomous system that
+[00:10] continuously evolves over time. It's
+[00:13] built by News Research under the MIT
+[00:15] license, and this is an agent that can
+[00:17] run 24/7 off your own infrastructure
+[00:20] while building long-term memory,
+[00:22] reusable skills, and even a deeper
+[00:25] understanding of its user itself. and it
+[00:27] gets better as you use it more and more.
+[00:30] But now Hermes has just received a
+[00:32] massive official update from news
+[00:34] research. This is with the launch of
+[00:36] Hermes Agent version 0.14.0.
+[00:40] Also being called as the foundation
+[00:43] release. This is an update that is
+[00:45] honestly huge cuz you have native
+[00:47] Windows beta support. You have massive
+[00:49] performance improvements, native video
+[00:52] generation, codec runtime backend
+[00:54] support for open AI models, a new
+[00:56] handoff system, more integrations,
+[00:59] better orchestration, and expanded
+[01:01] autonomous workflows, and so much more.
+[01:04] So, with that thought, let's just simply
+[01:06] dive into it all. If you want the best
+[01:08] AI tools, workflows, and drops before
+[01:10] everyone else, join my free newsletter
+[01:13] with the link in the description below,
+[01:14] which is completely free. To start
+[01:16] things off, probably the biggest update
+[01:18] in Hermes agents recent release is the
+[01:20] brand new local proxy feature. And
+[01:22] honestly, this is genius cuz with
+[01:25] Hermes, you can now use a single
+[01:27] subscription like Claude, Chat GBT, or
+[01:30] Grock and route it across basically any
+[01:32] coding tool or autonomous agent locally
+[01:35] without needing separate API keys for
+[01:37] every single application. This proxy
+[01:40] layer handles all the authentication and
+[01:42] routing automatically, meaning it's
+[01:44] easier for setup, less configuration
+[01:46] headaches, you have low barriers to
+[01:48] enter, and then you also have a simpler
+[01:50] multi- aent workflow system. And this
+[01:53] alone is probably going to massively
+[01:55] increase adoption because it makes the
+[01:57] entire AI tooling ecosystem feel way
+[02:00] more unified and accessible. Also just
+[02:02] an FI if you are looking to attach the
+[02:05] Hermes proxy to the open AI compatible
+[02:07] local proxy for oath providers that you
+[02:10] can use open AI models like what your
+[02:12] codeex plan what you can do is just
+[02:14] simply type in Hermes proxy and from
+[02:16] here this will instantly get a local
+[02:18] host of the open AI compatible API
+[02:21] endpoint and it's going to be powered
+[02:23] directly by whichever subscription
+[02:25] you're logged into whether that is from
+[02:28] codeex or whatever tier you have and
+[02:30] this will work immediately completely
+[02:32] using your existing subscription without
+[02:34] requiring separate API keys. One
+[02:36] subscription and it's going to work
+[02:38] directly within Hermes, which is a nice
+[02:40] quality of life update. This right here
+[02:43] is the Nan workflow that sits behind
+[02:45] cloud code where Claude sends a web hook
+[02:48] event and then Nan decides what to
+[02:50] actually do next. This first node is
+[02:53] just a web hook. Cloud code calls this
+[02:55] whenever it finishes editing or
+[02:57] generating files. Then I normalize the
+[03:00] cloud code event so nan can actually get
+[03:03] a clean payload to work with. If it is a
+[03:06] file change then nan builds a structured
+[03:08] automation payload. From here I can
+[03:11] summarize the change store it and then I
+[03:13] can send it over to something like slack
+[03:16] or trigger another workflow. Once a
+[03:18] workflow is completed you can then
+[03:20] publish it and this way web hook becomes
+[03:23] live and cloud code can trigger it
+[03:25] automatically whenever it's needed. So
+[03:27] now if cloud code is to create a file
+[03:30] change event, it is going to then send
+[03:31] it into nan through a web hook and nan
+[03:34] can turn that into a structured
+[03:36] automation workflow which you can see
+[03:37] here. N turns cloud code into a full
+[03:40] backend automation system with any AI
+[03:43] coding agent actually with custom code
+[03:46] MCPs multi- aent workflows and Slack
+[03:49] updates built in. So, if you're building
+[03:52] AI agents, coding automations, or
+[03:54] technical workflows, definitely check
+[03:56] out NE. And thanks to them for
+[03:58] sponsoring today's video. You can start
+[04:00] free with N Cloud or self-host it
+[04:03] yourself with links in the description
+[04:04] below. And it gets crazier cuz now you
+[04:07] have a new Super Grock integration where
+[04:09] Hermes is now going to fully support
+[04:11] Grock's Super Grock subscription
+[04:13] directly inside the platform. Meaning no
+[04:15] API keys, one browser login, and no
+[04:18] separate billing system. So this is
+[04:20] where your Hermes agent instantly gains
+[04:22] access to the full Grock ecosystem. Not
+[04:25] just that, Grock 4.3 text chat also has
+[04:29] ability to use Grock text to speech,
+[04:31] imagine for image as well as video
+[04:33] generation and X search for real-time X
+[04:36] Twitter research. This basically allows
+[04:38] you to build specialized autonomous
+[04:40] research agents that continuously
+[04:42] monitor X as well as gathering
+[04:44] information, summarizing trends, and
+[04:47] feed insights back into your workflow.
+[04:49] autonomously. And the great thing about
+[04:51] Hermes is that it is self-evolving. So,
+[04:54] it can constantly learn from Twitter to
+[04:56] keep improving and make you get the best
+[04:58] outputs for future generations. What's
+[05:00] great is that the setup apparently takes
+[05:02] around 60 seconds across all Super Grock
+[05:05] tiers with no major restrictions. And
+[05:07] it's honestly one of the smartest
+[05:09] integrations Hermes has added so far.
+[05:12] Now, I should have done this before, but
+[05:13] if you're looking to install Hermes, you
+[05:15] can easily install it with the curl
+[05:16] command, and then you can configure it
+[05:18] using Hermes setup. Now, to update it to
+[05:20] the latest release, you can simply just
+[05:22] paste in Hermes update and click enter.
+[05:25] And this will fetch the latest updates
+[05:27] and install it directly onto your
+[05:29] computer. Alongside this new update,
+[05:31] they have officially introduced native
+[05:33] Windows support, which is an early beta.
+[05:36] This means Hermes can now directly run
+[05:38] on Windows much more reliably without
+[05:40] needing complex WSL and Linux heavy
+[05:43] setups. This is because news research
+[05:45] has added major fixes across many
+[05:48] different domains like terminal and
+[05:50] process management. You have Python and
+[05:52] npm environments, native
+[05:55] handling, you have file path management,
+[05:58] Windows CLI behavior as well as gateway
+[06:01] and tool orchestration. They've also
+[06:03] introduced official Pippi packaging
+[06:06] which means setup is now much simpler
+[06:08] with the pip install command and it is
+[06:11] definitely a huge step forward making
+[06:13] autonomous AI more accessible now for
+[06:15] Windows users. Now that Hermes agent is
+[06:19] supported natively for Windows. You can
+[06:20] now also use the web UI which is
+[06:22] something that many people don't even
+[06:24] know about. This is where you can easily
+[06:26] launch it up using a simple command
+[06:28] which is to use the Hermes dashboard-2
+[06:31] command which I'll leave in the
+[06:33] description below. And this is where you
+[06:35] can use this web UI to easily configure
+[06:37] things like skills, plugins, running
+[06:39] cron jobs, meaning you can run scheduled
+[06:41] tasks as well as configurations to
+[06:43] easily set up everything to work
+[06:46] autonomously with Hermes agent. Next up
+[06:49] is a huge performance overhaul across
+[06:51] the entire system. This is where Hermes
+[06:54] now launches approximately 19 seconds
+[06:56] faster thanks to a major cold star
+[06:58] optimization, deferred loading, caching
+[07:01] improvements, and paralyzed startup
+[07:03] checks. This is also with heavy adapters
+[07:06] and plugins which are now only supposed
+[07:08] to load when actually needed. Model
+[07:11] catalogs cache locally first instead of
+[07:13] constantly hitting networks. And overall
+[07:16] setup and startup responsiveness is
+[07:18] going to feel dramatically snappier. But
+[07:20] probably the craziest improvement is
+[07:22] browser automation as this is where
+[07:25] Hermes now supports a persistent Chrome
+[07:27] DevTools protocol connection. Instead of
+[07:30] constantly spinning up new browser
+[07:32] sessions for every single interaction
+[07:34] and the results equal to browser actions
+[07:36] that previously took multiple seconds
+[07:39] can now return almost instantly with
+[07:41] some workflows reportedly becoming up to
+[07:44] 180 times faster. They also added cross-
+[07:47] session 1-hour prompt caching for
+[07:50] cloud-based workflows, making first
+[07:52] responses across these sessions both
+[07:54] faster as well as cheaper when you're
+[07:56] improving memory review systems as well
+[07:59] as when it is focusing on different
+[08:01] performance tasks in the background. You
+[08:04] see this video that's playing right now?
+[08:05] Well, that was fully generated with a
+[08:08] new feature in Hermes, the AI native AI
+[08:11] video generation feature. This is where
+[08:13] Hermes agents can now autonomously
+[08:15] create videos directly inside workflows
+[08:17] through a new unified video generate
+[08:19] system which allows AI agents to
+[08:22] generate multimedia content as a part of
+[08:24] a larger autonomous pipeline. And what's
+[08:27] great is that this means your AI agent
+[08:29] can generate fullon videos like what you
+[08:32] see right now as well as creating
+[08:33] automated clips, producing visual
+[08:36] content, and building multimedia
+[08:38] workflows autonomously that function on
+[08:40] a scheduled time frame. Another nice
+[08:42] quality of life update is where DeepSeek
+[08:44] version 4 flash is now free inside news
+[08:47] portal for a limited time thanks to
+[08:49] Nvidita AI. This gives users to Hermes
+[08:52] access to one of the strongest
+[08:54] open-source agentic models right now
+[08:56] that is completely free for autonomous
+[08:58] workflows coding reasoning and long
+[09:00] context tasks. Next is the new
+[09:02] slashhandoff command and this is where
+[09:05] it is going to let you transfer your
+[09:07] entire live session across models,
+[09:09] personas or profiles without dropping
+[09:12] context. Previously switching models or
+[09:14] personalities mid session meant losing
+[09:17] context, restarting workflows or
+[09:19] manually transferring information. But
+[09:21] now you can have it so that you can
+[09:22] transfer everything without dropping
+[09:24] context like messages, tool calls,
+[09:26] memory, active workflows, and session
+[09:29] states. This means that you can start a
+[09:31] new task on a faster model, then
+[09:33] seamlessly hand it off to a deeper
+[09:35] reasoning model for debugging, planning,
+[09:37] or refinement without restarting the
+[09:39] workflow, and it's honestly going to
+[09:41] save you a lot of time and really good
+[09:43] for longunning autonomous agent
+[09:45] workflows.
+[09:46] Lastly, a part of the change. Now, the
+[09:48] change lock has so many updates, which
+[09:51] is why they stated that this is the
+[09:52] foundation update, but there are a
+[09:55] couple of notable updates. Like I'd
+[09:57] mentioned, X search is where it's going
+[09:59] to let you have Hermes directly search X
+[10:02] and Twitter inside workflows. You have a
+[10:05] vision model support where it is going
+[10:07] to be now much easier to receive actual
+[10:10] image pixels instead of text summaries
+[10:12] for much better visual reasoning.
+[10:14] Discord history backup allows Hermes to
+[10:16] instantly understand as well as have it
+[10:20] so that it is going to be able to
+[10:21] process through all of the different
+[10:24] ongoing conversations. You have native
+[10:26] button UIs for Telegram and Discord to
+[10:28] clarify different prompts. LSP semantic
+[10:31] diagnostics which can catch coding
+[10:33] errors immediately after file edits. You
+[10:36] have browser automation which you had
+[10:37] mentioned as well as a new line and
+[10:39] simple X messaging integration. Plug-in
+[10:42] face skills that also have been
+[10:44] integrated directly inside Hermes as
+[10:46] well as a/slub goal feature which lets
+[10:48] you dynamically append objectives during
+[10:51] longunning autonomous workflows. And
+[10:53] honestly, the list just keeps on going
+[10:56] on and on, which is why I'm going to be
+[10:58] trying my best to keep on posting more
+[11:00] videos, as well as keeping you updated
+[11:02] on all these features and as to how you
+[11:04] can actually use it. So, with that
+[11:06] thought, guys, I hope you enjoyed
+[11:07] today's video and got some sort of
+[11:08] value. I'll leave all these links as to
+[11:10] whatever I use in today's video in the
+[11:12] description below. But with that
+[11:13] thought, guys, thank you guys so much
+[11:14] for watching. Make sure you go ahead and
+[11:15] take a look at the second channel, join
+[11:17] the newsletter, join the Discord, follow
+[11:19] me on Twitter, and lastly, make sure you
+[11:20] guys subscribe, turn on notification
+[11:22] bell, like this video, and please take a
+[11:23] look at our previous videos so that you
+[11:25] can stay up to date with the latest AI
+[11:27] news. But with that thought, guys, have
+[11:28] an amazing day, spread positivity, and
+[11:30] I'll see you guys really shortly. He
+[11:31] suffers.

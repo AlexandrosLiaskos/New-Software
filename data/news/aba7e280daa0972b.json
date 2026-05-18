@@ -1,0 +1,24 @@
+{
+  "uid": "aba7e280daa0972b",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "release",
+  "title": "Hermes proxy: route one subscription across coding agents",
+  "summary": "A local OpenAI-compatible proxy in Hermes 0.14 lets a single Claude/ChatGPT/Grok subscription drive any compatible coding agent without separate API keys — runs as a local host endpoint authenticated by the user's existing plan.",
+  "source_video_uid": "d60e6b620236ae95",
+  "source_video_id": "uZIijUyMT20",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [],
+  "tags": [
+    "proxy",
+    "openai-compatible",
+    "nous-research"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/NousResearch/hermes-agent",
+    "notes": "Ships as part of Hermes Agent 0.14 — exposes a local OpenAI-compatible endpoint backed by the user's chat subscription."
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

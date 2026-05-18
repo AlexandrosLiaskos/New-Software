@@ -1,0 +1,47 @@
+{
+  "uid": "4fb57d18d58b94fa",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "release",
+  "title": "Mistral Vibe: open-source terminal coding agent",
+  "summary": "Mistral's open-source terminal-native coding agent — async tasks, sub-agents, slash-command skills, multi-choice clarification, IDE plugins (VS Code, JetBrains), bring-your-own-key, and a paid tier on Le Chat Pro at USD 14.99/month with student discount. Powered by Devstral, Codestral, and Codestral Embed.",
+  "source_video_uid": "5b7177ee266d84fd",
+  "source_video_id": "WxjviB1pJbk",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://mistral.ai/",
+    "https://chat.mistral.ai/"
+  ],
+  "tags": [
+    "mistral",
+    "cli",
+    "coding-agent",
+    "open-source"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://mistral.ai/news/devstral-2-vibe-cli",
+    "repo_url": "https://github.com/mistralai/mistral-vibe",
+    "license": "Apache-2.0",
+    "notes": "Launched late January 2026 alongside Devstral 2; in 2026 the model under the hood was swapped to Mistral Medium 3.5. ACP-compatible for IDE integration.",
+    "web_findings": [
+      {
+        "title": "Introducing Devstral 2 and Mistral Vibe CLI — Mistral AI",
+        "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+        "snippet": "Native CLI built for Devstral; explores, modifies, and executes changes across a codebase from natural language."
+      },
+      {
+        "title": "mistralai/mistral-vibe — GitHub",
+        "url": "https://github.com/mistralai/mistral-vibe",
+        "snippet": "Minimal CLI coding agent by Mistral. Apache-2.0."
+      },
+      {
+        "title": "Remote agents in Vibe — Mistral AI",
+        "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+        "snippet": "Adds remote agents and swaps in Mistral Medium 3.5."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

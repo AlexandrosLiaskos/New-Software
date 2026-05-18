@@ -1,0 +1,26 @@
+[
+  {
+    "__class__": "Channel",
+    "uid": "channel:UC2WmuBuFq6gL08QYG-JjXKw",
+    "created_at": "2026-05-18T00:00:00+00:00",
+    "handle": "intheworldofai",
+    "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+    "title": "In the World of AI"
+  },
+  {
+    "__class__": "Channel",
+    "uid": "channel:UC1weYqfDgX0ALlNOSzcyblQ",
+    "created_at": "2026-05-18T00:00:00+00:00",
+    "handle": "ManuAGI",
+    "channel_id": "UC1weYqfDgX0ALlNOSzcyblQ",
+    "title": "Manu AGI"
+  },
+  {
+    "__class__": "Channel",
+    "uid": "channel:UCsBjURrPoezykLs9EqgamOA",
+    "created_at": "2026-05-18T00:00:00+00:00",
+    "handle": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "title": "Fireship"
+  }
+]

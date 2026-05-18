@@ -1,0 +1,32 @@
+{
+  "uid": "ef5a68781fd5fa43",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "release",
+  "title": "pnpm 11 ships supply-chain mitigations by default",
+  "summary": "pnpm 11 enables three defaults that block this class of attack: minimumReleaseAge refuses packages younger than 24 hours, blockExoticSubdependencies refuses non-registry transitive deps, and approvedBuilds disables install scripts unless whitelisted.",
+  "source_video_uid": "912b42c924151c15",
+  "source_video_id": "gwTQLZSIlsU",
+  "source_channel_handle": "Fireship",
+  "timestamp_in_video": "",
+  "links": [
+    "https://pnpm.io/"
+  ],
+  "tags": [
+    "pnpm",
+    "package-manager",
+    "security"
+  ],
+  "research_status": "researched",
+  "research": {
+    "homepage": "https://pnpm.io/",
+    "web_findings": [
+      {
+        "title": "pnpm — Fast, disk space efficient package manager",
+        "url": "https://pnpm.io/",
+        "snippet": "minimumReleaseAge, blockExoticSubdependencies and approved-builds are documented as defaults from v11."
+      }
+    ]
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}

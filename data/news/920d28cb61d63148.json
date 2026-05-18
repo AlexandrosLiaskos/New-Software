@@ -1,0 +1,30 @@
+{
+  "uid": "920d28cb61d63148",
+  "created_at": "2026-05-18T09:56:54+00:00",
+  "category": "repo",
+  "title": "Telegraf: plugin-driven metrics collection agent",
+  "summary": "InfluxData's open-source agent for collecting metrics, logs, and events through a large plugin ecosystem, forwarding to time-series databases and observability platforms.",
+  "source_video_uid": "e9b87ebf0400c5ec",
+  "source_video_id": "CtxB7U0EVhg",
+  "source_channel_handle": "ManuAGI",
+  "timestamp_in_video": "",
+  "links": [
+    "https://github.com/influxdata/telegraf"
+  ],
+  "tags": [
+    "observability",
+    "metrics",
+    "go"
+  ],
+  "research_status": "researched",
+  "research": {
+    "repo_url": "https://github.com/influxdata/telegraf",
+    "homepage": "https://influxdata.com/telegraf",
+    "stars": 17517,
+    "forks": 5807,
+    "language": "Go",
+    "license": "MIT"
+  },
+  "research_date": "2026-05-18T09:59:34+00:00",
+  "__class__": "SoftwareNews"
+}
