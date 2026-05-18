@@ -133,11 +133,6 @@ def render_index(items: list[SoftwareNews], videos: dict[str, Video]) -> str:
     <div><span class="label">Sources</span><span class="value">03 channels</span></div>
   </div>
 </div>
-<div class="section-head">
-  <h2><em>The Archive</em></h2>
-  <div class="rule"></div>
-</div>
-
 <div class="toolbar">
   <div class="search">
     <input id="q" type="search" placeholder="Search titles, summaries, tags, repositories…" autocomplete="off">
