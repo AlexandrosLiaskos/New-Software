@@ -6,8 +6,9 @@
 :root {
   --ink:        #1a1a1a;
   --paper:      #ffffff;
-  --grey-1:     #666666;
-  --grey-2:     #999999;
+  --voice:      #2e2e2e;   /* body-length editorial copy — readable but softer than ink */
+  --grey-1:     #666666;   /* labels, eyebrows, dates */
+  --grey-2:     #999999;   /* dividers, faint marks */
   --rule:       #1a1a1a;
   --accent-cool: #2a4a6a;
   --accent-warm: #8a4a2a;
@@ -87,9 +88,9 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
 }
 .lede {
   font-family: var(--serif);
-  font-style: italic;
   font-size: 18px;
-  color: var(--grey-1);
+  line-height: 1.55;
+  color: var(--voice);
   max-width: 56ch;
   margin: 20px auto 0;
 }
@@ -176,10 +177,10 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
 .news-row .title a:hover { color: var(--accent-cool); }
 .news-row .summary {
   font-family: var(--serif);
-  font-style: italic;
-  color: var(--grey-1);
-  font-size: 15px;
-  margin-top: 4px;
+  color: var(--voice);
+  font-size: 15.5px;
+  line-height: 1.55;
+  margin-top: 6px;
 }
 .news-row .date {
   font-family: var(--mono);
@@ -206,9 +207,9 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
 }
 .detail .summary {
   font-family: var(--serif);
-  font-style: italic;
   font-size: 19px;
-  color: var(--grey-1);
+  line-height: 1.55;
+  color: var(--voice);
   max-width: 60ch;
   margin: 18px 0 36px;
   padding-bottom: 24px;
@@ -252,10 +253,10 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
 }
 .findings .item .s {
   font-family: var(--serif);
-  font-style: italic;
-  color: var(--grey-1);
-  font-size: 14px;
-  margin-top: 4px;
+  color: var(--voice);
+  font-size: 14.5px;
+  line-height: 1.55;
+  margin-top: 6px;
 }
 .findings .item .u {
   font-family: var(--mono);
@@ -305,8 +306,7 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
 
 .empty {
   font-family: var(--serif);
-  font-style: italic;
-  color: var(--grey-1);
+  color: var(--voice);
   text-align: center;
   padding: 80px 0;
 }
@@ -335,7 +335,6 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
   flex: 1;
   font-family: var(--serif);
   font-size: 20px;
-  font-style: italic;
   color: var(--ink);
   background: transparent;
   border: none;
