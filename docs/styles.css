@@ -62,17 +62,19 @@ a:hover { color: var(--accent-cool); border-color: var(--accent-cool); }
   height: 1px;
 }
 .masthead .title {
-  font-family: var(--serif);
-  font-size: 44px;
-  font-weight: 500;
-  letter-spacing: 0.01em;
+  font-family: var(--script);
+  font-size: 84px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0;
   text-align: center;
   white-space: nowrap;
+  color: var(--ink);
+  padding: 0 24px;
 }
-.masthead .title em {
-  font-style: italic;
-  font-weight: 400;
-  color: var(--grey-1);
+.masthead .title em { font-style: normal; }   /* script face is already cursive */
+@media (max-width: 640px) {
+  .masthead .title { font-size: 56px; padding: 0 12px; }
 }
 .frontispiece {
   text-align: center;

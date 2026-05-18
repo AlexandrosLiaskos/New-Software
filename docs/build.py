@@ -132,7 +132,6 @@ def render_index(items: list[SoftwareNews], videos: dict[str, Video]) -> str:
     <div class="div"></div>
     <div><span class="label">Sources</span><span class="value">03 channels</span></div>
   </div>
-  <div class="flourish">New Software</div>
 </div>
 <div class="section-head">
   <h2><em>The Archive</em></h2>
